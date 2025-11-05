@@ -8,8 +8,11 @@ import theme from "./app/syntax-theme.json";
 function getTextContent(node: ReactNode): string {
   if (typeof node === "string") return node;
   if (Array.isArray(node)) return node.map(getTextContent).join("");
-  if (React.isValidElement(node) && node.props.children) {
-    return getTextContent(node.props.children);
+  if (React.isValidElement(node)) {
+    const element = node as React.ReactElement<{ children?: ReactNode }>;
+    if (element.props.children) {
+      return getTextContent(element.props.children);
+    }
   }
   return "";
 }

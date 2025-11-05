@@ -10,11 +10,14 @@
     "dev:no-turbo": "next dev"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.9",
     "@mdx-js/loader": "^3.1.1",
     "@mdx-js/react": "^3.1.1",
     "@next/mdx": "^16.0.1",
     "@types/mdx": "^2.0.13",
+    "clsx": "^2.1.1",
     "geist": "^1.5.1",
+    "input-otp": "^1.4.2",
     "next": "16.0.1",
     "node-webvtt": "^1.9.4",
     "react": "19.2.0",

@@ -66,9 +66,11 @@ export default async function InterviewPage(props: Props) {
       </div>
       {nextInterview && (
         <div className="mt-12">
-          <NextPageLink href={`/interviews/${nextInterview.slug}`}>
-            Next interview: {nextInterview.name}
-          </NextPageLink>
+          <NextPageLink 
+            title="Next Interview"
+            description={nextInterview.name}
+            href={`/interviews/${nextInterview.slug}`}
+          />
         </div>
       )}
     </CenteredPageLayout>

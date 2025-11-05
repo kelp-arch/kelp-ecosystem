@@ -1,4 +1,4 @@
-import { Breadcrumbs } from "@/components/breadcrumbs";
+import { Breadcrumb, Breadcrumbs, BreadcrumbSeparator } from "@/components/breadcrumbs";
 import { CenteredPageLayout } from "@/components/centered-layout";
 import { NextPageLink } from "@/components/next-page-link";
 import { Video } from "@/components/video-player";
@@ -45,12 +45,11 @@ export default async function InterviewPage(props: Props) {
   return (
     <CenteredPageLayout
       breadcrumbs={
-        <Breadcrumbs
-          links={[
-            { href: "/interviews", label: "Interviews" },
-            { label: interview.name },
-          ]}
-        />
+        <Breadcrumbs>
+          <Breadcrumb href="/interviews">Interviews</Breadcrumb>
+          <BreadcrumbSeparator />
+          <Breadcrumb>{interview.name}</Breadcrumb>
+        </Breadcrumbs>
       }
     >
       <div className="mt-6">

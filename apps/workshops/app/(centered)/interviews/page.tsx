@@ -1,21 +1,16 @@
-import {
-  Breadcrumb,
-  BreadcrumbHome,
-  Breadcrumbs,
-  BreadcrumbSeparator,
-} from "@/components/breadcrumbs";
+import { Breadcrumb, Breadcrumbs, BreadcrumbSeparator, BreadcrumbHome } from "@/components/breadcrumbs";
 import { CenteredPageLayout } from "@/components/centered-layout";
 import { VideoCard } from "@/components/video-card";
 import { getInterviews } from "@/data/interviews";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Interviews - Compass",
-  description: "Explore interviews with industry experts and thought leaders.",
+  title: "Interviews",
+  description: "Watch interviews with industry experts",
 };
 
 export default async function InterviewsPage() {
-  let interviews = await getInterviews();
+  const interviews = await getInterviews();
 
   return (
     <CenteredPageLayout
@@ -27,22 +22,20 @@ export default async function InterviewsPage() {
         </Breadcrumbs>
       }
     >
-      <h1 className="mt-10 text-3xl/10 font-normal tracking-tight text-gray-950 sm:mt-14 dark:text-white">
-        Interviews
-      </h1>
-      <p className="mt-6 max-w-xl text-base/7 text-gray-700 dark:text-gray-400">
-        Explore interviews with industry experts and thought leaders.
-      </p>
-      <div className="mt-16 grid grid-cols-1 gap-x-8 gap-y-12 pb-32 sm:grid-cols-2 xl:grid-cols-3">
+      <div className="mt-6">
+        <h1 className="text-4xl font-semibold">Interviews</h1>
+        <p className="mt-2 text-gray-700 dark:text-gray-400">
+          Watch in-depth conversations with industry experts
+        </p>
+      </div>
+      <div className="mt-12 grid gap-8 sm:grid-cols-2">
         {interviews.map((interview) => (
           <VideoCard
-            key={interview.id}
-            url={`/interviews/${interview.id}`}
-            thumbnailUrl={interview.video.thumbnail}
-            videoUrl={interview.video.sd}
-            duration={interview.video.duration}
-            title={interview.name}
-            subtitle={interview.subtitle}
+            key={interview.slug}
+            href={`/interviews/${interview.slug}`}
+            thumbnail={interview.thumbnail}
+            title={interview.title}
+            description={`${interview.role} • ${interview.duration}`}
           />
         ))}
       </div>

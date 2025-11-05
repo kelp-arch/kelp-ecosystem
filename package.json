@@ -1,0 +1,15 @@
+{
+  "name": "kelp-ecosystem",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:main": "npm run dev --workspace=apps/main",
+    "dev:workshops": "npm run dev:no-turbo --workspace=apps/workshops",
+    "dev:all": "npm run dev --workspaces --if-present",
+    "build:all": "npm run build --workspaces --if-present"
+  }
+}

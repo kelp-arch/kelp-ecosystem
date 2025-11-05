@@ -81,7 +81,7 @@ export async function getInterview(slug: string): Promise<Interview | undefined>
 export async function getInterviewTranscript(slug: string): Promise<string> {
   const vttPath = path.join(process.cwd(), "data", "interviews", `${slug}.vtt`);
   const vttContent = await fs.readFile(vttPath, "utf-8");
-  const parsed = webvtt.parse(vttContent, { strict: false });
+  const parsed = webvtt.parse(vttContent);
 
-  return parsed.cues.map((cue) => cue.text).join(" ");
+  return parsed.cues.map((cue: any) => cue.text).join(" ");
 }

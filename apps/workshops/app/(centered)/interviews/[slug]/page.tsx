@@ -2,7 +2,7 @@ import { Breadcrumbs } from "@/components/breadcrumbs";
 import { CenteredPageLayout } from "@/components/centered-layout";
 import { NextPageLink } from "@/components/next-page-link";
 import { Video } from "@/components/video-player";
-import { getInterview, getInterviewTranscript, interviews } from "@/data/interviews";
+import { getInterview, interviews } from "@/data/interviews";
 import { ClockIcon } from "@/icons/clock-icon";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
@@ -43,13 +43,16 @@ export default async function InterviewPage(props: Props) {
   const nextInterview = interviews[currentIndex + 1];
 
   return (
-    <CenteredPageLayout>
-      <Breadcrumbs
-        links={[
-          { href: "/interviews", label: "Interviews" },
-          { label: interview.name },
-        ]}
-      />
+    <CenteredPageLayout
+      breadcrumbs={
+        <Breadcrumbs
+          links={[
+            { href: "/interviews", label: "Interviews" },
+            { label: interview.name },
+          ]}
+        />
+      }
+    >
       <div className="mt-6">
         <h1 className="text-4xl font-semibold">{interview.title}</h1>
         <div className="mt-1 flex items-center gap-2 text-sm text-gray-500">

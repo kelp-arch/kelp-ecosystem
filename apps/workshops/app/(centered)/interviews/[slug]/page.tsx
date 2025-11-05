@@ -1,7 +1,7 @@
 import { Breadcrumbs } from "@/components/breadcrumbs";
 import { CenteredPageLayout } from "@/components/centered-layout";
 import { NextPageLink } from "@/components/next-page-link";
-import VideoPlayer from "@/components/video-player";
+import { Video } from "@/components/video-player";
 import { getInterview, getInterviewTranscript, interviews } from "@/data/interviews";
 import { ClockIcon } from "@/icons/clock-icon";
 import type { Metadata } from "next";
@@ -34,7 +34,6 @@ export async function generateMetadata(props: Props): Promise<Metadata> {
 export default async function InterviewPage(props: Props) {
   const params = await props.params;
   const interview = await getInterview(params.slug);
-  const transcript = await getInterviewTranscript(params.slug);
 
   if (!interview) {
     notFound();
@@ -61,7 +60,7 @@ export default async function InterviewPage(props: Props) {
         </div>
       </div>
       <div className="mt-10">
-        <VideoPlayer src={interview.src} transcript={transcript} />
+        <Video src={interview.src} id="interview-video" />
       </div>
       {nextInterview && (
         <div className="mt-12">

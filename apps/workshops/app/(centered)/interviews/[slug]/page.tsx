@@ -1,7 +1,7 @@
 import { Breadcrumbs } from "@/components/breadcrumbs";
 import { CenteredPageLayout } from "@/components/centered-layout";
 import { NextPageLink } from "@/components/next-page-link";
-import { VideoPlayer } from "@/components/video-player";
+import VideoPlayer from "@/components/video-player";
 import { getInterview, getInterviewTranscript, interviews } from "@/data/interviews";
 import { ClockIcon } from "@/icons/clock-icon";
 import type { Metadata } from "next";

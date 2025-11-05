@@ -32,10 +32,12 @@ export default async function InterviewsPage() {
         {interviews.map((interview) => (
           <VideoCard
             key={interview.slug}
-            href={`/interviews/${interview.slug}`}
-            thumbnail={interview.thumbnail}
-            title={interview.title}
-            description={`${interview.role} • ${interview.duration}`}
+            url={`/interviews/${interview.slug}`}
+            thumbnailUrl={interview.thumbnail}
+            videoUrl={interview.src}
+            duration={0}
+            title={interview.name}
+            subtitle={interview.role}
           />
         ))}
       </div>

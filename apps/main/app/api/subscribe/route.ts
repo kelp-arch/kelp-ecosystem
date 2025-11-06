@@ -11,8 +11,9 @@ export async function POST(request: Request) {
       )
     }
 
-    const response = await fetch(
-      'https://a.klaviyo.com/api/profile-subscription-bulk-create-jobs/',
+    // First, create or get the profile
+    const profileResponse = await fetch(
+      'https://a.klaviyo.com/api/profiles/',
       {
         method: 'POST',
         headers: {
@@ -22,27 +23,53 @@ export async function POST(request: Request) {
         },
         body: JSON.stringify({
           data: {
-            type: 'profile-subscription-bulk-create-job',
+            type: 'profile',
             attributes: {
-              list_id: process.env.KLAVIYO_LIST_ID,
-              subscriptions: [
-                {
-                  email: email,
-                  channels: {
-                    email: ['MARKETING'],
-                  },
-                },
-              ],
+              email: email,
             },
           },
         }),
       }
     )
 
-    if (!response.ok) {
-      throw new Error('Klaviyo API error')
+    const profileData = await profileResponse.json()
+    
+    if (!profileResponse.ok && profileResponse.status !== 409) {
+      console.error('Profile creation error:', JSON.stringify(profileData, null, 2))
+      throw new Error(`Profile API error: ${profileResponse.status}`)
     }
 
+    // Get profile ID (either from creation or existing profile)
+    const profileId = profileData.data?.id || profileData.errors?.[0]?.meta?.duplicate_profile_id
+
+    // Subscribe to list
+    const subscribeResponse = await fetch(
+      `https://a.klaviyo.com/api/lists/${process.env.KLAVIYO_LIST_ID}/relationships/profiles/`,
+      {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Klaviyo-API-Key ${process.env.KLAVIYO_PRIVATE_API_KEY}`,
+          revision: '2024-10-15',
+        },
+        body: JSON.stringify({
+          data: [
+            {
+              type: 'profile',
+              id: profileId,
+            },
+          ],
+        }),
+      }
+    )
+
+    if (!subscribeResponse.ok) {
+      const subscribeData = await subscribeResponse.json()
+      console.error('Subscribe error:', JSON.stringify(subscribeData, null, 2))
+      throw new Error(`Subscribe API error: ${subscribeResponse.status}`)
+    }
+
+    console.log('Klaviyo success!')
     return NextResponse.json({ success: true })
   } catch (error) {
     console.error('Klaviyo subscription error:', error)

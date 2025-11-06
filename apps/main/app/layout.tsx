@@ -1,5 +1,7 @@
 import '@/styles/tailwind.css'
 import type { Metadata } from 'next'
+import Script from 'next/script'
+import { MetaPixel } from '@/components/meta-pixel'
 
 export const metadata: Metadata = {
   title: {
@@ -8,7 +10,7 @@ export const metadata: Metadata = {
   },
 }
 
-export default async function RootLayout({
+export default function RootLayout({
   children,
 }: {
   children: React.ReactNode
@@ -16,18 +18,35 @@ export default async function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link
-          rel="stylesheet"
-          href="https://api.fontshare.com/css?f%5B%5D=switzer@400,500,600,700&amp;display=swap"
+        <Script
+          id="meta-pixel"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              !function(f,b,e,v,n,t,s)
+              {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+              n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+              if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+              n.queue=[];t=b.createElement(e);t.async=!0;
+              t.src=v;s=b.getElementsByTagName(e)[0];
+              s.parentNode.insertBefore(t,s)}(window, document,'script',
+              'https://connect.facebook.net/en_US/fbevents.js');
+              fbq('init', '1609602343355196');
+              fbq('track', 'PageView');
+            `,
+          }}
         />
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="The Kelp Institute Blog"
-          href="/blog/feed.xml"
-        />
+        <noscript>
+          <img
+            height="1"
+            width="1"
+            style={{ display: 'none' }}
+            src="https://www.facebook.com/tr?id=1609602343355196&ev=PageView&noscript=1"
+          />
+        </noscript>
       </head>
-      <body className="text-gray-950 antialiased">
+      <body>
+        <MetaPixel />
         {children}
       </body>
     </html>

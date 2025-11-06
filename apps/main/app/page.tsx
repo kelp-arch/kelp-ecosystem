@@ -15,7 +15,9 @@ import { Screenshot } from '@/components/screenshot'
 import { Testimonials } from '@/components/testimonials'
 import { Heading, Subheading } from '@/components/text'
 import { ChevronRightIcon } from '@heroicons/react/16/solid'
+import { EmailCapture } from '@/components/email-capture'
 import type { Metadata } from 'next'
+
 
 export const metadata: Metadata = {
   description:
@@ -70,6 +72,26 @@ function FeatureSection() {
           src="/screenshots/app.png"
           className="mt-16 h-144 sm:h-auto sm:w-304"
         />
+      </Container>
+    </div>
+  )
+}
+
+function NewsletterSection() {
+  return (
+    <div className="relative">
+      <Container className="relative py-24">
+        <div className="mx-auto max-w-2xl text-center">
+          <h2 className="text-4xl font-semibold text-gray-950">
+            Stay Updated
+          </h2>
+          <p className="mt-4 text-lg text-gray-700">
+            Get the latest insights on addiction recovery and the Kelp framework delivered to your inbox.
+          </p>
+          <div className="mx-auto mt-8 max-w-md"> 
+            <EmailCapture />
+          </div>
+        </div>
       </Container>
     </div>
   )
@@ -200,6 +222,7 @@ export default function Home() {
         <div className="bg-linear-to-b from-white from-50% to-gray-100 py-32">
           <FeatureSection />
           <BentoSection />
+          <NewsletterSection /> 
         </div>
         <DarkBentoSection />
       </main>

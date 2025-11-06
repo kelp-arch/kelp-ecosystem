@@ -4,6 +4,14 @@
   --font-sans: Switzer, system-ui, sans-serif;
 
   --radius-4xl: 2rem;
+
+    /* Kelp Brand Colors */
+  --color-kelp-green: #2d5f4f;
+  --color-kelp-teal: #4a9b8e;
+  --color-kelp-ocean: #1e4d5c;
+  --color-kelp-sand: #e8dcc4;
+  --color-kelp-coral: #d97757;
+  
 }
 
 @keyframes move-x {

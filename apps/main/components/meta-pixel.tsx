@@ -2,8 +2,9 @@
 
 import { useEffect } from 'react'
 import { usePathname, useSearchParams } from 'next/navigation'
+import { Suspense } from 'react'
 
-export function MetaPixel() {
+function MetaPixelContent() {
   const pathname = usePathname()
   const searchParams = useSearchParams()
 
@@ -14,6 +15,14 @@ export function MetaPixel() {
   }, [pathname, searchParams])
 
   return null
+}
+
+export function MetaPixel() {
+  return (
+    <Suspense fallback={null}>
+      <MetaPixelContent />
+    </Suspense>
+  )
 }
 
 declare global {

@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import readingTime from 'reading-time'
+import { compileMDX } from 'next-mdx-remote/rsc'
 
 const postsDirectory = path.join(process.cwd(), 'content/blog')
 
@@ -11,8 +12,11 @@ export interface BlogPost {
   date: string
   excerpt: string
   author: string
-  content: string
   readingTime: string
+}
+
+export interface BlogPostWithContent extends BlogPost {
+  content: React.ReactElement
 }
 
 export function getAllPosts(): BlogPost[] {
@@ -32,16 +36,35 @@ export function getAllPosts(): BlogPost[] {
         date: data.date,
         excerpt: data.excerpt,
         author: data.author,
-        content,
         readingTime: stats.text,
       }
     })
 
-  // Sort posts by date
   return allPosts.sort((a, b) => (a.date < b.date ? 1 : -1))
 }
 
-export function getPostBySlug(slug: string): BlogPost | undefined {
-  const allPosts = getAllPosts()
-  return allPosts.find((post) => post.slug === slug)
+export async function getPostBySlug(slug: string): Promise<BlogPostWithContent | undefined> {
+  try {
+    const fullPath = path.join(postsDirectory, `${slug}.mdx`)
+    const fileContents = fs.readFileSync(fullPath, 'utf8')
+    const { data, content } = matter(fileContents)
+    const stats = readingTime(content)
+
+    const { content: mdxContent } = await compileMDX({
+      source: content,
+      options: { parseFrontmatter: false },
+    })
+
+    return {
+      slug,
+      title: data.title,
+      date: data.date,
+      excerpt: data.excerpt,
+      author: data.author,
+      readingTime: stats.text,
+      content: mdxContent,
+    }
+  } catch (error) {
+    return undefined
+  }
 }

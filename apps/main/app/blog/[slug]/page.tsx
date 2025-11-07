@@ -5,8 +5,6 @@ import { Navbar } from '@/components/navbar'
 import { getAllPosts, getPostBySlug } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
-import { MDXRemote } from 'next-mdx-remote/rsc'
-import { Suspense } from 'react'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -21,7 +19,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata(props: Props): Promise<Metadata> {
   const params = await props.params
-  const post = getPostBySlug(params.slug)
+  const post = await getPostBySlug(params.slug)
 
   if (!post) {
     return {}
@@ -35,7 +33,7 @@ export async function generateMetadata(props: Props): Promise<Metadata> {
 
 export default async function BlogPostPage(props: Props) {
   const params = await props.params
-  const post = getPostBySlug(params.slug)
+  const post = await getPostBySlug(params.slug)
 
   if (!post) {
     notFound()
@@ -67,12 +65,9 @@ export default async function BlogPostPage(props: Props) {
               </div>
             </header>
 
-            <Suspense fallback={<div>Loading...</div>}>
-              <div className="prose prose-lg prose-gray mt-12 max-w-3xl">
-                {/* <MDXRemote source={post.content} /> */}
-                <p>Test content - MDXRemote temporarily disabled</p>
-              </div>
-            </Suspense>
+            <div className="prose prose-lg prose-gray mt-12 max-w-3xl">
+              {post.content}
+            </div>
           </article>
         </Container>
         <Footer />

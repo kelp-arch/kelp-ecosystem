@@ -1,0 +1,292 @@
+# Generated anchors for cluster: EXI-VAL-ACT
+# Timestamp: 20251104_153133
+
+anchors:
+- id: exi-val-act-com-pur
+  label: Committed Action Execution
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Value-guided behavior
+  - Behavioral commitment
+  - Values-based action taking
+  scope: Represents the consistent execution of value-guided behaviors despite internal obstacles, discomfort, or competing impulses. Encompasses the volitional choice to act in accordance with identified values and the follow-through on value-based commitments.
+  parent_scope_inheritance: This anchor specifies the behavioral execution component of value-action congruence, focusing on the actual taking of committed steps toward values rather than just intending or planning.
+  polarity_expression: Manifests as consistent value-guided action and follow-through on commitments versus chronic avoidance of value-consistent behaviors and pattern of broken commitments.
+  cross_domain_resonance: Resonates with psy-mot-app-ada (approach motivation), phy-rew-inc-reg (incentive salience), and soc-rol-eng-coh (role engagement) in supporting goal-directed behavior.
+  academic_description: Committed action represents the behavioral activation component of psychological flexibility, involving pattern of value-guided behavior that persists despite psychological barriers. Research demonstrates that committed action mediates the relationship between values clarification and wellbeing outcomes. Studies show individuals who engage in regular value-consistent behaviors report higher life satisfaction and lower psychological distress. In addiction contexts, committed action often requires acting opposite to urges and cravings, choosing long-term values over immediate relief.
+  clinical_description: Clinical work focuses on helping clients take concrete behavioral steps aligned with their values. Treatment uses committed action plans that break down value-based goals into specific, measurable actions. Therapists help clients identify the smallest possible step toward a value and build from there. Common obstacles include perfectionism, fear of failure, and waiting to feel motivated. Interventions include behavioral activation, implementation intentions, and accountability structures. Success is measured by frequency of value-consistent actions rather than perfection.
+  lay_description: Committed action means actually doing what matters to you, not just thinking about it or planning it. It's following through on your values even when you don't feel like it, when you're scared, or when your mind tells you it's too hard. Like showing up for your kids even when exhausted, or going to that recovery meeting despite anxiety.
+  foundational_themes: Personal responsibility, behavioral integrity, value expression through action
+  experiential_processes: Choosing value-based behavior, persisting through discomfort, following through on commitments
+  personal_relevance: Determines whether life reflects stated values or remains disconnected from what matters most
+- id: exi-val-act-com-dir
+  label: Behavioral Avoidance Pattern
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Chronic value avoidance
+  - Behavioral paralysis
+  - Action-value disconnect
+  scope: Represents persistent avoidance of value-consistent behaviors, characterized by chronic procrastination, broken commitments, and replacement of meaningful activities with escapist behaviors including substance use.
+  parent_scope_inheritance: This anchor specifies the behavioral avoidance component that maintains value-behavior discrepancy, focusing on the failure to execute value-based actions despite awareness of their importance.
+  polarity_expression: Manifests as chronic procrastination on value-related tasks, pattern of broken commitments, and substance use or other avoidance behaviors replacing value-based activities.
+  cross_domain_resonance: Resonates with psy-mot-avo-mal (avoidance motivation), phy-str-avo-dys (stress avoidance), and soc-rol-dis-fra (role disengagement) in maintaining behavioral inertia.
+  academic_description: Behavioral avoidance in value contexts represents a key maintaining factor in psychological distress and addiction. Research shows chronic discrepancy between values and actions predicts depression, anxiety, and substance use severity. Avoidance patterns become self-reinforcing through negative reinforcement - escaping discomfort provides immediate relief while preventing value-based rewards. Studies indicate behavioral avoidance mediates the relationship between psychological inflexibility and poor life outcomes.
+  clinical_description: Clients present with extensive histories of unfulfilled intentions and broken promises to self and others. Assessment reveals patterns of starting value-based activities then abandoning them when discomfort arises. Treatment focuses on identifying avoidance patterns, understanding their function, and gradually building approach behaviors. Interventions include behavioral activation with anti-avoidance focus, graded exposure to value-based actions, and contingency management. Therapists help clients recognize how short-term avoidance creates long-term suffering.
+  lay_description: This is when you know what you should do but keep putting it off or finding excuses. You might plan to call your family, start exercising, or look for work, but end up using substances or zoning out instead. Each avoided action makes the next one harder, creating a cycle where life moves further from what matters to you.
+  foundational_themes: Existential avoidance, value betrayal, life paralysis
+  experiential_processes: Escaping discomfort through inaction, choosing immediate relief over meaning, breaking commitments to self
+  personal_relevance: Creates growing gap between intended life and lived reality, accumulating regret and self-disappointment
+- id: exi-val-act-flx-pur
+  label: Values-Based Flexibility
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Psychological flexibility for values
+  - Acceptance-based action
+  - Flexible persistence
+  scope: Encompasses the psychological flexibility to remain open to difficult internal experiences while pursuing values, including acceptance of discomfort, cognitive defusion from limiting thoughts, and present-moment awareness during value-based action.
+  parent_scope_inheritance: This anchor specifies the psychological flexibility component that enables value-action congruence by allowing individuals to act on values despite psychological barriers.
+  polarity_expression: Manifests as willingness to experience discomfort for values and flexible response to obstacles versus rigid avoidance of any discomfort and fusion with limiting thoughts.
+  cross_domain_resonance: Resonates with psy-cog-fle-ada (cognitive flexibility), psy-emo-acc-ada (emotional acceptance), and psy-min-ope-ada (psychological openness) in supporting adaptive functioning.
+  academic_description: Psychological flexibility represents the ability to contact the present moment fully while persisting in value-based behavior despite psychological obstacles. ACT research demonstrates psychological flexibility mediates positive therapy outcomes across disorders. Components include acceptance of internal experiences, cognitive defusion from thoughts, and maintained values focus despite discomfort. Studies show higher psychological flexibility predicts better addiction recovery outcomes, increased wellbeing, and stronger value-behavior congruence.
+  clinical_description: Treatment develops clients' capacity to have difficult thoughts and feelings while still taking value-based action. Core interventions include acceptance exercises teaching willingness to experience discomfort, defusion techniques helping thoughts lose their literal power, and mindfulness practices maintaining present-moment awareness. Therapists use metaphors like 'passengers on the bus' to illustrate moving toward values while difficult thoughts and feelings come along. Success involves increased willingness rather than decreased discomfort.
+  lay_description: This is learning you can feel anxious AND still make that phone call, have cravings AND still choose recovery, think you'll fail AND still try. It's like learning to carry difficult feelings with you as you move toward what matters, rather than waiting for them to go away first. You become flexible enough to bend without breaking.
+  foundational_themes: Acceptance of human condition, willingness to suffer for meaning, psychological openness
+  experiential_processes: Allowing discomfort while acting, observing thoughts without believing them, staying present during difficulty
+  personal_relevance: Enables living fully despite internal struggles, pursuing meaning regardless of mental state
+- id: exi-val-act-flx-dir
+  label: Psychological Rigidity Trap
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Experiential avoidance dominance
+  - Cognitive fusion paralysis
+  - Inflexibility pattern
+  scope: Represents psychological inflexibility that prevents value-based action, characterized by experiential avoidance, cognitive fusion with limiting beliefs, and rigid behavioral patterns that prioritize comfort over values.
+  parent_scope_inheritance: This anchor specifies the psychological rigidity that maintains value-behavior discrepancy by creating inflexible avoidance of internal experiences that might arise during value-based action.
+  polarity_expression: Manifests as chronic avoidance of any discomfort even at cost to values, fusion with thoughts as literal truth, and rigid adherence to comfort-seeking patterns.
+  cross_domain_resonance: Resonates with psy-cog-rig-mal (cognitive rigidity), psy-emo-avo-mal (emotional avoidance), and psy-def-den-mal (psychological denial) in maintaining dysfunction.
+  academic_description: 'Psychological inflexibility represents a transdiagnostic process underlying multiple forms of psychopathology including addiction. Research identifies six core processes: experiential avoidance, cognitive fusion, past/future focus, attachment to conceptualized self, values disconnection, and behavioral inaction. Studies show psychological inflexibility predicts substance use severity, treatment dropout, and relapse. Rigid avoidance patterns maintain addiction by preventing contact with natural reinforcers available through value-based living.'
+  clinical_description: Clients present with elaborate avoidance strategies preventing any psychological discomfort. They're fused with thoughts like 'I can't handle this' or 'I must feel good to act.' Assessment reveals rigid rules about when action is possible and extensive safety behaviors. Treatment targets increasing psychological flexibility through graduated exposure to avoided experiences while engaging in values. Therapists help clients recognize the cost of avoidance and develop willingness as an alternative to control.
+  lay_description: This is being so focused on avoiding discomfort that you can't do what matters. Your mind's rules become prison bars - 'I can't call until I feel confident,' 'I need to use to handle this feeling.' You become stuck in patterns of avoiding anything difficult, which means avoiding most of what makes life meaningful.
+  foundational_themes: Existential avoidance, meaning prevention, rigid self-protection
+  experiential_processes: Escaping all discomfort, believing every thought, losing present-moment contact
+  personal_relevance: Traps life in narrow comfort zone, preventing growth and meaning-making
+- id: exi-val-act-gap-pur
+  label: Congruence Awareness
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Value-behavior monitoring
+  - Alignment awareness
+  - Discrepancy recognition
+  scope: Represents clear, non-judgmental awareness of the relationship between personal values and actual behavior, including realistic recognition of alignment and misalignment that enables intentional adjustment.
+  parent_scope_inheritance: This anchor specifies the metacognitive awareness component of value-action congruence, focusing on the capacity to accurately monitor and recognize value-behavior relationships.
+  polarity_expression: Manifests as regular tracking of value-behavior alignment with non-judgmental awareness versus denial of discrepancies or overwhelming shame that prevents recognition.
+  cross_domain_resonance: Resonates with psy-sel-awa-ada (self-awareness), psy-cog-ins-ada (insight), and psy-min-obs-ada (mindful observation) in supporting self-monitoring.
+  academic_description: Metacognitive awareness of value-behavior congruence represents a critical factor in behavior change. Research shows individuals who accurately monitor their value-behavior alignment report higher wellbeing and greater behavior change success. Non-judgmental awareness prevents both denial and shame-based rumination, enabling productive response to discrepancies. Studies indicate awareness training increases value-consistent behavior and reduces psychological distress.
+  clinical_description: Treatment develops clients' ability to observe their behavior in relation to values without harsh judgment or minimization. The Matrix exercise helps map behaviors as toward/away from values. Daily values tracking builds awareness of patterns. Therapists help clients develop curious, compassionate observation rather than critical judgment. Common challenges include all-or-nothing thinking and shame spirals. Interventions focus on normalizing discrepancies while maintaining change focus.
+  lay_description: This is honestly seeing how your actions line up with what matters to you - not to beat yourself up, but to make adjustments. Like checking a GPS to see if you're on course, noticing when you've drifted without panicking. You can say 'I didn't call my kids this week like I value' without either making excuses or hating yourself.
+  foundational_themes: Self-honesty, conscious living, authentic self-assessment
+  experiential_processes: Observing behavior patterns, recognizing discrepancies, maintaining balanced perspective
+  personal_relevance: Enables course correction and intentional living through accurate self-knowledge
+- id: exi-val-act-gap-dir
+  label: Discrepancy Blindness
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Value-behavior denial
+  - Shame-based paralysis
+  - Discrepancy distortion
+  scope: Represents impaired awareness of value-behavior relationships through denial, minimization, or overwhelming shame that prevents accurate recognition and productive response to discrepancies.
+  parent_scope_inheritance: This anchor specifies the awareness dysfunction that maintains value-behavior discrepancy through either defensive denial or paralyzing shame about the gap.
+  polarity_expression: Manifests as minimization of value violations, overwhelming shame preventing action, or distorted perception of own behavior in relation to values.
+  cross_domain_resonance: Resonates with psy-def-den-mal (denial), psy-sel-dis-mal (self-deception), and psy-emo-sha-mal (toxic shame) in preventing accurate self-assessment.
+  academic_description: 'Impaired awareness of value-behavior discrepancies maintains addiction and psychological distress through two pathways: defensive denial that minimizes violations, and shame-based rumination that overwhelms coping capacity. Research shows both patterns predict poor treatment outcomes. Denial prevents recognition of need for change while shame creates paralysis. Studies indicate addressing awareness deficits through non-judgmental observation improves treatment engagement and outcomes.'
+  clinical_description: Clients present with either minimization ('It's not that bad') or catastrophic shame ('I'm worthless'). Both prevent productive response to value-behavior gaps. Assessment explores awareness patterns and their protective functions. Treatment uses motivational interviewing to develop discrepancy awareness without overwhelming defenses. For shame-prone clients, self-compassion work precedes awareness exercises. Therapists help develop 'wise mind' perspective that acknowledges reality without harsh judgment.
+  lay_description: This is either not seeing how far you've drifted from your values ('I'm doing fine') or being so overwhelmed by shame that you can't look at it. Like either ignoring your GPS completely or staring at how lost you are until you're too paralyzed to move. Both keep you stuck in patterns that don't match what matters to you.
+  foundational_themes: Self-deception, moral injury, existential bad faith
+  experiential_processes: Denying reality, drowning in shame, distorting self-perception
+  personal_relevance: Prevents honest self-assessment needed for meaningful change and growth
+- id: exi-val-act-bar-pur
+  label: Barrier Transcendence
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Obstacle navigation
+  - Values-based problem-solving
+  - Persistent adaptation
+  scope: Encompasses effective problem-solving and persistence when encountering obstacles to value-based behavior, including creative flexibility, resource mobilization, and maintained commitment despite setbacks.
+  parent_scope_inheritance: This anchor specifies the problem-solving and persistence component of value-action congruence, focusing on navigating barriers that arise between values and action.
+  polarity_expression: Manifests as identifying specific barriers and developing workable solutions versus learned helplessness and premature surrender when obstacles arise.
+  cross_domain_resonance: Resonates with psy-exe-prs-ada (problem-solving), psy-cop-act-ada (active coping), and psy-res-per-ada (resilient persistence) in overcoming challenges.
+  academic_description: Effective barrier navigation represents a critical skill in maintaining value-based behavior change. Research identifies problem-solving deficits as risk factors for addiction and relapse. Studies show individuals who develop specific plans for overcoming obstacles to values show better treatment outcomes. Implementation intentions ('if-then' planning) increase value-consistent behavior by pre-deciding responses to barriers. Persistence despite setbacks predicts long-term recovery success.
+  clinical_description: Treatment helps clients identify specific barriers to value-based action and develop practical solutions. Common barriers include time, money, skills, fear, and social pressure. Therapists use problem-solving therapy adapted for values, helping clients generate multiple solutions and test them behaviorally. 'If-then' planning prepares responses to predictable obstacles. When barriers prove insurmountable, treatment focuses on creative workarounds or alternative value expressions. Success is measured by continued movement toward values despite obstacles.
+  lay_description: This is figuring out how to live your values even when life gets in the way. When you can't afford gym membership but value health, you find free ways to exercise. When anxiety makes phone calls hard but you value connection, you start with texts. It's not letting obstacles become excuses, but finding ways around, over, or through them.
+  foundational_themes: Resourcefulness, determined persistence, creative adaptation
+  experiential_processes: Problem-solving obstacles, persisting through setbacks, finding alternative paths
+  personal_relevance: Determines whether challenges become growth opportunities or reasons to quit
+- id: exi-val-act-bar-dir
+  label: Obstacle Surrender
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Learned helplessness
+  - Barrier catastrophizing
+  - Premature defeat
+  scope: Represents learned helplessness and premature surrender when facing obstacles to value-based behavior, characterized by catastrophic thinking about barriers and absence of problem-solving attempts.
+  parent_scope_inheritance: This anchor specifies the helplessness and surrender pattern that maintains value-behavior discrepancy by treating obstacles as insurmountable rather than solvable challenges.
+  polarity_expression: Manifests as immediate surrender at first obstacle, catastrophizing barriers as impossible, and failure to attempt problem-solving or alternative approaches.
+  cross_domain_resonance: Resonates with psy-exe-prs-mal (problem-solving deficits), psy-cop-pas-mal (passive coping), and psy-cog-cat-mal (catastrophic thinking) in maintaining helplessness.
+  academic_description: Learned helplessness regarding value-based behavior represents a maintaining factor in addiction and depression. Research shows individuals who catastrophize obstacles show reduced problem-solving attempts and increased substance use. Studies indicate helplessness beliefs become self-fulfilling through reduced effort and missed learning opportunities. Premature surrender to barriers prevents discovery that many obstacles are surmountable with effort or creativity.
+  clinical_description: Clients present with global beliefs that barriers are insurmountable, often citing past failures as evidence. Assessment reveals minimal problem-solving attempts before declaring defeat. Catastrophic thinking transforms manageable challenges into impossible obstacles. Treatment uses behavioral experiments to test helplessness beliefs, starting with very small challenges. Success experiences build evidence that barriers can be overcome. Therapists help clients recognize how surrender serves protective functions while maintaining problems.
+  lay_description: This is giving up as soon as something gets hard, deciding it's impossible without really trying. One setback becomes proof you can't change. 'I can't get to meetings because I don't have a car' becomes the end of discussion rather than the start of problem-solving. Every obstacle becomes an excuse to not live your values.
+  foundational_themes: Learned helplessness, defeatist mindset, existential resignation
+  experiential_processes: Catastrophizing obstacles, surrendering without trying, accumulating failure beliefs
+  personal_relevance: Transforms surmountable challenges into permanent barriers to meaningful life
+- id: exi-val-act-chp-pur
+  label: Choice Point Awareness
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Decision moment recognition
+  - Mindful choosing
+  - Conscious selection
+  scope: Represents present-moment awareness of opportunities for value-based choices, including recognition of decision points, pause before automatic responding, and intentional selection of value-aligned actions.
+  parent_scope_inheritance: This anchor specifies the present-moment awareness component that enables value-action congruence by recognizing moments where value-based choices can be made.
+  polarity_expression: Manifests as recognizing decision moments as they arise and consciously choosing value-aligned responses versus automatic, unconscious patterns disconnected from values.
+  cross_domain_resonance: Resonates with psy-min-pre-ada (present-moment awareness), psy-exe-inh-ada (response inhibition), and psy-att-foc-ada (focused attention) in supporting conscious choice.
+  academic_description: Choice point awareness represents the capacity to recognize moments where value-based decisions are possible. Research on implementation intentions shows that identifying specific choice points increases value-consistent behavior. Mindfulness training enhances recognition of decision moments before automatic patterns engage. Studies indicate that individuals who pause at choice points show better self-regulation and reduced impulsive behavior. Present-moment awareness creates space between stimulus and response where values can guide action.
+  clinical_description: Treatment develops clients' ability to recognize choice points throughout their day - moments where they can move toward or away from values. The Choice Point tool maps these moments visually. Therapists help clients identify high-risk choice points and practice pausing before responding. Mindfulness exercises increase present-moment awareness during decisions. Implementation intentions link specific situations to value-based responses. Success involves increasingly catching choice points before automatic patterns engage.
+  lay_description: This is noticing those moments when you could go either way - toward what matters or away from it. Like recognizing when you're about to walk past the liquor store, you have a choice. Or catching yourself before sending that angry text. It's developing a pause button that lets you choose based on your values rather than just reacting.
+  foundational_themes: Conscious choice, present-moment freedom, intentional living
+  experiential_processes: Recognizing decision moments, pausing before acting, choosing from values
+  personal_relevance: Transforms automatic living into intentional choices aligned with what matters most
+- id: exi-val-act-chp-dir
+  label: Automatic Drift
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Mindless patterns
+  - Unconscious responding
+  - Habitual disconnection
+  scope: Represents unconscious, automatic behavioral patterns that bypass value consideration, characterized by mindless responding, missed choice opportunities, and retrospective regret about unconsidered actions.
+  parent_scope_inheritance: This anchor specifies the automaticity and mindlessness that maintains value-behavior discrepancy by preventing conscious recognition of moments where value-based choices could be made.
+  polarity_expression: Manifests as acting on autopilot without awareness, missing opportunities for value-based choices, and only recognizing choice points after automatic patterns have engaged.
+  cross_domain_resonance: Resonates with psy-min-aut-mal (mindless automaticity), psy-exe-imp-mal (impulsive responding), and psy-att-dis-mal (attentional disconnection) in maintaining unconscious patterns.
+  academic_description: Automatic behavioral patterns represent a major obstacle to value-based living. Research shows that habitual responses bypass conscious decision-making, preventing value consideration. Studies indicate that stress and cognitive load increase automatic responding and decrease value-based choice. In addiction, substance use becomes an automatic response to internal and external cues, occurring before conscious awareness. Mindlessness maintains value-behavior discrepancy by preventing recognition of choice opportunities.
+  clinical_description: Clients report acting without thinking, then regretting behavior that violated values. Assessment reveals extensive automatic patterns - routes that pass dealers, responses to emotions, social situations triggering use. Clients often say 'I found myself using before I knew it.' Treatment focuses on increasing mindfulness to catch automatic patterns earlier. Behavioral chain analysis identifies where choice points were missed. Therapists help slow down automatic sequences to insert conscious choice.
+  lay_description: This is living on autopilot, where you're not really choosing but just going through motions. You find yourself with a drink in hand or harsh words spoken before you even realized you had a choice. Life happens to you rather than being lived by you. You look back wondering how you ended up so far from what matters.
+  foundational_themes: Unconscious living, habitual existence, mindless drift
+  experiential_processes: Operating on autopilot, missing choice moments, reacting without awareness
+  personal_relevance: Life becomes series of unconscious reactions rather than intentional choices
+- id: exi-val-act-int-pur
+  label: Integrated Authenticity
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Cross-contextual congruence
+  - Behavioral integrity
+  - Authentic consistency
+  scope: Represents consistent expression of core values across different life contexts, relationships, and situations, reflecting an integrated identity where values guide behavior regardless of external circumstances.
+  parent_scope_inheritance: This anchor specifies the cross-contextual consistency component of value-action congruence, focusing on maintaining value-based behavior across varied situations and relationships.
+  polarity_expression: Manifests as stable value expression across contexts with internal-external congruence versus compartmentalized, inconsistent value expression that shifts with situation.
+  cross_domain_resonance: Resonates with psy-sel-coh-ada (self-coherence), soc-ide-int-coh (identity integration), and exi-aut-exp-pur (authentic expression) in supporting integrated functioning.
+  academic_description: Behavioral integrity represents the consistency between espoused values and enacted behavior across contexts. Research shows that value consistency across domains predicts wellbeing, relationship quality, and leadership effectiveness. Studies indicate that compartmentalization of values creates internal conflict and identity confusion. Integrated authenticity emerges when individuals develop a coherent value hierarchy that guides behavior regardless of situation. This integration predicts better mental health outcomes and stronger sense of meaning.
+  clinical_description: Treatment helps clients recognize patterns of value inconsistency across contexts - being one person at work, another at home, another when using. Therapists explore the function of compartmentalization, often protecting against judgment or maintaining addiction. Interventions focus on identifying core values that transcend contexts and practicing consistent expression. Role-playing helps clients practice maintaining values in challenging situations. Success involves increasing congruence between internal values and external behavior across all life domains.
+  lay_description: This is being the same person everywhere - your values don't change based on who you're with or where you are. Your family, friends, and coworkers would all recognize the same core values in how you act. You don't have a 'work self' and 'home self' and 'party self' - just an authentic self guided by consistent values.
+  foundational_themes: Authentic wholeness, integrated identity, consistent character
+  experiential_processes: Expressing values consistently, maintaining integrity across contexts, living authentically
+  personal_relevance: Creates coherent life narrative and trustworthy presence in all relationships
+- id: exi-val-act-int-dir
+  label: Fragmented Compartmentalization
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Value-Action Congruence
+  cluster_id: exi-val-act
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Value inconsistency
+  - Contextual fragmentation
+  - Identity splitting
+  scope: Represents fragmented, compartmentalized value expression where different values guide behavior in different contexts, creating internal conflict, identity confusion, and unpredictable behavior patterns.
+  parent_scope_inheritance: This anchor specifies the fragmentation and inconsistency that undermines value-action congruence through compartmentalized, context-dependent value expression.
+  polarity_expression: Manifests as different values in different contexts, unpredictable behavior based on situation, and internal conflict from competing value systems.
+  cross_domain_resonance: Resonates with psy-sel-fra-mal (self-fragmentation), soc-ide-dif-fra (identity diffusion), and psy-dis-com-mal (psychological compartmentalization) in maintaining incoherence.
+  academic_description: Value compartmentalization represents a fragmentation of identity where different, often conflicting values operate in different life domains. Research shows this pattern predicts identity confusion, relationship problems, and psychological distress. Studies indicate compartmentalization often serves defensive functions, protecting against shame or maintaining addiction. The resulting internal conflict between competing value systems creates chronic stress and decisional paralysis. Integration of values across contexts is associated with improved mental health and life satisfaction.
+  clinical_description: Clients present with confusion about their 'real' values, reporting different priorities in different contexts. Assessment reveals extensive compartmentalization - recovery values in treatment, using values with certain friends, family values at home. This creates exhausting identity management and internal conflict. Treatment focuses on identifying core values that transcend contexts and addressing fears about consistent expression. Therapists help clients recognize the cost of maintaining multiple selves and develop courage for integrated authenticity.
+  lay_description: This is being a different person depending on where you are or who you're with. You might value honesty with family but lie at work, or preach recovery while secretly using. It's exhausting keeping track of which version of yourself to be. You feel like a fraud because there's no real you - just different masks for different situations.
+  foundational_themes: Identity fragmentation, existential bad faith, divided self
+  experiential_processes: Shifting values by context, managing multiple selves, experiencing internal conflict
+  personal_relevance: Creates exhausting identity management and chronic sense of inauthenticity

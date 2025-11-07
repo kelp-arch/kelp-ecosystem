@@ -1,0 +1,328 @@
+# Generated anchors for cluster: PHY-PHA-MAT
+# Timestamp: 20251103_130110
+
+anchors:
+- id: phy-pha-mat-ago-reg
+  label: Agonist Therapy Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Stable agonist maintenance
+  - Therapeutic receptor occupancy
+  - Effective substitution therapy
+  scope: Optimal opioid agonist therapy with stable receptor occupancy, suppressed withdrawal, blocked euphoria, and functional improvement through appropriate methadone or buprenorphine dosing.
+  parent_scope_inheritance: Specifies the agonist maintenance therapy component of MAT, focusing on achieving and maintaining therapeutic receptor occupancy for opioid use disorder treatment.
+  polarity_expression: Manifests as stable μ-opioid receptor occupancy (60-80% for buprenorphine, >90% for methadone) with normalized dopamine tone, absence of withdrawal symptoms, minimal craving, and blocked euphoric response to short-acting opioids.
+  cross_domain_resonance: Resonates with psy-neu-rew-ada (restored reward function), soc-hea-acc-coh (treatment retention), and exi-mea-hop-pur (recovery optimism).
+  academic_description: Agonist therapy achieves therapeutic effect through sustained μ-opioid receptor activation. Methadone's full agonism with long half-life (24-36 hours) provides steady-state kinetics preventing withdrawal while its slow onset prevents euphoria. Buprenorphine's partial agonism with high binding affinity (Ki 0.08nM) and slow dissociation creates ceiling effects for respiratory depression while maintaining anti-withdrawal efficacy. Both normalize mesolimbic dopamine transmission disrupted by chronic opioid use.
+  clinical_description: Successful agonist therapy requires appropriate dosing - methadone typically 80-120mg daily, buprenorphine 16-24mg daily. Signs of stability include absence of withdrawal (COWS <5), minimal craving (VAS <30), negative urine screens, and improved functioning. Split dosing helps rapid metabolizers. Peak/trough levels guide adjustments. Psychosocial support enhances retention. Treatment duration often indefinite given 50-90% relapse risk with discontinuation.
+  lay_description: When agonist therapy works well, medications like methadone or buprenorphine act like a steady foundation that prevents the roller coaster of withdrawal and craving. You feel normal rather than high, can focus on daily life instead of finding drugs, and if you did use other opioids, they wouldn't work because the medication blocks their effects.
+  key_mediators: μ-opioid receptors, dopamine, endorphins, POMC peptides, adenylyl cyclase, CREB
+  key_mechanisms: Sustained receptor occupancy, tolerance to euphoria, cross-tolerance to short-acting opioids, normalized HPA axis function, restored dopaminergic tone
+  clinical_relevance: Reduces overdose mortality by 50%, improves retention rates to 60-90%, decreases HIV/HCV transmission, enables psychosocial stability
+  assessment_methods: Clinical Opiate Withdrawal Scale (COWS), peak/trough drug levels, urine drug screens, treatment retention metrics, functional assessments
+  interventions: Dose optimization protocols, split dosing for rapid metabolizers, take-home privileges for stability, integrated psychosocial services, contingency management
+  prominent_models: Receptor occupancy theory, opponent process model, allostatic dysregulation framework
+- id: phy-pha-mat-ago-dys
+  label: Agonist Therapy Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Unstable agonist maintenance
+  - Inadequate substitution
+  - Agonist treatment failure
+  scope: Failed opioid agonist therapy with inadequate receptor occupancy, persistent withdrawal, continued craving, ongoing illicit use, or medication diversion despite treatment attempts.
+  parent_scope_inheritance: Specifies the dysregulated state of agonist maintenance therapy within MAT, representing treatment failure through inadequate dosing, poor adherence, or physiological non-response.
+  polarity_expression: Manifests as insufficient μ-opioid receptor occupancy (<60% for buprenorphine, <90% for methadone), continued withdrawal physiology, persistent craving, ongoing illicit opioid use, dose destabilization, or medication diversion.
+  cross_domain_resonance: Resonates with psy-neu-rew-mal (persistent reward dysfunction), soc-hea-acc-fra (treatment dropout), and exi-mea-hop-dir (treatment hopelessness).
+  academic_description: 'Agonist therapy failure occurs through multiple mechanisms: inadequate receptor occupancy from subtherapeutic dosing, rapid metabolism (CYP3A4 induction), drug interactions, or poor adherence. Continued withdrawal indicates insufficient μ-opioid activation to normalize cAMP/CREB signaling. Persistent craving suggests incomplete restoration of dopaminergic tone. Diversion indicates misalignment between prescribed therapy and patient goals.'
+  clinical_description: Dysregulated agonist therapy presents as ongoing withdrawal (COWS >10), persistent craving (VAS >70), continued positive urine screens, or dose instability. Causes include underdosing from regulatory concerns, rapid metabolism requiring split dosing, drug interactions (rifampin, antiretrovirals), or psychosocial barriers. Diversion risk increases with take-home doses. Requires dose adjustment, peak/trough monitoring, supervised dosing, or alternative MAT consideration.
+  lay_description: When agonist therapy isn't working, the medication dose is like a blanket that's too small - it doesn't fully cover the withdrawal and cravings. You might still feel sick in the mornings, constantly think about using, or even continue using other opioids because the medication isn't holding you. Sometimes people sell their medication instead of taking it, which keeps the cycle going.
+  key_mediators: Inadequate μ-opioid activation, elevated dynorphin, increased CRF, inflammatory cytokines, altered BDNF
+  key_mechanisms: Subtherapeutic receptor occupancy, incomplete tolerance development, persistent allostatic load, continued HPA dysregulation, inflammatory activation
+  clinical_relevance: Associated with treatment dropout (40-60%), continued overdose risk, ongoing injection-related harms, criminal justice involvement, psychosocial deterioration
+  assessment_methods: Persistent elevation in COWS scores, subtherapeutic drug levels, ongoing positive UDS, pill counts, state prescription monitoring programs
+  interventions: Dose increases, peak/trough level monitoring, split dosing, directly observed therapy, motivational interviewing, alternative MAT modalities
+  prominent_models: Therapeutic failure cascade, medication non-adherence framework, social determinants of treatment response
+- id: phy-pha-mat-ant-reg
+  label: Antagonist Therapy Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Effective antagonist blockade
+  - Successful naltrexone therapy
+  - Sustained receptor blockade
+  scope: Optimal antagonist therapy with complete μ-opioid receptor blockade, extinction of drug-seeking behavior, consistent medication adherence, and sustained abstinence through naltrexone treatment.
+  parent_scope_inheritance: Specifies the antagonist therapy component of MAT, focusing on achieving complete receptor blockade and extinction of conditioned drug responses in motivated patients.
+  polarity_expression: Manifests as complete μ-opioid receptor blockade (>90% occupancy by naltrexone), extinction of conditioned responses to drug cues, decreased craving over time, consistent medication adherence, and engagement in recovery activities.
+  cross_domain_resonance: Resonates with psy-beh-ext-ada (successful extinction learning), soc-sup-pee-coh (recovery community engagement), and exi-age-aut-pur (autonomous recovery choice).
+  academic_description: Antagonist therapy achieves efficacy through competitive μ-opioid receptor blockade with naltrexone's high affinity (Ki 0.26nM) preventing agonist binding. Extended-release formulations maintain therapeutic levels (>2ng/mL) for 30 days. Blockade extinguishes operant conditioning by preventing reinforcement, while upregulation of endogenous opioid production may improve hedonic tone over time. Requires complete detoxification to avoid precipitated withdrawal from receptor displacement.
+  clinical_description: Successful antagonist therapy requires motivated patients completing detoxification (confirmed by naloxone challenge). Extended-release naltrexone (380mg monthly) improves adherence versus oral (50mg daily). Effectiveness markers include no response to opioid challenges, decreased craving over 3-6 months, negative urine screens, and psychosocial improvement. Best outcomes with contingency management and family involvement. Duration typically 6-12 months minimum.
+  lay_description: When antagonist therapy works well, naltrexone acts like a shield that completely blocks opioids from working. If someone uses, they feel nothing - no high, no relief. Over time, the brain learns that drug-seeking is pointless, and cravings fade. The monthly shot helps ensure the protection stays consistent without daily pill-taking.
+  key_mediators: Naltrexone, μ-opioid receptors, β-endorphin upregulation, dopamine normalization, glutamate modulation
+  key_mechanisms: Competitive receptor antagonism, extinction of conditioned responses, prevention of priming effects, upregulation of endogenous opioids, normalized reward processing
+  clinical_relevance: Reduces relapse rates by 25-50% in motivated populations, prevents overdose during treatment, enables psychosocial engagement, supports long-term recovery
+  assessment_methods: Naloxone challenge test, medication adherence monitoring, urine drug screens, craving assessments, quality of life measures
+  interventions: Extended-release formulations, motivational enhancement therapy, contingency management, family involvement, recovery coaching
+  prominent_models: Extinction learning theory, behavioral economics of addiction, motivation-matched treatment model
+- id: phy-pha-mat-ant-dys
+  label: Antagonist Therapy Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Failed antagonist blockade
+  - Naltrexone non-adherence
+  - Antagonist treatment failure
+  scope: Failed antagonist therapy with inconsistent receptor blockade, medication non-adherence, attempts to override blockade, precipitated withdrawal events, or treatment dropout despite naltrexone initiation.
+  parent_scope_inheritance: Specifies the dysregulated state of antagonist therapy within MAT, representing treatment failure through poor adherence, inappropriate patient selection, or inadequate support.
+  polarity_expression: Manifests as inconsistent μ-opioid receptor blockade from non-adherence, attempts to override blockade with high-dose opioids, precipitated withdrawal from premature initiation, persistent drug-seeking despite blockade, or early treatment discontinuation.
+  cross_domain_resonance: Resonates with psy-beh-ext-mal (failed extinction), soc-sup-pee-fra (isolation from recovery supports), and exi-age-aut-dir (coerced treatment).
+  academic_description: Antagonist therapy failure occurs through poor adherence (50-70% discontinuation by 6 months with oral formulation), attempts to override blockade risking overdose when naltrexone wears off, or precipitated withdrawal from inadequate detoxification. Lack of reinforcement without psychosocial support leads to dropout. Some experience dysphoria from blocked endogenous opioid tone. Mandated treatment shows worse outcomes than voluntary.
+  clinical_description: Dysregulated antagonist therapy presents as missed doses/injections, positive urine screens for opioids (indicating override attempts), reports of using large amounts without effect, or precipitated withdrawal requiring symptomatic management. Risk factors include inadequate detoxification, poor motivation, lack of psychosocial support, and untreated psychiatric comorbidity. May require transition to agonist therapy.
+  lay_description: When antagonist therapy fails, it's often because the person stops taking naltrexone - either skipping pills or missing injection appointments. Some try to 'break through' the blockade by using dangerous amounts of opioids. Others start naltrexone too soon and go into severe withdrawal. Without support, the lack of any relief can feel unbearable.
+  key_mediators: Subtherapeutic naltrexone levels, unopposed μ-opioid receptors, elevated dynorphin, stress hormones, inflammatory markers
+  key_mechanisms: Inconsistent receptor blockade, failed extinction learning, persistent sensitization, overdose risk during gaps, precipitated withdrawal from displacement
+  clinical_relevance: High dropout rates, overdose risk after discontinuation due to lost tolerance, precipitated withdrawal morbidity, treatment resistance, criminal justice implications
+  assessment_methods: Medication adherence monitoring, naltrexone levels, witnessed dosing records, urine testing patterns, treatment retention metrics
+  interventions: Injectable formulations for adherence, intensive psychosocial support, transition to agonist therapy, harm reduction education, re-engagement strategies
+  prominent_models: Treatment readiness model, stages of change mismatch, coercion versus motivation framework
+- id: phy-pha-mat-crv-reg
+  label: Anti-Craving Medications Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Effective craving suppression
+  - Normalized neurotransmission
+  - Successful anti-craving therapy
+  scope: Optimal anti-craving medication response with normalized glutamate/GABA balance, reduced craving intensity, improved sleep and mood stability through acamprosate, varenicline, or other craving-targeted medications.
+  parent_scope_inheritance: Specifies the anti-craving medication component of MAT, focusing on pharmacological modulation of protracted withdrawal and craving through various neurotransmitter systems.
+  polarity_expression: Manifests as restored glutamate/GABA homeostasis with acamprosate, partial nicotinic receptor agonism with varenicline, reduced craving intensity scores, decreased preoccupation with substance use, and improved sleep-wake cycles.
+  cross_domain_resonance: Resonates with psy-cog-att-ada (reduced attentional bias), psy-emo-reg-ada (improved emotional stability), and exi-mea-ful-pur (life beyond craving).
+  academic_description: 'Anti-craving medications target distinct mechanisms: acamprosate modulates NMDA/mGluR5 to normalize glutamatergic hyperactivity from alcohol withdrawal; varenicline''s partial α4β2 nicotinic agonism reduces craving while preventing nicotine reinforcement; topiramate enhances GABA and inhibits glutamate; gabapentin modulates calcium channels. These restore neurotransmitter balance disrupted by chronic substance use, particularly addressing protracted withdrawal lasting months after cessation.'
+  clinical_description: Effective anti-craving therapy shows reduced craving scores (50% decrease on visual analog scales), improved sleep quality, mood stabilization, and decreased preoccupation. Acamprosate (666mg TID) works best for protracted withdrawal; naltrexone (50mg daily) for cue-induced craving; varenicline (1mg BID) for nicotine. Combination therapy may enhance efficacy. Response typically seen within 2-4 weeks. Duration usually 6-12 months.
+  lay_description: When anti-craving medications work well, they turn down the volume on that constant mental noise of wanting to use. The obsessive thoughts quiet down, you can focus on other things, sleep improves, and mood becomes more stable. It's like your brain chemistry is finally rebalancing after being thrown off by long-term substance use.
+  key_mediators: Glutamate, GABA, NMDA receptors, mGluR5, nicotinic receptors, calcium channels, BDNF
+  key_mechanisms: Glutamate/GABA rebalancing, reduced excitotoxicity, normalized calcium signaling, enhanced neuroplasticity, stabilized neurotransmission
+  clinical_relevance: Reduces relapse rates by 15-25%, improves quality of life measures, enhances psychosocial treatment engagement, addresses protracted withdrawal syndrome
+  assessment_methods: Craving visual analog scales, Penn Alcohol Craving Scale, sleep quality indices, mood assessments, days abstinent
+  interventions: Optimal dosing schedules, combination pharmacotherapy, cognitive behavioral therapy integration, mindfulness-based relapse prevention, sleep hygiene
+  prominent_models: Allostatic neuroadaptation model, protracted withdrawal syndrome, neurotransmitter restoration theory
+- id: phy-pha-mat-crv-dys
+  label: Anti-Craving Medications Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Persistent craving despite medication
+  - Failed craving suppression
+  - Anti-craving treatment resistance
+  scope: Failed anti-craving medication response with persistent neurochemical imbalance, unremitting craving, continued preoccupation, protracted withdrawal symptoms, and mood instability despite pharmacotherapy.
+  parent_scope_inheritance: Specifies the dysregulated state of anti-craving medications within MAT, representing treatment failure through non-response, inadequate dosing, or persistent neuroadaptations.
+  polarity_expression: Manifests as continued glutamatergic hyperactivity despite acamprosate, persistent nicotinic dysregulation with varenicline, unremitting craving intensity, protracted withdrawal symptoms including insomnia and dysphoria, and treatment non-adherence.
+  cross_domain_resonance: Resonates with psy-cog-att-mal (persistent attentional bias), psy-emo-reg-mal (continued emotional dysregulation), and exi-mea-ful-dir (craving-dominated existence).
+  academic_description: Anti-craving medication failure reflects incomplete restoration of neurotransmitter systems. Persistent glutamatergic hyperexcitability despite acamprosate suggests severe neuroadaptations or inadequate dosing. Varenicline non-response may indicate nicotinic receptor desensitization or genetic variants affecting metabolism. Some patients have treatment-resistant protracted withdrawal requiring multiple medication trials or augmentation strategies. Psychiatric comorbidity often underlies non-response.
+  clinical_description: Failed anti-craving therapy presents as minimal reduction in craving scores (<25% improvement), persistent sleep disturbance, continued mood instability, and ongoing preoccupation despite adequate trials (4-8 weeks). May require dose optimization, switching medications, augmentation with gabapentin or topiramate, or addressing underlying depression/anxiety. Some need combination therapy or novel approaches like TMS or ketamine.
+  lay_description: When anti-craving medications don't work, it feels like the constant urge to use never quiets down. Despite taking the medication, thoughts about using still dominate, sleep remains disrupted, and emotions stay on a roller coaster. It's frustrating when medications that help others don't seem to touch your cravings.
+  key_mediators: Persistent glutamate excess, GABA deficiency, inflammatory cytokines, reduced BDNF, cortisol dysregulation
+  key_mechanisms: Incomplete neurotransmitter restoration, ongoing excitotoxicity, persistent neuroinflammation, impaired neuroplasticity, treatment-resistant adaptations
+  clinical_relevance: Continued relapse vulnerability, poor quality of life, treatment dropout, need for alternative interventions, risk of returning to use
+  assessment_methods: Persistent elevation in craving scales, ongoing sleep logs showing disruption, mood monitoring, medication adherence assessment, biomarker evaluation
+  interventions: Dose escalation, medication switching, augmentation strategies, neuromodulation (TMS/tDCS), intensive psychosocial support, novel pharmacotherapies
+  prominent_models: Treatment-resistant craving model, kindling hypothesis, neuroinflammatory persistence theory
+- id: phy-pha-mat-avr-reg
+  label: Aversion Therapy Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Effective disulfiram therapy
+  - Successful aversive conditioning
+  - Maintained abstinence through aversion
+  scope: Optimal aversion therapy with consistent aldehyde dehydrogenase inhibition, complete abstinence maintenance, medication adherence with full understanding of risks, creating effective behavioral deterrent through disulfiram.
+  parent_scope_inheritance: Specifies the aversion therapy component of MAT, focusing on behavioral conditioning through the threat of adverse reactions to prevent substance use.
+  polarity_expression: Manifests as consistent enzyme inhibition creating reliable deterrent effect, complete abstinence from alcohol, medication adherence with family/clinical supervision, psychological commitment to recovery, and absence of testing behaviors.
+  cross_domain_resonance: Resonates with psy-beh-avo-ada (adaptive avoidance learning), soc-sup-fam-coh (family monitoring support), and exi-val-com-pur (commitment to sobriety).
+  academic_description: Disulfiram irreversibly inhibits aldehyde dehydrogenase, causing acetaldehyde accumulation if alcohol is consumed, producing flushing, tachycardia, hypotension, and nausea. The threat of this reaction creates negative reinforcement. Effectiveness requires understanding consequences and motivation for abstinence. Supervised administration improves outcomes. The psychological deterrent effect may exceed the pharmacological effect, as placebo-controlled trials show benefit even without actual enzyme inhibition.
+  clinical_description: Successful aversion therapy requires careful patient selection - motivated individuals with good insight, stable medical status, and support system. Disulfiram 250-500mg daily, preferably supervised. Effectiveness markers include complete abstinence, medication adherence, absence of 'testing' drinks, and engagement in recovery. Contraindicated in cardiac disease, psychosis, or cognitive impairment. Duration varies but often 6-12 months minimum. Best with contingency contracts.
+  lay_description: When aversion therapy works well, disulfiram acts like a safety fence - you know that drinking even a small amount will make you very sick, so you don't even consider it. Having family members watch you take it daily adds accountability. The medication becomes a daily reminder of your commitment to stay sober.
+  key_mediators: Aldehyde dehydrogenase, acetaldehyde, dopamine, norepinephrine, serotonin
+  key_mechanisms: Enzyme inhibition, acetaldehyde accumulation, conditioned aversion, psychological deterrence, behavioral commitment
+  clinical_relevance: Improves abstinence rates in motivated patients, provides external control for impulsivity, enables psychosocial engagement, supports early recovery
+  assessment_methods: Medication adherence monitoring, supervised dosing logs, abstinence verification, liver function tests, cardiovascular monitoring
+  interventions: Supervised administration protocols, family involvement, contingency contracts, motivational enhancement, relapse prevention planning
+  prominent_models: Behavioral deterrence theory, commitment device framework, external control model
+- id: phy-pha-mat-avr-dys
+  label: Aversion Therapy Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Failed disulfiram therapy
+  - Drinking through aversion
+  - Aversion therapy complications
+  scope: Failed aversion therapy with medication non-adherence, drinking through disulfiram causing severe reactions, testing behaviors, or treatment dropout despite behavioral deterrent attempts.
+  parent_scope_inheritance: Specifies the dysregulated state of aversion therapy within MAT, representing treatment failure through non-adherence, dangerous use patterns, or adverse reactions.
+  polarity_expression: Manifests as inconsistent enzyme inhibition from non-adherence, dangerous drinking episodes despite medication, severe disulfiram-alcohol reactions requiring medical intervention, testing behaviors, or treatment discontinuation.
+  cross_domain_resonance: Resonates with psy-beh-avo-mal (maladaptive risk-taking), soc-sup-fam-fra (family conflict over monitoring), and exi-val-com-dir (ambivalence about sobriety).
+  academic_description: 'Aversion therapy failure occurs through multiple pathways: non-adherence (>50% discontinue within 3 months), drinking through medication risking severe reactions including cardiovascular collapse, or ''testing'' with small amounts. Some lack understanding of risks despite education. Others experience psychiatric decompensation from dopamine beta-hydroxylase inhibition. Hepatotoxicity occurs rarely but can be severe.'
+  clinical_description: Failed aversion therapy presents as missed doses, positive alcohol screens, reports of drinking without consequences (suggesting non-adherence), or emergency presentation with disulfiram-alcohol reaction. Severe reactions require supportive care - IV fluids, antihistamines, monitoring for arrhythmias or hypotension. Risk factors include poor insight, impulsivity, and lack of supervision. May require alternative MAT approaches.
+  lay_description: When aversion therapy fails, people either stop taking disulfiram secretly or dangerously drink while on it. Some test whether it's really working with 'just one drink' and end up in the emergency room. Others can't handle the pressure of knowing one drink could cause a severe reaction and stop the medication.
+  key_mediators: Acetaldehyde accumulation, histamine release, catecholamine dysfunction, hepatic enzymes, inflammatory mediators
+  key_mechanisms: Inconsistent enzyme inhibition, dangerous acetaldehyde levels, cardiovascular stress, hepatotoxicity risk, psychological reactance
+  clinical_relevance: Risk of severe reactions including death, emergency department utilization, treatment dropout, loss of deterrent effect, need for alternative approaches
+  assessment_methods: Pill counts, supervised dosing records, alcohol biomarkers (EtG, PEth), liver enzymes, reaction history documentation
+  interventions: Enhanced supervision protocols, alternative MAT modalities, harm reduction education, management of reactions, psychiatric evaluation
+  prominent_models: Psychological reactance theory, risk compensation behavior, treatment-readiness mismatch
+- id: phy-pha-mat-dos-reg
+  label: Dosing Optimization Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Optimal dose titration
+  - Therapeutic drug levels
+  - Stable maintenance dosing
+  scope: Optimal medication dosing with smooth induction, appropriate titration to therapeutic levels, stable maintenance with minimal side effects, and sustained treatment retention through individualized dose optimization.
+  parent_scope_inheritance: Specifies the dosing optimization aspect of MAT, focusing on achieving and maintaining therapeutic drug levels throughout induction and maintenance phases of treatment.
+  polarity_expression: Manifests as smooth induction without precipitated withdrawal, steady-state achievement at therapeutic levels, minimal side effects, stable daily functioning, good treatment retention, and appropriate dose adjustments based on clinical response.
+  cross_domain_resonance: Resonates with psy-neu-hom-ada (neurochemical stability), soc-hea-acc-coh (consistent treatment engagement), and exi-tra-gro-pur (stable recovery trajectory).
+  academic_description: Optimal dosing requires understanding pharmacokinetic/pharmacodynamic relationships. Induction protocols prevent precipitated withdrawal - buprenorphine requires COWS >10, starting 2-4mg with titration over 2-3 days. Methadone starts 20-30mg with gradual increases preventing accumulation given 5-day half-life. Steady-state achievement enables consistent receptor occupancy. Therapeutic drug monitoring guides adjustments for rapid metabolizers. Individual variation in CYP450 enzymes affects metabolism rates.
+  clinical_description: Successful dosing shows smooth induction (no precipitated withdrawal), achievement of therapeutic levels (methadone trough >400ng/mL, buprenorphine >1ng/mL), minimal side effects, and clinical stability. Methadone typically reaches 80-120mg daily over 2-4 weeks; buprenorphine 16-24mg by day 3. Split dosing helps rapid metabolizers. Peak/trough ratios <2 indicate stability. Adjustments based on clinical response not just drug levels. Good retention marker of appropriate dosing.
+  lay_description: When dosing is optimized, starting medication feels smooth without making you sick, and the daily dose keeps you feeling stable all day without ups and downs. Side effects are manageable, you're not sedated or in withdrawal, and the dose holds you comfortably for 24 hours. It's like finding the right thermostat setting - not too hot, not too cold.
+  key_mediators: Drug plasma levels, receptor occupancy, metabolic enzymes (CYP3A4, CYP2B6), glucuronidation pathways
+  key_mechanisms: First-pass metabolism, steady-state kinetics, receptor binding dynamics, tolerance development, metabolic stability
+  clinical_relevance: Prevents precipitated withdrawal, reduces early dropout, optimizes therapeutic response, minimizes adverse effects, improves long-term retention
+  assessment_methods: Clinical withdrawal scales, peak and trough drug levels, dose adequacy scales, side effect monitoring, retention metrics
+  interventions: Protocol-driven titration, therapeutic drug monitoring, split dosing strategies, genetic testing for metabolism, side effect management
+  prominent_models: Pharmacokinetic/pharmacodynamic modeling, steady-state theory, individualized dosing algorithms
+- id: phy-pha-mat-dos-dys
+  label: Dosing Optimization Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Dose instability
+  - Subtherapeutic levels
+  - Failed titration
+  scope: Failed dosing optimization with precipitated withdrawal during induction, persistent sub-therapeutic or toxic levels, intolerable side effects, dose instability, or early treatment dropout due to dosing problems.
+  parent_scope_inheritance: Specifies the dysregulated state of dosing within MAT, representing treatment failure through inappropriate titration, metabolic variations, or inability to achieve therapeutic levels.
+  polarity_expression: Manifests as precipitated withdrawal from premature induction, roller-coaster effects from inadequate dosing, oversedation from excessive doses, persistent side effects, frequent dose adjustments, or early discontinuation.
+  cross_domain_resonance: Resonates with psy-neu-hom-mal (neurochemical instability), soc-hea-acc-fra (treatment disruption), and exi-tra-gro-dir (chaotic recovery attempt).
+  academic_description: 'Dosing failures arise from multiple factors: precipitated withdrawal from buprenorphine given too early (COWS <10) or excessive initial dose; methadone accumulation causing sedation/respiratory depression from rapid titration; subtherapeutic levels from rapid metabolism (CYP3A4 inducers), drug interactions, or inadequate dosing. Peak/trough ratios >4 indicate instability. Genetic polymorphisms affect metabolism - ultrarapid metabolizers need higher/split doses.'
+  clinical_description: Dysregulated dosing presents as precipitated withdrawal requiring symptomatic management, daily withdrawal before next dose, oversedation, or intolerable constipation/sweating. Causes include premature induction, rapid metabolism, drug interactions (HIV medications, rifampin), or prescriber reluctance to adequate dosing. High peak/trough ratios, positive UDS despite observed dosing, or requests for dose changes suggest problems. May require split dosing, medication change, or genetic testing.
+  lay_description: When dosing isn't optimized, starting medication can throw you into severe withdrawal, or the daily dose doesn't last - you wake up sick every morning. Some people feel oversedated or have unbearable side effects. It's like a medication roller coaster instead of smooth stability, often leading people to give up on treatment.
+  key_mediators: Erratic drug levels, variable receptor occupancy, stress hormones, inflammatory markers, metabolic enzyme variants
+  key_mechanisms: Precipitated receptor displacement, incomplete steady-state, rapid metabolism, drug-drug interactions, accumulation toxicity
+  clinical_relevance: Early treatment dropout (30-50%), continued substance use, medical complications, poor quality of life, treatment resistance
+  assessment_methods: Frequent withdrawal assessments, serial drug level monitoring, peak/trough ratios, genetic testing, drug interaction screening
+  interventions: Dose adjustments, split dosing protocols, medication switching, management of precipitated withdrawal, enhanced monitoring
+  prominent_models: Pharmacogenetic variability model, drug interaction frameworks, early dropout prediction models
+- id: phy-pha-mat-sel-reg
+  label: Medication Selection Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Optimal medication matching
+  - Personalized MAT selection
+  - Treatment-patient fit
+  scope: Optimal medication selection with appropriate matching based on substance type, patient characteristics, medical factors, and psychosocial context, resulting in good initial response and treatment engagement.
+  parent_scope_inheritance: Specifies the medication selection process within MAT, focusing on personalized medicine approaches to match patients with the most appropriate pharmacotherapy.
+  polarity_expression: Manifests as evidence-based medication choice aligned with patient factors, good initial tolerability, early positive response, patient satisfaction with selection, minimal need for medication switches, and sustained engagement.
+  cross_domain_resonance: Resonates with psy-mot-int-ada (treatment motivation alignment), soc-hea-nav-coh (appropriate care pathways), and exi-age-aut-pur (autonomous treatment choice).
+  academic_description: 'Optimal selection integrates multiple factors: substance-specific efficacy (buprenorphine for prescription opioids, methadone for heroin), patient characteristics (employment favoring buprenorphine, pregnancy favoring methadone), medical considerations (liver disease affecting choice), and psychosocial factors (stability for take-homes). Pharmacogenomics increasingly guides selection - OPRM1 variants affecting naltrexone response, CYP2B6 affecting buprenorphine metabolism.'
+  clinical_description: 'Successful selection follows evidence-based algorithms considering: substance used (alcohol→naltrexone/acamprosate; opioids→buprenorphine/methadone), severity (high tolerance→methadone), medical factors (pain→methadone; liver disease→avoid naltrexone), and patient preference. Shared decision-making improves outcomes. Early response (2-4 weeks) validates selection. Minimal adverse effects and good retention indicate appropriate choice. Documentation of selection rationale important.'
+  lay_description: When medication selection is done well, it's like finding the right key for a lock - the medication matches your specific situation. The choice considers what substance you used, your health conditions, work schedule, and personal preferences. When it's the right fit, you feel better quickly with minimal side effects and want to continue treatment.
+  key_mediators: Receptor profiles, metabolic pathways, genetic variants, drug-drug interactions, comorbidity factors
+  key_mechanisms: Mechanism-matched selection, pharmacogenomic optimization, risk-benefit analysis, shared decision-making, treatment algorithms
+  clinical_relevance: Improves first-line response rates, reduces need for medication switches, enhances patient satisfaction, optimizes resource utilization
+  assessment_methods: Comprehensive assessment tools, pharmacogenomic testing, treatment matching algorithms, patient preference measures, early response monitoring
+  interventions: Evidence-based selection protocols, shared decision-making tools, clinical decision support systems, patient education materials
+  prominent_models: Precision medicine framework, treatment matching hypothesis, patient-centered care model
+- id: phy-pha-mat-sel-dys
+  label: Medication Selection Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Medication-Assisted Treatment
+  cluster_id: phy-pha-mat
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Medication mismatch
+  - Inappropriate MAT choice
+  - Treatment selection failure
+  scope: Failed medication selection with poor patient-medication fit, unaddressed contraindications, non-response to initial choice, adverse reactions, poor adherence, or need for multiple medication changes.
+  parent_scope_inheritance: Specifies the dysregulated state of medication selection within MAT, representing treatment failure through inappropriate matching or inadequate assessment.
+  polarity_expression: Manifests as primary non-response to selected medication, significant adverse effects, poor tolerability, patient dissatisfaction, early discontinuation, need for multiple medication trials, or selection of contraindicated medications.
+  cross_domain_resonance: Resonates with psy-mot-int-mal (treatment resistance), soc-hea-nav-fra (care pathway disruption), and exi-age-aut-dir (imposed treatment choices).
+  academic_description: 'Selection failures result from inadequate assessment, ignoring contraindications, prescriber bias, limited medication availability, or insurance restrictions. Mismatches include: naltrexone for unmotivated patients, buprenorphine for high-tolerance users needing methadone, disulfiram with poor insight. Pharmacogenomic mismatches - poor metabolizers getting standard doses, non-responders to specific mechanisms. System factors often override clinical judgment.'
+  clinical_description: 'Failed selection presents as primary non-response (no improvement at 4 weeks), intolerable side effects requiring discontinuation, patient requesting medication change, or discovery of contraindications. Common errors: naltrexone without complete detoxification, buprenorphine for severe pain patients, ignoring hepatic impairment. Insurance mandates for ''fail-first'' create mismatches. Requires reassessment, alternative trials, addressing barriers. Multiple failures suggest need for specialized consultation.'
+  lay_description: When medication selection goes wrong, it's like being given the wrong key - no matter how hard you try, it doesn't work. The medication might make you feel worse, not help your cravings, or conflict with other health conditions. Sometimes insurance forces you to try cheaper options first even when the doctor knows something else would work better.
+  key_mediators: Mechanism mismatches, unrecognized genetic variants, drug interactions, comorbidity conflicts
+  key_mechanisms: Inappropriate mechanism selection, pharmacogenomic mismatches, contraindication oversight, system-imposed restrictions
+  clinical_relevance: Treatment delays, multiple failed trials, increased dropout risk, adverse events, loss of treatment confidence
+  assessment_methods: Treatment response monitoring, adverse event tracking, medication switch documentation, barrier assessments, satisfaction measures
+  interventions: Comprehensive reassessment, alternative medication trials, barrier removal, appeals for coverage, specialized consultation
+  prominent_models: Treatment failure cascade, system barrier framework, precision medicine gaps model

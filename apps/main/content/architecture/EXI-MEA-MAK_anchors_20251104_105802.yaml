@@ -1,0 +1,244 @@
+# Generated anchors for cluster: EXI-MEA-MAK
+# Timestamp: 20251104_105802
+
+anchors:
+- id: exi-mea-mak-sen-pur
+  label: Purposeful Sense-Making
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Active interpretation
+  - Clear sense-making
+  - Coherent understanding
+  scope: Represents the ability to actively and flexibly interpret life events with clarity, seeing multiple perspectives and understanding cause-effect relationships while maintaining openness to new interpretations.
+  parent_scope_inheritance: This anchor specifies the basic cognitive sense-making component of meaning-making processes, focusing on the immediate interpretation of events as they occur.
+  polarity_expression: Manifests as clear, flexible interpretation of experiences with the ability to generate coherent explanations and see events from multiple perspectives, versus confused or absent ability to make basic sense of what happens.
+  cross_domain_resonance: Resonates with adaptive cognitive processing (psy-cog-pro-ada) in generating understanding, regulated executive function (phy-neu-exc-reg) in organizing interpretations, and cohesive social understanding (soc-com-sha-coh) in shared meaning-making.
+  academic_description: Research on sense-making processes draws from cognitive psychology and phenomenology, examining how individuals actively construct understanding of their experiences. Studies show that flexible sense-making predicts better adaptation to adversity through enhanced cognitive flexibility and reduced rumination. Park's meaning-making model identifies sense-making as the initial appraisal process that triggers broader meaning-making efforts when discrepancies arise between global and situational meaning.
+  clinical_description: Clinicians assess sense-making through clients' ability to explain events in their lives, understand causality, and generate alternative interpretations. Interventions include Socratic questioning to explore interpretations, perspective-taking exercises to broaden understanding, and mindfulness practices to observe sense-making processes. Treatment focuses on developing cognitive flexibility, challenging rigid interpretations, and building capacity for nuanced understanding of complex situations.
+  lay_description: Purposeful sense-making is your ability to understand what's happening in your life and why. It's being able to look at situations and figure out what they mean, see them from different angles, and come up with explanations that make sense. When this is working well, you can understand cause and effect, learn from experiences, and adjust your understanding when you get new information.
+  foundational_themes: Understanding, interpretation, perspective-taking, cognitive clarity
+  experiential_processes: Active questioning of events, seeking patterns and connections, generating explanations, considering alternative viewpoints
+  personal_relevance: Enables learning from experience, adapting to new situations, and maintaining psychological equilibrium through understanding
+- id: exi-mea-mak-sen-dir
+  label: Directionless Sense-Making
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Interpretive confusion
+  - Sense-making paralysis
+  - Cognitive fog
+  scope: Represents confusion, rigidity, or absence in the ability to interpret and understand life events, characterized by inability to generate coherent explanations or see clear cause-effect relationships.
+  parent_scope_inheritance: This anchor specifies the dysfunctional aspect of basic sense-making within meaning-making processes, where the fundamental ability to interpret events is impaired or absent.
+  polarity_expression: Manifests as persistent confusion about what events mean, inability to understand why things happen, rigid adherence to single interpretations, or complete interpretive paralysis when faced with experiences.
+  cross_domain_resonance: Resonates with maladaptive cognitive processing (psy-cog-pro-mal) in distorted thinking, dysregulated executive function (phy-neu-exc-dys) in disorganized thought, and fragmented social understanding (soc-com-sha-fra) in isolation from shared meanings.
+  academic_description: Research identifies sense-making deficits as core features of existential crisis and meaning disruption. Studies show that interpretive confusion predicts poor recovery outcomes through increased distress, reduced learning from experience, and vulnerability to relapse. Cognitive rigidity in sense-making is associated with depression, anxiety, and substance use as individuals cannot flexibly adapt their understanding to new information.
+  clinical_description: Clinicians identify directionless sense-making through clients' inability to explain events, persistent 'I don't understand' statements, and overwhelming confusion about causality. Interventions include structured sense-making exercises with simple cause-effect mapping, psychoeducation about how events connect, and gradual building of interpretive skills. Treatment addresses both cognitive confusion and the anxiety it creates through supportive exploration and scaffolded meaning construction.
+  lay_description: Directionless sense-making is when you can't make heads or tails of what's happening in your life. Everything seems confusing, random, or overwhelming. You might not understand why things happen, can't see how events connect, or feel stuck with one rigid way of seeing things that doesn't help. It's like trying to read a book in a language you don't understand.
+  foundational_themes: Confusion, ambiguity, interpretive poverty, cognitive rigidity
+  experiential_processes: Overwhelming uncertainty, inability to connect events, rigid repetition of unhelpful interpretations, giving up on understanding
+  personal_relevance: Maintains suffering through inability to learn, adapt, or find clarity in life experiences
+- id: exi-mea-mak-ben-pur
+  label: Purposeful Benefit Finding
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Growth identification
+  - Post-traumatic growth
+  - Redemptive meaning
+  scope: Represents the ability to identify genuine growth, learning, and positive outcomes from adverse experiences, transforming suffering into wisdom and strength without denying the reality of pain.
+  parent_scope_inheritance: This anchor specifies the benefit-finding component of meaning-making processes, focusing on the specific ability to construct growth-oriented meanings from difficult experiences.
+  polarity_expression: Manifests as genuine recognition of learning and growth from adversity, ability to identify how struggles have contributed to development, and finding authentic silver linings while acknowledging real losses.
+  cross_domain_resonance: Resonates with adaptive emotional resilience (psy-emo-res-ada) in bouncing back stronger, cohesive peer support (soc-sup-pee-coh) in sharing growth stories, and purposeful spiritual growth (exi-spi-gro-pur) in finding sacred meaning in suffering.
+  academic_description: Benefit finding represents a specific meaning-making process linked to post-traumatic growth, where individuals identify positive changes following adversity. Research by Tedeschi and Calhoun shows that benefit finding predicts better psychological adjustment, increased life satisfaction, and sustained recovery. Studies indicate that authentic benefit finding differs from defensive denial, requiring genuine integration of both positive and negative aspects of experiences.
+  clinical_description: Clinicians facilitate benefit finding through structured exercises exploring what clients have learned from their struggles, how adversity has shaped their strengths, and what wisdom they've gained. Interventions include benefit-finding journaling, growth-focused group discussions, and gratitude practices that acknowledge both gifts and losses. Assessment involves distinguishing genuine growth recognition from forced positivity or denial of real pain.
+  lay_description: Purposeful benefit finding is recognizing the real ways you've grown from your struggles without pretending everything was worth it. It's seeing how facing addiction has made you stronger, more compassionate, or wiser, while still acknowledging the pain and losses. You might realize you're more resilient than you knew, have deeper empathy for others' struggles, or appreciate life in ways you couldn't before.
+  foundational_themes: Growth through adversity, wisdom from suffering, strength from struggle, authentic positivity
+  experiential_processes: Reflecting on lessons learned, identifying personal growth, recognizing increased capacities, appreciating hard-won wisdom
+  personal_relevance: Transforms past suffering into present strength, provides hope that struggles have meaning, motivates continued growth
+- id: exi-mea-mak-ben-dir
+  label: Directionless Benefit Finding
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Growth blindness
+  - Benefit absence
+  - Meaning poverty
+  scope: Represents inability to identify any positive outcomes or growth from adverse experiences, remaining stuck in narratives of pure loss, victimization, or meaningless suffering.
+  parent_scope_inheritance: This anchor specifies the dysfunctional aspect of benefit finding within meaning-making processes, where individuals cannot construct any growth-oriented meanings from their experiences.
+  polarity_expression: Manifests as seeing only losses and damage from adversity, inability to recognize any learning or growth, persistent victim narratives, and bitter resentment about experiences without any redemptive elements.
+  cross_domain_resonance: Resonates with maladaptive emotional regulation (psy-emo-reg-mal) in staying stuck in negative emotions, fragmented social support (soc-sup-pee-fra) in isolation through bitterness, and directionless spiritual connection (exi-spi-con-dir) in feeling abandoned by meaning.
+  academic_description: Research shows that inability to find benefits from adversity predicts prolonged distress, complicated grief, and poor recovery outcomes. Studies indicate this differs from realistic acknowledgment of losses, representing a cognitive rigidity that prevents meaning reconstruction. The absence of benefit finding is associated with rumination, depression, and increased relapse risk in addiction recovery.
+  clinical_description: Clinicians identify directionless benefit finding through persistent victim narratives, inability to identify any growth despite prompting, and bitter resentment that blocks meaning-making. Interventions begin with validating real losses before gently exploring possible learnings, using peer examples of growth, and starting with tiny recognitions of strength. Treatment addresses both the cognitive inability and emotional resistance to finding benefits.
+  lay_description: Directionless benefit finding is being unable to see anything good that came from your struggles. You're stuck seeing only what addiction took from you - the losses, damage, and wasted time - without recognizing any ways you've grown or learned. Everything feels like meaningless suffering with no silver lining, leaving you bitter and resentful about your experiences.
+  foundational_themes: Pure loss, meaningless suffering, victimization, bitter resentment
+  experiential_processes: Ruminating on damages, rejecting growth narratives, maintaining victim identity, resenting past experiences
+  personal_relevance: Maintains hopelessness and resentment that fuel continued suffering and relapse vulnerability
+- id: exi-mea-mak-rec-pur
+  label: Purposeful Meaning Reconstruction
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Assumptive world rebuilding
+  - Post-crisis integration
+  - Meaning restoration
+  scope: Represents successful rebuilding of coherent meaning frameworks following their disruption by trauma or crisis, integrating difficult experiences into renewed understanding of self, world, and future.
+  parent_scope_inheritance: This anchor specifies the reconstruction component of meaning-making processes, focusing on rebuilding shattered meaning structures after existential disruption.
+  polarity_expression: Manifests as successfully integrated trauma narratives, rebuilt worldviews that accommodate difficult experiences, restored sense of order and predictability, and renewed capacity for meaning despite past shattering.
+  cross_domain_resonance: Resonates with adaptive trauma processing (psy-tra-pro-ada) in integrating difficult memories, purposeful spiritual connection (exi-spi-con-pur) in finding transcendent meaning, and cohesive identity reformation (soc-rol-ide-coh) in rebuilding self-concept.
+  academic_description: Meaning reconstruction theory (Neimeyer) describes how individuals rebuild their assumptive worlds after trauma shatters fundamental beliefs. Research shows successful reconstruction involves accommodation rather than assimilation, creating new meaning structures that integrate trauma while maintaining coherence. Studies link successful meaning reconstruction to post-traumatic growth, reduced PTSD symptoms, and sustained recovery from addiction.
+  clinical_description: Clinicians facilitate meaning reconstruction through structured exploration of how trauma changed beliefs, what new understandings have emerged, and how to build coherent frameworks that include difficult experiences. Interventions include meaning-centered therapy, written exposure therapy for meaning integration, and existential approaches to rebuilding worldviews. Assessment focuses on the degree of integration versus ongoing fragmentation.
+  lay_description: Purposeful meaning reconstruction is successfully rebuilding your understanding of life after addiction or trauma shattered your old beliefs. It's creating a new worldview that makes room for what happened while still allowing you to move forward with hope. You develop new answers to big questions like 'Why do bad things happen?' and 'What's the point?' that help you make sense of your experiences.
+  foundational_themes: Integration after shattering, renewed coherence, accommodated worldview, restored order
+  experiential_processes: Rebuilding core beliefs, integrating trauma into life story, developing new frameworks for understanding, finding renewed meaning despite past disruption
+  personal_relevance: Enables moving forward after crisis, restores sense of safety and predictability, provides foundation for future growth
+- id: exi-mea-mak-rec-dir
+  label: Directionless Meaning Reconstruction
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Persistent shattering
+  - Meaning disruption
+  - Unintegrated trauma
+  scope: Represents ongoing inability to rebuild coherent meaning frameworks after their disruption, remaining stuck in shattered assumptions, unresolved existential questions, and fragmented understanding.
+  parent_scope_inheritance: This anchor specifies the dysfunctional aspect of meaning reconstruction within meaning-making processes, where shattered meanings remain unintegrated and disruptive.
+  polarity_expression: Manifests as persistent confusion after crisis, unresolved 'why me' questions, inability to make sense of trauma, fragmented worldview that cannot accommodate experiences, and ongoing existential disruption.
+  cross_domain_resonance: Resonates with maladaptive trauma responses (psy-tra-res-mal) in unprocessed trauma, directionless spiritual seeking (exi-spi-see-dir) in desperate search for answers, and fragmented identity (soc-rol-ide-fra) in shattered self-concept.
+  academic_description: Research on complicated grief and prolonged meaning disruption shows that some individuals cannot reconstruct coherent meanings after trauma. Studies indicate this involves both cognitive inability to integrate contradictory information and emotional resistance to accepting new realities. Persistent meaning disruption predicts PTSD, prolonged grief disorder, and increased vulnerability to substance use as coping.
+  clinical_description: Clinicians identify directionless reconstruction through persistent existential confusion, circular rumination on unanswerable questions, and fragmented narratives that cannot integrate trauma. Interventions include gentle trauma processing, graduated meaning exploration, and supportive presence while clients slowly rebuild. Treatment addresses both the cognitive fragmentation and existential anxiety of living without clear meanings.
+  lay_description: Directionless meaning reconstruction is being stuck in the wreckage of your old beliefs without being able to build new ones. After addiction or trauma shattered how you understood life, you can't seem to put the pieces back together in a way that makes sense. You're left with persistent confusion, unanswered 'why' questions, and a fragmented understanding that leaves you feeling lost.
+  foundational_themes: Shattered assumptions, persistent confusion, unresolved questions, fragmented understanding
+  experiential_processes: Circular rumination on trauma, inability to integrate experiences, persistent 'why me' questioning, living in existential limbo
+  personal_relevance: Maintains vulnerability through unresolved crisis, prevents moving forward, sustains existential anxiety
+- id: exi-mea-mak-nar-pur
+  label: Purposeful Narrative Coherence
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Integrated life story
+  - Coherent identity narrative
+  - Unified self-narrative
+  scope: Represents the construction and maintenance of a coherent life story that meaningfully connects past, present, and future experiences into an integrated narrative with clear themes and redemptive sequences.
+  parent_scope_inheritance: This anchor specifies the narrative coherence component of meaning-making processes, focusing on the temporal integration of experiences into a meaningful life story.
+  polarity_expression: Manifests as a well-integrated life narrative with clear chapters and connections, consistent themes across time, redemptive story arcs that transform suffering into growth, and coherent identity that links who one was, is, and is becoming.
+  cross_domain_resonance: Resonates with adaptive identity formation (psy-ide-for-ada) in coherent self-concept, cohesive role identity (soc-rol-ide-coh) in consistent social narrative, and purposeful life direction (exi-pur-lif-pur) in clear trajectory.
+  academic_description: Narrative identity theory (McAdams) shows that individuals construct life stories that provide unity and purpose. Research links narrative coherence to psychological wellbeing, with redemptive narratives (bad events leading to good outcomes) predicting better mental health and recovery outcomes. Studies show that coherent narratives involve temporal sequencing, causal connections, and thematic consistency that create meaning from disparate experiences.
+  clinical_description: Clinicians assess narrative coherence through clients' ability to tell their life story with clear connections between chapters, identify recurring themes, and construct redemptive sequences from difficult experiences. Interventions include narrative therapy techniques, life review exercises, timeline work to connect experiences, and guided autobiography. Treatment helps clients author coherent stories that support recovery identity.
+  lay_description: Purposeful narrative coherence is having a clear life story that makes sense of your journey. Your past, present, and future feel connected rather than random. You can see how different chapters of your life relate, identify themes that run through your experiences, and tell a story where even the difficult parts contributed to who you're becoming. It's like being the author of a book about your life that actually holds together.
+  foundational_themes: Life story integration, temporal connection, thematic consistency, redemptive meaning
+  experiential_processes: Connecting life chapters, identifying recurring themes, constructing redemptive sequences, maintaining story continuity
+  personal_relevance: Provides stable identity, guides future direction, makes sense of the journey, supports recovery narrative
+- id: exi-mea-mak-nar-dir
+  label: Directionless Narrative Coherence
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Fragmented life story
+  - Narrative incoherence
+  - Disconnected identity
+  scope: Represents fragmentation or absence of coherent life narrative, with disconnected episodes, missing connections between experiences, and inability to construct meaningful story arcs from one's life.
+  parent_scope_inheritance: This anchor specifies the dysfunctional aspect of narrative coherence within meaning-making processes, where life experiences remain disconnected fragments rather than integrated story.
+  polarity_expression: Manifests as disconnected life episodes that don't form a coherent whole, absence of clear themes or connections, contamination sequences where good leads to bad, and fragmented identity without narrative continuity.
+  cross_domain_resonance: Resonates with maladaptive identity confusion (psy-ide-con-mal) in unstable self-concept, fragmented role identity (soc-rol-ide-fra) in inconsistent self-presentation, and directionless life purpose (exi-pur-lif-dir) in absence of direction.
+  academic_description: Research shows that narrative incoherence predicts psychological distress, identity diffusion, and poor recovery outcomes. Studies identify contamination sequences (good events leading to bad) as particularly problematic, associated with depression and relapse. Fragmented narratives lack the temporal, causal, and thematic connections that create meaning, leaving individuals without coherent identity or direction.
+  clinical_description: Clinicians identify narrative fragmentation through disjointed life stories, inability to connect experiences, absent or contradictory themes, and identity confusion. Interventions include structured story reconstruction, chapter work to build connections, identity exploration exercises, and gradual narrative building. Treatment addresses both the cognitive challenge of connection-making and the anxiety of living without coherent story.
+  lay_description: Directionless narrative coherence is having a life that feels like random, disconnected episodes rather than a meaningful story. You can't see how different parts of your life connect, there's no clear thread running through your experiences, and you're not sure who you really are because your story doesn't hold together. It's like having a bunch of scattered pages instead of a book.
+  foundational_themes: Disconnected episodes, absent themes, identity confusion, narrative fragmentation
+  experiential_processes: Living in isolated moments, inability to connect experiences, lacking life themes, experiencing identity instability
+  personal_relevance: Maintains identity confusion, prevents learning from experience, leaves one directionless without guiding story
+- id: exi-mea-mak-int-pur
+  label: Purposeful Interpretive Frameworks
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Flexible worldviews
+  - Adaptive schemas
+  - Balanced frameworks
+  scope: Represents flexible, adaptive interpretive schemas and worldviews that accommodate complexity, update with new information, and provide balanced frameworks for understanding diverse experiences.
+  parent_scope_inheritance: This anchor specifies the interpretive framework component of meaning-making processes, focusing on the underlying schemas and worldviews that shape how all experiences are interpreted.
+  polarity_expression: Manifests as nuanced understanding that embraces complexity, worldviews that flexibly accommodate new information, balanced interpretations avoiding extremes, and adaptive schemas that support growth while maintaining stability.
+  cross_domain_resonance: Resonates with adaptive cognitive schemas (psy-cog-sch-ada) in flexible thinking patterns, adaptive core beliefs (psy-bel-cor-ada) in supportive assumptions, and cohesive cultural frameworks (soc-cul-val-coh) in integrated worldviews.
+  academic_description: Schema theory and worldview research show that interpretive frameworks fundamentally shape meaning-making. Studies indicate that flexible schemas predict better adaptation through accommodation of new information without losing coherence. Research on dialectical thinking shows that frameworks embracing paradox and complexity support psychological wellbeing and recovery, while rigid or overly simplistic frameworks maintain pathology.
+  clinical_description: Clinicians assess interpretive frameworks through clients' underlying assumptions about self, world, and others, examining flexibility versus rigidity in these schemas. Interventions include schema therapy to modify maladaptive frameworks, dialectical behavior therapy for developing both/and thinking, and philosophical exploration of worldviews. Treatment helps develop frameworks that are both stable enough to provide meaning and flexible enough to grow.
+  lay_description: Purposeful interpretive frameworks are the balanced lenses through which you see and understand life. They're flexible enough to handle life's complexity - seeing shades of gray rather than just black and white - but stable enough to give you solid ground to stand on. These frameworks help you make sense of new experiences while being open to updating your understanding when you learn something new.
+  foundational_themes: Cognitive flexibility, balanced perspective, nuanced understanding, adaptive worldview
+  experiential_processes: Accommodating new information, holding multiple perspectives, updating beliefs based on experience, maintaining both stability and flexibility
+  personal_relevance: Enables adaptive responses to varied situations, supports continued growth, provides stable yet flexible meaning foundation
+- id: exi-mea-mak-int-dir
+  label: Directionless Interpretive Frameworks
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning-Making Processes
+  cluster_id: exi-mea-mak
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Rigid schemas
+  - Interpretive poverty
+  - Black-white thinking
+  scope: Represents rigid, impoverished, or absent interpretive frameworks characterized by all-or-nothing thinking, inability to accommodate complexity, and schemas that distort rather than clarify understanding.
+  parent_scope_inheritance: This anchor specifies the dysfunctional aspect of interpretive frameworks within meaning-making processes, where underlying schemas are too rigid, simplistic, or absent to support adaptive meaning-making.
+  polarity_expression: Manifests as all-or-nothing thinking that cannot handle nuance, rigid schemas that reject contradictory information, interpretive poverty that reduces everything to simple categories, and worldviews that distort rather than clarify reality.
+  cross_domain_resonance: Resonates with maladaptive cognitive distortions (psy-cog-dis-mal) in thinking errors, maladaptive core beliefs (psy-bel-lim-mal) in destructive assumptions, and fragmented value systems (soc-cul-val-fra) in contradictory frameworks.
+  academic_description: Research on cognitive rigidity shows that inflexible interpretive frameworks predict poor outcomes across psychological disorders. Studies indicate that black-white thinking, inability to accommodate paradox, and overly simplistic schemas maintain addiction through inability to adapt to complex realities. Interpretive poverty - having few or impoverished frameworks - leaves individuals unable to make nuanced sense of experiences.
+  clinical_description: Clinicians identify rigid frameworks through all-or-nothing statements, inability to see middle ground, rejection of contradictory information, and oversimplified worldviews. Interventions include cognitive restructuring to introduce nuance, dialectical exercises exploring both/and perspectives, and gradual schema modification. Treatment addresses both the cognitive inflexibility and the anxiety that complexity can trigger.
+  lay_description: Directionless interpretive frameworks are rigid or overly simple ways of understanding life that keep you stuck. You might see everything in black and white terms - people are all good or all bad, you're either perfect or a failure. These rigid lenses can't handle life's complexity, so you either force everything into narrow categories or feel overwhelmed when reality doesn't fit your simple frameworks.
+  foundational_themes: Cognitive rigidity, all-or-nothing thinking, oversimplification, interpretive poverty
+  experiential_processes: Forcing experiences into rigid categories, rejecting contradictory information, maintaining simplistic worldviews, distorting reality to fit schemas
+  personal_relevance: Maintains maladaptive patterns through distorted interpretations, prevents growth through inflexibility, creates suffering through inability to accommodate complexity

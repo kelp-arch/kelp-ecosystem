@@ -1,0 +1,364 @@
+# Generated anchors for cluster: PSY-COG-EXE
+# Timestamp: 20251103_162303
+
+anchors:
+- id: psy-cog-exe-inh-ada
+  label: Intact Response Inhibition
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Inhibitory control
+  - Response suppression
+  - Impulse control
+  - Behavioral inhibition
+  scope: Represents efficient suppression of prepotent responses and interruption of ongoing behaviors. Encompasses stop-signal performance, go/no-go accuracy, and the ability to override automatic reactions in favor of goal-appropriate responses.
+  parent_scope_inheritance: Specifies the response inhibition component of executive control, focusing on the ability to suppress inappropriate actions and resist impulses that interfere with goal achievement.
+  polarity_expression: Manifests as quick and accurate stopping ability, low commission errors, successful impulse control, and the capacity to interrupt drug-seeking behaviors when necessary.
+  cross_domain_resonance: Resonates with phy-neu-pfc-inh-reg (prefrontal inhibitory regulation), soc-fam-bou-lim-coh (cohesive family limits), and exi-mea-val-int-pur (purposeful value integration).
+  academic_description: Intact response inhibition involves efficient prefrontal control over motor and cognitive responses, measured through stop-signal reaction time and go/no-go task performance. Research shows strong right inferior frontal gyrus activation during successful inhibition, with intact white matter connectivity between frontal control regions. Studies demonstrate that individuals with preserved inhibitory control show better treatment outcomes and lower relapse rates.
+  clinical_description: Strong response inhibition allows clients to pause before acting on cravings or impulses. Assessment uses stop-signal and go/no-go tasks to measure stopping speed and accuracy. Interventions include inhibitory control training with progressively challenging stop-signal exercises, mindfulness practices emphasizing the pause between urge and action, and implementation intentions that pre-plan inhibitory responses to high-risk situations.
+  lay_description: Having good impulse control means you can hit the brakes when needed - stopping yourself from doing something you'll regret, resisting that first impulse to use, or catching yourself before falling into old patterns. It's like having a reliable emergency brake that actually works when you need it most.
+  core_components:
+  - Motor response suppression
+  - Cognitive inhibition
+  - Interference control
+  associated_processes:
+  - Right inferior frontal activation
+  - Subthalamic nucleus engagement
+  - Pre-supplementary motor area recruitment
+- id: psy-cog-exe-inh-mal
+  label: Impaired Response Inhibition
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Disinhibition
+  - Poor impulse control
+  - Response perseveration
+  - Behavioral dyscontrol
+  scope: Represents deficient suppression of prepotent responses and inability to interrupt ongoing behaviors. Encompasses slow stop-signal reaction times, high commission errors on go/no-go tasks, and failure to override automatic reactions.
+  parent_scope_inheritance: Specifies the response inhibition deficit within executive dysfunction, focusing on the inability to suppress inappropriate actions and resist impulses that undermine recovery goals.
+  polarity_expression: Manifests as slow or failed stopping, frequent commission errors, poor impulse control, and inability to interrupt drug-seeking behaviors despite negative consequences.
+  cross_domain_resonance: Resonates with phy-neu-pfc-inh-dys (prefrontal inhibitory dysregulation), soc-fam-bou-cha-fra (fragmented family boundaries), and exi-mea-val-con-dir (directionless value conflicts).
+  academic_description: Impaired response inhibition reflects compromised prefrontal control, evidenced by prolonged stop-signal reaction times and elevated commission errors. Neuroimaging reveals hypoactivation in right inferior frontal gyrus and pre-supplementary motor area during inhibition attempts. This deficit predicts higher relapse rates, with studies showing correlation between poor inhibitory control and treatment dropout.
+  clinical_description: Weak response inhibition makes it extremely difficult to resist cravings or stop drug-seeking once initiated. Assessment reveals slow stopping speeds and frequent false alarms on inhibitory tasks. Treatment focuses on cognitive remediation through graduated inhibitory control training, external structure and accountability systems, and medications like naltrexone that reduce the urgency of impulses.
+  lay_description: When your mental brakes don't work well, you act on impulses before thinking them through - grabbing that drink, making that call to your dealer, or saying yes when you meant to say no. It feels like watching yourself do things you don't want to do, unable to stop the momentum once it starts.
+  core_components:
+  - Delayed response suppression
+  - Cognitive disinhibition
+  - Interference susceptibility
+  associated_processes:
+  - Right inferior frontal hypoactivation
+  - Reduced subthalamic nucleus signaling
+  - Compromised inhibitory networks
+- id: psy-cog-exe-flx-ada
+  label: Cognitive Flexibility
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Mental flexibility
+  - Set-shifting ability
+  - Cognitive adaptability
+  - Task switching efficiency
+  scope: Represents the ability to shift between mental sets, adapt to changing rules, and switch perspectives flexibly. Encompasses Wisconsin Card Sort performance, task-switching efficiency, and the capacity to abandon ineffective strategies for new approaches.
+  parent_scope_inheritance: Specifies the cognitive flexibility component of executive control, focusing on mental agility and adaptability necessary for adjusting strategies in response to changing demands or feedback.
+  polarity_expression: Manifests as low perseverative errors, smooth transitions between tasks or rules, creative problem-solving, and the ability to see situations from multiple perspectives.
+  cross_domain_resonance: Resonates with phy-neu-pfc-cog-reg (regulated prefrontal cognition), soc-com-sup-ada-coh (cohesive adaptive support), and exi-gro-tra-opn-pur (purposeful transformational openness).
+  academic_description: Cognitive flexibility involves efficient shifting between mental sets mediated by lateral prefrontal and anterior cingulate cortex. Strong performance on set-shifting tasks correlates with better treatment engagement and ability to implement new coping strategies. Research shows that preserved flexibility predicts successful behavior change and reduced rigid drug-seeking patterns.
+  clinical_description: Good cognitive flexibility allows clients to break out of rigid thinking patterns and try new approaches to problems. Assessment uses Wisconsin Card Sort and task-switching paradigms to measure set-shifting ability. Interventions include cognitive flexibility training with rule-switching exercises, perspective-taking activities, and practicing alternative problem-solving strategies.
+  lay_description: Mental flexibility is like being able to change gears smoothly - when one approach isn't working, you can shift to try something different. Instead of getting stuck doing the same thing over and over, you can adapt, see things from new angles, and find creative solutions to challenges.
+  core_components:
+  - Mental set shifting
+  - Rule switching
+  - Perspective taking
+  associated_processes:
+  - Lateral prefrontal activation
+  - Anterior cingulate engagement
+  - Cognitive control network coordination
+- id: psy-cog-exe-flx-mal
+  label: Cognitive Rigidity
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Mental inflexibility
+  - Perseveration
+  - Set-shifting impairment
+  - Cognitive perseveration
+  scope: Represents inability to shift between mental sets, difficulty adapting to rule changes, and perseveration on ineffective strategies. Encompasses high perseverative errors on Wisconsin Card Sort, poor task-switching performance, and inability to abandon failed approaches.
+  parent_scope_inheritance: Specifies the cognitive inflexibility deficit within executive dysfunction, focusing on mental rigidity that prevents adaptive responses to changing circumstances or negative feedback.
+  polarity_expression: Manifests as high perseverative errors, difficulty with transitions, repetition of failed strategies, and inability to consider alternative perspectives or solutions.
+  cross_domain_resonance: Resonates with phy-neu-pfc-cog-dys (dysregulated prefrontal cognition), soc-com-sup-rig-fra (fragmented rigid support), and exi-gro-tra-sta-dir (directionless transformational stagnation).
+  academic_description: Cognitive rigidity reflects impaired set-shifting associated with lateral prefrontal and anterior cingulate dysfunction. High perseverative errors on neuropsychological tasks predict poor treatment response and maintained drug-seeking despite negative consequences. Studies show correlation between cognitive inflexibility and inability to implement new coping strategies.
+  clinical_description: Cognitive rigidity traps clients in repetitive thinking patterns and failed strategies. Assessment reveals high perseveration and difficulty adapting to rule changes. Treatment involves structured cognitive remediation with graduated set-shifting exercises, behavioral activation to break routine patterns, and explicit practice of alternative responses to triggers.
+  lay_description: Mental rigidity feels like being stuck in a rut - doing the same thing over and over even when it's not working. You can't seem to think outside the box or try new approaches. It's like your mind is locked in one gear and you can't shift no matter how hard you try.
+  core_components:
+  - Perseverative responding
+  - Rule learning deficits
+  - Fixed perspective
+  associated_processes:
+  - Lateral prefrontal hypoactivation
+  - Anterior cingulate dysfunction
+  - Disrupted cognitive control networks
+- id: psy-cog-exe-upd-ada
+  label: Efficient Working Memory Updating
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Working memory efficiency
+  - Information updating
+  - Mental workspace integrity
+  - Active memory maintenance
+  scope: Represents the ability to maintain and manipulate information in working memory while efficiently updating with new relevant information. Encompasses n-back task performance, running span ability, and capacity to hold and update mental representations.
+  parent_scope_inheritance: Specifies the working memory updating component of executive control, focusing on the dynamic maintenance and manipulation of information necessary for goal-directed behavior.
+  polarity_expression: Manifests as high n-back accuracy, efficient information updating, ability to maintain multiple goals simultaneously, and successful integration of new information with existing mental representations.
+  cross_domain_resonance: Resonates with phy-neu-hip-mem-reg (regulated hippocampal memory), soc-edu-lea-ret-coh (cohesive learning retention), and exi-awa-pre-foc-pur (purposeful present focus).
+  academic_description: Efficient updating involves dorsolateral prefrontal cortex and parietal regions maintaining and refreshing working memory contents. Strong n-back performance correlates with ability to maintain recovery goals during challenging situations. Research shows that preserved updating capacity predicts better treatment adherence and goal achievement.
+  clinical_description: Strong working memory updating allows clients to keep recovery goals active while managing daily demands. Assessment uses n-back and running span tasks to measure updating efficiency. Interventions include computerized working memory training, dual-task exercises to strengthen capacity, and strategies for maintaining goal salience during high-risk situations.
+  lay_description: Good working memory updating is like having a reliable mental notepad that keeps important information fresh and accessible. You can juggle multiple thoughts, remember why you're staying sober even when stressed, and update your mental game plan as situations change.
+  core_components:
+  - Information maintenance
+  - Mental manipulation
+  - Content updating
+  associated_processes:
+  - Dorsolateral prefrontal activation
+  - Parietal cortex engagement
+  - Frontoparietal network coordination
+- id: psy-cog-exe-upd-mal
+  label: Working Memory Updating Failures
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Working memory deficits
+  - Updating impairment
+  - Mental workspace dysfunction
+  - Active memory failures
+  scope: Represents inability to maintain and update information in working memory, with poor manipulation of mental contents. Encompasses low n-back performance, poor running span, and failure to update mental representations with new information.
+  parent_scope_inheritance: Specifies the working memory updating deficit within executive dysfunction, focusing on impaired information maintenance and manipulation that undermines goal-directed behavior.
+  polarity_expression: Manifests as poor n-back performance, frequent loss of task goals, inability to juggle multiple objectives, and failure to integrate new information with existing plans.
+  cross_domain_resonance: Resonates with phy-neu-hip-mem-dys (dysregulated hippocampal memory), soc-edu-lea-for-fra (fragmented learning forgetting), and exi-awa-pre-dis-dir (directionless present distraction).
+  academic_description: Updating failures reflect dorsolateral prefrontal and parietal dysfunction disrupting working memory maintenance and refresh operations. Poor n-back performance predicts difficulty maintaining recovery goals under stress. Studies show correlation between updating deficits and treatment dropout when cognitive demands increase.
+  clinical_description: Working memory updating failures cause clients to lose track of recovery goals when stressed or distracted. Assessment reveals poor n-back performance and difficulty with mental manipulation tasks. Treatment includes structured working memory training programs, external memory aids and reminders, and simplification of goals into manageable chunks.
+  lay_description: When working memory updating fails, it's like having a mental notepad that keeps getting erased - you forget why you're staying sober when things get stressful, lose track of your coping strategies, and can't seem to hold onto important information when you need it most.
+  core_components:
+  - Information loss
+  - Manipulation deficits
+  - Update failures
+  associated_processes:
+  - Dorsolateral prefrontal hypoactivation
+  - Parietal cortex dysfunction
+  - Frontoparietal network disruption
+- id: psy-cog-exe-gol-ada
+  label: Sustained Goal Maintenance
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Goal persistence
+  - Objective maintenance
+  - Sustained motivation
+  - Goal-directed focus
+  scope: Represents the ability to maintain task goals and objectives over extended periods despite distractions or competing demands. Encompasses sustained attention to goals, resistance to goal-irrelevant information, and consistent goal-directed behavior.
+  parent_scope_inheritance: Specifies the goal maintenance aspect of executive control, focusing on the sustained representation of objectives that guide behavior toward desired outcomes over time.
+  polarity_expression: Manifests as consistent pursuit of long-term objectives, resistance to distraction from goals, maintained motivation despite setbacks, and clear prioritization of goal-relevant activities.
+  cross_domain_resonance: Resonates with phy-neu-dop-mot-reg (regulated dopamine motivation), soc-com-sup-con-coh (cohesive consistent support), and exi-mea-pur-cla-pur (purposeful purpose clarity).
+  academic_description: Sustained goal maintenance involves anterior prefrontal cortex maintaining abstract representations of goals that bias processing in posterior regions. Strong goal maintenance predicts treatment completion and long-term recovery success. Research shows correlation between goal maintenance capacity and ability to resist immediate rewards for long-term benefits.
+  clinical_description: Strong goal maintenance helps clients stay focused on recovery objectives despite cravings or setbacks. Assessment examines consistency of goal-directed behavior and resistance to distraction. Interventions include goal management training breaking down complex objectives, implementation intentions linking goals to specific contexts, and value clarification exercises to strengthen goal salience.
+  lay_description: Good goal maintenance means keeping your eyes on the prize - remembering why you're in recovery even when things get tough, staying focused on what matters most, and not getting sidetracked by temporary temptations or setbacks.
+  core_components:
+  - Goal representation
+  - Sustained attention to objectives
+  - Distraction resistance
+  associated_processes:
+  - Anterior prefrontal activation
+  - Top-down biasing signals
+  - Goal-context binding
+- id: psy-cog-exe-gol-mal
+  label: Goal Neglect
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Goal abandonment
+  - Objective drift
+  - Motivational failure
+  - Goal disengagement
+  scope: Represents failure to maintain task goals and objectives, with frequent loss of focus on intended outcomes. Encompasses goal forgetting, susceptibility to distraction, and inconsistent goal-directed behavior.
+  parent_scope_inheritance: Specifies the goal maintenance deficit within executive dysfunction, focusing on the failure to sustain objective representations that should guide behavior toward desired outcomes.
+  polarity_expression: Manifests as frequent abandonment of objectives, easy distraction from goals, loss of motivation, and prioritization of immediate impulses over long-term objectives.
+  cross_domain_resonance: Resonates with phy-neu-dop-mot-dys (dysregulated dopamine motivation), soc-com-sup-inc-fra (fragmented inconsistent support), and exi-mea-pur-amb-dir (directionless purpose ambiguity).
+  academic_description: Goal neglect reflects anterior prefrontal dysfunction failing to maintain goal representations that should bias ongoing processing. Poor goal maintenance predicts treatment dropout and relapse. Studies show individuals with goal neglect struggle to delay gratification and frequently abandon recovery attempts.
+  clinical_description: Goal neglect causes clients to lose sight of recovery objectives when faced with cravings or stress. Assessment reveals inconsistent goal pursuit and high distractibility. Treatment focuses on external goal reminders and accountability, breaking goals into immediate actionable steps, and frequent goal review sessions to maintain salience.
+  lay_description: Goal neglect feels like constantly forgetting what you're working toward - you start with good intentions but quickly lose focus, get distracted by immediate wants, or simply forget why recovery mattered to you in the first place.
+  core_components:
+  - Goal forgetting
+  - Objective abandonment
+  - Distraction susceptibility
+  associated_processes:
+  - Anterior prefrontal hypoactivation
+  - Weak top-down signals
+  - Goal-context dissociation
+- id: psy-cog-exe-int-ada
+  label: Efficient Interference Resolution
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Conflict monitoring
+  - Interference control
+  - Cognitive conflict resolution
+  - Response competition management
+  scope: Represents the ability to detect and resolve conflicts between competing responses, thoughts, or information streams. Encompasses Stroop and flanker task performance, managing response competition, and maintaining focus despite interference.
+  parent_scope_inheritance: Specifies the interference resolution component of executive control, focusing on the detection and resolution of cognitive conflicts that could derail goal-directed behavior.
+  polarity_expression: Manifests as low Stroop interference effects, accurate flanker task performance, quick conflict detection, and successful management of competing demands without losing focus.
+  cross_domain_resonance: Resonates with phy-neu-acc-con-reg (regulated anterior cingulate conflict), soc-env-tri-man-coh (cohesive trigger management), and exi-awa-min-acc-pur (purposeful mindful acceptance).
+  academic_description: Efficient interference resolution involves anterior cingulate cortex detecting conflicts and recruiting lateral prefrontal regions for resolution. Low interference susceptibility predicts better craving management and ability to maintain recovery focus despite competing demands. Research shows strong conflict monitoring correlates with successful navigation of high-risk situations.
+  clinical_description: Strong interference resolution helps clients manage competing thoughts and urges without losing recovery focus. Assessment uses Stroop and flanker tasks to measure interference effects. Interventions include conflict monitoring training, attention training to reduce interference susceptibility, and mindfulness practices to observe conflicts without engagement.
+  lay_description: Good interference resolution is like having a skilled traffic controller in your mind - when different thoughts, urges, or demands compete for attention, you can sort through the noise, focus on what matters, and not get pulled off course by distractions.
+  core_components:
+  - Conflict detection
+  - Interference suppression
+  - Selective attention
+  associated_processes:
+  - Anterior cingulate activation
+  - Lateral prefrontal recruitment
+  - Conflict monitoring networks
+- id: psy-cog-exe-int-mal
+  label: Poor Interference Resolution
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Conflict vulnerability
+  - Interference susceptibility
+  - Cognitive conflict impairment
+  - Response competition failure
+  scope: Represents inability to detect or resolve conflicts between competing responses, with high susceptibility to interference. Encompasses large Stroop interference effects, flanker task errors, and loss of focus when facing competing demands.
+  parent_scope_inheritance: Specifies the interference resolution deficit within executive dysfunction, focusing on impaired conflict detection and resolution that allows competing responses to disrupt goal-directed behavior.
+  polarity_expression: Manifests as large Stroop interference effects, frequent flanker errors, delayed or failed conflict detection, and being overwhelmed by competing thoughts or demands.
+  cross_domain_resonance: Resonates with phy-neu-acc-con-dys (dysregulated anterior cingulate conflict), soc-env-tri-vul-fra (fragmented trigger vulnerability), and exi-awa-min-rea-dir (directionless mindless reactivity).
+  academic_description: Poor interference resolution reflects anterior cingulate hypoactivation failing to detect conflicts and recruit control regions. High interference susceptibility predicts difficulty managing cravings when facing competing stimuli. Studies show correlation between poor conflict resolution and relapse in complex environments.
+  clinical_description: Poor interference resolution leaves clients overwhelmed when facing competing thoughts or urges. Assessment reveals large interference effects and difficulty with conflict tasks. Treatment includes structured environments to reduce conflicts, cognitive control training with graduated interference, and stress reduction to improve conflict management capacity.
+  lay_description: Poor interference resolution feels like mental chaos - when different thoughts, cravings, or demands hit at once, you can't sort through them. Everything feels equally urgent and important, pulling you in different directions until you're paralyzed or act impulsively.
+  core_components:
+  - Conflict detection failure
+  - Interference vulnerability
+  - Attention capture
+  associated_processes:
+  - Anterior cingulate hypoactivation
+  - Weak prefrontal recruitment
+  - Disrupted conflict monitoring
+- id: psy-cog-exe-mon-ada
+  label: Accurate Performance Monitoring
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Error detection
+  - Self-monitoring
+  - Performance awareness
+  - Metacognitive monitoring
+  scope: Represents the ability to monitor ongoing performance, detect errors, and make appropriate adjustments. Encompasses error awareness, post-error adjustments, and continuous performance evaluation for optimization.
+  parent_scope_inheritance: Specifies the performance monitoring component of executive control, focusing on the metacognitive awareness and adjustment processes that enable behavioral correction and improvement.
+  polarity_expression: Manifests as quick error detection, consistent post-error slowing, accurate self-assessment of performance, and proactive adjustments to prevent future mistakes.
+  cross_domain_resonance: Resonates with phy-neu-acc-err-reg (regulated error processing), soc-the-out-mon-coh (cohesive outcome monitoring), and exi-gro-lea-ref-pur (purposeful learning reflection).
+  academic_description: Accurate performance monitoring involves medial frontal cortex generating error-related negativity and recruiting control regions for adjustment. Strong error awareness predicts better treatment response and ability to learn from lapses. Research shows intact monitoring correlates with successful behavior change and relapse prevention.
+  clinical_description: Strong performance monitoring helps clients recognize and correct mistakes before they escalate. Assessment examines error awareness and post-error adjustments. Interventions include metacognitive training to enhance self-awareness, error monitoring exercises with feedback, and developing personal early warning systems for lapse detection.
+  lay_description: Good performance monitoring is like having an internal quality control system - you notice when you're starting to slip, catch mistakes quickly, and adjust your approach before small problems become big ones. You're aware of how you're doing and can course-correct as needed.
+  core_components:
+  - Error awareness
+  - Performance evaluation
+  - Behavioral adjustment
+  associated_processes:
+  - Error-related negativity
+  - Medial frontal activation
+  - Post-error recruitment
+- id: psy-cog-exe-mon-mal
+  label: Reduced Error Awareness
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Executive Control
+  cluster_id: psy-cog-exe
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Error blindness
+  - Self-monitoring failure
+  - Performance unawareness
+  - Metacognitive deficit
+  scope: Represents failure to monitor performance, detect errors, or make corrections. Encompasses lack of error awareness, absent post-error adjustments, and inability to evaluate or improve performance.
+  parent_scope_inheritance: Specifies the performance monitoring deficit within executive dysfunction, focusing on impaired metacognitive awareness that prevents behavioral correction and perpetuates mistakes.
+  polarity_expression: Manifests as undetected errors, no post-error slowing, inaccurate self-assessment, and repetition of mistakes without learning or adjustment.
+  cross_domain_resonance: Resonates with phy-neu-acc-err-dys (dysregulated error processing), soc-the-out-neg-fra (fragmented outcome neglect), and exi-gro-lea-sta-dir (directionless learning stagnation).
+  academic_description: Reduced error awareness reflects medial frontal dysfunction with diminished error-related negativity and failure to recruit control regions. Poor error detection predicts repeated lapses and inability to learn from mistakes. Studies show correlation between reduced monitoring and chronic relapse patterns.
+  clinical_description: Reduced error awareness prevents clients from recognizing when they're heading toward relapse. Assessment reveals absent error detection and no post-error adjustments. Treatment includes external monitoring and feedback systems, structured self-monitoring logs with review, and building awareness through mindfulness and therapy feedback.
+  lay_description: Poor performance monitoring means you don't notice when things are going wrong - you repeat the same mistakes without realizing it, miss warning signs of relapse, and can't seem to learn from experience because you're not aware of what needs to change.
+  core_components:
+  - Error blindness
+  - Performance neglect
+  - Adjustment failure
+  associated_processes:
+  - Reduced error-related negativity
+  - Medial frontal hypoactivation
+  - Absent post-error recruitment

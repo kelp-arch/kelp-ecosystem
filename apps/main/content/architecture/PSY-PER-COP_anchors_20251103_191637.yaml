@@ -1,0 +1,324 @@
+# Generated anchors for cluster: PSY-PER-COP
+# Timestamp: 20251103_191637
+
+anchors:
+- id: psy-per-cop-prb-ada
+  label: Problem-Focused Coping
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Active coping
+  - Problem-solving coping
+  - Task-oriented coping
+  - Instrumental coping
+  scope: Encompasses direct action-oriented approaches to managing stressors through systematic problem-solving, planning, and active engagement with challenges as an enduring personality-based coping style.
+  parent_scope_inheritance: Specifies the problem-focused dimension of coping styles involving characteristic patterns of directly addressing stressors through planning and action rather than avoiding or managing emotions.
+  polarity_expression: Manifests as systematic problem analysis with effective action planning and resource mobilization versus behavioral paralysis and inability to engage directly with solvable problems.
+  cross_domain_resonance: Resonates with phy-neu-exe-reg (executive function), soc-rel-sup-coh (support mobilization), and exi-age-act-pur (purposeful action) in coordinated problem-solving capacity.
+  academic_description: Problem-focused coping involves cognitive and behavioral efforts directed at managing or altering the problem causing distress. Research demonstrates associations with better psychological adjustment, lower substance use, and improved recovery outcomes when stressors are controllable.
+  clinical_description: Assessment through COPE inventory problem-focused subscales and clinical interview. Interventions include problem-solving therapy, action planning training, and behavioral activation to enhance direct coping capacity critical for managing recovery challenges.
+  lay_description: The ability to tackle problems head-on by making plans, taking action, and finding practical solutions rather than avoiding issues or just dealing with feelings about them.
+  core_components:
+  - Problem analysis and definition
+  - Solution generation and evaluation
+  - Action planning and implementation
+  - Resource mobilization
+  associated_processes:
+  - Executive function engagement
+  - Goal-directed behavior
+  - Self-efficacy beliefs
+  - Instrumental support-seeking
+- id: psy-per-cop-prb-mal
+  label: Problem-Focused Deficits
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Passive coping
+  - Problem avoidance
+  - Behavioral disengagement
+  - Learned helplessness
+  scope: Encompasses persistent inability or unwillingness to engage directly with solvable problems, characterized by procrastination, paralysis, and avoidance of action-oriented solutions as a stable maladaptive pattern.
+  parent_scope_inheritance: Specifies the maladaptive problem-focused dimension where individuals consistently fail to address stressors directly, contributing to stress accumulation and substance use as alternative coping.
+  polarity_expression: Manifests as chronic procrastination, planning deficits, and behavioral paralysis in face of challenges versus systematic engagement with problems through planning and action.
+  cross_domain_resonance: Resonates with phy-neu-exe-dys (executive dysfunction), soc-rel-sup-fra (support avoidance), and exi-age-act-dir (directionless behavior) in impaired problem-solving capacity.
+  academic_description: Problem-focused deficits involve consistent failure to engage in direct action despite controllable stressors. Associated with learned helplessness, depression, anxiety, and increased substance use as compensatory coping mechanism.
+  clinical_description: Identified through behavioral observation of procrastination and avoidance patterns. Treatment includes behavioral activation, graded task assignment, and executive function training to build problem-engagement capacity.
+  lay_description: Getting stuck and unable to take action on problems, putting things off indefinitely, or feeling paralyzed when facing challenges that could be addressed with planning and effort.
+  core_components:
+  - Problem avoidance patterns
+  - Planning deficits
+  - Procrastination tendencies
+  - Helplessness beliefs
+  associated_processes:
+  - Executive dysfunction
+  - Low self-efficacy
+  - Behavioral inhibition
+  - Stress accumulation
+- id: psy-per-cop-emo-ada
+  label: Emotion-Focused Coping
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Emotional regulation coping
+  - Acceptance-based coping
+  - Cognitive reframing
+  - Adaptive emotional processing
+  scope: Encompasses healthy management of emotional responses to stress through acceptance, cognitive reframing, appropriate expression, and distress tolerance as stable adaptive coping patterns.
+  parent_scope_inheritance: Specifies the emotion-focused dimension involving characteristic patterns of managing emotional responses to stress through acceptance and reframing rather than rumination or suppression.
+  polarity_expression: Manifests as emotional awareness with acceptance and positive reframing versus emotional dysregulation with rumination, catastrophizing, and overwhelming distress.
+  cross_domain_resonance: Resonates with phy-neu-emo-reg (emotion regulation), psy-emo-reg-ada (emotional regulation), and exi-mea-acc-pur (acceptance) in emotional resilience.
+  academic_description: Adaptive emotion-focused coping involves regulating emotional responses through acceptance, reappraisal, and appropriate expression. Associated with psychological flexibility, resilience, and reduced substance use for emotional numbing.
+  clinical_description: Assessed through emotional coping subscales and distress tolerance measures. Interventions include mindfulness training, ACT, cognitive restructuring, and emotion regulation skills training essential for managing triggers.
+  lay_description: The ability to handle difficult emotions through acceptance, finding new perspectives, and expressing feelings appropriately rather than getting overwhelmed or trying to numb them with substances.
+  core_components:
+  - Emotional awareness and acceptance
+  - Cognitive reframing abilities
+  - Distress tolerance capacity
+  - Appropriate emotional expression
+  associated_processes:
+  - Mindfulness and present-moment awareness
+  - Cognitive flexibility
+  - Self-compassion
+  - Emotional intelligence
+- id: psy-per-cop-emo-mal
+  label: Emotional Dysregulation Coping
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Emotional overwhelm
+  - Rumination
+  - Catastrophizing
+  - Emotional suppression
+  scope: Encompasses maladaptive patterns of emotional coping characterized by rumination, catastrophizing, emotional suppression, or overwhelming distress as persistent dysfunctional responses to stress.
+  parent_scope_inheritance: Specifies the maladaptive emotion-focused dimension where individuals consistently fail to regulate emotional responses, leading to distress amplification and substance use for emotional numbing.
+  polarity_expression: Manifests as rumination, catastrophizing, and emotional overwhelm versus adaptive emotional processing through acceptance, reframing, and appropriate expression.
+  cross_domain_resonance: Resonates with phy-neu-emo-dys (emotion dysregulation), psy-emo-reg-mal (regulatory failure), and exi-mea-acc-dir (experiential avoidance) in emotional vulnerability.
+  academic_description: Maladaptive emotion-focused coping involves rumination, catastrophizing, and failed attempts at emotional suppression. Strongly predicts anxiety, depression, and substance use as self-medication for emotional distress.
+  clinical_description: Identified through high rumination scores and emotional dysregulation patterns. Treatment includes DBT, emotion regulation training, and rumination-focused CBT to develop adaptive emotional coping.
+  lay_description: Getting stuck in negative thoughts, imagining worst-case scenarios, or being overwhelmed by emotions, often leading to using substances to escape or numb difficult feelings.
+  core_components:
+  - Rumination patterns
+  - Catastrophic thinking
+  - Emotional suppression attempts
+  - Distress intolerance
+  associated_processes:
+  - Cognitive rigidity
+  - Emotional flooding
+  - Experiential avoidance
+  - Self-medication patterns
+- id: psy-per-cop-avo-ada
+  label: Selective Disengagement
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Strategic avoidance
+  - Appropriate disengagement
+  - Acceptance of limits
+  - Healthy detachment
+  scope: Encompasses adaptive patterns of selective disengagement from unsolvable problems, acceptance of unchangeable circumstances, and appropriate use of distraction as mature coping strategies.
+  parent_scope_inheritance: Specifies the adaptive avoidant dimension where individuals appropriately disengage from uncontrollable stressors while maintaining engagement with solvable problems.
+  polarity_expression: Manifests as strategic disengagement with acceptance of limits versus chronic avoidance, denial, and substance use as primary escape mechanism.
+  cross_domain_resonance: Resonates with psy-def-sub-ada (mature defenses), soc-bou-lim-coh (healthy boundaries), and exi-acc-sit-pur (radical acceptance) in appropriate disengagement.
+  academic_description: Adaptive disengagement involves recognizing uncontrollable stressors and strategically conserving resources through acceptance and appropriate distraction. Associated with psychological flexibility and efficient coping resource allocation.
+  clinical_description: Assessed through discrimination between controllable and uncontrollable stressors. Interventions include acceptance training, values clarification, and distress tolerance to develop appropriate disengagement.
+  lay_description: Knowing when to let go of things you cannot change, accepting limitations, and using healthy distractions appropriately rather than avoiding all problems or escaping through substances.
+  core_components:
+  - Control discrimination ability
+  - Acceptance of unchangeable
+  - Strategic resource conservation
+  - Appropriate distraction use
+  associated_processes:
+  - Psychological flexibility
+  - Wisdom and maturity
+  - Energy management
+  - Boundary setting
+- id: psy-per-cop-avo-mal
+  label: Pathological Avoidance
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Chronic avoidance
+  - Denial coping
+  - Escape behaviors
+  - Substance-based avoidance
+  scope: Encompasses persistent patterns of avoiding problems through denial, chronic disengagement, and substance use as primary escape mechanism, representing maladaptive avoidant coping style.
+  parent_scope_inheritance: Specifies the maladaptive avoidant dimension where chronic avoidance and denial become primary coping mechanisms, directly contributing to addiction development and maintenance.
+  polarity_expression: Manifests as chronic denial, reality distortion, and substance use for escape versus appropriate selective disengagement with acceptance of limits.
+  cross_domain_resonance: Resonates with psy-def-den-mal (pathological denial), phy-neu-rew-dys (reward dysfunction), and exi-acc-sit-dir (experiential avoidance) in avoidance patterns.
+  academic_description: Pathological avoidance involves chronic denial, disengagement, and escape behaviors including substance use. Strongest predictor of addiction development and poor treatment outcomes across disorders.
+  clinical_description: Identified through avoidance patterns and substance use for escape. Treatment includes exposure therapy, motivational interviewing, and reality testing to reduce avoidance and build approach behaviors.
+  lay_description: Constantly running away from problems through denial, pretending issues don't exist, or using drugs and alcohol as the main way to escape from stress and difficult situations.
+  core_components:
+  - Denial mechanisms
+  - Reality distortion
+  - Chronic disengagement
+  - Substance use for escape
+  associated_processes:
+  - Problem accumulation
+  - Reality testing deficits
+  - Addiction maintenance
+  - Stress amplification
+- id: psy-per-cop-soc-ada
+  label: Social Support Coping
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Support-seeking
+  - Social coping
+  - Interpersonal coping
+  - Collaborative coping
+  scope: Encompasses adaptive patterns of mobilizing social resources, seeking appropriate support, maintaining reciprocal relationships, and utilizing interpersonal connections for stress management.
+  parent_scope_inheritance: Specifies the social dimension of coping involving characteristic patterns of seeking and utilizing interpersonal support as crucial resource for recovery.
+  polarity_expression: Manifests as active support-seeking with appropriate vulnerability and reciprocity versus social isolation or excessive dependency in stress management.
+  cross_domain_resonance: Resonates with soc-rel-sup-coh (social support), soc-com-con-coh (community connection), and psy-att-sec-ada (secure attachment) in social resilience.
+  academic_description: Social support coping involves seeking emotional and instrumental support from others while maintaining reciprocal relationships. Critical protective factor in addiction recovery with strong empirical support.
+  clinical_description: Assessed through social coping scales and network analysis. Interventions include social skills training, support group participation, and network therapy to enhance social coping resources.
+  lay_description: The ability to reach out for help when needed, maintain supportive relationships, and use connections with others as a healthy way to manage stress and challenges.
+  core_components:
+  - Support-seeking behaviors
+  - Social network utilization
+  - Appropriate vulnerability
+  - Reciprocal helping
+  associated_processes:
+  - Trust and intimacy
+  - Communication skills
+  - Empathy and compassion
+  - Community engagement
+- id: psy-per-cop-soc-mal
+  label: Social Isolation Coping
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Social withdrawal
+  - Support rejection
+  - Interpersonal avoidance
+  - Excessive dependency
+  scope: Encompasses maladaptive patterns of social withdrawal, support rejection, or excessive dependency that prevent effective utilization of interpersonal resources for stress management.
+  parent_scope_inheritance: Specifies the maladaptive social dimension where isolation or unhealthy dependency patterns prevent effective use of social resources critical for recovery.
+  polarity_expression: Manifests as social withdrawal, support rejection, or excessive dependency versus healthy support-seeking with appropriate boundaries and reciprocity.
+  cross_domain_resonance: Resonates with soc-rel-sup-fra (support fragmentation), psy-att-avo-mal (avoidant attachment), and soc-com-con-fra (community disconnection) in social vulnerability.
+  academic_description: Maladaptive social coping involves either withdrawal from support or excessive dependency. Associated with poor treatment retention, increased relapse risk, and compromised recovery outcomes.
+  clinical_description: Identified through social isolation patterns or boundary violations. Treatment includes social anxiety intervention, attachment-based therapy, and interpersonal therapy to develop healthy social coping.
+  lay_description: Either completely withdrawing from others when stressed or becoming overly dependent on others, unable to find the balance of healthy support-seeking and independence.
+  core_components:
+  - Social withdrawal patterns
+  - Support rejection behaviors
+  - Boundary difficulties
+  - Dependency patterns
+  associated_processes:
+  - Trust deficits
+  - Social anxiety
+  - Attachment insecurity
+  - Interpersonal conflicts
+- id: psy-per-cop-mng-ada
+  label: Meaning-Making Coping
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Benefit finding
+  - Post-traumatic growth
+  - Spiritual coping
+  - Existential coping
+  scope: Encompasses adaptive patterns of finding meaning, purpose, and growth opportunities in adversity through spiritual frameworks, value clarification, and transformative reframing.
+  parent_scope_inheritance: Specifies the meaning-making dimension of coping involving transformation of addiction experience into growth opportunity through purpose and spiritual connection.
+  polarity_expression: Manifests as benefit finding and post-traumatic growth with spiritual connection versus existential vacuum and meaninglessness in face of adversity.
+  cross_domain_resonance: Resonates with exi-mea-pre-pur (meaning presence), exi-spi-con-pur (spiritual connection), and exi-gro-tra-pur (transformation) in existential resilience.
+  academic_description: Meaning-making coping involves cognitive processes that transform adversity into growth through benefit finding and spiritual frameworks. Associated with post-traumatic growth, resilience, and sustained recovery.
+  clinical_description: Assessed through meaning-making measures and spiritual coping scales. Interventions include meaning-centered therapy, spiritual counseling, and values clarification to enhance growth-oriented coping.
+  lay_description: The ability to find purpose and growth in difficult experiences, using spiritual beliefs or personal values to transform challenges into opportunities for positive change.
+  core_components:
+  - Benefit finding abilities
+  - Growth orientation
+  - Spiritual engagement
+  - Value-driven action
+  associated_processes:
+  - Post-traumatic growth
+  - Wisdom development
+  - Transcendence
+  - Purpose identification
+- id: psy-per-cop-mng-mal
+  label: Existential Void Coping
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Coping Styles
+  cluster_id: psy-per-cop
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Meaninglessness
+  - Spiritual disconnection
+  - Nihilistic coping
+  - Existential despair
+  scope: Encompasses maladaptive patterns of experiencing meaninglessness, spiritual emptiness, and inability to find purpose or growth in adversity, representing existential void in coping.
+  parent_scope_inheritance: Specifies the maladaptive meaning-making dimension where lack of purpose and spiritual disconnection prevent transformative coping and maintain addiction patterns.
+  polarity_expression: Manifests as existential despair, meaninglessness, and nihilistic outlook versus finding purpose, growth, and spiritual connection through adversity.
+  cross_domain_resonance: Resonates with exi-mea-abs-dir (meaning absence), exi-spi-dis-dir (spiritual disconnection), and exi-ali-sel-dir (self-alienation) in existential crisis.
+  academic_description: Existential void in coping involves inability to find meaning in suffering, spiritual disconnection, and nihilistic responses to adversity. Associated with hopelessness, depression, and chronic relapse patterns.
+  clinical_description: Identified through meaning absence and spiritual disconnection. Treatment includes existential therapy, logotherapy, and spiritual exploration to develop meaning-making capacity.
+  lay_description: Feeling that suffering is pointless, being disconnected from any sense of purpose or spirituality, and unable to see how difficulties could lead to any positive growth or change.
+  core_components:
+  - Meaning absence
+  - Purpose deficit
+  - Spiritual emptiness
+  - Nihilistic beliefs
+  associated_processes:
+  - Hopelessness
+  - Existential isolation
+  - Value confusion
+  - Despair and demoralization

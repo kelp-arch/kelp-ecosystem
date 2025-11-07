@@ -1,0 +1,204 @@
+# Generated anchors for cluster: EXI-IDE-INT
+# Timestamp: 20251104_080412
+
+anchors:
+- id: exi-ide-int-prt-pur
+  label: Harmonized Parts Integration
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Identity Integration
+  cluster_id: exi-ide-int
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Internal harmony
+  - Parts cooperation
+  - Self-leadership
+  - Internal dialogue
+  scope: Represents the purposeful integration of multiple internal parts or sub-personalities into harmonious cooperation. Different self-aspects work together through internal dialogue, with each part recognized and valued for its contribution. The Self maintains leadership over reactive parts while honoring their protective intentions.
+  parent_scope_inheritance: This anchor specifies the parts work aspect of identity integration, focusing on how different internal voices or sub-personalities achieve harmony rather than conflict.
+  polarity_expression: Manifests as internal peace where previously conflicting parts collaborate, reducing self-sabotage and enabling flexible access to different self-states without being overwhelmed or hijacked by any single part.
+  cross_domain_resonance: Resonates with emotional regulation (psy-emo-reg-ada) in managing emotional parts, executive function (psy-exe-fun-ada) in Self-leadership, and relationship dynamics (soc-rel-dyn-coh) in how internal harmony affects external relationships.
+  academic_description: Grounded in Schwartz's Internal Family Systems model, which conceptualizes the psyche as containing multiple sub-personalities or parts, each with its own perspective, feelings, memories, and goals. Research shows that internal multiplicity is normal, with pathology arising from polarization, extreme roles, and lack of Self-leadership. Studies demonstrate that parts integration through dialogue and understanding reduces internal conflict and improves self-regulation.
+  clinical_description: Clinical work involves helping clients identify and map their internal parts - the critic, the addict, the protector, the exile. Therapists facilitate dialogue between parts to understand each one's positive intention and help them work together rather than against each other. Techniques include parts mapping, chair work for parts dialogue, and developing Self-compassion for all parts. The goal is achieving internal harmony where the Self leads with curiosity and compassion.
+  lay_description: You have different parts inside you - maybe a part that wants to use, a part that wants recovery, a responsible part, a rebellious part. When these parts work together like a team, with you as the wise leader who listens to all of them, you feel more peaceful and whole. Instead of feeling torn apart by internal battles, your parts cooperate toward shared goals.
+  foundational_themes: Internal multiplicity, Self-leadership, parts harmony, internal democracy
+  experiential_processes: Recognizing different parts, facilitating internal dialogue, developing Self-presence, honoring all parts
+  personal_relevance: Creates internal peace, reduces self-sabotage, enables complex self-expression
+- id: exi-ide-int-prt-dir
+  label: Conflicting Parts Fragmentation
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Identity Integration
+  cluster_id: exi-ide-int
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Internal conflict
+  - Parts polarization
+  - Self-fragmentation
+  - Internal warfare
+  scope: Represents the directionless fragmentation where internal parts are in conflict, fighting for control and creating internal chaos. Different self-aspects work against each other, with some parts exiled and others in extreme protective roles, lacking unified Self-leadership.
+  parent_scope_inheritance: This anchor specifies the fragmented parts aspect of identity integration, focusing on how conflicting internal voices create chaos and self-defeating patterns.
+  polarity_expression: Manifests as feeling torn between conflicting desires, rapid shifts between incompatible self-states, self-sabotaging behaviors from part conflicts, and internal criticism creating exhausting internal warfare.
+  cross_domain_resonance: Resonates with emotional dysregulation (psy-emo-reg-mal) in emotional hijacking by parts, executive dysfunction (psy-exe-fun-mal) in lack of Self-leadership, and relationship fragmentation (soc-rel-dyn-fra) in how internal conflict creates external chaos.
+  academic_description: Internal fragmentation occurs when parts become polarized into extreme roles - exiles carrying pain and protectors preventing access to that pain. Without Self-leadership, parts operate from survival modes, creating internal conflict. Research shows this fragmentation correlates with emotion dysregulation, impulsive behavior, and identity disturbance. The addiction system often represents a protector part attempting to manage exiled pain.
+  clinical_description: Clients present with intense internal conflict - 'part of me wants recovery but part of me wants to use.' Assessment explores the internal system's polarization, identifying firefighter parts (impulsive protectors), manager parts (controlling protectors), and exiles (vulnerable parts carrying pain). Treatment focuses on establishing safety, developing Self-presence, and gradually depolarizing the system through understanding each part's role.
+  lay_description: You might feel like you're at war with yourself - one part screaming for recovery while another part desperately wants to use. These internal battles are exhausting, with different parts of you pulling in opposite directions. You might rapidly shift between feeling determined and feeling hopeless, as different parts take control.
+  foundational_themes: Internal warfare, parts polarization, Self-absence, protective extremes
+  experiential_processes: Parts hijacking, internal criticism, rapid state shifts, self-sabotage patterns
+  personal_relevance: Creates exhaustion, perpetuates addiction cycles, maintains internal chaos
+- id: exi-ide-int-shd-pur
+  label: Integrated Shadow Wholeness
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Identity Integration
+  cluster_id: exi-ide-int
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Shadow integration
+  - Wholeness embrace
+  - Projection withdrawal
+  - Dark-light integration
+  scope: Represents the purposeful integration of shadow aspects - previously denied or disowned parts of self. Includes acknowledging capacity for both 'positive' and 'negative' traits, withdrawing projections from others, and embracing the full spectrum of human nature within oneself.
+  parent_scope_inheritance: This anchor specifies the shadow integration aspect of identity integration, focusing on reclaiming disowned aspects and achieving psychological wholeness.
+  polarity_expression: Manifests as reduced projection onto others, ownership of previously denied traits, decreased shame about human nature, and integration of both dark and light aspects into coherent self-understanding.
+  cross_domain_resonance: Resonates with defense mechanisms (psy-def-mec-ada) in reducing projection, self-awareness (psy-sel-awa-ada) in recognizing shadow, and group identity (soc-grp-ide-coh) in reduced scapegoating.
+  academic_description: Based on Jung's concept of the shadow - the repressed or denied aspects of personality. Integration involves recognizing projections (seeing in others what we deny in ourselves), reclaiming disowned traits, and achieving wholeness. Research shows shadow work reduces projection, improves relationships, and increases psychological flexibility. In addiction, the 'addict self' often becomes shadow, split off from the 'good self.'
+  clinical_description: Clinical work helps clients identify projections - intense reactions to others often signal shadow material. Therapists guide exploration of denied aspects through dream work, active imagination, and projection analysis. Clients practice owning their full humanity, including capacity for selfishness, anger, or vulnerability they've disowned. Integration reduces shame and external blame while increasing self-compassion.
+  lay_description: We all have parts of ourselves we don't want to admit - maybe our selfishness, anger, or neediness. When we deny these parts, we often see them everywhere in others and judge them harshly. Shadow integration means accepting that you contain the full range of human nature, both light and dark, which paradoxically makes you more whole and less likely to act out these denied parts.
+  foundational_themes: Psychological wholeness, projection reclamation, full humanity, light-dark integration
+  experiential_processes: Recognizing projections, owning denied traits, embracing wholeness, reducing splitting
+  personal_relevance: Increases self-acceptance, improves relationships, reduces external blame
+- id: exi-ide-int-shd-dir
+  label: Split Shadow Projection
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Identity Integration
+  cluster_id: exi-ide-int
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Shadow denial
+  - Projection state
+  - Split wholeness
+  - Disowned aspects
+  scope: Represents the directionless state where shadow aspects remain split off and denied. Unwanted traits are projected onto others, creating external blame and preventing wholeness. The self is fragmented into acceptable and unacceptable parts.
+  parent_scope_inheritance: This anchor specifies the shadow fragmentation aspect of identity integration, focusing on how denied aspects create projection and prevent psychological wholeness.
+  polarity_expression: Manifests as intense reactions to others' behaviors through projection, denial of personal capacity for 'negative' traits, black-and-white thinking about self, and shame-based identity fragmentation.
+  cross_domain_resonance: Resonates with defense mechanisms (psy-def-mec-mal) in excessive projection, self-awareness deficits (psy-sel-awa-mal) in shadow blindness, and group fragmentation (soc-grp-ide-fra) in scapegoating dynamics.
+  academic_description: Shadow denial involves repressing unacceptable aspects of self, which then appear as projections onto others. This creates a false persona of only 'acceptable' traits while the shadow grows in the unconscious. Research shows shadow denial correlates with relationship conflicts, rigid thinking, and susceptibility to being triggered. In addiction, users often project their shame onto others or society.
+  clinical_description: Clients present with intense judgments of others, especially around traits related to their addiction. They may see others as weak, selfish, or out of control while denying these qualities in themselves. Assessment explores projection patterns and split-off aspects. Treatment requires gentle exposure to shadow material, often through exploring what triggers intense reactions in others.
+  lay_description: When you can't accept certain parts of yourself, you end up seeing them everywhere in other people and judging them harshly. You might hate weakness in others because you can't accept your own vulnerability. This keeps you feeling separate and superior or inferior, but never whole. The very things that trigger you most in others are often clues to what you've denied in yourself.
+  foundational_themes: Shadow denial, projection patterns, split self, persona maintenance
+  experiential_processes: Projecting onto others, denying traits, maintaining false persona, experiencing triggers
+  personal_relevance: Creates relationship conflicts, maintains shame, prevents self-knowledge
+- id: exi-ide-int-rol-pur
+  label: Synthesized Role Flexibility
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Identity Integration
+  cluster_id: exi-ide-int
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Role integration
+  - Identity continuity
+  - Contextual flexibility
+  - Unified roles
+  scope: Represents the purposeful synthesis of different social roles into flexible, coherent identity. Various roles (parent, professional, friend, person in recovery) coexist and inform each other while maintaining consistent core self across contexts.
+  parent_scope_inheritance: This anchor specifies the role synthesis aspect of identity integration, focusing on harmonizing different social identities into coherent whole.
+  polarity_expression: Manifests as smooth transitions between social contexts, consistent core self across different roles, roles that inform and enrich each other, and authentic expression in all contexts.
+  cross_domain_resonance: Resonates with social roles (soc-soc-rol-coh) in role flexibility, self-concept (psy-sel-con-ada) in consistent identity, and social identity (soc-soc-ide-coh) in integrated social self.
+  academic_description: Role synthesis involves integrating multiple social identities into coherent self-structure. Breakwell's Identity Process Theory describes how individuals assimilate new roles while maintaining continuity. Research shows role integration reduces role strain, improves well-being, and enables authentic self-expression across contexts. In recovery, integrating 'person in recovery' with other roles prevents identity foreclosure.
+  clinical_description: Clinical work helps clients map their various roles and identify areas of compartmentalization or conflict. Therapists guide exploration of how different roles can complement rather than compete. Clients practice bringing recovery principles into professional life, parenting wisdom into friendships, and maintaining authenticity across contexts. The goal is flexible role navigation while maintaining core identity.
+  lay_description: You wear many hats - parent, employee, friend, person in recovery. When these roles work together, you don't feel like you're living separate lives or being fake in certain situations. Instead, each role enriches the others. Your recovery strengthens your parenting, your professional skills help your recovery, and you can be genuinely yourself in all contexts.
+  foundational_themes: Role harmony, identity continuity, contextual authenticity, integrated social self
+  experiential_processes: Navigating role transitions, maintaining core self, cross-role learning, authentic expression
+  personal_relevance: Reduces role strain, enables authentic relationships, creates life coherence
+- id: exi-ide-int-rol-dir
+  label: Compartmentalized Role Splitting
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Identity Integration
+  cluster_id: exi-ide-int
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Role fragmentation
+  - Identity compartments
+  - Context splitting
+  - Role confusion
+  scope: Represents the directionless compartmentalization of social roles into separate, disconnected identities. Different contexts evoke incompatible self-presentations, creating exhaustion from maintaining multiple separate identities without integration.
+  parent_scope_inheritance: This anchor specifies the role fragmentation aspect of identity integration, focusing on how compartmentalized roles create identity confusion and inauthenticity.
+  polarity_expression: Manifests as feeling like different people in different contexts, exhaustion from maintaining separate identities, fear of worlds colliding, and role confusion about 'who I really am.'
+  cross_domain_resonance: Resonates with social role fragmentation (soc-soc-rol-fra), self-concept confusion (psy-sel-con-mal), and social identity fragmentation (soc-soc-ide-fra).
+  academic_description: Role compartmentalization involves maintaining rigid boundaries between different social identities, preventing integration. This creates identity diffusion and role conflict. Research shows compartmentalization increases stress, reduces well-being, and impairs authentic relationships. In addiction, users often maintain completely separate 'using' and 'normal' identities, increasing shame and preventing integration.
+  clinical_description: Clients describe feeling like 'different people' at work versus home, or hiding their recovery identity in professional contexts. Assessment explores the energy cost of maintaining separate identities and fears about integration. Treatment involves identifying common threads across roles, gradually reducing compartmentalization, and practicing authentic self-expression across contexts.
+  lay_description: You might feel like you're living multiple separate lives - the professional you, the family you, the recovery you - and they don't connect. It's exhausting keeping these worlds separate, always worried about them colliding. You might wonder who you 'really' are when you act so differently in different situations, never feeling fully authentic anywhere.
+  foundational_themes: Role boundaries, identity compartments, context-dependent self, authenticity struggles
+  experiential_processes: Code-switching between identities, maintaining facades, hiding aspects, fearing exposure
+  personal_relevance: Creates exhaustion, prevents authentic connection, maintains identity confusion
+- id: exi-ide-int-val-pur
+  label: Aligned Value-Action Integrity
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Identity Integration
+  cluster_id: exi-ide-int
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Value congruence
+  - Behavioral integrity
+  - Value-action harmony
+  - Integrated values
+  scope: Represents the purposeful alignment between core values and behavioral patterns. Actions consistently reflect integrated value system, creating sense of personal integrity and authentic living. Decisions emerge from clear values rather than conflicting impulses.
+  parent_scope_inheritance: This anchor specifies the value-action alignment aspect of identity integration, focusing on how integrated identity manifests in consistent, value-driven behavior.
+  polarity_expression: Manifests as actions that reflect stated values, decisions aligned with core beliefs, reduced internal conflict about choices, and strong sense of integrity and authenticity.
+  cross_domain_resonance: Resonates with values and meaning (exi-mea-val-pur), intrinsic motivation (psy-mot-int-ada), and moral identity (soc-mor-ide-coh) in value-driven living.
+  academic_description: Value-action alignment represents the behavioral manifestation of integrated identity. Self-Determination Theory shows that acting from integrated values increases well-being and intrinsic motivation. Research demonstrates that value-behavior consistency predicts recovery success, life satisfaction, and reduced cognitive dissonance. Integration involves clarifying values and aligning behavior accordingly.
+  clinical_description: Clinical work involves values clarification exercises to identify core beliefs, then examining gaps between values and actions. Therapists help clients understand barriers to alignment and develop value-based action plans. Clients practice making decisions from integrated values rather than impulses or external pressures. Success is measured by increased sense of integrity and reduced internal conflict.
+  lay_description: When your actions match your values, you feel whole and authentic. Instead of saying you value family but choosing drugs, or valuing honesty but living in deception, you act in ways that reflect what truly matters to you. This creates a deep sense of integrity - you can look in the mirror and respect the person you see.
+  foundational_themes: Personal integrity, value clarity, behavioral consistency, authentic action
+  experiential_processes: Living values, maintaining integrity, value-based choosing, authentic expression
+  personal_relevance: Creates self-respect, sustains motivation, enables authentic living
+- id: exi-ide-int-val-dir
+  label: Disconnected Value-Action Conflict
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Identity Integration
+  cluster_id: exi-ide-int
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Value incongruence
+  - Integrity rupture
+  - Value-action gap
+  - Behavioral disconnect
+  scope: Represents the directionless disconnect between stated values and actual behavior. Actions contradict core beliefs, creating cognitive dissonance, guilt, and sense of hypocrisy. Decisions emerge from impulses or pressures rather than integrated values.
+  parent_scope_inheritance: This anchor specifies the value-action fragmentation aspect of identity integration, focusing on how disconnected values and behaviors reflect and maintain identity fragmentation.
+  polarity_expression: Manifests as acting against stated values, rationalization and justification of contradictory behavior, guilt and shame about choices, and feeling hypocritical or fake.
+  cross_domain_resonance: Resonates with meaninglessness (exi-mea-val-dir), amotivation (psy-mot-int-mal), and moral fragmentation (soc-mor-ide-fra) in value disconnection.
+  academic_description: Value-action disconnect creates cognitive dissonance as individuals act against their stated beliefs. This fragmentation maintains addiction through rationalization and denial. Research shows value-behavior gaps predict relapse, increase shame, and impair motivation. The disconnect often stems from unintegrated parts pursuing conflicting agendas or from values that remain intellectual rather than embodied.
+  clinical_description: Clients present with intense guilt about betraying their values, yet continue destructive patterns. Assessment explores specific value violations and their emotional impact. Treatment addresses barriers to alignment, including competing parts, trauma responses, and skill deficits. Therapists help clients take small steps toward value-consistent behavior while addressing shame about past violations.
+  lay_description: You know what you value - family, honesty, health - but your actions tell a different story. This gap between what you believe and what you do creates intense guilt and makes you feel fake. You might find yourself constantly making excuses or promises to change, but something keeps pulling you back to behaviors that betray your values.
+  foundational_themes: Integrity violations, value betrayal, cognitive dissonance, hypocritical living
+  experiential_processes: Betraying values, rationalizing actions, experiencing guilt, feeling fraudulent
+  personal_relevance: Maintains shame cycles, undermines self-trust, perpetuates destructive patterns

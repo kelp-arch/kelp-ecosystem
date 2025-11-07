@@ -1,0 +1,220 @@
+# Generated anchors for cluster: PHY-GEN-PHG
+# Timestamp: 20251103_112144
+
+anchors:
+- id: phy-gen-phg-cyp-reg
+  label: Normal Metabolizer Status
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Pharmacogenetic Response
+  cluster_id: phy-gen-phg
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Extensive metabolizer
+  - Normal CYP450 function
+  - Standard metabolism
+  scope: Normal cytochrome P450 enzyme function producing standard medication metabolism rates, enabling predictable drug levels and therapeutic responses with conventional dosing protocols.
+  parent_scope_inheritance: Specifies the CYP450 enzyme component of pharmacogenetic response, focusing on normal metabolic capacity that allows standard addiction medication dosing.
+  polarity_expression: Regulated state manifests as predictable medication metabolism with therapeutic drug levels achieved through standard dosing, expected onset and duration of action, and typical dose-response relationships.
+  cross_domain_resonance: Resonates with metabolic homeostasis anchors in endocrine clusters, enzyme function anchors in hepatic systems, and treatment response anchors in clinical outcome domains.
+  academic_description: Wild-type CYP450 alleles, particularly CYP2D6*1 and CYP2A6*1, confer normal enzyme activity resulting in extensive metabolizer phenotypes. These individuals metabolize approximately 25% of all medications at expected rates, including methadone, buprenorphine, and many psychiatric medications used in addiction treatment. Population studies show 35-50% of individuals are normal metabolizers for CYP2D6, though this varies significantly by ethnicity.
+  clinical_description: Patients with normal metabolizer status respond predictably to standard medication protocols. They achieve therapeutic drug levels with conventional dosing, show expected time to steady state, and demonstrate typical side effect profiles. These patients can follow standard titration schedules and dosing guidelines without need for genetic-based adjustments. Therapeutic drug monitoring shows levels within expected ranges.
+  lay_description: Your body breaks down medications at the expected rate, like having a properly tuned engine that runs at the right speed. This means standard doses of addiction medications work as intended - not too strong, not too weak, but just right for most people.
+  key_mediators: CYP2D6, CYP2A6, CYP3A4, CYP1A2, CYP2C19, CYP2B6 enzymes
+  key_mechanisms: Normal enzyme expression, standard substrate binding affinity, typical catalytic activity, expected drug-drug interactions
+  clinical_relevance: Predictable treatment response, standard dosing efficacy, normal therapeutic drug monitoring results
+  assessment_methods: Pharmacogenetic testing showing wild-type alleles, therapeutic drug monitoring, clinical response assessment
+  interventions: Standard medication dosing, conventional titration protocols, routine therapeutic monitoring
+  prominent_models: Clinical Pharmacogenetics Implementation Consortium guidelines, FDA pharmacogenomic biomarker labeling
+- id: phy-gen-phg-cyp-dys
+  label: Variant Metabolizer Status
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Pharmacogenetic Response
+  cluster_id: phy-gen-phg
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Poor metabolizer
+  - Ultra-rapid metabolizer
+  - Aberrant CYP450 function
+  scope: Variant cytochrome P450 alleles causing poor, intermediate, or ultra-rapid metabolism of addiction medications, resulting in subtherapeutic efficacy or toxicity with standard dosing.
+  parent_scope_inheritance: Specifies the CYP450 enzyme dysfunction component of pharmacogenetic response, focusing on variant metabolic capacity requiring personalized medication dosing.
+  polarity_expression: Dysregulated state manifests as unpredictable medication metabolism with either accumulation leading to toxicity or rapid clearance causing treatment failure, requiring genetic-guided dose adjustments.
+  cross_domain_resonance: Resonates with metabolic dysfunction anchors in liver disease clusters, enzyme deficiency anchors in genetic disorders, and treatment resistance anchors in refractory addiction domains.
+  academic_description: Variant CYP450 alleles include null alleles (*3, *4, *5, *6) causing poor metabolizer status and gene duplications causing ultra-rapid metabolism. Poor metabolizers comprise 5-10% of Caucasians for CYP2D6 but up to 50% of Asians for CYP2C19. Ultra-rapid metabolizers represent 1-2% of Northern Europeans but up to 30% of Ethiopians for CYP2D6. These variants profoundly affect methadone, codeine, and psychiatric medication metabolism.
+  clinical_description: Variant metabolizers show treatment failure or toxicity with standard dosing. Poor metabolizers accumulate medications, experiencing adverse effects at normal doses and requiring 50-75% dose reductions. Ultra-rapid metabolizers fail to achieve therapeutic levels, often requiring 150-200% of standard doses or alternative medications. Intermediate metabolizers need modest adjustments. Identification prevents adverse events and improves treatment outcomes.
+  lay_description: Your body processes medications much faster or slower than average, like having an engine that runs too hot or too cold. If you break down drugs too slowly, normal doses build up and cause side effects. If too quickly, medications don't last long enough to help. Genetic testing helps find the right dose for your specific metabolism.
+  key_mediators: Variant CYP2D6, CYP2A6, CYP3A4 alleles, null mutations, gene duplications
+  key_mechanisms: Absent enzyme activity, reduced substrate binding, increased enzyme expression, altered catalytic efficiency
+  clinical_relevance: Treatment failure, medication toxicity, prolonged titration periods, increased adverse events
+  assessment_methods: Comprehensive pharmacogenetic panel testing, phenotype prediction algorithms, therapeutic drug monitoring showing abnormal levels
+  interventions: Genotype-guided dose adjustments, alternative medication selection, enhanced monitoring protocols, avoiding prodrugs in poor metabolizers
+  prominent_models: CPIC dosing guidelines, DPWG recommendations, pharmacokinetic modeling based on metabolizer status
+- id: phy-gen-phg-trn-reg
+  label: Normal Transporter Function
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Pharmacogenetic Response
+  cluster_id: phy-gen-phg
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal drug distribution
+  - Effective BBB penetration
+  - Standard transporter activity
+  scope: Normal function of drug transporter proteins including ABCB1/P-glycoprotein enabling appropriate medication distribution across biological barriers and effective CNS penetration.
+  parent_scope_inheritance: Specifies the drug transporter component of pharmacogenetic response, focusing on normal transport function allowing medications to reach target sites effectively.
+  polarity_expression: Regulated state manifests as appropriate medication distribution with expected CNS penetration, normal drug accumulation patterns, and standard bioavailability of orally administered medications.
+  cross_domain_resonance: Resonates with blood-brain barrier integrity anchors in neurological clusters, cellular transport anchors in membrane physiology, and drug distribution anchors in pharmacokinetic domains.
+  academic_description: Wild-type ABCB1 genotypes (C3435C, G2677G) confer normal P-glycoprotein expression and function at the blood-brain barrier and intestinal epithelium. These transporters regulate CNS penetration of methadone, buprenorphine, and many psychiatric medications. Normal function maintains appropriate drug concentrations while preventing excessive accumulation. Studies show significant inter-individual variation even among wild-type carriers.
+  clinical_description: Patients with normal transporter function achieve expected CNS drug concentrations with standard dosing. Medications effectively cross the blood-brain barrier to reach target receptors. Oral bioavailability follows predicted patterns. These patients respond appropriately to medications dependent on transporter-mediated distribution without need for dose adjustments based on transporter genetics.
+  lay_description: Your body's drug delivery system works normally, like having clear highways that let medications travel where they need to go. Medications can properly cross from your blood into your brain to help with cravings and withdrawal, reaching the right places in the right amounts.
+  key_mediators: ABCB1/P-glycoprotein, ABCG2/BCRP, SLC6A4/SERT, organic anion transporters
+  key_mechanisms: Normal transporter expression, standard substrate recognition, appropriate efflux activity, maintained barrier function
+  clinical_relevance: Adequate CNS drug levels, predictable oral absorption, standard medication efficacy
+  assessment_methods: ABCB1 genotyping, CSF drug level monitoring, PET imaging of drug distribution
+  interventions: Standard medication selection, conventional dosing strategies, typical route of administration choices
+  prominent_models: Transporter pharmacogenetics guidelines, blood-brain barrier penetration models
+- id: phy-gen-phg-trn-dys
+  label: Variant Transporter Function
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Pharmacogenetic Response
+  cluster_id: phy-gen-phg
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Altered drug distribution
+  - Poor BBB penetration
+  - Transporter dysfunction
+  scope: Variant transporter genes causing altered medication distribution, particularly affecting blood-brain barrier penetration and reducing CNS availability of addiction medications.
+  parent_scope_inheritance: Specifies the drug transporter dysfunction component of pharmacogenetic response, focusing on variants that impair medication distribution to target sites.
+  polarity_expression: Dysregulated state manifests as impaired medication distribution with reduced CNS penetration, altered drug accumulation, and variable bioavailability requiring adjusted dosing or medication selection.
+  cross_domain_resonance: Resonates with barrier dysfunction anchors in neuroinflammatory clusters, impaired transport anchors in cellular pathology, and drug resistance anchors in treatment-refractory domains.
+  academic_description: ABCB1 variants including 3435T, 2677T/A, and 1236T alter P-glycoprotein expression and function. The 3435TT genotype shows reduced expression, paradoxically increasing CNS drug accumulation in some cases while decreasing it in others depending on the substrate. These variants affect methadone brain concentrations and buprenorphine response. Haplotype effects are often more predictive than single SNPs.
+  clinical_description: Variant transporter function causes unpredictable medication response. Some variants reduce CNS penetration, requiring higher doses or alternative medications with better brain penetration. Others may increase accumulation, necessitating dose reductions. Response varies by specific medication-transporter interactions. Testing helps optimize medication selection for patients with poor response to standard treatments.
+  lay_description: Your body's drug delivery system has roadblocks or detours that affect how medications reach your brain. Some genetic variants act like toll booths that turn too many medication molecules away, while others let too much through. This affects how well addiction medications work and what dose you need.
+  key_mediators: Variant ABCB1 alleles, altered P-glycoprotein, dysfunctional BCRP, modified organic transporters
+  key_mechanisms: Reduced transporter expression, altered substrate binding, modified efflux activity, compromised barrier function
+  clinical_relevance: Subtherapeutic CNS drug levels, treatment resistance, need for higher doses, medication switching
+  assessment_methods: Comprehensive transporter genotyping, CSF/plasma drug ratio assessment, functional transporter assays
+  interventions: Transporter-independent medications, P-glycoprotein inhibitor co-administration, dose escalation protocols, alternative routes of administration
+  prominent_models: ABCB1 haplotype-based dosing models, transporter-drug interaction frameworks
+- id: phy-gen-phg-rec-reg
+  label: Normal Receptor Response
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Pharmacogenetic Response
+  cluster_id: phy-gen-phg
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Wild-type receptor function
+  - Standard medication binding
+  - Normal target response
+  scope: Normal genetic variants of medication target receptors including OPRM1, DRD2, and others, enabling expected medication binding affinity and therapeutic response.
+  parent_scope_inheritance: Specifies the receptor target component of pharmacogenetic response, focusing on normal receptor variants that allow medications to achieve intended therapeutic effects.
+  polarity_expression: Regulated state manifests as normal medication-receptor binding with expected therapeutic efficacy, standard receptor activation patterns, and predictable treatment outcomes.
+  cross_domain_resonance: Resonates with receptor sensitivity anchors in neurotransmitter clusters, signal transduction anchors in cellular signaling domains, and treatment efficacy anchors in clinical response systems.
+  academic_description: Wild-type receptor variants such as OPRM1 A118A show normal μ-opioid receptor expression and function, enabling typical response to naltrexone and opioid agonists. DRD2 wild-type variants confer normal dopamine receptor density and signaling. These genotypes predict standard medication efficacy in clinical trials. Meta-analyses show consistent treatment effects in wild-type carriers.
+  clinical_description: Patients with normal receptor variants respond as expected to first-line medications. Naltrexone effectively reduces alcohol craving in OPRM1 A118A carriers. Opioid agonist therapy achieves intended effects at standard doses. These patients can follow evidence-based treatment algorithms without genetic considerations for medication selection. Treatment outcomes match clinical trial efficacy data.
+  lay_description: Your brain's medication landing sites work normally, like having locks that perfectly fit the medication keys. When you take naltrexone or other addiction medications, they attach properly to their targets and create the intended effects - reducing cravings and preventing relapse as designed.
+  key_mediators: OPRM1 wild-type, DRD2 normal variants, 5-HTR normal alleles, GABA receptor standard forms
+  key_mechanisms: Normal receptor expression, standard ligand binding affinity, typical signal transduction, expected desensitization patterns
+  clinical_relevance: Predictable medication efficacy, standard treatment response, evidence-based medication selection
+  assessment_methods: Receptor genotyping panels, PET receptor occupancy studies, clinical response assessment
+  interventions: First-line medication choices, standard dosing protocols, evidence-based treatment algorithms
+  prominent_models: Receptor pharmacogenetics models, OPRM1-naltrexone response predictions
+- id: phy-gen-phg-rec-dys
+  label: Variant Receptor Response
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Pharmacogenetic Response
+  cluster_id: phy-gen-phg
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Altered receptor function
+  - Reduced medication binding
+  - Target resistance
+  scope: Variant receptor genes including OPRM1 A118G and DRD2 variants that alter medication binding affinity or receptor signaling, reducing therapeutic efficacy of addiction medications.
+  parent_scope_inheritance: Specifies the receptor dysfunction component of pharmacogenetic response, focusing on variants that impair medication-target interactions and therapeutic outcomes.
+  polarity_expression: Dysregulated state manifests as altered medication-receptor binding with reduced therapeutic efficacy, abnormal receptor activation, and variable treatment outcomes requiring personalized medication selection.
+  cross_domain_resonance: Resonates with receptor insensitivity anchors in endocrine resistance, altered signaling anchors in cellular pathology, and treatment failure anchors in refractory disease domains.
+  academic_description: OPRM1 A118G (rs1799971) creates an asparagine to aspartate substitution, altering μ-opioid receptor glycosylation and potentially affecting naltrexone binding. G-allele carriers show enhanced naltrexone response for alcohol dependence in some populations. DRD2 Taq1A variants affect receptor density. These variants show ethnicity-dependent effects and gene-environment interactions affecting treatment outcomes.
+  clinical_description: Receptor variants alter medication response profiles. OPRM1 118G carriers may show enhanced naltrexone efficacy for alcohol use disorder but altered opioid agonist requirements. DRD2 variants affect antipsychotic and stimulant medication responses. Genetic testing can guide medication selection, particularly after initial treatment failure. Response depends on specific variant-medication combinations.
+  lay_description: Your brain's medication landing sites have slight differences that change how well certain drugs work. Like having locks that don't quite match standard keys, medications may not attach as strongly or trigger the expected response. This doesn't mean medications won't work, but you might need different ones or adjusted doses.
+  key_mediators: OPRM1 A118G variant, DRD2 Taq1A polymorphism, 5-HTR variants, altered GABA receptors
+  key_mechanisms: Altered receptor expression, modified ligand binding, changed signal transduction, abnormal receptor trafficking
+  clinical_relevance: Variable medication efficacy, need for personalized selection, altered dose requirements, treatment resistance
+  assessment_methods: Targeted receptor genotyping, functional receptor assays, pharmacogenetic-guided trials
+  interventions: Genotype-guided medication selection, alternative mechanism medications, combination therapy approaches, higher doses for reduced binding variants
+  prominent_models: OPRM1-based naltrexone selection models, receptor variant treatment algorithms
+- id: phy-gen-phg-adv-reg
+  label: Normal Adverse Reaction Risk
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Pharmacogenetic Response
+  cluster_id: phy-gen-phg
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Low adverse reaction risk
+  - Normal drug tolerance
+  - Standard safety profile
+  scope: Absence of high-risk genetic variants for severe adverse drug reactions, enabling safe use of standard addiction medications without elevated risk of idiosyncratic reactions.
+  parent_scope_inheritance: Specifies the adverse reaction component of pharmacogenetic response, focusing on normal genetic profiles that allow safe medication trials without special precautions.
+  polarity_expression: Regulated state manifests as normal medication tolerance with expected side effect profiles, absence of severe idiosyncratic reactions, and ability to safely trial multiple medications.
+  cross_domain_resonance: Resonates with immune tolerance anchors in immunological clusters, normal drug metabolism anchors in hepatic systems, and treatment safety anchors in clinical risk domains.
+  academic_description: Absence of high-risk HLA alleles (HLA-B*5701, HLA-B*1502) and other variants associated with Stevens-Johnson syndrome, drug-induced liver injury, and severe hypersensitivity reactions. Wild-type genotypes for UGT1A1, TPMT, and other safety-relevant genes. These individuals can safely receive standard medications without preemptive genetic screening in most cases.
+  clinical_description: Patients without high-risk variants tolerate addiction medications normally. They experience typical, dose-dependent side effects rather than severe idiosyncratic reactions. Standard medications can be initiated without genetic pre-screening. Routine monitoring suffices without enhanced surveillance. These patients can trial multiple medications if needed without unusual safety concerns.
+  lay_description: Your genes don't put you at special risk for dangerous medication reactions. You can safely try standard addiction medications with normal monitoring, experiencing only the common side effects that most people get rather than rare, severe reactions that require immediate medical attention.
+  key_mediators: Wild-type HLA alleles, normal UGT1A1, standard TPMT, typical NAT2
+  key_mechanisms: Normal immune recognition, standard drug conjugation, typical inflammatory responses, regular detoxification pathways
+  clinical_relevance: Safe medication trials, standard monitoring protocols, low risk of severe reactions
+  assessment_methods: Baseline safety labs, standard clinical monitoring, routine adverse event assessment
+  interventions: Standard medication initiation, routine safety monitoring, typical informed consent procedures
+  prominent_models: FDA safety pharmacogenetics guidelines, standard adverse event monitoring protocols
+- id: phy-gen-phg-adv-dys
+  label: High Adverse Reaction Risk
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Pharmacogenetic Response
+  cluster_id: phy-gen-phg
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Severe reaction susceptibility
+  - Idiosyncratic drug reactions
+  - High-risk safety profile
+  scope: Presence of genetic variants conferring high risk for severe adverse drug reactions including Stevens-Johnson syndrome, hepatotoxicity, and severe hypersensitivity to addiction medications.
+  parent_scope_inheritance: Specifies the adverse reaction susceptibility component of pharmacogenetic response, focusing on high-risk variants requiring medication avoidance or enhanced monitoring.
+  polarity_expression: Dysregulated state manifests as elevated risk for severe, potentially life-threatening adverse reactions, idiosyncratic drug responses, and need for genetic screening before certain medication trials.
+  cross_domain_resonance: Resonates with immune hyperreactivity anchors in allergic disorders, drug-induced injury anchors in hepatotoxicity domains, and high-risk treatment anchors in precision medicine systems.
+  academic_description: High-risk variants include HLA-B*5701 for abacavir hypersensitivity, HLA-B*1502 for carbamazepine-induced Stevens-Johnson syndrome in Asian populations, and UGT1A1*28 for drug-induced hyperbilirubinemia. While less common in addiction medications specifically, some psychiatric medications used adjunctively carry significant risks. Prevalence varies dramatically by ethnicity, necessitating population-specific screening protocols.
+  clinical_description: Patients with high-risk variants require careful medication selection and monitoring. Certain medications must be avoided entirely based on genetic results. Pre-treatment genetic screening is indicated before initiating high-risk medications. Enhanced monitoring protocols and patient education about warning signs are essential. Alternative medications without genetic risk factors should be prioritized when available.
+  lay_description: Your genes make you more likely to have dangerous reactions to certain medications - not just normal side effects, but serious problems like severe skin reactions or liver damage. Genetic testing before starting treatment helps identify which medications to avoid, keeping you safe while finding alternatives that work without the extra risk.
+  key_mediators: High-risk HLA variants, UGT1A1*28, slow acetylator NAT2, variant TPMT alleles
+  key_mechanisms: Aberrant immune recognition, impaired drug conjugation, excessive reactive metabolite formation, compromised detoxification
+  clinical_relevance: Risk of Stevens-Johnson syndrome, drug-induced liver injury, severe hypersensitivity, treatment limitations
+  assessment_methods: Pre-treatment pharmacogenetic screening, HLA typing, enhanced safety monitoring, biomarker surveillance
+  interventions: Medication avoidance strategies, alternative drug selection, enhanced monitoring protocols, patient education on warning signs, emergency action plans
+  prominent_models: CPIC guidelines for HLA testing, FDA black box warning implementations, ethnic-specific risk stratification models

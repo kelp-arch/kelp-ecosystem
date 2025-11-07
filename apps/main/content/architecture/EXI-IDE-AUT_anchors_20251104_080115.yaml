@@ -1,0 +1,304 @@
+# Generated anchors for cluster: EXI-IDE-AUT
+# Timestamp: 20251104_080115
+
+anchors:
+- id: exi-ide-aut-awr-pur
+  label: Authentic Self-Awareness
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Genuine self-recognition
+  - Internal awareness
+  - Self-attunement
+  - Inner knowing
+  scope: Clear recognition and understanding of one's internal states, feelings, motivations, and desires, enabling conscious awareness of authentic experience beneath defensive layers.
+  parent_scope_inheritance: Specifies the self-awareness component of authentic self-expression, focusing on the capacity to recognize genuine internal experience as foundation for authenticity.
+  polarity_expression: Manifests as purposeful introspection and mindful attention to internal states, with clear differentiation between authentic feelings and defensive reactions.
+  cross_domain_resonance: Resonates with emotional awareness (psy-emo-awr-ada) in recognizing feelings and interoceptive sensitivity (phy-int-sen-reg) in bodily awareness.
+  academic_description: Self-awareness represents the first component of Kernis & Goldman's authenticity model, involving conscious knowledge of one's motives, feelings, desires, and self-relevant cognitions. Research shows authentic self-awareness correlates with psychological well-being, self-esteem, and reduced defensive processing. Neuroimaging studies link self-awareness to medial prefrontal cortex activation and default mode network coherence.
+  clinical_description: Assessment explores client's ability to identify and articulate internal states through questions about feelings, needs, and motivations. Interventions include mindfulness practices to develop present-moment awareness, journaling to track internal experience, and body scan exercises to connect with somatic signals. Therapists help clients distinguish authentic feelings from defensive reactions through careful exploration of emotional layers.
+  lay_description: This is about truly knowing yourself - being aware of what you're really feeling, wanting, and needing underneath all the defenses and masks. It means being able to tune into your inner experience and recognize your genuine emotions, not just what you think you should feel.
+  foundational_themes: Self-knowledge, inner truth, conscious awareness, genuine recognition
+  experiential_processes: Introspection, self-reflection, mindful observation, internal monitoring
+  personal_relevance: Enables authentic choice-making and genuine self-expression by providing clear awareness of one's true nature
+- id: exi-ide-aut-awr-dir
+  label: Disconnected Self-Awareness
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Self-alienation
+  - Internal disconnection
+  - Alexithymia
+  - Self-estrangement
+  scope: Disconnection from internal experience characterized by inability to recognize or understand one's genuine feelings, needs, and motivations, maintaining false self through lack of self-awareness.
+  parent_scope_inheritance: Specifies the self-awareness deficit in false self patterns, showing how disconnection from internal experience prevents authentic self-expression.
+  polarity_expression: Manifests as directionless confusion about internal states, reliance on external cues to define self-experience, and chronic uncertainty about genuine feelings.
+  cross_domain_resonance: Resonates with emotional numbing (psy-emo-num-mal) in affective disconnection and dissociation (psy-dis-dep-mal) in self-estrangement.
+  academic_description: Lack of self-awareness represents a fundamental barrier to authenticity, often rooted in early attachment disruptions where genuine self-expression was discouraged. Research links poor self-awareness to alexithymia, dissociation, and increased substance use as external regulation strategy. Studies show individuals with low self-awareness demonstrate reduced insula and anterior cingulate cortex activation during self-referential processing.
+  clinical_description: Clients present with inability to identify or describe internal states, often saying 'I don't know' when asked about feelings or needs. Assessment reveals reliance on others to define their experience and confusion between thoughts and feelings. Treatment begins with basic emotion identification using feeling wheels, somatic awareness exercises to reconnect with body signals, and therapeutic mirroring to reflect observed emotional states.
+  lay_description: This is feeling lost inside yourself - not knowing what you really feel or want, being disconnected from your inner world. You might rely on others to tell you how you feel or constantly second-guess your own experience because you've lost touch with your authentic self.
+  foundational_themes: Self-alienation, inner void, existential confusion, identity diffusion
+  experiential_processes: Dissociation, numbing, external focus, defensive avoidance
+  personal_relevance: Maintains addiction and false self by preventing recognition of genuine needs and authentic experience
+- id: exi-ide-aut-prc-pur
+  label: Unbiased Self-Processing
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Objective self-evaluation
+  - Non-defensive processing
+  - Balanced self-assessment
+  - Integrated self-view
+  scope: Capacity for objective self-evaluation without defensive distortion, accepting both positive and negative self-aspects while maintaining integrated and realistic self-understanding.
+  parent_scope_inheritance: Specifies the unbiased processing component of authentic self-expression, focusing on non-defensive self-evaluation that enables genuine self-knowledge.
+  polarity_expression: Manifests as purposeful integration of feedback, balanced recognition of strengths and limitations, and non-defensive exploration of contradictory self-aspects.
+  cross_domain_resonance: Resonates with cognitive flexibility (psy-cog-flx-ada) in perspective-taking and reality testing (psy-cog-rea-ada) in accurate self-assessment.
+  academic_description: Unbiased processing, the second component of Kernis & Goldman's model, involves objective processing of self-relevant information without distortion, denial, or exaggeration. Research shows unbiased processing correlates with secure attachment, emotional intelligence, and reduced defensive self-esteem. Studies demonstrate that non-defensive processing activates dorsolateral prefrontal regions associated with cognitive control rather than defensive limbic activation.
+  clinical_description: Assessment examines client's response to feedback, ability to acknowledge both strengths and weaknesses, and presence of cognitive distortions about self. Interventions include cognitive restructuring to challenge all-or-nothing thinking, values clarification to develop balanced self-view, and structured feedback exercises to practice non-defensive reception. Therapists model balanced reflection of client's qualities while exploring defensive patterns.
+  lay_description: This means being honest with yourself about who you are - seeing both your strengths and weaknesses clearly without making excuses or being overly critical. It's about processing information about yourself objectively, accepting feedback without getting defensive, and maintaining a balanced view of yourself.
+  foundational_themes: Self-honesty, integrated understanding, balanced perspective, genuine self-acceptance
+  experiential_processes: Reality testing, feedback integration, self-reflection, cognitive flexibility
+  personal_relevance: Enables genuine growth and change by providing accurate self-understanding without defensive distortion
+- id: exi-ide-aut-prc-dir
+  label: Defensive Self-Processing
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Biased self-evaluation
+  - Defensive distortion
+  - Self-deception
+  - Fragmented self-view
+  scope: Defensive distortion of self-relevant information through denial, rationalization, or extreme self-views that prevent accurate self-understanding and maintain false self-presentation.
+  parent_scope_inheritance: Specifies the biased processing deficit in false self patterns, showing how defensive distortion prevents authentic self-knowledge and expression.
+  polarity_expression: Manifests as directionless oscillation between grandiose and worthless self-views, defensive rejection of feedback, and chronic externalization of responsibility.
+  cross_domain_resonance: Resonates with denial defenses (psy-def-den-mal) in reality distortion and splitting (psy-def-spl-mal) in extreme self-views.
+  academic_description: Defensive self-processing involves distortion of self-relevant information to protect fragile self-esteem or maintain addiction. Research links biased processing to narcissistic and borderline personality features, showing increased amygdala reactivity to self-threatening information. Studies demonstrate defensive processors show reduced prefrontal regulation during self-evaluation, defaulting to limbic-driven protective responses.
+  clinical_description: Clients demonstrate extreme self-evaluations, either harshly self-critical or unrealistically positive, with inability to integrate contradictory information. Assessment reveals rationalization of problems, blame externalization, and defensive response to therapeutic feedback. Treatment involves gentle confrontation of distortions, exploring the protective function of defenses, and gradual building of tolerance for realistic self-appraisal through supportive challenging.
+  lay_description: This is lying to yourself about who you are - either thinking you're perfect when you're not or believing you're worthless when you have value. It involves making excuses, blaming others for your problems, and rejecting any feedback that challenges your distorted self-view.
+  foundational_themes: Self-deception, fragmented identity, defensive protection, reality avoidance
+  experiential_processes: Rationalization, denial, projection, splitting
+  personal_relevance: Maintains addiction and prevents change by distorting self-understanding and avoiding genuine self-confrontation
+- id: exi-ide-aut-bhv-pur
+  label: Behavioral Authenticity
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Value-congruent behavior
+  - Genuine action
+  - Authentic expression
+  - Integrated behavior
+  scope: Acting in accordance with one's true values, feelings, and needs, demonstrating consistency between internal experience and external behavior across different contexts.
+  parent_scope_inheritance: Specifies the behavioral component of authentic self-expression, focusing on actions that genuinely reflect one's true self rather than false compliance.
+  polarity_expression: Manifests as purposeful alignment between values and actions, consistent self-expression across contexts, and courage to act authentically despite social pressure.
+  cross_domain_resonance: Resonates with personal agency (psy-mot-age-ada) in self-directed action and value-based living (exi-val-liv-pur) in meaningful behavior.
+  academic_description: Behavioral authenticity, the third component of Kernis & Goldman's model, involves acting consistently with one's values, preferences, and needs rather than merely conforming to external expectations. Research shows behavioral authenticity predicts well-being, life satisfaction, and reduced substance use. Studies demonstrate authentic behavior activates reward circuits associated with intrinsic motivation rather than external validation systems.
+  clinical_description: Assessment examines congruence between stated values and actual behavior, consistency across different social contexts, and ability to maintain authenticity under pressure. Interventions include values-based action planning, behavioral experiments testing authentic expression, and assertiveness training to support genuine self-advocacy. Therapists help clients identify and challenge fear-based behavioral patterns while building courage for authentic action.
+  lay_description: This is walking your talk - acting in ways that match who you really are inside. It means being consistent across different situations, saying no when you mean no, pursuing what genuinely interests you, and having the courage to be yourself even when others might disapprove.
+  foundational_themes: Personal integrity, genuine expression, value alignment, authentic courage
+  experiential_processes: Value-based choosing, authentic action, consistent expression, genuine engagement
+  personal_relevance: Builds self-trust and integrity through consistent authentic action that reinforces genuine identity
+- id: exi-ide-aut-bhv-dir
+  label: Performative Behavior
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - False compliance
+  - People-pleasing
+  - Chameleon behavior
+  - Inauthentic action
+  scope: Acting based on external expectations rather than internal truth, demonstrating inconsistent behavior across contexts and chronic disconnection between actions and genuine self.
+  parent_scope_inheritance: Specifies the behavioral inauthenticity in false self patterns, showing how performative actions maintain disconnection from true self.
+  polarity_expression: Manifests as directionless shifting between different personas, chronic people-pleasing, and actions that contradict internal experience and values.
+  cross_domain_resonance: Resonates with external locus of control (psy-mot-loc-mal) in other-directed behavior and impression management (soc-sel-imp-fra) in false presentation.
+  academic_description: Performative behavior represents false self-presentation through compliance, impression management, and role-playing. Research links behavioral inauthenticity to anxiety, depression, and substance use as coping mechanism. Studies show performative behavior activates stress response systems and creates cognitive dissonance between internal experience and external expression, contributing to psychological distress.
+  clinical_description: Clients demonstrate chameleon-like behavior changes across contexts, chronic inability to say no, and actions that consistently contradict stated values or feelings. Assessment reveals fear of authentic expression, history of punishment for genuine behavior, and confusion about personal preferences. Treatment involves mapping behavioral patterns, exploring fears underlying compliance, and gradual exposure to authentic expression in safe contexts.
+  lay_description: This is being a chameleon - constantly changing who you are based on who you're with, always trying to please others, and acting in ways that don't match how you really feel inside. It's exhausting because you're always performing rather than just being yourself.
+  foundational_themes: False self, external validation, performative existence, identity confusion
+  experiential_processes: Compliance, impression management, role-playing, self-betrayal
+  personal_relevance: Maintains exhausting false self that prevents genuine connection and authentic fulfillment
+- id: exi-ide-aut-rel-pur
+  label: Authentic Relating
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Genuine connection
+  - Relational authenticity
+  - True intimacy
+  - Honest relating
+  scope: Capacity for genuine interpersonal connection through authentic self-disclosure, emotional availability, and consistent presentation of true self across relationships.
+  parent_scope_inheritance: Specifies the relational component of authentic self-expression, focusing on genuine connection through authentic self-presentation in relationships.
+  polarity_expression: Manifests as purposeful vulnerability, honest communication about struggles, and maintaining consistent authentic self across different relationships.
+  cross_domain_resonance: Resonates with secure attachment (psy-att-sec-ada) in relational safety and interpersonal intimacy (soc-rel-int-coh) in genuine connection.
+  academic_description: Relational orientation, the fourth component of Kernis & Goldman's model, involves valuing and achieving openness and truthfulness in close relationships. Research shows authentic relating predicts relationship satisfaction, social support, and recovery outcomes. Studies demonstrate genuine relating activates oxytocin and dopamine systems associated with bonding and reduces cortisol stress response.
+  clinical_description: Assessment explores client's ability to show vulnerability, consistency of self-presentation across relationships, and history of genuine versus superficial connections. Interventions include interpersonal therapy focusing on authentic expression, vulnerability exercises in group settings, and communication skills training emphasizing honest self-disclosure. Therapists model authentic relating through genuine presence and transparent communication.
+  lay_description: This is being real with others - showing your true self including your struggles and imperfections, being emotionally available, and maintaining genuine connections rather than superficial relationships. It means having the courage to let others see who you really are.
+  foundational_themes: Genuine intimacy, relational truth, authentic vulnerability, honest connection
+  experiential_processes: Self-disclosure, emotional sharing, vulnerable expression, genuine engagement
+  personal_relevance: Enables deep meaningful connections that provide genuine support and belonging
+- id: exi-ide-aut-rel-dir
+  label: Relational Facades
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - False intimacy
+  - Relational masks
+  - Superficial connection
+  - Emotional withholding
+  scope: Maintaining false self-presentation in relationships through emotional withholding, deceptive facades, and fear-based avoidance of genuine intimacy.
+  parent_scope_inheritance: Specifies the relational inauthenticity in false self patterns, showing how facades prevent genuine connection and maintain isolation.
+  polarity_expression: Manifests as directionless shifting between different personas with different people, chronic hiding of problems, and surface-level connections that lack genuine intimacy.
+  cross_domain_resonance: Resonates with avoidant attachment (psy-att-avo-mal) in intimacy fears and social isolation (soc-rel-iso-fra) in disconnection.
+  academic_description: Relational facades represent false self-presentation designed to manage others' perceptions and avoid genuine intimacy. Research links relational inauthenticity to attachment insecurity, fear of rejection, and maintenance of addiction through isolation. Studies show false relating activates threat detection systems and inhibits oxytocin release, preventing genuine bonding.
+  clinical_description: Clients present different versions of themselves to different people, hide struggles even from close others, and maintain only surface-level connections. Assessment reveals fear of being truly known, history of rejection for authentic expression, and confusion about genuine versus strategic relating. Treatment explores relational fears, practices gradual self-disclosure, and builds capacity for tolerating genuine intimacy.
+  lay_description: This is wearing masks in relationships - showing different faces to different people, hiding your real struggles, and keeping everyone at arm's length. You might have many acquaintances but no one who really knows you because you're too afraid to show your true self.
+  foundational_themes: False connection, relational deception, intimacy avoidance, existential isolation
+  experiential_processes: Facade maintenance, emotional withholding, strategic self-presentation, relational avoidance
+  personal_relevance: Maintains painful isolation and prevents healing through genuine connection and support
+- id: exi-ide-aut-emo-pur
+  label: Congruent Emotional Expression
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Genuine emotion
+  - Authentic affect
+  - Emotional congruence
+  - True feeling expression
+  scope: Natural and genuine expression of emotions that accurately reflects internal affective experience, with congruence between felt and expressed emotions.
+  parent_scope_inheritance: Specifies the emotional expression dimension of authentic self-expression, focusing on genuine affective communication that reflects true internal experience.
+  polarity_expression: Manifests as purposeful alignment between internal feelings and external expression, with natural emotional flow and appropriate affective intensity.
+  cross_domain_resonance: Resonates with emotional expression (psy-emo-exp-ada) in adaptive affect and emotional regulation (phy-ans-emo-reg) in balanced expression.
+  academic_description: Congruent emotional expression involves alignment between subjective emotional experience and observable affective display. Research shows emotional congruence correlates with psychological well-being, stress reduction, and improved immune function. Studies demonstrate genuine emotional expression activates integrated neural networks linking limbic feeling centers with prefrontal expression regions, while incongruent expression creates neural conflict.
+  clinical_description: Assessment observes match between reported feelings and nonverbal expression, naturalness of emotional display, and range of expressed emotions. Interventions include emotion expression exercises using art or movement, practice identifying and expressing subtle feelings, and somatic work to release blocked emotions. Therapists attend to micro-expressions and help clients recognize when expression doesn't match experience.
+  lay_description: This is showing what you really feel - when you're sad, you cry real tears; when you're happy, your smile reaches your eyes. Your face and body naturally express what's happening inside rather than putting on an emotional performance or hiding your true feelings.
+  foundational_themes: Emotional truth, genuine feeling, authentic expression, affective congruence
+  experiential_processes: Natural expression, emotional flow, genuine display, congruent communication
+  personal_relevance: Enables authentic emotional connection and genuine processing of feelings
+- id: exi-ide-aut-emo-dir
+  label: Emotional Masking
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Emotional suppression
+  - Affect incongruence
+  - Emotional performance
+  - Feeling disconnection
+  scope: Suppression or distortion of genuine emotional expression through masking, performance, or disconnection from authentic affective experience.
+  parent_scope_inheritance: Specifies the emotional inauthenticity in false self patterns, showing how emotional masking prevents genuine expression and maintains disconnection.
+  polarity_expression: Manifests as directionless incongruence between internal feelings and external display, with chronic suppression, forced expressions, or performative emotions.
+  cross_domain_resonance: Resonates with emotional numbing (psy-emo-num-mal) in affective suppression and alexithymia (psy-emo-ale-mal) in emotional disconnection.
+  academic_description: Emotional masking involves suppression, distortion, or performance of emotions to manage others' perceptions or avoid vulnerability. Research links emotional incongruence to increased physiological stress, psychosomatic symptoms, and substance use for emotional regulation. Studies show emotional masking creates conflicting neural activation between limbic experience and prefrontal suppression, generating internal stress.
+  clinical_description: Clients demonstrate flat or inappropriate affect, forced smiles that don't reach the eyes, and report feeling 'numb' or 'fake' emotionally. Assessment reveals chronic suppression of negative emotions, performative positive displays, and confusion about genuine feelings. Treatment involves safe emotional expression practice, exploring fears about showing feelings, and somatic work to reconnect with authentic emotional experience.
+  lay_description: This is hiding your real feelings behind a mask - forcing smiles when you're sad, staying stoic when you're hurting, or putting on emotional performances that don't match what's really happening inside. You might feel emotionally numb or fake because you've lost touch with genuine feeling.
+  foundational_themes: Emotional falseness, affective disconnection, performative feeling, suppressed truth
+  experiential_processes: Suppression, masking, performance, emotional disconnection
+  personal_relevance: Creates exhausting internal tension and prevents genuine emotional processing and connection
+- id: exi-ide-aut-ned-pur
+  label: Authentic Needs Recognition
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Genuine needs awareness
+  - True need identification
+  - Authentic self-care
+  - Real needs recognition
+  scope: Clear identification and acknowledgment of genuine physical, emotional, and spiritual needs, with ability to differentiate authentic needs from addictive cravings or external demands.
+  parent_scope_inheritance: Specifies the needs recognition component of authentic self-expression, focusing on awareness and honoring of genuine needs as foundation for authentic self-care.
+  polarity_expression: Manifests as purposeful attunement to legitimate needs, clear differentiation between needs and wants, and appropriate self-advocacy for genuine requirements.
+  cross_domain_resonance: Resonates with homeostatic needs (phy-hom-ned-reg) in biological requirements and psychological needs (psy-mot-ned-ada) in emotional requirements.
+  academic_description: Authentic needs recognition involves accurate identification of genuine requirements for physical, psychological, and spiritual well-being. Research shows needs awareness predicts self-care behavior, reduced substance use, and improved recovery outcomes. Studies demonstrate that recognizing authentic needs activates insula-based interoceptive awareness and prefrontal evaluation systems that distinguish needs from cravings.
+  clinical_description: Assessment explores client's ability to identify different types of needs, distinguish needs from wants or cravings, and history of self-care versus self-neglect. Interventions include needs assessment exercises, teaching HALT (Hungry, Angry, Lonely, Tired) awareness, and developing personalized self-care plans based on genuine needs. Therapists help differentiate authentic needs from addictive urges through careful exploration.
+  lay_description: This is knowing what you really need - recognizing when you're truly hungry versus emotionally eating, understanding when you need rest versus escape, and identifying genuine emotional needs versus addictive cravings. It's about tuning into your authentic requirements for well-being.
+  foundational_themes: Genuine requirements, authentic self-care, true needs, legitimate wants
+  experiential_processes: Needs awareness, self-attunement, genuine recognition, authentic advocacy
+  personal_relevance: Enables appropriate self-care and prevents deprivation-driven vulnerability to relapse
+- id: exi-ide-aut-ned-dir
+  label: Needs Disconnection
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Authentic Self-Expression
+  cluster_id: exi-ide-aut
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Needs confusion
+  - Self-neglect
+  - Needs denial
+  - False needs
+  scope: Inability to recognize or honor genuine needs, with confusion between authentic requirements and addictive cravings, leading to chronic self-deprivation and vulnerability.
+  parent_scope_inheritance: Specifies the needs recognition deficit in false self patterns, showing how disconnection from genuine needs maintains self-neglect and addiction.
+  polarity_expression: Manifests as directionless confusion about genuine needs, mistaking cravings for requirements, and chronic pattern of self-deprivation or misdirected need-meeting.
+  cross_domain_resonance: Resonates with self-neglect (psy-sel-neg-mal) in self-deprivation and craving confusion (phy-rew-cra-dys) in misidentified needs.
+  academic_description: Needs disconnection involves inability to identify or respond to genuine requirements, often replacing authentic needs with addictive substitutes. Research links needs confusion to childhood neglect, insecure attachment, and increased relapse risk. Studies show poor needs recognition correlates with reduced interoceptive awareness and impaired prefrontal evaluation of internal signals.
+  clinical_description: Clients cannot identify basic needs, consistently confuse emotional needs with substance cravings, and demonstrate patterns of severe self-neglect. Assessment reveals history of having needs dismissed or punished, over-focus on others' needs, and use of substances to manage unrecognized needs. Treatment begins with basic needs education, tracking needs and responses, and exploring historical patterns of need dismissal.
+  lay_description: This is being so disconnected from yourself that you don't know what you really need - confusing being tired with being depressed, thinking you need a drink when you're actually lonely, or ignoring basic needs like food and rest. You might take care of everyone else while neglecting yourself completely.
+  foundational_themes: Self-abandonment, needs confusion, chronic deprivation, false substitutes
+  experiential_processes: Needs denial, self-neglect, confusion, misdirected seeking
+  personal_relevance: Maintains vulnerability to relapse through unmet needs and confusion about genuine requirements

@@ -1,0 +1,328 @@
+# Generated anchors for cluster: PHY-NEU-MEM
+# Timestamp: 20251103_122315
+
+anchors:
+- id: phy-neu-mem-ctx-reg
+  label: Regulated Contextual Memory
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Flexible hippocampal encoding
+  - Adaptive contextual associations
+  - Appropriate place cell activity
+  scope: Hippocampal circuits maintaining flexible, context-specific memory formation with appropriate pattern separation, controlled retrieval, and adaptive forgetting of environmental associations.
+  parent_scope_inheritance: Specifies the memory-learning cluster's hippocampal declarative memory component in its regulated state, showing flexible encoding and retrieval of contextual information that supports adaptive behavior.
+  polarity_expression: Manifests as balanced hippocampal activity enabling context-appropriate memory retrieval, effective discrimination between similar environments, and flexible updating of spatial-contextual associations.
+  cross_domain_resonance: Resonates with psychological adaptive memory (psy-cog-mem-ada), sociological cohesive place identity (soc-env-pla-coh), and existential purposeful meaning-making (exi-mea-nar-pur).
+  academic_description: Research demonstrates that regulated contextual memory involves balanced hippocampal place cell firing, intact dentate gyrus pattern separation, and appropriate CA3-CA1 information flow. Studies show optimal theta-gamma coupling during encoding, controlled sharp-wave ripples during consolidation, and flexible remapping in response to environmental changes. This state supports adaptive spatial navigation and context-dependent memory retrieval.
+  clinical_description: Patients with regulated contextual memory show appropriate responses to environmental cues without overgeneralization. Assessment involves context discrimination tasks, spatial memory tests, and cue-reactivity paradigms. Interventions include mindfulness-based context awareness training, cognitive remediation targeting pattern separation, and environmental enrichment protocols that strengthen adaptive contextual processing.
+  lay_description: Your brain naturally connects memories to the places where they happened, like remembering a conversation better when you return to where it occurred. In a healthy state, these place-based memories are specific and flexible - you can tell similar places apart and update your mental map as things change. This helps you navigate the world adaptively without being overwhelmed by memories in every location.
+  key_mediators: NMDA receptors, AMPA receptors, acetylcholine, theta oscillations, sharp-wave ripples, BDNF, Arc protein, CaMKII
+  key_mechanisms: Pattern separation in dentate gyrus, pattern completion in CA3, theta-gamma coupling, place cell remapping, grid cell coordination, replay during rest
+  clinical_relevance: Intact contextual memory supports PTSD recovery, reduces addiction relapse risk, maintains cognitive flexibility in aging
+  assessment_methods: Virtual reality navigation tasks, context discrimination paradigms, fMRI hippocampal activation patterns, spatial working memory tests
+  interventions: Mindfulness training, context discrimination exercises, environmental enrichment, cognitive mapping therapy, virtual reality exposure
+  prominent_models: O'Keefe & Nadel place cell theory, Marr's hippocampal theory, pattern separation/completion models, cognitive map theory
+- id: phy-neu-mem-ctx-dys
+  label: Dysregulated Contextual Memory
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Overgeneralized hippocampal encoding
+  - Intrusive contextual memories
+  - Pathological place cell activity
+  scope: Hippocampal circuits showing hyperactive encoding, impaired pattern separation, and overgeneralized contextual associations that trigger intrusive drug-related memories across multiple environments.
+  parent_scope_inheritance: Specifies the memory-learning cluster's hippocampal declarative memory component in its dysregulated state, showing pathological overencoding of drug-context associations that maintain addiction vulnerability.
+  polarity_expression: Manifests as hippocampal hyperactivity creating overgeneralized drug-context associations, failed discrimination between safe and drug-related environments, and intrusive place-triggered memories resistant to updating.
+  cross_domain_resonance: Resonates with psychological maladaptive memory (psy-cog-mem-mal), sociological fragmented place identity (soc-env-pla-fra), and existential directionless meaning-making (exi-mea-nar-dir).
+  academic_description: Research reveals dysregulated contextual memory involves hippocampal hyperactivity, impaired dentate gyrus pattern separation, and aberrant CA3 pattern completion. Studies demonstrate disrupted theta-gamma coupling, excessive sharp-wave ripples, and pathological place cell remapping. Drug exposure creates abnormally stable place fields that resist updating, leading to persistent drug-context associations that generalize across environments.
+  clinical_description: Patients experience intense drug cravings triggered by environmental cues, with poor discrimination between drug-related and safe contexts. Assessment reveals overgeneralization in context discrimination tasks and heightened hippocampal activation to drug cues. Interventions include cue exposure therapy in multiple contexts, pharmacological dampening of hippocampal hyperactivity, and virtual reality-based context manipulation to weaken associations.
+  lay_description: When addiction develops, your brain creates incredibly strong connections between drugs and the places where you used them. These place-memories become overpowering and spread to similar locations - a specific street corner might trigger cravings, then entire neighborhoods feel dangerous. These mental maps become rigid and resistant to change, keeping you trapped in patterns of craving whenever you encounter reminders of past use.
+  key_mediators: Excessive glutamate release, altered NMDA/AMPA ratio, reduced GABA inhibition, disrupted acetylcholine, aberrant dopamine signaling, elevated stress hormones
+  key_mechanisms: Impaired pattern separation, excessive pattern completion, hippocampal hyperactivity, rigid place fields, disrupted theta rhythms, pathological replay
+  clinical_relevance: Drives environmental relapse triggers, maintains contextual drug craving, impairs extinction learning, increases vulnerability in drug-associated locations
+  assessment_methods: Cue-reactivity tests, context generalization tasks, hippocampal fMRI hyperactivation, place preference paradigms, virtual reality craving assessment
+  interventions: Multi-context cue exposure, hippocampal-targeted neuromodulation, memantine for hyperactivity, environmental restructuring, virtual reality extinction
+  prominent_models: Aberrant salience model, context-induced reinstatement theory, hippocampal hyperactivity hypothesis, overgeneralization theory
+- id: phy-neu-mem-hab-reg
+  label: Regulated Habit Learning
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Goal-directed behavior
+  - Flexible action control
+  - Adaptive procedural learning
+  scope: Dorsal striatum circuits maintaining balanced goal-directed and habitual control, with preserved sensitivity to outcome devaluation and flexible switching between automatic and deliberate action selection.
+  parent_scope_inheritance: Specifies the memory-learning cluster's striatal procedural learning component in its regulated state, showing appropriate balance between efficient automatic behaviors and maintained voluntary control.
+  polarity_expression: Manifests as preserved ventral-dorsal striatal balance enabling actions to remain goal-directed, responsive to changing outcomes, and under voluntary control even after repetition.
+  cross_domain_resonance: Resonates with psychological adaptive behavioral patterns (psy-beh-pat-ada), sociological cohesive rituals (soc-beh-rit-coh), and existential purposeful practices (exi-pur-pra-pur).
+  academic_description: Research shows regulated habit learning involves balanced activity across ventral striatum (goal-directed) and dorsal striatum (habitual) systems. Studies demonstrate intact cortico-striatal loops, preserved outcome devaluation sensitivity, and flexible arbitration between model-based and model-free control. This state maintains appropriate automatization of well-learned behaviors while preserving ability to override habits when needed.
+  clinical_description: Patients maintain voluntary control over behaviors despite repetition, showing appropriate habit formation for adaptive routines while retaining flexibility. Assessment includes outcome devaluation tasks, habit-override paradigms, and model-based/model-free decision tasks. Interventions focus on strengthening goal-directed control through cognitive training, implementation intentions, and mindful action selection.
+  lay_description: Healthy habits are like driving a familiar route - you can do it automatically when appropriate, but can easily take a different path when needed. Your brain efficiently automates routine behaviors while keeping you in control. You develop helpful routines that make life easier, but these habits remain flexible tools rather than compulsions you cannot resist.
+  key_mediators: Balanced dopamine in ventral/dorsal striatum, acetylcholine from interneurons, endocannabinoids, glutamate from cortex, GABA inhibition
+  key_mechanisms: Preserved ventral-dorsal striatal balance, intact outcome devaluation, flexible action selection, appropriate S-R learning, maintained cognitive control
+  clinical_relevance: Supports adaptive skill learning, maintains behavioral flexibility, enables healthy routine formation, preserves voluntary control
+  assessment_methods: Outcome devaluation tasks, contingency degradation tests, model-based/model-free paradigms, habit override assessments, sequential decision tasks
+  interventions: Cognitive behavioral therapy, implementation intention training, mindfulness-based action awareness, contingency management, goal-setting exercises
+  prominent_models: Dual-system theory, actor-critic models, hierarchical reinforcement learning, goal-directed vs habitual control theory
+- id: phy-neu-mem-hab-dys
+  label: Dysregulated Habit Learning
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Compulsive habits
+  - Automatic drug-seeking
+  - Pathological procedural learning
+  scope: Dorsal striatum circuits dominated by habitual control, showing insensitivity to outcome devaluation, compulsive action sequences, and loss of voluntary control over drug-seeking behaviors.
+  parent_scope_inheritance: Specifies the memory-learning cluster's striatal procedural learning component in its dysregulated state, showing pathological shift to automatic, compulsive drug-seeking habits resistant to conscious control.
+  polarity_expression: Manifests as dorsal striatal dominance creating compulsive behavioral patterns, insensitivity to negative consequences, and automatic drug-seeking sequences triggered by cues without conscious intention.
+  cross_domain_resonance: Resonates with psychological maladaptive behavioral patterns (psy-beh-pat-mal), sociological fragmented rituals (soc-beh-rit-fra), and existential directionless practices (exi-pur-pra-dir).
+  academic_description: Research reveals dysregulated habit learning involves dorsal striatal dominance with diminished ventral striatal goal-directed control. Studies show accelerated habit formation for drug-seeking, insensitivity to punishment, and impaired model-based decision-making. Drug exposure causes persistent changes in cortico-striatal plasticity, creating inflexible stimulus-response associations that drive compulsive use despite adverse consequences.
+  clinical_description: Patients exhibit automatic drug-seeking behaviors triggered by cues without conscious intention, continuing despite negative consequences. Assessment reveals insensitivity to outcome devaluation, dominance of model-free over model-based control, and inability to override habitual responses. Interventions include habit reversal training, response prevention techniques, and in severe cases, deep brain stimulation of striatal circuits.
+  lay_description: Addiction hijacks your brain's habit system, turning drug use into an automatic behavior like a programmed robot. What started as a choice becomes a compulsion - your body moves through the motions of drug-seeking without conscious decision, like being on autopilot you cannot turn off. These habits persist even when you desperately want to stop, operating below conscious awareness.
+  key_mediators: Dorsal striatal dopamine dominance, reduced cholinergic interneuron activity, altered endocannabinoid signaling, excessive glutamate, reduced prefrontal input
+  key_mechanisms: Ventral to dorsal striatal shift, lost outcome devaluation sensitivity, rigid S-R associations, impaired action-outcome learning, diminished cognitive control
+  clinical_relevance: Drives compulsive drug use, maintains automatic drug-seeking, causes relapse through habitual responses, resists conscious intervention attempts
+  assessment_methods: Habit index measurements, compulsivity scales, stimulus-response tasks, PET imaging of striatal activity, behavioral automaticity assessments
+  interventions: Habit reversal therapy, response prevention, contingency management, deep brain stimulation, pharmacological striatal modulation, mindfulness-based habit interruption
+  prominent_models: Everitt & Robbins habit theory, compulsivity models, S-R learning theory, ventral-dorsal striatal shift hypothesis
+- id: phy-neu-mem-syn-reg
+  label: Regulated Synaptic Plasticity
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Balanced LTP/LTD
+  - Homeostatic plasticity
+  - Physiological synaptic modification
+  scope: Synaptic mechanisms maintaining balanced long-term potentiation and depression, appropriate receptor trafficking, calcium homeostasis, and metaplasticity that enables flexible learning while preventing runaway excitation.
+  parent_scope_inheritance: Specifies the memory-learning cluster's fundamental synaptic plasticity mechanisms in their regulated state, providing the balanced molecular basis for adaptive learning and memory formation.
+  polarity_expression: Manifests as balanced strengthening and weakening of synapses, maintained homeostatic plasticity, appropriate learning rates, and flexible modification of synaptic weights in response to experience.
+  cross_domain_resonance: Resonates with psychological adaptive learning (psy-cog-lea-ada), physiological regulated neuroplasticity (phy-neu-neu-reg), and existential purposeful growth (exi-gro-dev-pur).
+  academic_description: Research demonstrates regulated synaptic plasticity involves balanced NMDA receptor activation, appropriate AMPA receptor trafficking, and controlled calcium signaling. Studies show intact LTP/LTD induction thresholds, preserved metaplasticity, and homeostatic scaling mechanisms. This state maintains the Bienenstock-Cooper-Munro sliding threshold, enabling appropriate synaptic modification while preventing saturation or runaway excitation.
+  clinical_description: Patients show normal learning curves, appropriate forgetting rates, and flexible acquisition of new information. Assessment includes learning rate measurements, reversal learning tasks, and when possible, LTP-like plasticity measures using TMS. Interventions focus on optimizing plasticity through exercise-induced BDNF, sleep optimization for synaptic homeostasis, and nutritional support for synaptic function.
+  lay_description: Your brain learns by strengthening connections between neurons that fire together, like creating paths through repeated use. In a healthy state, this process is balanced - some connections strengthen while others weaken, allowing you to learn new things while forgetting irrelevant details. This flexibility lets you adapt to new situations and update your knowledge without getting stuck in rigid patterns.
+  key_mediators: NMDA receptors, AMPA receptors, CaMKII, CREB, BDNF, Arc, Homer proteins, PSD-95, calcium, magnesium
+  key_mechanisms: Balanced LTP/LTD induction, AMPA receptor trafficking, spine morphology changes, homeostatic scaling, metaplasticity, synaptic tagging and capture
+  clinical_relevance: Enables normal learning and memory, supports cognitive flexibility, maintains capacity for new learning throughout life, allows behavioral adaptation
+  assessment_methods: Paired associative stimulation, learning curve analysis, reversal learning tasks, TMS-induced plasticity measures, cognitive flexibility tests
+  interventions: Aerobic exercise for BDNF, cognitive training, sleep optimization, omega-3 supplementation, intermittent fasting for plasticity enhancement
+  prominent_models: Hebbian plasticity theory, BCM theory, synaptic homeostasis hypothesis, metaplasticity models, spike-timing dependent plasticity
+- id: phy-neu-mem-syn-dys
+  label: Dysregulated Synaptic Plasticity
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Pathological LTP
+  - Drug-induced metaplasticity
+  - Aberrant synaptic strengthening
+  scope: Synaptic mechanisms showing drug-induced metaplasticity with excessive long-term potentiation, altered receptor composition, disrupted calcium signaling, and loss of homeostatic regulation creating abnormally strong and persistent synaptic modifications.
+  parent_scope_inheritance: Specifies the memory-learning cluster's fundamental synaptic plasticity mechanisms in their dysregulated state, providing the pathological molecular basis for abnormally strong drug-related learning.
+  polarity_expression: Manifests as excessive synaptic strengthening for drug-related circuits, impaired synaptic weakening, lost homeostatic control, and inflexible synaptic weights that resist reversal learning.
+  cross_domain_resonance: Resonates with psychological maladaptive learning (psy-cog-lea-mal), physiological dysregulated neuroplasticity (phy-neu-neu-dys), and existential directionless growth (exi-gro-dev-dir).
+  academic_description: Research reveals drug-induced metaplasticity involving altered NMDA receptor subunit composition, aberrant AMPA receptor trafficking, and pathological calcium influx. Studies demonstrate lowered LTP threshold, impaired LTD, and disrupted homeostatic scaling. Drugs of abuse hijack plasticity mechanisms, creating a state where drug-related synapses become abnormally strengthened and resistant to weakening, while other synapses show reduced plasticity.
+  clinical_description: Patients exhibit abnormally rapid and strong formation of drug associations, with impaired ability to unlearn or update these connections. Assessment reveals altered learning curves, failed reversal learning, and when measurable, excessive LTP-like responses. Interventions include NMDA receptor modulators like memantine, mGluR5 modulators, and neuromodulation techniques like TMS to restore plasticity balance.
+  lay_description: Drugs hijack your brain's learning system at the most basic level - the connections between brain cells. Instead of balanced strengthening and weakening, drug-related connections become super-highways that resist change. It is like your brain's learning dial gets stuck on 'maximum' for anything drug-related while becoming less able to learn other things, trapping you in rigid patterns.
+  key_mediators: Altered NMDA NR2B/NR2A ratio, excessive calcium influx, hyperphosphorylated CaMKII, elevated CREB, disrupted BDNF signaling, inflammatory cytokines
+  key_mechanisms: Lowered LTP threshold, impaired LTD, lost homeostatic scaling, aberrant metaplasticity, excessive spine formation, disrupted synaptic pruning
+  clinical_relevance: Creates pathologically strong drug memories, impairs new learning, prevents unlearning of drug associations, maintains vulnerability to relapse
+  assessment_methods: Aberrant learning curves, failed reversal learning, excessive TMS-induced potentiation, altered paired-pulse responses, cognitive rigidity tests
+  interventions: NMDA antagonists (memantine), mGluR5 modulators, glycine transport inhibitors, repetitive TMS for plasticity normalization, ketamine protocols
+  prominent_models: Metaplasticity hypothesis of addiction, aberrant learning theory, synaptic homeostasis disruption model, drug-induced LTP occlusion theory
+- id: phy-neu-mem-con-reg
+  label: Regulated Memory Consolidation
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Adaptive consolidation
+  - Balanced memory stabilization
+  - Appropriate forgetting
+  scope: Consolidation processes showing balanced protein synthesis, normal sleep-dependent consolidation, appropriate systems consolidation from hippocampus to cortex, and natural forgetting of irrelevant information.
+  parent_scope_inheritance: Specifies the memory-learning cluster's consolidation processes in their regulated state, enabling appropriate long-term storage of important information while allowing adaptive forgetting.
+  polarity_expression: Manifests as selective consolidation of relevant memories, appropriate transfer to long-term storage, natural decay of unimportant details, and maintained capacity for memory updating.
+  cross_domain_resonance: Resonates with psychological adaptive memory processing (psy-cog-mem-ada), physiological regulated sleep (phy-neu-sle-reg), and existential purposeful integration (exi-int-who-pur).
+  academic_description: Research shows regulated consolidation involves time-dependent protein synthesis, sleep-dependent memory processing with appropriate slow-wave sleep and REM phases, and gradual systems consolidation. Studies demonstrate selective strengthening of relevant memories during sleep, appropriate forgetting of interference, and maintained memory lability windows. This state balances memory persistence with flexibility.
+  clinical_description: Patients show normal forgetting curves, with important information retained while irrelevant details fade appropriately. Assessment includes delayed recall tests, sleep-dependent memory tasks, and interference paradigms. Interventions focus on optimizing consolidation through sleep hygiene, targeted memory reactivation during sleep, and spacing of learning sessions.
+  lay_description: After learning something new, your brain needs time to solidify those memories, like cement that needs to set. During sleep and quiet rest, important memories get strengthened while trivial details naturally fade away. This healthy process helps you remember what matters without being overwhelmed by every detail you have ever encountered.
+  key_mediators: CREB, immediate early genes, Arc, BDNF, protein kinase A, protein synthesis machinery, sleep spindles, slow oscillations, acetylcholine
+  key_mechanisms: Protein synthesis-dependent stabilization, sleep replay, hippocampal-cortical dialogue, synaptic downscaling, memory triage, systems consolidation
+  clinical_relevance: Maintains adaptive memory function, enables learning from experience, supports skill acquisition, allows emotional memory processing
+  assessment_methods: Delayed recall tests, sleep-dependent memory tasks, protein synthesis disruption studies, sleep EEG analysis, forgetting curve measurements
+  interventions: Sleep optimization, spaced learning protocols, targeted memory reactivation, exercise before learning, stress reduction during consolidation windows
+  prominent_models: Standard consolidation theory, multiple trace theory, synaptic homeostasis hypothesis, active systems consolidation, memory transformation theory
+- id: phy-neu-mem-con-dys
+  label: Dysregulated Memory Consolidation
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Overconsolidation
+  - Pathological memory persistence
+  - Impaired forgetting
+  scope: Consolidation processes showing enhanced protein synthesis for drug memories, disrupted sleep consolidation, accelerated systems consolidation of drug associations, and impaired forgetting maintaining intrusive drug memories.
+  parent_scope_inheritance: Specifies the memory-learning cluster's consolidation processes in their dysregulated state, creating abnormally persistent drug memories resistant to natural forgetting processes.
+  polarity_expression: Manifests as preferential consolidation of drug-related memories, accelerated transfer to long-term storage, resistance to normal forgetting, and maintained vividness of drug experiences over time.
+  cross_domain_resonance: Resonates with psychological maladaptive memory processing (psy-cog-mem-mal), physiological dysregulated sleep (phy-neu-sle-dys), and existential directionless integration (exi-int-who-dir).
+  academic_description: Research reveals enhanced consolidation of drug memories through elevated protein synthesis, disrupted sleep architecture with reduced REM sleep, and accelerated hippocampal-cortical transfer. Studies show drug memories resist normal forgetting, maintain emotional intensity, and show enhanced reconsolidation. Stress hormones released during drug use strengthen consolidation, while drug-disrupted sleep impairs consolidation of competing adaptive memories.
+  clinical_description: Patients report drug memories remaining vivid and intrusive long after cessation, with poor forgetting of drug-related experiences. Assessment shows enhanced recall of drug-related information, disrupted sleep architecture, and persistent emotional charge of drug memories. Interventions include protein synthesis inhibitors during consolidation windows, sleep normalization protocols, and interference-based forgetting induction.
+  lay_description: Drug memories get locked into your brain with unusual strength, like photographs that never fade while normal memories blur. Your brain's forgetting mechanism breaks down for drug-related experiences, keeping them fresh and powerful years later. These super-consolidated memories intrude into consciousness and trigger cravings long after you have stopped using.
+  key_mediators: Excessive CREB activation, elevated immediate early genes, stress hormones (cortisol, norepinephrine), disrupted acetylcholine, altered sleep neurochemistry
+  key_mechanisms: Enhanced protein synthesis for drug memories, disrupted sleep replay, accelerated systems consolidation, impaired synaptic downscaling, failed memory triage
+  clinical_relevance: Maintains persistent drug memories, prevents adaptive forgetting, sustains craving over time, creates lasting vulnerability to relapse
+  assessment_methods: Enhanced drug memory recall, disrupted forgetting curves, polysomnography showing altered sleep, intrusive memory questionnaires, emotional memory tests
+  interventions: Propranolol during consolidation, sleep restoration therapy, protein synthesis inhibition, interference training, electroconvulsive therapy for severe cases
+  prominent_models: Overconsolidation hypothesis, stress-enhanced consolidation model, disrupted sleep consolidation theory, aberrant systems consolidation model
+- id: phy-neu-mem-rec-reg
+  label: Regulated Memory Reconsolidation
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Flexible memory updating
+  - Adaptive reconsolidation
+  - Memory malleability
+  scope: Reconsolidation processes enabling retrieved memories to enter a labile state, incorporate new information, update with current context, and restabilize in modified form through balanced protein synthesis.
+  parent_scope_inheritance: Specifies the memory-learning cluster's reconsolidation mechanisms in their regulated state, allowing memories to be updated and modified when retrieved, maintaining adaptive flexibility.
+  polarity_expression: Manifests as appropriate memory destabilization upon retrieval, integration of new information, emotional reprocessing, and adaptive updating that allows memories to evolve with experience.
+  cross_domain_resonance: Resonates with psychological adaptive memory updating (psy-tra-mem-ada), sociological cohesive narrative revision (soc-cul-nar-coh), and existential purposeful meaning revision (exi-mea-nar-pur).
+  academic_description: Research demonstrates regulated reconsolidation involves NMDA-dependent destabilization, time-limited protein synthesis for restabilization, and integration of new information during the labile window. Studies show prediction error drives destabilization, enabling memory updating. This process allows memories to remain current and adaptive, incorporating new learning while maintaining continuity. The reconsolidation window offers unique therapeutic opportunities.
+  clinical_description: Patients can update emotional memories when retrieved in therapeutic contexts, reducing their emotional charge and modifying their meaning. Assessment involves memory reactivation protocols and measurement of subsequent memory changes. Interventions leverage reconsolidation through memory retrieval paired with new learning, cognitive reappraisal, or pharmacological agents like propranolol.
+  lay_description: When you recall a memory, it briefly becomes changeable again, like soft clay that can be reshaped before hardening. This natural process allows your memories to update with new information and perspectives. In therapy, recalling difficult memories in a safe environment can help change how they affect you, updating old pain with new understanding.
+  key_mediators: NMDA receptors, protein kinase A, CREB, Zif268, BDNF, GluA2-containing AMPA receptors, ubiquitin-proteasome system, norepinephrine
+  key_mechanisms: Destabilization upon retrieval, protein synthesis-dependent restabilization, boundary conditions, prediction error detection, memory updating, trace dominance
+  clinical_relevance: Enables therapeutic memory modification, supports trauma processing, allows belief updating, facilitates emotional relearning
+  assessment_methods: Memory reactivation-extinction protocols, post-retrieval interference tests, pharmacological disruption studies, memory modification paradigms
+  interventions: Retrieval-extinction therapy, propranolol-assisted reconsolidation, cognitive reappraisal during retrieval, EMDR, memory specificity training
+  prominent_models: Reconsolidation theory, prediction error hypothesis, trace dominance theory, memory malleability framework, destabilization-reconsolidation model
+- id: phy-neu-mem-rec-dys
+  label: Dysregulated Memory Reconsolidation
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Pathological reconsolidation
+  - Memory strengthening upon retrieval
+  - Resistant memory traces
+  scope: Reconsolidation processes where drug memories resist destabilization, strengthen upon retrieval, fail to incorporate corrective information, and reconsolidate more strongly, creating self-reinforcing memory traces.
+  parent_scope_inheritance: Specifies the memory-learning cluster's reconsolidation mechanisms in their dysregulated state, where drug memories become strengthened rather than updated upon retrieval, maintaining pathological associations.
+  polarity_expression: Manifests as resistance to memory destabilization, strengthening rather than updating upon retrieval, failed integration of corrective information, and progressive intensification of drug memories with each recall.
+  cross_domain_resonance: Resonates with psychological maladaptive memory strengthening (psy-tra-mem-mal), sociological fragmented narrative rigidity (soc-cul-nar-fra), and existential directionless meaning fixation (exi-mea-nar-dir).
+  academic_description: Research reveals drug memories show altered reconsolidation with resistance to destabilization, requiring stronger prediction errors for labilization. Studies demonstrate enhanced protein synthesis during reconsolidation, leading to memory strengthening rather than updating. Drug memories show expanded boundary conditions, reconsolidating under parameters where normal memories would not. This creates a ratchet effect where each retrieval strengthens rather than modifies the memory.
+  clinical_description: Patients report drug memories becoming more intense with each recall, resisting therapeutic modification attempts. Assessment reveals failed extinction after retrieval, memory strengthening following reactivation, and resistance to reconsolidation-based interventions. Treatment requires intensive protocols combining strong prediction error, pharmacological enhancement, and multiple retrieval sessions to achieve modification.
+  lay_description: Unlike normal memories that can be updated when recalled, drug memories have a dangerous property - they get stronger each time you remember them. It is like a story that becomes more dramatic with each telling, except you cannot edit it. This self-reinforcing cycle means that thinking about past drug use actually strengthens those memories rather than allowing them to fade or change.
+  key_mediators: Enhanced protein synthesis, elevated Zif268, increased GluA2-lacking AMPA receptors, stress hormone potentiation, reduced destabilization signals
+  key_mechanisms: Resistance to destabilization, enhanced restabilization, expanded boundary conditions, failed prediction error, strengthening upon retrieval, trace dominance
+  clinical_relevance: Maintains and strengthens drug memories, prevents therapeutic modification, increases craving with retrieval, creates progressive memory intensification
+  assessment_methods: Failed retrieval-extinction protocols, memory strengthening measurements, resistance to pharmacological disruption, boundary condition testing
+  interventions: Enhanced prediction error protocols, combined pharmacological disruption, multiple retrieval sessions, deep brain stimulation during retrieval, ketamine-assisted therapy
+  prominent_models: Pathological reconsolidation hypothesis, memory strengthening model, boundary condition expansion theory, resistant trace hypothesis
+- id: phy-neu-mem-ext-reg
+  label: Regulated Extinction Learning
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Effective extinction
+  - Adaptive inhibitory learning
+  - Successful fear suppression
+  scope: Extinction circuits showing robust prefrontal-amygdala inhibition, strong extinction memory formation, effective consolidation of inhibitory learning, and context-appropriate retrieval that durably suppresses unwanted responses.
+  parent_scope_inheritance: Specifies the memory-learning cluster's extinction learning component in its regulated state, enabling effective suppression of conditioned responses through new inhibitory learning.
+  polarity_expression: Manifests as successful formation of extinction memories, strong prefrontal inhibition of subcortical responses, durable suppression across contexts, and reduced vulnerability to renewal or reinstatement.
+  cross_domain_resonance: Resonates with psychological adaptive fear extinction (psy-anx-ext-ada), sociological cohesive norm updating (soc-nor-upd-coh), and existential purposeful letting go (exi-att-let-pur).
+  academic_description: Research demonstrates regulated extinction involves strong ventromedial prefrontal cortex activation, effective inhibition of amygdala responses, and robust consolidation of extinction memories. Studies show intact infralimbic-amygdala projections, appropriate NMDA-dependent plasticity, and successful extinction generalization. This state enables durable suppression of conditioned responses with reduced susceptibility to return of fear phenomena.
+  clinical_description: Patients successfully reduce conditioned responses through exposure therapy, maintaining gains across time and contexts. Assessment shows effective within-session and between-session extinction, reduced renewal and reinstatement, and successful extinction generalization. Interventions include optimized exposure therapy, D-cycloserine augmentation, and extinction training in multiple contexts.
+  lay_description: Your brain can learn that something previously associated with drugs is now safe, like teaching yourself that a trigger no longer means danger. This new learning does not erase the old memory but creates a stronger 'safety' memory that overrides it. With practice, these safety signals become strong enough to prevent the old associations from controlling your behavior.
+  key_mediators: NMDA receptors, BDNF, GABA interneurons, endocannabinoids, dopamine, IL-1 plasticity markers, protein kinase A, MAPK
+  key_mechanisms: Infralimbic-amygdala inhibition, extinction memory consolidation, context-dependent retrieval, inhibitory learning, prefrontal control, fear suppression
+  clinical_relevance: Enables successful exposure therapy, reduces conditioned craving, supports recovery, maintains treatment gains
+  assessment_methods: Extinction learning curves, renewal tests, reinstatement paradigms, spontaneous recovery measures, extinction retention tests
+  interventions: Optimized exposure therapy, D-cycloserine augmentation, multiple context training, retrieval-extinction protocols, exercise enhancement
+  prominent_models: Inhibitory learning theory, extinction as new learning, contextual modulation model, prefrontal inhibition hypothesis
+- id: phy-neu-mem-ext-dys
+  label: Dysregulated Extinction Learning
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Memory-Learning
+  cluster_id: phy-neu-mem
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired extinction
+  - Failed inhibitory learning
+  - Persistent conditioned responses
+  scope: Extinction circuits showing weak prefrontal-amygdala inhibition, poor extinction memory formation, failed consolidation of inhibitory learning, and high vulnerability to renewal, reinstatement, and spontaneous recovery of drug responses.
+  parent_scope_inheritance: Specifies the memory-learning cluster's extinction learning component in its dysregulated state, showing inability to suppress conditioned drug responses through inhibitory learning.
+  polarity_expression: Manifests as failed extinction despite repeated exposure, weak prefrontal control, rapid return of conditioned responses, and vulnerability to relapse in new contexts or after stress.
+  cross_domain_resonance: Resonates with psychological maladaptive fear persistence (psy-anx-ext-mal), sociological fragmented norm rigidity (soc-nor-upd-fra), and existential directionless holding on (exi-att-let-dir).
+  academic_description: Research reveals impaired extinction involves hypoactive ventromedial prefrontal cortex, failed inhibition of amygdala responses, and poor consolidation of extinction memories. Studies demonstrate reduced infralimbic plasticity, altered NMDA receptor function, and deficient BDNF signaling. Drug exposure impairs extinction circuits, creating persistent vulnerability to conditioned responses that resist inhibitory learning. High rates of renewal, reinstatement, and spontaneous recovery maintain addiction.
+  clinical_description: Patients show minimal reduction in craving despite repeated cue exposure, with rapid return of responses in new contexts or after stress. Assessment reveals poor within-session and between-session extinction, high renewal and reinstatement, and failed generalization. Interventions require enhanced protocols including pharmacological augmentation, intensive multi-context training, and neuromodulation to strengthen extinction circuits.
+  lay_description: Even when repeatedly exposed to drug triggers without using, your brain fails to learn that these cues are now 'safe.' The old drug associations remain as strong as ever, instantly returning when you change environments or feel stressed. It is like trying to overwrite a file that is permanently write-protected - the new safety learning simply will not stick, leaving you vulnerable to the same triggers again and again.
+  key_mediators: Reduced NMDA function, decreased BDNF, GABA deficits, endocannabinoid dysfunction, elevated stress hormones, inflammatory markers
+  key_mechanisms: Failed infralimbic activation, persistent amygdala responses, poor extinction consolidation, context-dependent return, stress-induced reinstatement
+  clinical_relevance: Causes exposure therapy failure, maintains conditioned craving, drives relapse vulnerability, limits treatment effectiveness
+  assessment_methods: Failed extinction curves, high renewal rates, easy reinstatement, rapid spontaneous recovery, poor extinction retention
+  interventions: Enhanced extinction protocols, D-cycloserine or other NMDA enhancers, propranolol, TMS to vmPFC, virtual reality multi-context training, ketamine augmentation
+  prominent_models: Extinction deficit hypothesis, prefrontal hypofrontality model, impaired inhibitory learning theory, vmPFC-amygdala disconnection model

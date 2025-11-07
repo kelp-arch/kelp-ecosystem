@@ -1,0 +1,314 @@
+# Generated anchors for cluster: PSY-BEH-HAB
+# Timestamp: 20251103_132446
+
+anchors:
+- id: psy-beh-hab-gth-ada
+  label: Adaptive Goal-to-Habit Transition
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Appropriate automatization
+  - Healthy habit formation
+  - Recovery routine development
+  scope: Gradual and appropriate transition from goal-directed to habitual control for recovery-supporting behaviors, maintaining outcome awareness while reducing cognitive effort required for healthy routines.
+  parent_scope_inheritance: Specifies habit formation's transition process to focus on the adaptive development of automatic recovery behaviors through appropriate repetition and reinforcement.
+  polarity_expression: Manifests as recovery behaviors becoming appropriately automatic over time while maintaining flexibility and outcome sensitivity when needed.
+  cross_domain_resonance: Resonates with phy-neu-pla-ada (adaptive neural plasticity supporting healthy habit circuits) and soc-env-rou-coh (cohesive environmental routines supporting recovery).
+  academic_description: Adaptive goal-to-habit transition involves gradual shift from ventromedial to dorsolateral striatal control through consistent repetition of recovery behaviors. Model-based control appropriately yields to model-free efficiency for well-learned healthy behaviors while maintaining capacity for goal-directed override when circumstances change. Dopaminergic prediction errors shape habit formation toward recovery-supporting actions.
+  clinical_description: Building adaptive habits requires consistent repetition of recovery behaviors in stable contexts with appropriate reinforcement scheduling. Implementation involves identifying key recovery behaviors, establishing consistent practice schedules, and gradually reducing conscious monitoring as behaviors become automatic. Progress tracked through effort ratings and automaticity scales.
+  lay_description: This is when healthy recovery behaviors gradually become automatic through practice, like how brushing teeth becomes something you do without thinking. At first, going to meetings or calling sponsors requires deliberate effort, but over time these become natural parts of your routine that happen almost automatically.
+  core_components:
+  - Repetition-based learning
+  - Appropriate reinforcement timing
+  - Context-behavior associations
+  - Gradual effort reduction
+  associated_processes:
+  - Procedural memory formation
+  - Striatal circuit shifts
+  - Prediction error learning
+  - Behavioral chunking
+- id: psy-beh-hab-gth-mal
+  label: Maladaptive Goal-to-Habit Transition
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Rapid drug habituation
+  - Premature habit formation
+  - Compulsive automatization
+  scope: Accelerated transition from goal-directed to habitual drug-seeking, with rapid loss of outcome sensitivity and premature dorsal striatal dominance in behavioral control.
+  parent_scope_inheritance: Specifies habit formation's transition process to focus on the pathological acceleration of drug-seeking automaticity that occurs faster than normal learning.
+  polarity_expression: Manifests as drug-seeking behaviors becoming automatic very quickly, continuing despite awareness of negative consequences and loss of deliberative control.
+  cross_domain_resonance: Resonates with phy-neu-pla-mal (maladaptive neural plasticity creating rigid drug circuits) and soc-env-rou-fra (fragmented routines centered on drug acquisition).
+  academic_description: Maladaptive transition involves accelerated shift to dorsal striatal control due to drug-induced dopamine surges creating abnormally strong prediction errors. Drug-seeking rapidly becomes stimulus-bound and outcome-insensitive, showing resistance to devaluation procedures. Ventral to dorsal striatal shifts occur faster than in natural reward learning, creating inflexible drug-seeking habits.
+  clinical_description: Rapid drug habituation requires early intervention before behaviors become fully automatic. Treatment involves reintroducing deliberation through cognitive strategies, slowing behavioral sequences, and increasing awareness of choice points. Interventions target the narrow window before full habituation occurs.
+  lay_description: This is when drug use becomes automatic frighteningly fast - what started as a choice quickly becomes something you do without thinking. You might find yourself buying drugs or using without ever consciously deciding to, as if your body is on autopilot while your mind watches helplessly.
+  core_components:
+  - Accelerated automatization
+  - Premature habit formation
+  - Loss of goal-directed control
+  - Outcome insensitivity
+  associated_processes:
+  - Dopamine-driven acceleration
+  - Rapid striatal shifts
+  - Habitual drug-seeking
+  - Devaluation resistance
+- id: psy-beh-hab-ctx-ada
+  label: Adaptive Context-Dependent Automaticity
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Recovery-supportive triggers
+  - Healthy environmental cueing
+  - Protective automatic responses
+  scope: Environmental contexts automatically triggering recovery-supporting behaviors, with specific cues eliciting healthy habitual responses without conscious deliberation.
+  parent_scope_inheritance: Specifies habit formation's context-dependent automaticity to focus on environmental cues that trigger beneficial automatic behaviors supporting recovery.
+  polarity_expression: Manifests as recovery environments, times, and emotional states automatically activating healthy routines and coping behaviors without conscious effort.
+  cross_domain_resonance: Resonates with soc-env-cue-coh (cohesive environmental cueing systems) and phy-neu-cue-reg (regulated cue reactivity supporting healthy behaviors).
+  academic_description: Adaptive context-dependent automaticity involves hippocampal-striatal circuits linking environmental contexts to recovery behaviors. Contextual cues become discriminative stimuli through consistent pairing with healthy responses. Pattern separation mechanisms distinguish recovery contexts from drug contexts, enabling appropriate automatic responding.
+  clinical_description: Creating adaptive contextual triggers involves consistent pairing of specific environments with recovery behaviors. Treatment includes environmental restructuring, establishing recovery spaces, and building if-then implementation intentions linking contexts to healthy responses. Cue exposure therapy transfers automatic responses from drug to recovery behaviors.
+  lay_description: This is when certain places, times, or situations automatically trigger your recovery behaviors - like how walking into a gym makes you want to exercise, or how seeing your meditation cushion reminds you to practice. These automatic responses help maintain recovery without constant willpower.
+  core_components:
+  - Environmental triggering
+  - Automatic recovery responses
+  - Context-behavior links
+  - Cue-driven activation
+  associated_processes:
+  - Contextual conditioning
+  - Discriminative stimulus control
+  - Implementation intentions
+  - Environmental priming
+- id: psy-beh-hab-ctx-mal
+  label: Maladaptive Context-Dependent Automaticity
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Drug-triggering contexts
+  - Environmental drug cues
+  - Automatic drug-seeking triggers
+  scope: Environmental contexts automatically triggering drug-seeking behaviors, with specific cues eliciting drug habits without conscious awareness or intention.
+  parent_scope_inheritance: Specifies habit formation's context-dependent automaticity to focus on environmental cues that automatically trigger drug-seeking behaviors.
+  polarity_expression: Manifests as specific locations, times, people, or emotional states automatically activating drug-seeking routines before conscious awareness can intervene.
+  cross_domain_resonance: Resonates with soc-env-cue-fra (fragmented environmental cueing toward drugs) and phy-neu-cue-dys (dysregulated cue reactivity driving drug-seeking).
+  academic_description: Maladaptive context-dependent automaticity involves overlearned context-drug associations in hippocampal-striatal circuits. Drug contexts become powerful discriminative stimuli triggering automatic approach behaviors. Incubation effects strengthen contextual control over time. Renewal effects cause relapse when returning to drug contexts after treatment.
+  clinical_description: Managing maladaptive contextual triggers requires identifying high-risk contexts and implementing stimulus control strategies. Interventions include avoiding drug contexts when possible, cue extinction in safe settings, and developing competing responses to unavoidable triggers. Mindfulness increases awareness of automatic triggering.
+  lay_description: This is when certain places or situations automatically trigger drug cravings and seeking - like how driving past your old dealer's house makes you want to use, or how Friday evenings activate drinking routines. You might find yourself seeking drugs before even realizing the trigger occurred.
+  core_components:
+  - Drug context associations
+  - Automatic drug activation
+  - Unconscious triggering
+  - Environmental drug cues
+  associated_processes:
+  - Contextual drug conditioning
+  - Incubation of craving
+  - Renewal effects
+  - Habitual approach behaviors
+- id: psy-beh-hab-str-ada
+  label: Adaptive Habit Strength
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Strong recovery habits
+  - Persistent healthy routines
+  - Robust recovery behaviors
+  scope: Recovery-supporting habits showing high strength, persistence, and resistance to disruption, maintaining stability even under stress or challenge.
+  parent_scope_inheritance: Specifies habit formation's strength and persistence dimensions to focus on robust recovery habits that resist disruption and maintain stability.
+  polarity_expression: Manifests as recovery behaviors persisting reliably across contexts, maintaining strength under stress, and showing resistance to extinction or interference.
+  cross_domain_resonance: Resonates with phy-neu-ltp-reg (regulated long-term potentiation strengthening recovery circuits) and psy-cog-mem-ada (adaptive memory consolidation of recovery behaviors).
+  academic_description: Adaptive habit strength develops through consistent repetition with variable reinforcement schedules creating resistance to extinction. Overlearning produces automaticity that persists under cognitive load. Multiple memory systems support habit maintenance. Reconsolidation processes can strengthen recovery habits through retrieval practice.
+  clinical_description: Building strong recovery habits requires consistent practice beyond initial mastery, using variable reinforcement to prevent extinction. Overlearning through continued practice after proficiency increases durability. Stress inoculation training maintains habits under pressure. Progress measured through consistency metrics and stress tests.
+  lay_description: This is when your recovery habits become so strong they happen automatically even when life gets difficult - like how you still go to meetings during stressful times, or maintain sobriety routines even when traveling. These habits become unshakeable parts of who you are.
+  core_components:
+  - High behavioral consistency
+  - Stress resistance
+  - Automatic maintenance
+  - Extinction resistance
+  associated_processes:
+  - Overlearning effects
+  - Variable reinforcement
+  - Habit consolidation
+  - Behavioral persistence
+- id: psy-beh-hab-str-mal
+  label: Maladaptive Habit Strength
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Entrenched drug habits
+  - Persistent drug-seeking
+  - Treatment-resistant habits
+  scope: Drug-seeking habits showing extreme strength, persistence, and resistance to extinction, maintaining power despite prolonged abstinence or negative consequences.
+  parent_scope_inheritance: Specifies habit formation's strength and persistence dimensions to focus on entrenched drug habits that resist therapeutic intervention.
+  polarity_expression: Manifests as drug habits resurfacing after long abstinence, persisting despite punishment, and showing remarkable resistance to extinction procedures.
+  cross_domain_resonance: Resonates with phy-neu-ltp-dys (dysregulated long-term potentiation creating rigid drug circuits) and psy-cog-mem-mal (maladaptive memory consolidation preserving drug behaviors).
+  academic_description: Maladaptive habit strength results from drug-enhanced consolidation creating abnormally persistent memory traces. Intermittent drug reinforcement creates partial reinforcement extinction effects. Incubation phenomena strengthen habits during abstinence. Reconsolidation failures prevent habit updating. Silent synapses maintain habit potential.
+  clinical_description: Weakening entrenched drug habits requires prolonged extinction training with multiple contexts to prevent renewal. Reconsolidation disruption during memory retrieval may weaken habits. Counter-conditioning creates competing responses. Pharmacological adjuncts may facilitate habit weakening. Extended treatment duration necessary given habit persistence.
+  lay_description: This is when drug-using habits become so deeply ingrained they feel permanent - even after years of sobriety, the old patterns can resurface instantly in certain situations. It's like the drug habits are sleeping but never truly gone, ready to reactivate at any moment.
+  core_components:
+  - Extreme persistence
+  - Extinction resistance
+  - Spontaneous recovery
+  - Incubation effects
+  associated_processes:
+  - Enhanced consolidation
+  - Partial reinforcement effects
+  - Silent synapse maintenance
+  - Reconsolidation failure
+- id: psy-beh-hab-cmp-ada
+  label: Adaptive Habit Competition
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Recovery habit dominance
+  - Successful habit replacement
+  - Healthy habit priority
+  scope: New recovery habits successfully competing with and overriding old drug habits, with healthy behaviors winning in conflict situations and becoming dominant responses.
+  parent_scope_inheritance: Specifies habit formation's competition dynamics to focus on recovery habits successfully competing with and replacing drug habits.
+  polarity_expression: Manifests as recovery behaviors consistently winning when both drug and recovery habits are activated, with new healthy patterns inhibiting old drug patterns.
+  cross_domain_resonance: Resonates with psy-cog-inh-ada (adaptive inhibitory control over competing responses) and phy-neu-com-reg (regulated neural competition favoring recovery circuits).
+  academic_description: Adaptive habit competition involves lateral inhibition between competing striatal action channels, with recovery habits gaining dominance through stronger activation and active suppression of drug habits. Response competition training strengthens recovery channel selection. Incompatible response reinforcement prevents drug habit expression.
+  clinical_description: Promoting adaptive competition requires building recovery habits that directly compete with drug habits for expression. Interventions include response competition training, incompatible behavior reinforcement, and habit substitution strategies. Success measured by choice behavior in conflict situations and response latencies.
+  lay_description: This is when your new healthy habits become strong enough to beat out old drug habits - like automatically calling your sponsor instead of your dealer when stressed, or heading to the gym instead of the bar after work. The recovery response wins the competition.
+  core_components:
+  - Response competition
+  - Habit interference
+  - Dominant recovery responses
+  - Drug habit suppression
+  associated_processes:
+  - Lateral inhibition
+  - Action selection
+  - Response substitution
+  - Behavioral dominance
+- id: psy-beh-hab-cmp-mal
+  label: Maladaptive Habit Competition
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Drug habit dominance
+  - Failed habit replacement
+  - Drug habit priority
+  scope: Drug habits dominating despite attempts to establish recovery habits, with drug-seeking winning in conflict situations and overriding new healthy behaviors.
+  parent_scope_inheritance: Specifies habit formation's competition dynamics to focus on drug habits dominating competition despite recovery efforts.
+  polarity_expression: Manifests as drug habits consistently winning when activated, overriding recovery attempts, with old patterns reasserting dominance under stress or cognitive load.
+  cross_domain_resonance: Resonates with psy-cog-inh-mal (maladaptive inhibitory control failures) and phy-neu-com-dys (dysregulated neural competition favoring drug circuits).
+  academic_description: Maladaptive habit competition results from stronger drug habit representations in striatal circuits due to drug-enhanced plasticity. Drug habits show privileged access to motor output systems. Stress and cognitive load default to stronger drug habits. Recovery habits fail to achieve sufficient strength for competition.
+  clinical_description: Overcoming maladaptive competition requires intensive weakening of drug habits combined with strengthening recovery alternatives. Interventions include prolonged drug habit disruption, multiple alternative response training, and reducing cognitive load during early recovery. Pharmacological interventions may rebalance competition.
+  lay_description: This is when old drug habits keep winning despite your best efforts - you intend to go to a meeting but find yourself at the liquor store, or plan to call your sponsor but dial your dealer instead. The drug habits overpower your recovery attempts.
+  core_components:
+  - Drug response dominance
+  - Recovery habit suppression
+  - Failed substitution
+  - Automatic drug selection
+  associated_processes:
+  - Privileged drug circuits
+  - Default to drug habits
+  - Stress-induced selection
+  - Competition failure
+- id: psy-beh-hab-flx-ada
+  label: Adaptive Habit Flexibility
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Flexible habits
+  - Modifiable routines
+  - Adjustable behaviors
+  scope: Ability to interrupt, modify, and adjust automatic behavioral sequences when circumstances change, maintaining habits while preserving capacity for deliberate override.
+  parent_scope_inheritance: Specifies habit formation's flexibility dimension to focus on maintaining adaptive capacity to modify automatic behaviors when needed.
+  polarity_expression: Manifests as ability to pause automatic sequences, adjust habits to new contexts, and deliberately override habits when circumstances require different responses.
+  cross_domain_resonance: Resonates with psy-cog-cfl-ada (adaptive cognitive flexibility) and phy-neu-inh-reg (regulated inhibitory control over automatic behaviors).
+  academic_description: Adaptive habit flexibility involves maintained communication between goal-directed and habitual systems, allowing prefrontal override of striatal habits when needed. Metacognitive monitoring detects when habits require adjustment. Cognitive control can interrupt automatic sequences and initiate deliberate action selection.
+  clinical_description: Developing habit flexibility involves mindfulness training to increase awareness of automatic patterns, practicing behavioral interruption at choice points, and cognitive flexibility exercises. Interventions teach recognition of when habits need adjustment and techniques for deliberate override. Progress measured through adaptation tasks.
+  lay_description: This is being able to adjust your routines when needed - like changing your exercise habit when injured, or modifying recovery routines when traveling. You have healthy habits but aren't enslaved by them, maintaining ability to consciously choose different actions.
+  core_components:
+  - Behavioral interruption
+  - Conscious override capacity
+  - Habit modification
+  - Contextual adjustment
+  associated_processes:
+  - Metacognitive monitoring
+  - Prefrontal control
+  - Response inhibition
+  - Flexible action selection
+- id: psy-beh-hab-flx-mal
+  label: Maladaptive Habit Inflexibility
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Habit Formation
+  cluster_id: psy-beh-hab
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Compulsive habits
+  - Rigid routines
+  - Inflexible behaviors
+  scope: Inability to interrupt or modify automatic drug-seeking sequences once initiated, with habits continuing despite negative consequences or changed circumstances.
+  parent_scope_inheritance: Specifies habit formation's flexibility dimension to focus on pathological rigidity of drug habits that cannot be consciously overridden.
+  polarity_expression: Manifests as inability to stop drug-seeking sequences once triggered, habits continuing despite awareness of harm, and failure to adjust behaviors to new circumstances.
+  cross_domain_resonance: Resonates with psy-cog-cfl-mal (maladaptive cognitive inflexibility) and phy-neu-inh-dys (dysregulated inhibitory control failures).
+  academic_description: Maladaptive habit inflexibility results from disconnection between goal-directed and habitual systems, preventing prefrontal override of striatal habits. Drug-induced changes create autonomous habit execution. Compulsivity emerges from inability to interrupt initiated action sequences. Habitual control becomes encapsulated from cognitive influence.
+  clinical_description: Addressing habit inflexibility requires intensive response interruption training, competing response techniques at early sequence stages, and pharmacological interventions targeting compulsivity. Mindfulness increases awareness of choice points. Environmental modifications add friction to automatic sequences. Extended practice needed to regain flexibility.
+  lay_description: This is when drug habits become like runaway trains - once triggered, you cannot stop them even when you desperately want to. You watch yourself complete the entire drug-seeking sequence despite knowing it will harm you, unable to interrupt or change course.
+  core_components:
+  - Compulsive continuation
+  - Override failure
+  - Rigid sequences
+  - Unstoppable habits
+  associated_processes:
+  - Autonomous execution
+  - Prefrontal disconnection
+  - Action chunking
+  - Compulsive completion

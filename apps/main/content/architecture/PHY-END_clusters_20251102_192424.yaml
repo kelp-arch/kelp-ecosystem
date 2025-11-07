@@ -1,0 +1,121 @@
+# Generated clusters for field: PHY-END
+# Timestamp: 20251102_192424
+
+clusters:
+- id: phy-end-hpa
+  label: HPA Axis
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  synonyms:
+  - Stress axis
+  - Hypothalamic-pituitary-adrenal
+  - Cortisol system
+  - Stress response system
+  scope: The hypothalamic-pituitary-adrenal axis encompassing corticotropin-releasing hormone (CRH), adrenocorticotropic hormone (ACTH), cortisol, and glucocorticoid receptors. Includes negative feedback mechanisms, cortisol awakening response, and allostatic load accumulation from chronic activation.
+  parent_scope_inheritance: Specifies the endocrine field's stress response systems by focusing on the primary neuroendocrine axis mediating stress adaptation and its dysregulation in addiction.
+  polarity_dimension: Stress hormone regulation - from appropriate stress response with effective negative feedback to chronic hyperactivation with impaired feedback control.
+  emergence: Allostatic overload emerges as cumulative biological cost of chronic HPA activation, creating stress sensitization that drives drug-seeking and relapse vulnerability.
+  boundary_interfaces:
+  - HPA-gonadal interface through stress-induced reproductive suppression
+  - HPA-circadian interface via cortisol rhythm regulation
+  - HPA-social interface through oxytocin's stress-buffering effects
+  child_generation_role: You are a neuroendocrinologist specializing in HPA axis dynamics in addiction. You analyze corticotropin-releasing hormone (CRH) neurons in the paraventricular nucleus, ACTH secretion from the anterior pituitary, cortisol synthesis in the adrenal cortex, and glucocorticoid receptor function. You distinguish between regulated states showing appropriate cortisol awakening response, effective negative feedback, and stress recovery versus dysregulated states showing chronic CRH elevation, blunted cortisol rhythms, glucocorticoid resistance, and allostatic overload. You apply Koob's allostasis model and McEwen's allostatic load framework to understand stress system adaptations.
+  academic_description: The HPA axis represents the primary neuroendocrine stress response system, fundamentally altered in addiction through allostatic mechanisms. Chronic substance use induces persistent CRH upregulation in the extended amygdala, driving anxiety-like states during withdrawal. This creates feed-forward dysregulation where elevated CRH maintains HPA hyperactivity despite high cortisol levels, indicating glucocorticoid resistance. The cortisol awakening response becomes blunted while overall cortisol exposure increases, contributing to hippocampal atrophy and impaired stress regulation. Allostatic load theory explains how repeated cycles of intoxication and withdrawal create cumulative wear on the HPA system, establishing a new pathological set-point that perpetuates substance use as attempted self-medication for dysphoric states.
+  clinical_description: HPA axis assessment includes measuring cortisol awakening response, diurnal cortisol rhythm, and dexamethasone suppression testing. Many patients show flattened cortisol rhythms and impaired stress recovery that contribute to anxiety, irritability, and relapse risk. Interventions target multiple levels - mindfulness-based stress reduction normalizes cortisol patterns, while exercise improves glucocorticoid sensitivity. Pharmacological approaches may include CRH antagonists or glucocorticoid receptor modulators in research settings. Recovery involves gradual HPA axis recalibration over months to years, with stress management crucial for preventing stress-induced relapse. Clinicians monitor for signs of adrenal insufficiency during acute withdrawal and screen for trauma history that may compound HPA dysregulation.
+  lay_description: Your stress hormone system is like your body's alarm system - it releases cortisol when you face challenges. In addiction, this alarm gets stuck in the 'on' position, constantly flooding your body with stress hormones even when there's no real danger. This makes you feel anxious and on-edge all the time. Over months and years, this chronic stress wears down your body like running a car engine at full throttle constantly. Your natural stress response becomes broken - you might feel overwhelmed by small stressors but numb to real problems. The good news is that stress management techniques like meditation, exercise, and therapy can help reset this system, though it takes time and patience for your stress hormones to find their natural balance again.
+- id: phy-end-gon
+  label: Gonadal Hormones
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  synonyms:
+  - Sex hormones
+  - Reproductive hormones
+  - HPG axis
+  - Testosterone-estrogen system
+  scope: The hypothalamic-pituitary-gonadal axis including gonadotropin-releasing hormone (GnRH), luteinizing hormone (LH), follicle-stimulating hormone (FSH), testosterone, estrogen, and progesterone. Encompasses sex-specific vulnerability patterns, menstrual cycle influences, and hypogonadism in chronic substance use.
+  parent_scope_inheritance: Specifies the endocrine field's reproductive hormone systems by examining how sex hormones modulate addiction vulnerability and are disrupted by chronic substance use.
+  polarity_dimension: Gonadal hormone regulation - from normal cyclical patterns with appropriate receptor sensitivity to suppressed production with disrupted feedback mechanisms.
+  emergence: Sex-specific addiction trajectories emerge from gonadal hormone influences, including telescoped progression in women and differential treatment responses across menstrual phases.
+  boundary_interfaces:
+  - Gonadal-HPA interface through bidirectional stress-reproduction interactions
+  - Gonadal-social interface via hormone effects on pair bonding
+  - Gonadal-circadian interface through reproductive rhythm regulation
+  child_generation_role: You are a reproductive endocrinologist specializing in gonadal hormone disruptions in addiction. You analyze GnRH pulsatility, LH/FSH secretion, testosterone production in Leydig cells, estradiol and progesterone synthesis in ovarian follicles, and sex hormone receptor distribution. You distinguish between regulated states showing normal hormonal cycles, appropriate receptor sensitivity, and balanced anabolic-catabolic function versus dysregulated states showing hypogonadotropic hypogonadism, anovulation, receptor desensitization, and disrupted sexual dimorphism. You apply Becker's sex difference framework and the estrogen-dopamine interaction model to understand gendered addiction vulnerabilities.
+  academic_description: The gonadal hormone system exhibits profound sex-specific alterations in addiction, with distinct vulnerabilities and progression patterns. In females, estrogen enhances dopamine release and drug reward, creating heightened vulnerability during follicular phase when estrogen peaks. The telescoping phenomenon - accelerated progression from initiation to dependence in women - relates to estrogen's potentiation of drug effects and stress response. Progesterone may be protective, reducing craving and stress reactivity. In males, chronic opioid and alcohol use suppresses testosterone through central inhibition of GnRH pulsatility, causing hypogonadotropic hypogonadism. This contributes to depression, sexual dysfunction, and reduced bone density. Androgens influence aggression and risk-taking that may promote substance use. The organizational effects of prenatal hormone exposure create lasting differences in addiction vulnerability between sexes.
+  clinical_description: Gonadal hormone evaluation includes testosterone levels in men, estradiol and progesterone in women, and LH/FSH in both sexes. Opioid-induced androgen deficiency affects up to 90% of men on chronic opioids, requiring consideration of testosterone replacement after stabilization. Women benefit from menstrual cycle tracking to identify high-risk periods - many report increased craving during late luteal phase and early follicular phase when progesterone is low. Hormonal contraceptives may influence treatment response. During pregnancy, dramatic hormone changes affect medication metabolism and craving patterns. In recovery, hormone normalization varies - younger individuals show better restoration than older patients. Addressing sexual dysfunction and fertility concerns improves treatment engagement and quality of life.
+  lay_description: Sex hormones like testosterone, estrogen, and progesterone don't just affect reproduction - they influence mood, energy, and even addiction risk. For women, monthly hormone cycles can affect cravings, with many finding certain times of the month harder than others. The rapid hormone changes during pregnancy or menopause can also impact recovery. For men, chronic alcohol or opioid use often causes low testosterone, leading to fatigue, depression, and sexual problems that make recovery harder. These hormones interact with brain reward systems - estrogen can make drugs feel more rewarding, while progesterone might be protective. The good news is that hormone levels often improve in recovery, though this can take months. Understanding your hormone patterns helps predict vulnerable times and plan appropriate support.
+- id: phy-end-thy
+  label: Thyroid Axis
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  synonyms:
+  - Thyroid hormones
+  - HPT axis
+  - Metabolic hormones
+  - T3-T4 system
+  scope: The hypothalamic-pituitary-thyroid axis including thyrotropin-releasing hormone (TRH), thyroid-stimulating hormone (TSH), thyroxine (T4), and triiodothyronine (T3). Includes peripheral conversion, thyroid hormone receptors, and metabolic regulation affecting energy and mood in addiction.
+  parent_scope_inheritance: Specifies the endocrine field's metabolic hormone systems by focusing on thyroid function alterations that affect energy balance and mood regulation in substance use disorders.
+  polarity_dimension: Thyroid hormone regulation - from euthyroid state with normal metabolic function to dysregulated states with altered hormone production and peripheral conversion.
+  emergence: Metabolic adaptation emerges as the thyroid system adjusts to chronic substance use, creating energy dysregulation that perpetuates fatigue and mood symptoms in early recovery.
+  boundary_interfaces:
+  - Thyroid-HPA interface through stress effects on thyroid function
+  - Thyroid-circadian interface via metabolic rhythm regulation
+  - Thyroid-gonadal interface through metabolic-reproductive interactions
+  child_generation_role: You are a thyroid specialist focusing on thyroid dysfunction in substance use disorders. You analyze thyrotropin-releasing hormone (TRH) secretion, TSH pulsatility, thyroid hormone synthesis and peripheral conversion, deiodinase activity, and thyroid hormone receptor function. You distinguish between regulated states showing appropriate metabolic rate, normal T3/T4 ratios, and effective tissue responsiveness versus dysregulated states showing low T3 syndrome, altered TSH set-point, peripheral resistance, and non-thyroidal illness patterns. You apply the HPT axis adaptation model and understand the relationship between thyroid function and neurotransmitter synthesis.
+  academic_description: The thyroid axis undergoes significant adaptations in addiction, often presenting as non-thyroidal illness syndrome or low T3 syndrome. Chronic substance use suppresses the HPT axis at multiple levels - reduced TRH release, blunted TSH response, and impaired peripheral conversion of T4 to active T3 through decreased deiodinase activity. This creates a hypometabolic state that may be initially adaptive to reduce metabolic demands but becomes maladaptive in recovery. Alcohol particularly affects thyroid function through direct toxic effects and liver dysfunction impairing thyroid hormone metabolism. Opioids suppress TSH secretion centrally. The relationship between thyroid hormones and monoamine neurotransmitters means thyroid dysfunction contributes to depression and cognitive impairment common in early recovery. Subclinical hypothyroidism is prevalent and often overlooked, yet treating it can significantly improve mood and energy.
+  clinical_description: Thyroid assessment includes TSH, free T4, free T3, and sometimes reverse T3 to evaluate peripheral conversion. Many patients show subclinical hypothyroidism with TSH 3-10 mIU/L that contributes to fatigue, depression, and cognitive fog often attributed to protracted withdrawal. The low T3 syndrome - normal TSH and T4 but low T3 - is common in early recovery and may benefit from T3 supplementation in selected cases. Alcohol use disorder particularly affects thyroid through liver dysfunction and direct thyroid toxicity. During acute withdrawal, thyroid levels may be suppressed then rebound. Recovery involves gradual normalization over weeks to months, though some require ongoing thyroid hormone replacement. Untreated thyroid dysfunction significantly impairs recovery - hypothyroid patients show worse treatment retention and higher relapse rates.
+  lay_description: Your thyroid gland acts like your body's thermostat, controlling how fast or slow your metabolism runs. It affects everything from your energy levels to your mood to how clearly you think. Chronic substance use often slows down thyroid function, leaving you feeling exhausted, foggy-headed, and depressed - symptoms that might be blamed on withdrawal but actually come from low thyroid hormones. Your body might produce enough of the storage form (T4) but have trouble converting it to the active form (T3) that your cells actually use. This is like having plenty of logs but wet matches - the fuel is there but can't be burned efficiently. Blood tests can identify thyroid problems that are easily treated with medication, often leading to dramatic improvements in energy and mood that make recovery much easier.
+- id: phy-end-soc
+  label: Social Bonding Hormones
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  synonyms:
+  - Neuropeptides
+  - Attachment hormones
+  - Oxytocin-vasopressin system
+  - Prosocial hormones
+  scope: The oxytocin and vasopressin systems including hypothalamic synthesis, receptor distribution, and behavioral effects on social bonding, attachment, and stress buffering. Encompasses trust, empathy, and social reward processing disrupted in addiction.
+  parent_scope_inheritance: Specifies the endocrine field's social hormone systems by examining how neuropeptides that regulate attachment and social behavior are altered in addiction.
+  polarity_dimension: Social hormone regulation - from appropriate bonding with effective stress buffering to reduced production with impaired social reward processing.
+  emergence: Social anhedonia emerges as disrupted oxytocin-dopamine interactions reduce the rewarding aspects of social connection, promoting isolation that perpetuates substance use.
+  boundary_interfaces:
+  - Social-HPA interface through stress-buffering effects of oxytocin
+  - Social-gonadal interface via reproduction-bonding connections
+  - Social-circadian interface through social zeitgebers
+  child_generation_role: You are a social neuroendocrinologist specializing in neuropeptide systems in addiction. You analyze oxytocin and vasopressin synthesis in the paraventricular and supraoptic nuclei, receptor distribution in limbic and reward regions, and peripheral versus central effects. You distinguish between regulated states showing appropriate social bonding, effective stress buffering, and prosocial motivation versus dysregulated states showing reduced oxytocin release, receptor downregulation, impaired social reward processing, and disrupted pair bonding. You apply Insel's social attachment model and the brain opioid theory of social attachment to understand addiction's impact on social hormones.
+  academic_description: The social bonding hormone system, primarily oxytocin and vasopressin, undergoes significant disruption in addiction with profound implications for social functioning and recovery. Chronic substance use reduces oxytocin synthesis and release while downregulating receptors in key limbic regions. This creates social anhedonia - reduced pleasure from social interaction - that promotes isolation and removes natural stress buffers. The oxytocin-dopamine interaction in the nucleus accumbens means social rewards become less salient compared to drug rewards. Vasopressin alterations affect pair bonding and territorial behavior, potentially increasing aggression and partner conflict. These neuropeptides normally provide resilience against stress through social buffering, but their disruption removes this protective factor. The overlap between attachment and addiction neurocircuitry suggests addiction hijacks bonding mechanisms, with substances replacing social attachments as
+    primary regulatory strategy.
+  clinical_description: Assessment of social hormone function is primarily clinical, as oxytocin and vasopressin testing is not routinely available. Patients often report feeling disconnected from others, unable to experience joy in relationships, and preferring isolation. Social anhedonia predicts poor treatment outcomes and higher relapse risk. Interventions focus on rebuilding social connections - group therapy provides repeated oxytocin release through social interaction, while practices like partner massage or pet therapy offer non-verbal bonding opportunities. Intranasal oxytocin is being studied as adjunct treatment to enhance social learning and reduce stress. Recovery involves gradual restoration of social reward sensitivity, though this requires consistent positive social experiences. Addressing attachment trauma that may predate addiction is crucial, as insecure attachment patterns compound neuropeptide dysregulation.
+  lay_description: Oxytocin and vasopressin are sometimes called 'love hormones' or 'bonding hormones' because they help us connect with others and feel close to people we care about. These hormones make hugging feel good, help us trust others, and calm us down when we're stressed. In addiction, these hormones get disrupted - your brain produces less of them and becomes less sensitive to their effects. This is why many people in addiction feel emotionally numb, disconnected from loved ones, or find that being around people doesn't feel rewarding anymore. It's like the brain's ability to feel social warmth gets turned down. The drugs or alcohol hijack the same brain systems meant for human bonding. The encouraging news is that these hormones can recover through positive social experiences - every supportive conversation, hug, or moment of connection helps rebuild this system.
+- id: phy-end-cir
+  label: Circadian Hormones
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  synonyms:
+  - Biological clock hormones
+  - Melatonin system
+  - Chronobiological hormones
+  - Sleep-wake hormones
+  scope: The circadian hormone system including melatonin synthesis, cortisol rhythms, and peripheral clock regulation. Encompasses suprachiasmatic nucleus function, light entrainment, and temporal organization of physiological processes disrupted by substance use.
+  parent_scope_inheritance: Specifies the endocrine field's temporal regulation systems by focusing on hormones that control circadian rhythms and their disruption in addiction.
+  polarity_dimension: Circadian hormone regulation - from synchronized rhythms with appropriate phase relationships to disrupted patterns with internal desynchronization.
+  emergence: Chronodisruption emerges as misaligned biological rhythms create a jet-lag phenotype that perpetuates substance use through sleep disturbance and mood dysregulation.
+  boundary_interfaces:
+  - Circadian-HPA interface through cortisol rhythm regulation
+  - Circadian-thyroid interface via metabolic cycles
+  - Circadian-gonadal interface through reproductive rhythms
+  child_generation_role: You are a chronobiologist specializing in circadian disruption in addiction. You analyze melatonin synthesis in the pineal gland, suprachiasmatic nucleus function, clock gene expression, cortisol rhythm amplitude and phase, and peripheral clock synchronization. You distinguish between regulated states showing robust circadian rhythms, appropriate phase angles, and synchronized peripheral clocks versus dysregulated states showing blunted melatonin amplitude, phase-shifted cortisol rhythms, clock gene polymorphisms, and internal desynchronization. You apply Hasler's circadian regulation model and understand how substance use acts as a chronobiological stressor disrupting temporal organization.
+  academic_description: The circadian hormone system coordinates temporal organization of physiological processes, profoundly disrupted in addiction through multiple mechanisms. Substance use directly suppresses melatonin synthesis and shifts its phase, while irregular consumption patterns act as misaligned zeitgebers disrupting entrainment. The suprachiasmatic nucleus shows altered clock gene expression, affecting the master clock's ability to synchronize peripheral oscillators. Cortisol rhythm amplitude decreases while phase shifts later, contributing to evening preference and delayed sleep phase. This chronodisruption creates internal desynchronization where different body systems operate on conflicting schedules. The bidirectional relationship means circadian disruption increases substance use vulnerability while substances further destabilize rhythms. Polymorphisms in clock genes like PER2 associate with increased addiction risk. The circadian system's role in reward, mood, and cognitive
+    function means rhythm disruption perpetuates addiction through multiple pathways.
+  clinical_description: Circadian assessment includes sleep-wake patterns, dim light melatonin onset testing, and cortisol rhythm sampling. Most patients show delayed sleep phase, irregular sleep-wake patterns, and social jet lag between weekdays and weekends. Interventions include morning bright light therapy to advance phase, evening melatonin to promote sleep onset, and structured daily routines as behavioral zeitgebers. Sleep hygiene education addresses substances used as sleep aids that actually worsen sleep architecture. Chronotherapy involves gradually shifting sleep times to achieve desired schedule. Recovery requires weeks to months for rhythm stabilization, with early recovery marked by significant sleep disturbance that predicts relapse. Shift workers need specialized approaches accounting for unavoidable circadian disruption. Seasonal patterns may emerge, with some showing worse symptoms during winter months benefiting from light therapy.
+  lay_description: Your body runs on an internal clock that tells you when to sleep, wake, eat, and feel alert. This biological clock is controlled by hormones like melatonin (which makes you sleepy) and cortisol (which helps you wake up). Substance use throws this clock completely out of sync - like having permanent jet lag. Your melatonin might be suppressed, making it hard to fall asleep naturally. Your cortisol rhythm gets flattened, so you feel groggy in the morning but wired at night. Different body systems end up on different schedules, like your stomach wanting breakfast when your brain wants sleep. This disruption makes you feel constantly out of sorts and drives continued substance use to manage the discomfort. Recovery involves resetting your biological clock through consistent sleep schedules, morning sunlight exposure, and sometimes melatonin supplements - gradually training your body back to its natural rhythms.

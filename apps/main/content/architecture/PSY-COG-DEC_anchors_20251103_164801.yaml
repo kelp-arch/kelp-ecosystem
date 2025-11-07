@@ -1,0 +1,294 @@
+# Generated anchors for cluster: PSY-COG-DEC
+# Timestamp: 20251103_164801
+
+anchors:
+- id: psy-cog-dec-val-ada
+  label: Adaptive Value Computation
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Balanced reward valuation
+  - Appropriate value assignment
+  - Goal-aligned valuation
+  scope: Accurate computation of reward values across different options with appropriate weighting of costs and benefits, maintaining stable value representations that align choices with long-term goals and balance drug versus natural rewards appropriately.
+  parent_scope_inheritance: Specifies the value computation component of decision processes, focusing on how rewards are assigned worth and compared across options to guide adaptive choice behavior.
+  polarity_expression: Manifests as accurate valuation that appropriately weights different reward types and maintains consistency between computed values and actual choices, supporting goal-directed behavior.
+  cross_domain_resonance: Resonates with phy-neu-rew-dop-reg (regulated dopamine signaling), soc-fam-par-nur-coh (cohesive family support for values), and exi-mea-lif-val-pur (purposeful life values).
+  academic_description: Adaptive value computation involves intact orbitofrontal and ventromedial prefrontal cortex function, enabling accurate reward magnitude encoding and cost-benefit integration. Research shows preserved value signals in fMRI during choice tasks, appropriate effort expenditure for rewards (Treadway et al.), and maintained sensitivity to reward devaluation. Computational models reveal stable value learning rates and appropriate temporal integration of reward history. This state supports model-based decision-making where choices reflect accurate outcome predictions.
+  clinical_description: Assessment involves choice consistency tasks, effort-based decision paradigms, and reward preference batteries. Adaptive value computation appears as choices that align with stated recovery goals, appropriate motivation for natural rewards, and balanced consideration of immediate versus delayed benefits. Interventions include contingency management that leverages intact value systems, behavioral activation to enhance natural reward valuation, and value clarification exercises linking choices to personal goals. Motivational interviewing explores value-behavior discrepancies to strengthen adaptive computation.
+  lay_description: Your brain accurately judges what things are worth - both the high from drugs and the satisfaction from relationships, work, or hobbies get fair consideration. You can see the true cost of using (health, money, relationships) and the real value of recovery activities. Your choices match what you say matters to you, and you're willing to work for meaningful rewards even when they take effort.
+  core_components:
+  - Orbitofrontal value encoding
+  - Cost-benefit integration
+  - Reward magnitude processing
+  associated_processes:
+  - Goal-directed valuation
+  - Outcome prediction
+  - Value-based choice
+- id: psy-cog-dec-val-mal
+  label: Maladaptive Value Computation
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Distorted reward valuation
+  - Addiction-biased valuation
+  - Overvaluation of drug rewards
+  scope: Distorted computation that overvalues drug rewards while undervaluing natural reinforcers, creating unstable value representations that shift with craving states and drive choices toward immediate drug rewards despite negative consequences.
+  parent_scope_inheritance: Specifies the value computation dysfunction in decision processes, showing how addiction distorts the fundamental ability to accurately assess and compare reward values.
+  polarity_expression: Manifests as systematic overvaluation of drug-related rewards with corresponding devaluation of natural reinforcers, creating a decision landscape tilted toward substance use.
+  cross_domain_resonance: Resonates with phy-neu-rew-dop-dys (dysregulated dopamine creating false value signals), soc-fam-par-ena-fra (fragmented family enabling distorted values), and exi-mea-lif-emp-dir (directionless existence without meaningful values).
+  academic_description: Maladaptive value computation reflects dysfunction in orbitofrontal and ventromedial prefrontal regions, with neuroimaging showing exaggerated value signals for drug cues but diminished responses to natural rewards. The somatic marker hypothesis explains absent anticipatory signals for negative outcomes. Computational modeling reveals unstable value representations that fluctuate with craving states, accelerated value learning for drug rewards, and impaired value updating for natural reinforcers. This creates a pathological value landscape where drug rewards dominate choice despite objective negative consequences.
+  clinical_description: Assessment reveals choices consistently favoring immediate drug rewards over larger delayed benefits, excessive effort expenditure for substances but not natural rewards, and value ratings that change dramatically with craving states. Patients show preserved knowledge of consequences but inability to use this information in actual choices. Interventions target value distortion through reward substitution therapy, contingency management that competes with drug valuation, and cognitive restructuring of reward expectations. Pharmacotherapy may help normalize value computation by reducing drug reward overvaluation.
+  lay_description: Your brain's reward calculator is broken - drugs seem incredibly valuable while everything else (family time, work achievements, health) seems worthless in comparison. Even when you know using will cause problems, in the moment of choice, the drug's value overwhelms everything else. Natural pleasures that used to matter feel empty, while the promise of getting high dominates every decision, creating choices you later regret but felt compelling at the time.
+  core_components:
+  - Drug reward overvaluation
+  - Natural reward devaluation
+  - Unstable value representations
+  associated_processes:
+  - Craving-driven valuation
+  - Consequence discounting
+  - Habitual over goal-directed choice
+- id: psy-cog-dec-tmp-ada
+  label: Future-Oriented Temporal Processing
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Delayed gratification ability
+  - Long-term thinking
+  - Patience in decision-making
+  scope: Appropriate temporal discounting with exponential curves that maintain future reward value, enabling delayed gratification and choices that prioritize long-term benefits over immediate but smaller rewards.
+  parent_scope_inheritance: Specifies the temporal discounting aspect of decision processes, focusing on how time delays affect reward valuation in adaptive ways that support future-oriented choices.
+  polarity_expression: Manifests as the ability to wait for larger later rewards, showing patience in decision-making and maintaining motivation for distant goals.
+  cross_domain_resonance: Resonates with phy-neu-exc-pfc-reg (regulated prefrontal control over impulsivity), soc-com-rec-soc-coh (cohesive recovery community supporting long-term thinking), and exi-pur-gro-asp-pur (purposeful growth aspirations).
+  academic_description: Future-oriented temporal processing involves intact frontoparietal networks supporting prospective thinking and delay tolerance. Research shows exponential or shallow hyperbolic discounting curves, with neuroimaging revealing appropriate prefrontal activation during delay choices. Episodic future thinking engages hippocampal-cortical networks to make future rewards more salient. Studies demonstrate correlation between delay tolerance and recovery success, with training protocols successfully reducing discount rates through future visualization and mindfulness practices.
+  clinical_description: Assessment uses delay discounting tasks showing choices of larger-later over smaller-sooner rewards, with real and hypothetical money choices correlating highly. Adaptive temporal processing appears as saving behavior, investment in education or career, and maintenance of long-term recovery goals despite immediate discomfort. Interventions include episodic future thinking training where patients vividly imagine positive future events, mindfulness to reduce temporal myopia, and concrete future planning exercises that make distant goals tangible.
+  lay_description: You can see past today and make choices for tomorrow. The promise of being clean next year feels real and valuable, not just a vague distant hope. You can tolerate discomfort now (cravings, boredom) because you genuinely value where you're headed. It's like having working brakes on impulsive decisions - you can pause and consider whether immediate relief is worth sacrificing long-term goals.
+  core_components:
+  - Exponential discounting curves
+  - Future reward salience
+  - Delay tolerance
+  associated_processes:
+  - Prospective thinking
+  - Goal maintenance
+  - Impulse regulation
+- id: psy-cog-dec-tmp-mal
+  label: Present-Biased Temporal Processing
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Steep temporal discounting
+  - Delay aversion
+  - Temporal myopia
+  scope: Steep hyperbolic discounting that rapidly devalues future rewards, creating overwhelming preference for immediate gratification and inability to factor long-term consequences into current choices.
+  parent_scope_inheritance: Specifies the temporal discounting dysfunction in decision processes, showing how addiction creates extreme present-bias that undermines future-oriented decision-making.
+  polarity_expression: Manifests as choices consistently favoring immediate rewards regardless of future costs, with distant consequences feeling abstract and unmotivating.
+  cross_domain_resonance: Resonates with phy-neu-exc-pfc-dys (dysregulated prefrontal control), soc-com-rec-iso-fra (fragmented recovery support), and exi-pur-gro-sta-dir (directionless stagnation without future vision).
+  academic_description: Present-biased temporal processing shows steep hyperbolic discounting with rapid devaluation of delayed rewards. Neuroimaging reveals hypoactivation in prefrontal regions during delay choices with overactivation in limbic regions for immediate options. Bickel's competing neurobehavioral systems theory identifies imbalance favoring impulsive over executive systems. Research demonstrates steeper discounting predicts relapse, with addiction showing discount rates several times steeper than controls. This creates a collapsed temporal horizon where only immediate outcomes influence decisions.
+  clinical_description: Assessment reveals consistent choice of smaller-sooner over larger-later rewards across monetary and drug-related decisions. Patients show inability to save money, abandonment of long-term goals for immediate relief, and decisions driven entirely by current feeling states. The future feels unreal and unmotivating while immediate needs dominate awareness. Interventions include delay training protocols, contingency management providing immediate rewards for recovery behaviors, and cognitive training to expand temporal horizons through concrete future planning.
+  lay_description: Tomorrow might as well not exist - only right now feels real. The immediate relief from using completely overshadows any future consequences, which feel abstract and unimportant. You know you'll regret it tomorrow, but tomorrow feels impossibly far away while the craving is happening right now. It's like being temporally nearsighted - you can only see what's immediately in front of you while the future remains a meaningless blur.
+  core_components:
+  - Hyperbolic discounting
+  - Immediate reward dominance
+  - Future reward devaluation
+  associated_processes:
+  - Temporal myopia
+  - Impulsive choice
+  - Present-moment fixation
+- id: psy-cog-dec-rsk-ada
+  label: Balanced Risk Assessment
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Appropriate risk evaluation
+  - Intact somatic markers
+  - Prudent decision-making
+  scope: Accurate assessment of probabilities and potential outcomes with appropriate caution for losses, intact somatic markers providing anticipatory signals for risky choices, and balanced exploration versus exploitation in uncertain environments.
+  parent_scope_inheritance: Specifies the risk evaluation component of decision processes, focusing on how uncertainty and potential negative outcomes are factored into adaptive decision-making.
+  polarity_expression: Manifests as appropriate caution in uncertain situations with sensitivity to warning signals and ability to learn from negative outcomes.
+  cross_domain_resonance: Resonates with phy-str-str-anx-reg (regulated anxiety signaling danger), soc-occ-emp-sec-coh (cohesive employment security), and exi-tra-cop-res-pur (purposeful resilience in facing risks).
+  academic_description: Balanced risk assessment involves intact ventromedial prefrontal cortex and insula function generating somatic markers - bodily signals that guide decisions away from disadvantageous choices. Iowa Gambling Task performance shows appropriate learning curves, shifting from exploratory to advantageous deck selection. Neuroimaging reveals anticipatory insula and anterior cingulate activation before risky choices. Computational models show appropriate learning rates from losses and wins, with balanced exploration-exploitation trade-offs maintaining behavioral flexibility while avoiding excessive risk.
+  clinical_description: Assessment through Iowa Gambling Task, Balloon Analogue Risk Task, and real-world risk scenarios shows appropriate caution after losses and measured risk-taking for proportional rewards. Patients demonstrate anticipatory anxiety before dangerous choices and behavioral adjustment after negative feedback. Interventions include somatic awareness training to strengthen gut feelings about risk, consequence visualization exercises, and systematic risk-benefit analysis training. Mindfulness enhances awareness of bodily warning signals.
+  lay_description: You get that gut feeling when something's risky - a warning signal that makes you pause before potentially harmful choices. You can weigh the odds realistically, seeing both what you might gain and what you could lose. Past mistakes become teachers rather than patterns you're doomed to repeat. You still take calculated risks when worthwhile but avoid unnecessary dangers, trusting your instincts about what feels safe versus threatening.
+  core_components:
+  - Somatic marker generation
+  - Loss sensitivity
+  - Probability assessment
+  associated_processes:
+  - Anticipatory arousal
+  - Feedback integration
+  - Cautious exploration
+- id: psy-cog-dec-rsk-mal
+  label: Impaired Risk Assessment
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Risk insensitivity
+  - Absent somatic markers
+  - Reckless decision-making
+  scope: Distorted probability assessment with insensitivity to potential losses, absent or reversed somatic markers that fail to warn of danger, and excessive risk-taking despite repeated negative consequences.
+  parent_scope_inheritance: Specifies the risk evaluation dysfunction in decision processes, showing how addiction impairs the ability to accurately assess and respond to potential negative outcomes.
+  polarity_expression: Manifests as repeated high-risk choices without anticipatory warning signals, continuing dangerous behavior despite accumulating negative consequences.
+  cross_domain_resonance: Resonates with phy-str-str-anx-dys (dysregulated anxiety failing to signal danger), soc-occ-emp-ins-fra (fragmented employment from poor risk choices), and exi-tra-cop-avo-dir (directionless avoidance of risk processing).
+  academic_description: Impaired risk assessment reflects ventromedial prefrontal and insula dysfunction, eliminating somatic markers that normally guide decisions away from danger. Iowa Gambling Task performance shows persistent selection of disadvantageous decks despite mounting losses. Neuroimaging reveals absent anticipatory arousal before risky choices and reduced insula activation to loss feedback. Computational models show insensitivity to punishment, with learning rates near zero for negative outcomes while maintaining sensitivity to rewards, creating systematic bias toward high-risk/high-reward options.
+  clinical_description: Assessment reveals persistent risky choices on gambling tasks, real-world patterns of dangerous behavior (sharing needles, driving intoxicated, risky sexual behavior), and absence of anticipatory anxiety before harmful decisions. Patients report no gut feelings about danger and surprise at predictable negative outcomes. Interventions include enhanced feedback protocols making consequences more salient, cognitive training to consciously evaluate risks, and behavioral contracts that external structure around dangerous choices. Medication may help restore risk sensitivity.
+  lay_description: Your danger detector is offline - you don't get that gut feeling warning you away from risky choices. Using seems worth any risk, while consequences feel unlikely to happen to you. You're genuinely surprised when predictable bad outcomes occur, like being shocked that sharing needles led to infection or that driving high caused an accident. Without internal warning signals, you repeatedly make the same dangerous choices, unable to feel the threat until after damage is done.
+  core_components:
+  - Absent somatic markers
+  - Loss insensitivity
+  - Probability neglect
+  associated_processes:
+  - Punishment insensitivity
+  - Optimism bias
+  - Reckless exploration
+- id: psy-cog-dec-prb-ada
+  label: Flexible Probabilistic Learning
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Intact feedback learning
+  - Appropriate outcome sensitivity
+  - Adaptive choice updating
+  scope: Appropriate learning from both positive and negative feedback with balanced sensitivity to rewards and punishments, enabling flexible behavior modification based on outcome probabilities and maintaining optimal exploration-exploitation balance.
+  parent_scope_inheritance: Specifies the probabilistic learning component of decision processes, focusing on how outcome feedback is integrated to guide future adaptive choices.
+  polarity_expression: Manifests as behavior that appropriately adjusts based on feedback, learning from both successes and failures to optimize decision patterns.
+  cross_domain_resonance: Resonates with phy-neu-neu-pla-reg (regulated neural plasticity supporting learning), soc-edu-lea-skl-coh (cohesive skill learning), and exi-wis-ins-lea-pur (purposeful learning from experience).
+  academic_description: Flexible probabilistic learning involves intact corticostriatal circuits computing prediction errors and updating value representations. Research shows balanced learning rates for positive and negative prediction errors, with appropriate exploration when outcome probabilities change. Computational reinforcement learning models reveal optimal learning parameters, neither too rigid nor too volatile. Neuroimaging shows appropriate striatal and prefrontal responses to feedback, with anterior cingulate cortex detecting when strategy changes are needed. This enables adaptive behavior in changing environments.
+  clinical_description: Assessment through probabilistic learning tasks shows appropriate win-stay/lose-shift behavior, learning curves that improve with experience, and flexibility when contingencies change. Patients demonstrate behavior change after negative feedback and ability to detect patterns in probabilistic outcomes. Interventions include cognitive remediation targeting feedback processing, structured learning exercises with enhanced feedback, and metacognitive training about learning strategies. Behavioral tracking with clear feedback helps strengthen learning from natural consequences.
+  lay_description: You learn from what works and what doesn't, adjusting your behavior based on results. When something stops working, you notice and try something different. Both rewards and punishments register and influence future choices - you don't just repeat the same mistakes. You can detect patterns even when outcomes aren't guaranteed, getting better at predicting what will likely happen based on accumulating experience.
+  core_components:
+  - Prediction error processing
+  - Balanced learning rates
+  - Feedback integration
+  associated_processes:
+  - Pattern detection
+  - Strategy updating
+  - Behavioral flexibility
+- id: psy-cog-dec-prb-mal
+  label: Rigid Probabilistic Learning
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Punishment insensitivity
+  - Impaired feedback learning
+  - Perseverative choice patterns
+  scope: Reduced sensitivity to negative feedback with preserved or enhanced reward learning, creating rigid behavior patterns that persist despite punishing outcomes and inability to adjust strategies when contingencies change.
+  parent_scope_inheritance: Specifies the probabilistic learning dysfunction in decision processes, showing how addiction impairs the ability to learn from negative outcomes and modify behavior accordingly.
+  polarity_expression: Manifests as repetitive maladaptive choices that continue despite negative feedback, with behavior dominated by reward history while ignoring punishment signals.
+  cross_domain_resonance: Resonates with phy-neu-neu-pla-dys (dysregulated plasticity preventing adaptive learning), soc-edu-lea-def-fra (fragmented learning with skill deficits), and exi-wis-ins-ign-dir (directionless ignorance of experience).
+  academic_description: Rigid probabilistic learning shows asymmetric learning rates with near-zero rates for negative prediction errors but preserved positive learning. Neuroimaging reveals blunted anterior cingulate and striatal responses to negative feedback with maintained or enhanced responses to rewards. Computational models demonstrate perseveration parameters and reduced exploration after losses. This creates behavioral rigidity where drug-seeking continues despite mounting negative consequences, as punishment signals fail to update value representations or trigger strategy changes.
+  clinical_description: Assessment reveals flat learning curves on probabilistic tasks with punishment, perseverative errors despite feedback, and inability to detect changing contingencies. Patients show continued drug use despite job loss, relationship damage, and health consequences - genuinely not learning from these outcomes. Interventions include enhanced negative feedback protocols with immediate and salient consequences, cognitive training specifically targeting punishment processing, and external structure through monitoring and accountability systems that bypass impaired learning.
+  lay_description: Negative consequences don't stick - you might lose your job from using, but somehow this doesn't register as a reason to stop. It's like being learning-disabled specifically for punishments while still feeling rewards intensely. You repeat the same harmful patterns, genuinely surprised each time they lead to problems, unable to connect your choices to negative outcomes. The brain keeps seeking rewards while ignoring the accumulating damage signals.
+  core_components:
+  - Punishment insensitivity
+  - Reward-dominated learning
+  - Behavioral inflexibility
+  associated_processes:
+  - Perseveration
+  - Feedback neglect
+  - Strategy rigidity
+- id: psy-cog-dec-slv-ada
+  label: Strategic Problem-Solving
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Systematic decision approach
+  - Structured problem analysis
+  - Planned decision-making
+  scope: Systematic approach to complex decisions involving problem definition, alternative generation, consequence evaluation, and solution implementation with appropriate time taken for analysis and consideration of multiple perspectives before choosing.
+  parent_scope_inheritance: Specifies the problem-solving strategy component of decision processes, focusing on the structured cognitive approaches used to navigate complex decisions adaptively.
+  polarity_expression: Manifests as thoughtful, multi-step decision processes that consider various options and their consequences before committing to action.
+  cross_domain_resonance: Resonates with phy-neu-exc-wkm-reg (regulated working memory supporting analysis), soc-edu-aca-ach-coh (cohesive academic achievement through problem-solving), and exi-pur-goa-dir-pur (purposeful goal direction through planning).
+  academic_description: 'Strategic problem-solving engages dorsolateral prefrontal cortex and frontoparietal networks supporting working memory, cognitive flexibility, and abstract reasoning. Research shows systematic progression through problem-solving stages: problem identification, information gathering, alternative generation, consequence evaluation, and solution implementation. Studies demonstrate correlation between problem-solving ability and recovery outcomes. Neuroimaging reveals sustained prefrontal activation during deliberation with appropriate anterior cingulate engagement for conflict monitoring when evaluating competing options.'
+  clinical_description: 'Assessment through problem-solving tasks and real-world scenarios shows systematic approach, generation of multiple solutions, and realistic consequence evaluation. Adaptive problem-solving appears as taking time before major decisions, seeking information and advice, and creating contingency plans. Problem-solving therapy teaches the structured approach: defining problems specifically, brainstorming alternatives without judgment, evaluating each option''s pros and cons, implementing chosen solutions, and reviewing outcomes. Skills training includes decision trees and cost-benefit analysis tools.'
+  lay_description: You approach decisions like puzzles to solve rather than impulses to follow. When facing a choice, you pause to clearly define what you're trying to achieve, think of different ways to get there, and weigh the pros and cons of each path. You might write lists, talk it through with others, or sleep on important decisions. This thoughtful approach helps you avoid impulsive mistakes and find creative solutions you wouldn't see in the heat of the moment.
+  core_components:
+  - Alternative generation
+  - Consequence evaluation
+  - Implementation planning
+  associated_processes:
+  - Abstract reasoning
+  - Cognitive flexibility
+  - Systematic analysis
+- id: psy-cog-dec-slv-mal
+  label: Impulsive Problem-Solving
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Decision Processes
+  cluster_id: psy-cog-dec
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Unsystematic decision approach
+  - First-impulse acting
+  - Unplanned decision-making
+  scope: Impulsive approach to problems without systematic analysis, jumping to first available solution without considering alternatives, failing to anticipate consequences, and lacking implementation planning or contingency preparation.
+  parent_scope_inheritance: Specifies the problem-solving dysfunction in decision processes, showing how addiction undermines systematic approaches to complex decisions in favor of impulsive, poorly-planned choices.
+  polarity_expression: Manifests as snap decisions based on immediate impulses without deliberation, consideration of alternatives, or consequence evaluation.
+  cross_domain_resonance: Resonates with phy-neu-exc-wkm-dys (dysregulated working memory preventing analysis), soc-edu-aca-und-fra (fragmented academic underachievement), and exi-pur-goa-aim-dir (directionless aimlessness without planning).
+  academic_description: Impulsive problem-solving reflects dorsolateral prefrontal hypofunction with reduced working memory engagement and premature response selection. Research shows truncated problem-solving sequences, jumping from problem identification directly to action without intermediate steps. Neuroimaging reveals reduced prefrontal activation during decision tasks with rapid default mode network disengagement. Studies demonstrate single-solution fixation, inability to generate alternatives, and absent consequence consideration. This creates a collapsed decision space where only immediately salient options are considered.
+  clinical_description: Assessment reveals rushed decisions without deliberation, inability to articulate reasoning, and surprise at predictable consequences. Patients show first-impulse acting, becoming stuck on single solutions, and lacking backup plans when initial attempts fail. Craving states particularly impair problem-solving, reducing complex decisions to binary use/don't use choices. Interventions include structured decision protocols that externally impose systematic steps, timeout rules before major choices, and cognitive training to expand consideration of alternatives. Environmental modifications reduce need for complex problem-solving during vulnerable periods.
+  lay_description: Decisions happen in an instant based on whatever first pops into your head. You don't pause to think things through or consider different options - the first idea becomes the only idea. It's like your brain's planning department is closed, leaving you to navigate complex situations with gut reactions. You're constantly surprised by 'unexpected' consequences that others saw coming, having jumped into action without considering what might go wrong or preparing for complications.
+  core_components:
+  - Single-solution fixation
+  - Absent deliberation
+  - Consequence blindness
+  associated_processes:
+  - Premature closure
+  - Cognitive rigidity
+  - Planning failure

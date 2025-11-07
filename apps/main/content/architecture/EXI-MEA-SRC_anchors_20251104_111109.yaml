@@ -1,0 +1,148 @@
+# Generated anchors for cluster: EXI-MEA-SRC
+# Timestamp: 20251104_111109
+
+anchors:
+- id: exi-mea-src-cre-pur
+  label: Creative Sources - Purposeful
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning Sources
+  cluster_id: exi-mea-src
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Creative meaning engagement
+  - Productive contribution
+  - Creative expression
+  scope: Active engagement with creative meaning sources through work, creation, contribution, and accomplishment. Encompasses productive activities, skill development, helping others, artistic expression, and building something of value. Represents what individuals give to life through their unique contributions.
+  parent_scope_inheritance: This anchor specifies the creative pathway dimension of meaning sources, focusing on purposeful engagement with meaning through creation and contribution versus directionless disconnection from creative expression.
+  polarity_expression: Manifests as active creative expression, meaningful work engagement, sense of contribution, and productive identity versus creative blockage, inability to contribute, and disconnection from productive roles.
+  cross_domain_resonance: Resonates with psy-cog-cre-ada (creative cognition), soc-rol-wor-coh (work roles), and psy-mot-pur-ada (purposeful behavior) in supporting productive engagement.
+  academic_description: Creative meaning sources represent Frankl's creative values - finding meaning through what we give to life. Research shows creative expression predicts better mental health outcomes and recovery success. Studies demonstrate that meaningful work, artistic expression, and helping others activate reward circuits differently than hedonic pleasures. Schnell's research identifies creativity and generativity as key meaning sources. In addiction recovery, reconnecting with creative sources provides alternative reward pathways and rebuilds self-efficacy. Neuroimaging shows creative engagement activates prefrontal regions associated with purpose and self-transcendence.
+  clinical_description: Assessment explores current creative engagement through questions about work satisfaction, creative outlets, contribution opportunities, and sense of productivity. Interventions include expressive arts therapies, vocational rehabilitation, service opportunities, and skill-building programs. Treatment helps clients identify their unique gifts and how to express them. Creative sources are developed through graduated creative challenges, from simple crafts to complex projects. Group settings allow sharing creations and receiving validation. Service work provides immediate contribution opportunities. Career counseling helps align work with values. Progress is measured through creative output, work engagement, and contribution satisfaction scales.
+  lay_description: Creative meaning comes from what you create, build, or contribute to the world. It's the satisfaction of making something, helping someone, or leaving something behind. This could be through your work, art, volunteering, or any way you express yourself productively. When this source is active, you feel useful and valuable, like you're making a difference. You take pride in what you create or accomplish. In recovery, reconnecting with creative sources means finding ways to contribute again - maybe through helping others in recovery, developing new skills, or returning to abandoned creative pursuits. It's about answering the question 'What can I give?' rather than just 'What can I get?'
+  foundational_themes: Creation, contribution, legacy, productivity, expression, accomplishment
+  experiential_processes: Creating, building, helping, expressing, contributing, accomplishing
+  personal_relevance: Provides sense of purpose through contribution, builds self-worth through creation, establishes legacy through accomplishment
+- id: exi-mea-src-cre-dir
+  label: Creative Sources - Directionless
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning Sources
+  cluster_id: exi-mea-src
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Creative blockage
+  - Productive disconnection
+  - Contributive void
+  scope: Disconnection from creative meaning sources characterized by inability to create, contribute, or accomplish. Encompasses creative blocks, loss of productive identity, abandonment of creative pursuits, and feeling useless or unproductive. Represents the absence of giving to life.
+  parent_scope_inheritance: This anchor specifies the creative pathway dimension of meaning sources, focusing on directionless disconnection from creative expression and blocked access to contributive meaning.
+  polarity_expression: Manifests as creative paralysis, inability to contribute, feeling unproductive or useless, and complete disconnection from creative expression or meaningful work.
+  cross_domain_resonance: Resonates with psy-cog-cre-mal (creative dysfunction), soc-rol-wor-fra (work role fragmentation), and psy-mot-apa-mal (apathetic behavior) in perpetuating unproductive disconnection.
+  academic_description: Creative meaning blockage represents the loss of Frankl's creative values pathway. Research links creative disconnection to depression, purposelessness, and addiction vulnerability. Studies show that inability to engage in meaningful work or creative expression predicts poorer mental health outcomes. In addiction, substances often replace natural creative rewards, leading to atrophy of creative capacities. Neuroimaging reveals reduced activation in brain regions associated with creativity and purpose in individuals with creative blockage. The loss of contributive identity is particularly damaging to self-worth and recovery motivation.
+  clinical_description: Assessment identifies creative blocks through exploring abandoned pursuits, work disconnection, and feelings of uselessness. Clients often report 'I used to be creative but now I can't even try' or 'I have nothing to offer.' Interventions focus on gentle re-engagement, starting with low-pressure creative activities. Creative confidence building uses successive approximations, beginning with structured activities before moving to free expression. Contributive role exploration helps identify small ways to help others. Treatment addresses perfectionism and fear of failure that maintain creative blocks. Progress is measured through creative attempts, not outcomes, and gradual increase in contributive activities.
+  lay_description: Creative blockage means you've lost touch with your ability to create, contribute, or accomplish anything meaningful. You might feel useless, unproductive, or like you have nothing to offer. Creative pursuits that once brought joy now feel impossible or pointless. Work feels meaningless or you've completely disconnected from any productive role. In addiction, drugs or alcohol often became the only thing that mattered, pushing out all creative expression. You might think 'I used to paint/write/build but I can't anymore' or 'I'm not good at anything.' This isn't about being a professional artist - it's about losing any sense that you can create or contribute something of value, leaving you feeling empty and purposeless.
+  foundational_themes: Blockage, uselessness, unproductivity, creative void, contributive absence
+  experiential_processes: Avoiding creation, abandoning projects, withdrawing from contribution, creative paralysis
+  personal_relevance: Creates sense of worthlessness, reinforces belief in having nothing to offer, maintains disconnection from productive identity
+- id: exi-mea-src-exp-pur
+  label: Experiential Sources - Purposeful
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning Sources
+  cluster_id: exi-mea-src
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Experiential receptivity
+  - Meaningful encounters
+  - Experiential engagement
+  scope: Active receptivity to experiential meaning sources through relationships, beauty, truth, love, and meaningful encounters. Encompasses deep connections, aesthetic appreciation, nature engagement, and openness to life's gifts. Represents what individuals receive from life through experience.
+  parent_scope_inheritance: This anchor specifies the experiential pathway dimension of meaning sources, focusing on purposeful receptivity to meaningful experiences versus directionless disconnection from life's offerings.
+  polarity_expression: Manifests as open receptivity to beauty and love, deep relational connections, aesthetic appreciation, and capacity to receive life's gifts versus experiential numbness and disconnection.
+  cross_domain_resonance: Resonates with psy-emo-hed-ada (hedonic tone), soc-rel-int-coh (intimate relationships), and psy-per-ope-ada (openness) in supporting experiential engagement.
+  academic_description: Experiential meaning sources represent Frankl's experiential values - finding meaning through what we take from life. Research demonstrates that meaningful relationships, aesthetic experiences, and encounters with beauty or nature activate meaning-related neural networks. Studies show that individuals with rich experiential sources show greater life satisfaction and resilience. Wong's research identifies love, beauty, and truth as core experiential sources. In addiction, substance use often replaces natural experiential rewards, leading to anhedonia and relational disconnection. Recovery involves reawakening capacity for natural experiences and rebuilding meaningful connections.
+  clinical_description: Assessment explores experiential engagement through questions about relationships, aesthetic experiences, and moments of feeling most alive. Interventions include relationship enhancement therapy, nature-based interventions, aesthetic exposure activities, and mindfulness practices. Treatment helps clients reconnect with beauty through art therapy, museum visits, or nature walks. Relational work focuses on vulnerability, intimacy, and trust-building. Sensory reawakening exercises help overcome experiential numbness. Group therapy provides immediate relational experiences. Progress is measured through relationship quality scales, aesthetic appreciation measures, and experiential engagement logs.
+  lay_description: Experiential meaning comes from what you experience and receive from life - love, beauty, relationships, nature, art, or moments of joy and connection. It's about being open to life's gifts and really taking them in. When this source is active, you feel connected to others, moved by beauty, and alive to experience. You can appreciate a sunset, feel love for family, or be touched by music. In recovery, this means reconnecting with the ability to experience life without substances - rebuilding relationships, rediscovering beauty in nature or art, and opening yourself to love and connection again. It's about receiving what life offers rather than being numb to it all.
+  foundational_themes: Love, beauty, truth, connection, appreciation, receptivity
+  experiential_processes: Receiving, appreciating, connecting, encountering, experiencing, being moved
+  personal_relevance: Provides richness and depth to life, creates sense of connection and belonging, awakens vitality and aliveness
+- id: exi-mea-src-exp-dir
+  label: Experiential Sources - Directionless
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning Sources
+  cluster_id: exi-mea-src
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Experiential numbness
+  - Relational disconnection
+  - Aesthetic blindness
+  scope: Disconnection from experiential meaning sources characterized by numbness to beauty, inability to connect, and blocked receptivity to life's offerings. Encompasses relational isolation, aesthetic blindness, anhedonia, and closure to meaningful experiences. Represents inability to receive from life.
+  parent_scope_inheritance: This anchor specifies the experiential pathway dimension of meaning sources, focusing on directionless numbness to experiences and blocked access to experiential meaning.
+  polarity_expression: Manifests as experiential numbness, inability to connect with others, blindness to beauty, and complete closure to receiving life's gifts or meaningful encounters.
+  cross_domain_resonance: Resonates with psy-emo-hed-mal (anhedonia), soc-rel-int-fra (relational fragmentation), and psy-per-ope-mal (closure) in maintaining experiential disconnection.
+  academic_description: Experiential meaning blockage represents loss of Frankl's experiential values pathway. Research links experiential numbness to anhedonia, social isolation, and existential vacuum. Studies show that inability to derive meaning from relationships or beauty predicts depression and addiction vulnerability. Neuroimaging reveals reduced activation in reward and attachment circuits during potentially meaningful experiences. In addiction, substances hijack natural reward systems, leading to tolerance for natural pleasures. The resulting experiential poverty creates a vicious cycle where only substances provide experiential intensity.
+  clinical_description: Assessment identifies experiential numbness through exploring relational quality, aesthetic responsiveness, and capacity for joy. Clients report 'Nothing moves me anymore' or 'I feel dead inside.' Interventions focus on gradual sensory and relational reawakening. Behavioral activation targets small experiential encounters. Mindfulness helps notice subtle experiences. Relational work addresses trust barriers and vulnerability fears. Art and nature exposure begins with structured activities. Treatment recognizes that experiential numbness often serves protective functions that must be addressed. Progress is measured through experiential range expansion and depth of engagement.
+  lay_description: Experiential numbness means you can't feel or receive what life has to offer. Relationships feel empty or impossible. Beauty doesn't touch you - sunsets, music, art all leave you cold. You might feel disconnected from everyone, unable to give or receive love. Nothing brings joy or moves you emotionally. In addiction, drugs or alcohol became the only experience that mattered, and now without them, everything feels flat and meaningless. You might think 'I can't connect with anyone' or 'Nothing is beautiful anymore.' This creates a terrible emptiness where life feels like going through motions without really experiencing anything, leaving you isolated and directionless.
+  foundational_themes: Numbness, isolation, disconnection, anhedonia, experiential void
+  experiential_processes: Withdrawing, numbing, disconnecting, avoiding experience, closing off
+  personal_relevance: Creates profound emptiness, reinforces isolation and disconnection, maintains experiential poverty
+- id: exi-mea-src-att-pur
+  label: Attitudinal Sources - Purposeful
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning Sources
+  cluster_id: exi-mea-src
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Transformative stance
+  - Meaning in suffering
+  - Attitudinal transcendence
+  scope: Purposeful stance toward unavoidable suffering and fate through meaning-finding, acceptance, and transformation. Encompasses finding meaning in adversity, growing through hardship, accepting limitations, and helping others through shared struggle. Represents the attitude taken toward unchangeable circumstances.
+  parent_scope_inheritance: This anchor specifies the attitudinal pathway dimension of meaning sources, focusing on purposeful transformation of suffering into meaning versus directionless victimhood and meaningless suffering.
+  polarity_expression: Manifests as transformative coping, meaning-finding in adversity, acceptance of fate, and growth through suffering versus victimhood stance and meaningless suffering.
+  cross_domain_resonance: Resonates with psy-cog-app-ada (adaptive appraisal), exi-mea-mak-pur (meaning-making), and psy-def-mat-ada (mature defenses) in supporting transformative coping.
+  academic_description: Attitudinal meaning sources represent Frankl's attitudinal values - finding meaning through the stance taken toward unavoidable suffering. Research demonstrates that meaning-finding in adversity predicts post-traumatic growth and resilience. Studies show that individuals who transform suffering into meaning show better mental health outcomes despite objective hardship. Park's meaning-making model identifies benefit-finding and acceptance as key processes. In addiction recovery, the attitudinal source becomes crucial as individuals must find meaning in the suffering addiction has caused. Neuroimaging shows that meaning-finding in suffering activates different neural networks than rumination or victimhood.
+  clinical_description: Assessment explores attitudinal stance through questions about how clients view their suffering, what they've learned from hardship, and whether they can help others through similar struggles. Interventions include logotherapy techniques, meaning-centered therapy, post-traumatic growth facilitation, and acceptance-based approaches. Treatment helps clients shift from 'Why me?' to 'What now?' Narrative reconstruction explores how suffering has shaped character. Peer support provides opportunities to help others through shared experience. Progress is measured through meaning-in-suffering scales, post-traumatic growth inventory, and acceptance measures.
+  lay_description: Attitudinal meaning comes from the stance you take toward things you cannot change - suffering, loss, limitations, or fate. It's finding meaning even in hardship, growing through struggle, or helping others because of what you've endured. When this source is active, you can say 'This suffering taught me something' or 'I can help others because I've been there.' In recovery, this means finding meaning in your addiction story - not that addiction was good, but that you can transform it into strength, wisdom, or service to others. It's about choosing your attitude when you can't choose your circumstances, turning wounds into wisdom.
+  foundational_themes: Transformation, acceptance, growth, transcendence, meaning-finding
+  experiential_processes: Accepting, transforming, transcending, finding meaning, growing through adversity
+  personal_relevance: Transforms suffering into growth, provides meaning in hardship, enables transcendence of circumstances
+- id: exi-mea-src-att-dir
+  label: Attitudinal Sources - Directionless
+  forest: Existential
+  forest_id: exi
+  field: Meaning and Purpose
+  field_id: exi-mea
+  cluster: Meaning Sources
+  cluster_id: exi-mea-src
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Victimhood stance
+  - Meaningless suffering
+  - Attitudinal paralysis
+  scope: Directionless stance toward suffering characterized by victimhood, meaningless suffering, and inability to transform adversity. Encompasses bitterness toward fate, resistance to limitations, rumination without growth, and perpetual victim narrative. Represents attitudinal paralysis in face of hardship.
+  parent_scope_inheritance: This anchor specifies the attitudinal pathway dimension of meaning sources, focusing on directionless victimhood and inability to access meaning through attitudinal transformation.
+  polarity_expression: Manifests as stuck victim narrative, suffering without meaning or growth, bitterness and resentment toward fate, and complete inability to transform adversity.
+  cross_domain_resonance: Resonates with psy-cog-app-mal (maladaptive appraisal), exi-mea-vac-dir (meaning vacuum), and psy-def-imm-mal (immature defenses) in perpetuating victimhood.
+  academic_description: Attitudinal meaning blockage represents inability to access Frankl's attitudinal values. Research links victimhood stance to depression, PTSD, and poor recovery outcomes. Studies show that meaningless suffering predicts psychological distress independent of objective hardship. Rumination without meaning-making maintains trauma symptoms. In addiction, the victim narrative ('Why me?', 'Life is unfair') prevents transformation of suffering into growth. Neuroimaging reveals that victimhood rumination activates distress networks without engaging meaning-making regions. The inability to find meaning in suffering creates existential despair.
+  clinical_description: Assessment identifies victimhood stance through exploring narratives about suffering, presence of bitterness or resentment, and absence of growth or meaning-finding. Clients express 'My suffering is pointless' or 'I'm just a victim.' Interventions focus on gentle narrative reconstruction, starting with acknowledging legitimate suffering before exploring possible meanings. Victim-to-survivor work uses graduated challenges. Treatment addresses secondary gains from victim identity and fears of responsibility. Meaning-in-suffering exploration begins with others' stories before approaching personal suffering. Progress is measured through narrative flexibility and emergence of growth themes.
+  lay_description: Victimhood stance means being stuck in 'Why me?' without finding any meaning or growth in your suffering. You feel like a perpetual victim of circumstances, bitter about your fate, unable to accept what cannot be changed. Your suffering feels pointless and cruel, teaching nothing and helping no one. In addiction and recovery, this might sound like 'I'm just an addict, I'll always be broken' or 'Life screwed me over and always will.' You can't see how your struggle could ever help others or teach you anything. This keeps you trapped in resentment and despair, unable to transform your pain into anything meaningful, leaving you bitter and directionless.
+  foundational_themes: Victimhood, bitterness, meaninglessness, resentment, stagnation
+  experiential_processes: Ruminating, resenting, resisting acceptance, maintaining victimhood, suffering without growth
+  personal_relevance: Perpetuates suffering without transformation, maintains victim identity, blocks growth and transcendence

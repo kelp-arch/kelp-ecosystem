@@ -1,0 +1,252 @@
+# Generated anchors for cluster: EXI-VAL-MOT
+# Timestamp: 20251104_155044
+
+anchors:
+- id: exi-val-mot-int-pur
+  label: Intrinsic Recovery Interest
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Autonomous Motivation
+  cluster_id: exi-val-mot
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Inherent satisfaction
+  - Genuine interest
+  - Intrinsic enjoyment
+  - Natural curiosity
+  scope: Represents genuine interest, curiosity, and inherent satisfaction found in recovery activities and personal growth processes, independent of external pressures or rewards.
+  parent_scope_inheritance: This anchor specifies the intrinsic motivation component of autonomous motivation, focusing on the inherent satisfaction and interest that emerges from recovery activities themselves.
+  polarity_expression: Manifests as genuine enjoyment and curiosity about recovery versus anhedonia and disinterest in growth processes.
+  cross_domain_resonance: Resonates with phy-rew-dop-reg (intact dopamine reward), psy-emo-pos-ada (adaptive positive affect), and soc-eng-act-coh (cohesive active engagement).
+  academic_description: Intrinsic motivation represents the highest quality of autonomous motivation in self-determination theory, characterized by inherent satisfaction and interest in activities for their own sake. Research demonstrates that intrinsically motivated behaviors show greater persistence, creativity, and well-being outcomes. In addiction recovery, developing intrinsic interest in sober activities predicts sustained abstinence and life satisfaction. Studies show that intrinsic motivation activates reward circuits differently than extrinsic rewards, engaging sustained dopaminergic activity associated with exploration and learning rather than consumption.
+  clinical_description: Clinical work focuses on helping clients discover genuine interest and enjoyment in recovery activities. Assessment explores what aspects of recovery feel inherently satisfying versus obligatory. Common presentations include clients who find flow states in recovery work, express curiosity about personal growth, and engage in recovery activities without external pressure. Interventions include behavioral activation to explore potentially enjoyable sober activities, mindfulness practices to enhance present-moment satisfaction, and creative therapies that spark natural interest. Success involves clients reporting that recovery activities feel rewarding in themselves, not just as means to avoid negative consequences.
+  lay_description: This is about finding genuine enjoyment and interest in your recovery journey, not just going through the motions. It's the difference between attending a meeting because you have to versus actually looking forward to the insights and connections. When intrinsic interest develops, recovery stops feeling like homework and starts feeling like something you're curious about. You might find yourself genuinely interested in understanding your patterns, excited about personal growth, or naturally drawn to helping others. It's like rediscovering the ability to enjoy things without substances - finding that spark of genuine interest that makes recovery feel less like work and more like discovery.
+  foundational_themes:
+  - Inherent satisfaction in growth
+  - Natural curiosity about self
+  - Joy in recovery process
+  experiential_processes:
+  - Flow states during recovery work
+  - Spontaneous engagement without pressure
+  - Discovery of enjoyable sober activities
+  personal_relevance: Transforms recovery from obligation into exploration, making the journey inherently rewarding rather than purely goal-focused.
+- id: exi-val-mot-int-dir
+  label: Anhedonic Compliance
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Autonomous Motivation
+  cluster_id: exi-val-mot
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Motivational anhedonia
+  - Absent interest
+  - Recovery apathy
+  - Intrinsic void
+  scope: Represents the absence of genuine interest or inherent satisfaction in recovery activities, with engagement driven purely by external factors without any intrinsic motivation.
+  parent_scope_inheritance: This anchor specifies the absence of intrinsic motivation within the autonomous motivation spectrum, where recovery activities hold no inherent interest or satisfaction.
+  polarity_expression: Manifests as complete disinterest and anhedonia toward recovery activities, with no curiosity or enjoyment in growth processes.
+  cross_domain_resonance: Resonates with phy-rew-dop-dys (dysregulated dopamine), psy-emo-anh-mal (maladaptive anhedonia), and soc-eng-wit-fra (fragmented withdrawal).
+  academic_description: Motivational anhedonia represents the absence of intrinsic interest characteristic of the lowest levels of self-determination. Research shows this state correlates with poor treatment outcomes, high dropout rates, and chronic relapse patterns. Neurobiologically, it reflects disrupted reward processing where activities fail to generate anticipated or consummatory pleasure. Studies indicate that individuals in this state show blunted dopaminergic responses to potentially rewarding stimuli, similar to clinical depression. The absence of intrinsic motivation creates dependence on increasingly unreliable external motivators.
+  clinical_description: Clients present with complete lack of interest in recovery activities, engaging only when externally pressured. Assessment reveals no enjoyment in sober activities, absence of curiosity about personal growth, and experience of recovery as endless obligation. Everything feels like compliance without any genuine engagement. Interventions target underlying anhedonia through antidepressant medication when appropriate, behavioral experiments to test for hidden interests, and pleasant event scheduling to rebuild reward sensitivity. The clinical challenge involves maintaining engagement long enough for intrinsic interest to potentially emerge.
+  lay_description: This is when recovery feels completely joyless - you're going through the motions but finding zero satisfaction or interest in any of it. Meetings feel like detention, therapy feels like homework you'll never use, and sober activities feel pointless. There's no curiosity about why you used or how to change, just grinding through requirements. It's like your ability to feel interested or excited about anything recovery-related has completely shut down. You might comply with treatment to avoid consequences, but inside you feel dead to the whole process. Nothing about getting better actually appeals to you - it all feels like something being done to you rather than something you want.
+  foundational_themes:
+  - Absence of inherent meaning
+  - Disconnection from growth
+  - Motivational emptiness
+  experiential_processes:
+  - Going through motions without engagement
+  - Compliance without interest
+  - Inability to find enjoyment
+  personal_relevance: Creates a recovery experience of endless obligation without reward, making sustained change nearly impossible without external pressure.
+- id: exi-val-mot-val-pur
+  label: Integrated Value Alignment
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Autonomous Motivation
+  cluster_id: exi-val-mot
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Value congruence
+  - Authentic alignment
+  - Integrated regulation
+  - Value-based motivation
+  scope: Represents the successful integration of recovery goals with personal values and identity, where recovery behaviors feel authentic and aligned with one's core self.
+  parent_scope_inheritance: This anchor specifies the value integration aspect of autonomous motivation, focusing on how recovery becomes personally meaningful through alignment with individual values.
+  polarity_expression: Manifests as recovery feeling authentic and value-congruent versus alien and imposed against one's true self.
+  cross_domain_resonance: Resonates with psy-ide-int-ada (adaptive identity integration), exi-val-cla-pur (purposeful value clarification), and soc-rol-rec-coh (cohesive recovery role).
+  academic_description: Integrated regulation represents the most autonomous form of extrinsic motivation where behaviors are fully assimilated with personal values and identity. Research demonstrates that value-behavior congruence predicts sustained behavior change, life satisfaction, and psychological well-being. In addiction recovery, successful value integration transforms external recovery goals into personally meaningful pursuits. Studies show that individuals with integrated motivation show similar persistence to those with intrinsic motivation, maintaining behavior even when external contingencies are removed. The integration process involves active value clarification and identity reconstruction.
+  clinical_description: Clinical work focuses on helping clients connect recovery behaviors with their deepest personal values. Assessment explores whether recovery feels authentic or imposed, and how well recovery aligns with what matters most to the client. Successful integration presents as clients articulating clear personal values that support recovery, experiencing recovery behaviors as expressions of their true self, and making autonomous decisions based on these values. Interventions include values clarification exercises, identity mapping that incorporates recovery, and narrative therapy to create coherent recovery stories. Progress involves recovery shifting from 'something I have to do' to 'something that expresses who I am.'
+  lay_description: This is when recovery truly becomes part of who you are, not just something you do. Your reasons for staying sober connect directly to your deepest values - being a good parent, living with integrity, pursuing meaningful goals. Recovery doesn't feel like you're pretending to be someone else; it feels like becoming more yourself. The things that matter most to you - family, creativity, spirituality, whatever they are - naturally support your recovery. You're not staying sober despite your values but because of them. It's like all the pieces of your life finally fit together, with recovery being one important piece that makes the whole picture work.
+  foundational_themes:
+  - Authentic self-expression
+  - Value-behavior harmony
+  - Integrated identity
+  experiential_processes:
+  - Living according to values
+  - Recovery as self-expression
+  - Coherent life narrative
+  personal_relevance: Transforms recovery from external requirement into authentic self-expression, making it sustainable through connection to personal meaning.
+- id: exi-val-mot-val-dir
+  label: Value-Recovery Disconnection
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Autonomous Motivation
+  cluster_id: exi-val-mot
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Value incongruence
+  - Identity conflict
+  - Unintegrated compliance
+  - Value misalignment
+  scope: Represents the failure to integrate recovery with personal values, where recovery remains alien to one's identity and feels imposed rather than chosen.
+  parent_scope_inheritance: This anchor specifies the absence of value integration within autonomous motivation, where recovery goals remain external and disconnected from personal meaning.
+  polarity_expression: Manifests as recovery feeling inauthentic and conflicting with personal values and identity.
+  cross_domain_resonance: Resonates with psy-ide-fra-mal (maladaptive identity fragmentation), exi-val-con-dir (directionless value confusion), and soc-rol-con-fra (fragmented role conflict).
+  academic_description: Unintegrated motivation represents a failure of the internalization process where behaviors remain externally regulated despite repeated engagement. Research shows this state predicts poor treatment adherence, high relapse rates, and psychological distress. Studies indicate that value-behavior incongruence creates cognitive dissonance and emotional distress that undermines sustained change. Without integration, individuals experience recovery as self-betrayal rather than self-actualization. The disconnection often reflects unresolved value conflicts or insufficient exploration of personal meaning.
+  clinical_description: Clients present unable to articulate personal reasons for recovery beyond avoiding consequences. Recovery feels like wearing a mask or playing a role that doesn't fit. Assessment reveals value conflicts where things that matter most (excitement, freedom, rebellion) seem incompatible with recovery. Clients maintain their 'addict identity' while superficially complying with treatment. Interventions focus on exploring value-behavior discrepancies through motivational interviewing, conducting values card sorts to identify what truly matters, and addressing the fear that recovery means losing oneself. The clinical challenge involves helping clients discover how recovery might actually serve their authentic values.
+  lay_description: This is when recovery feels completely fake - like you're pretending to be someone you're not. The things that really matter to you seem to have nothing to do with staying sober, or worse, recovery seems to go against everything you value. Maybe you value freedom but recovery feels like prison, or you value authenticity but recovery feels like constant performance. You can't find any personal reason to stay sober beyond avoiding punishment or pleasing others. It's exhausting because you're constantly fighting against yourself, trying to be this 'recovery person' who feels nothing like the real you. The whole thing feels like betraying who you really are.
+  foundational_themes:
+  - Self-betrayal through compliance
+  - Identity disconnection
+  - Meaningless adherence
+  experiential_processes:
+  - Performing recovery without believing
+  - Internal conflict about change
+  - Maintaining addict identity
+  personal_relevance: Creates exhausting internal conflict where recovery feels like self-betrayal, making genuine change feel impossible.
+- id: exi-val-mot-vol-pur
+  label: Autonomous Self-Direction
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Autonomous Motivation
+  cluster_id: exi-val-mot
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Volitional engagement
+  - Self-determined choice
+  - Autonomous regulation
+  - Free will expression
+  scope: Represents the experience of recovery as freely chosen and self-directed, with genuine sense of autonomy and ownership over the recovery process.
+  parent_scope_inheritance: This anchor specifies the volitional aspect of autonomous motivation, focusing on the experience of choice, freedom, and self-determination in recovery.
+  polarity_expression: Manifests as experiencing recovery as self-chosen and autonomous versus controlled and coerced.
+  cross_domain_resonance: Resonates with psy-sel-age-ada (adaptive self-agency), exi-val-age-pur (purposeful agency expression), and soc-pow-per-coh (cohesive personal power).
+  academic_description: Autonomous self-direction reflects satisfaction of the basic psychological need for autonomy in self-determination theory. Research demonstrates that perceived autonomy predicts treatment engagement, behavior maintenance, and psychological well-being. Studies show that even when behaviors are externally initiated, experiencing choice and self-endorsement transforms outcomes. Autonomy support from treatment providers - offering options, providing rationales, acknowledging feelings - enhances this experience. Neurologically, autonomous action engages different brain networks than controlled behavior, with greater activation in areas associated with intrinsic motivation and self-reference.
+  clinical_description: Clinical presentation includes clients who report choosing recovery freely, actively participate in treatment planning, and feel ownership of their recovery process. They make autonomous decisions about recovery strategies and resist when autonomy is threatened. Assessment explores the degree of felt choice versus coercion in recovery behaviors. Interventions emphasize autonomy-supportive counseling that offers choices, shared decision-making that respects client preferences, and exploration of how to maintain autonomy within necessary structures. Success involves clients experiencing recovery as self-directed even within external constraints like probation or family pressure.
+  lay_description: This is the feeling that recovery is genuinely your choice, not something being forced on you. Even if others wanted you to get sober, you're doing it because you decided to. You feel in charge of your recovery - choosing which meetings to attend, what to work on in therapy, how to build your sober life. When someone tries to control your recovery, you push back because it's yours to direct. You might follow suggestions, but because you choose to, not because you have to. It's the difference between 'I'm choosing to stay sober' and 'They're making me stay sober.' This sense of ownership makes recovery feel like freedom rather than imprisonment.
+  foundational_themes:
+  - Self-determination
+  - Personal sovereignty
+  - Chosen path
+  experiential_processes:
+  - Making autonomous choices
+  - Owning recovery decisions
+  - Resisting coercion
+  personal_relevance: Transforms recovery from external imposition into personal choice, creating sustainable change through self-determination.
+- id: exi-val-mot-vol-dir
+  label: Coerced Compliance
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Autonomous Motivation
+  cluster_id: exi-val-mot
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Controlled motivation
+  - External regulation
+  - Forced compliance
+  - Autonomy deprivation
+  scope: Represents the experience of recovery as externally controlled and coerced, with no sense of choice or ownership over the recovery process.
+  parent_scope_inheritance: This anchor specifies the absence of volition within autonomous motivation, where recovery is experienced as imposed and controlled by external forces.
+  polarity_expression: Manifests as experiencing recovery as forced and controlled with no personal choice or autonomy.
+  cross_domain_resonance: Resonates with psy-sel-hel-mal (maladaptive helplessness), exi-val-pow-dir (directionless powerlessness), and soc-pow-opp-fra (fragmented oppression).
+  academic_description: Controlled motivation represents the lowest quality of motivation in self-determination theory, characterized by external regulation and coercion. Research consistently shows that controlled motivation predicts poor treatment outcomes, high dropout rates, and psychological reactance. Studies demonstrate that perceived coercion undermines intrinsic motivation, creates resentment, and leads to immediate relapse when external pressure is removed. Neurologically, controlled behavior activates stress response systems and areas associated with conflict monitoring rather than reward processing. The experience of coercion can create trauma that interferes with future autonomous engagement.
+  clinical_description: Clients present feeling forced into treatment by family, employers, or legal system with no personal buy-in. They describe recovery as something being done to them rather than with them. Assessment reveals passive compliance, resentment toward treatment, and plans to resume use once external pressure ends. Clients may show psychological reactance - deliberately resisting or sabotaging treatment to assert autonomy. Interventions focus on finding any area of choice within constraints, gradually building autonomous motivation, and addressing the trauma of coercion. The clinical challenge involves maintaining safety while respecting the client's autonomy to the degree possible.
+  lay_description: 'This is when recovery feels completely forced on you - you''re only doing it because you have no choice. Maybe it''s court-ordered, or your family threatened to cut you off, or your job depends on it. Every aspect feels controlled by others: which treatment, what meetings, when you''re tested. You''re going through the motions but inside you''re counting the days until the pressure''s off and you can use again. There''s no part of this that feels like your decision. It breeds resentment - toward the people forcing you, toward treatment, toward recovery itself. You might even sabotage things just to feel like you have some control. Recovery feels like prison, and you''re just doing time.'
+  foundational_themes:
+  - Loss of autonomy
+  - External control
+  - Forced compliance
+  experiential_processes:
+  - Passive compliance
+  - Resentful participation
+  - Psychological reactance
+  personal_relevance: Creates recovery as imprisonment, breeding resentment and ensuring relapse once external pressure is removed.
+- id: exi-val-mot-per-pur
+  label: Resilient Motivational Persistence
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Autonomous Motivation
+  cluster_id: exi-val-mot
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Sustained motivation
+  - Motivational resilience
+  - Enduring drive
+  - Self-sustaining motivation
+  scope: Represents robust, self-sustaining motivation that persists through challenges, setbacks, and changing external circumstances without depleting.
+  parent_scope_inheritance: This anchor specifies the persistence aspect of autonomous motivation, focusing on the durability and resilience of self-determined motivation over time.
+  polarity_expression: Manifests as motivation that strengthens through challenges versus motivation that collapses with setbacks.
+  cross_domain_resonance: Resonates with psy-cop-res-ada (adaptive resilience), phy-str-ada-reg (regulated stress adaptation), and soc-sup-con-coh (cohesive continuous support).
+  academic_description: Motivational persistence in self-determination theory reflects the self-sustaining nature of autonomous motivation. Research shows that autonomous motivation creates positive feedback loops where success enhances intrinsic interest and failure becomes learning opportunity rather than defeat. Studies demonstrate that resilient motivation predicts long-term recovery maintenance, with individuals showing ability to maintain or even strengthen motivation through challenges. This persistence emerges from multiple sources of motivation that can compensate when one weakens. Neurologically, it reflects efficient reward processing and adaptive stress response systems.
+  clinical_description: Clinical presentation includes clients who maintain motivation despite setbacks, quickly rebound from lapses, and find new reasons to continue when old ones fade. Their motivation often strengthens over time as they accumulate recovery capital. Assessment examines how motivation responds to challenges and whether clients have multiple sources of motivational support. Interventions include building motivational reserves through identifying multiple reasons for change, developing resilience skills for motivational dips, and creating motivation maintenance plans. Success involves clients developing self-sustaining motivation that doesn't require constant external reinforcement.
+  lay_description: This is when your motivation for recovery becomes unshakeable - it might bend but doesn't break. Setbacks that would have derailed you before become temporary obstacles. When one reason for staying sober weakens, others strengthen. Maybe you started recovery for your kids, but now you also love your clear mind, new friendships, and rediscovered dreams. Bad days don't make you question everything; they're just bad days. Your motivation actually grows stronger over time as you see more benefits and develop more reasons to continue. It's like a fire that's caught properly - it doesn't need constant tending because it sustains itself. Even when life gets hard, your commitment to recovery remains solid.
+  foundational_themes:
+  - Unshakeable commitment
+  - Self-reinforcing drive
+  - Motivational depth
+  experiential_processes:
+  - Rebounding from setbacks
+  - Finding new reasons to continue
+  - Strengthening through challenges
+  personal_relevance: Creates sustainable recovery through motivation that weathers all storms and grows stronger over time.
+- id: exi-val-mot-per-dir
+  label: Fragile Motivational Depletion
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Autonomous Motivation
+  cluster_id: exi-val-mot
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Motivational fragility
+  - Depleting drive
+  - Unsustained motivation
+  - Motivational collapse
+  scope: Represents fragile, easily depleted motivation that collapses with setbacks and requires constant external reinforcement to maintain.
+  parent_scope_inheritance: This anchor specifies the lack of motivational persistence within autonomous motivation, where drive for recovery is unstable and easily disrupted.
+  polarity_expression: Manifests as motivation that rapidly depletes and collapses when challenged or when external support is withdrawn.
+  cross_domain_resonance: Resonates with psy-cop-vul-mal (maladaptive vulnerability), phy-str-exh-dys (dysregulated exhaustion), and soc-sup-int-fra (fragmented intermittent support).
+  academic_description: Motivational fragility reflects dependence on controlled motivation and external regulation that fails to develop internal sustainability. Research shows this pattern predicts chronic relapse, with motivation collapsing at first challenge. Studies indicate that fragile motivation often reflects single-source dependence - when that source fails, all motivation disappears. This creates negative spirals where each failure further depletes motivational resources. Neurologically, it reflects inefficient reward processing requiring increasing external stimulation for same motivational effect. The pattern often emerges from learned helplessness and repeated failure experiences.
+  clinical_description: Clients present with motivation that requires constant external support and reinforcement. Any setback triggers complete motivational collapse and return to use. They show pattern of initial enthusiasm followed by rapid depletion, often cycling through treatment episodes with decreasing motivation each time. Assessment reveals single-point motivation (only one reason for recovery), external dependence, and catastrophic interpretation of setbacks. Interventions focus on building multiple motivational sources, developing realistic expectations about motivational fluctuation, and addressing learned helplessness. The clinical challenge involves maintaining engagement through motivational crises without creating dependence.
+  lay_description: This is when your motivation for recovery is hanging by a thread - one bad day, one disappointment, one moment of doubt, and it all falls apart. You might start strong, but the energy quickly drains away. Each time you try to get sober, you have less motivation than before. You need constant encouragement, support, and external pressure just to keep going. When something goes wrong - a craving, a conflict, a life stress - your motivation completely evaporates and using seems like the only option. It's exhausting because you're always running on empty, trying to manufacture reasons to continue. The well of motivation seems to get shallower with each attempt, leaving you wondering if you'll ever have enough drive to make lasting change.
+  foundational_themes:
+  - Motivational exhaustion
+  - Depleted reserves
+  - Unsustainable effort
+  experiential_processes:
+  - Rapid motivational collapse
+  - Dependence on external support
+  - Decreasing drive over time
+  personal_relevance: Creates pattern of repeated failure as motivation repeatedly collapses, making sustained recovery feel impossible.

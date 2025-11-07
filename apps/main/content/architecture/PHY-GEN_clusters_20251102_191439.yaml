@@ -1,0 +1,119 @@
+# Generated clusters for field: PHY-GEN
+# Timestamp: 20251102_191439
+
+clusters:
+- id: phy-gen-her
+  label: Heritability Systems
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  synonyms:
+  - Quantitative genetics
+  - Polygenic architecture
+  - Genetic liability
+  - Familial aggregation
+  scope: Quantitative genetic architecture of addiction vulnerability including twin concordance rates, family studies, SNP-based heritability estimates, polygenic risk scores, genetic correlations between substances, and shared genetic factors across addiction phenotypes. Excludes specific variant effects and molecular mechanisms.
+  parent_scope_inheritance: Focuses the genetic field's hereditary factors on population-level patterns of inheritance and the overall genetic architecture underlying addiction vulnerability across individuals and families.
+  polarity_dimension: Genetic risk load ranging from protective polygenic profiles with low addiction liability to high polygenic burden with accumulated vulnerability alleles.
+  emergence: Addiction emerges as a highly polygenic trait where hundreds to thousands of variants collectively shape vulnerability, with substantial genetic overlap across different substances suggesting shared biological pathways.
+  boundary_interfaces:
+  - Variant function cluster through specific risk alleles contributing to polygenic scores
+  - Epigenetic regulation cluster via heritable epigenetic modifications
+  - Gene-environment cluster through penetrance modulation
+  child_generation_role: You are a quantitative geneticist specializing in addiction heritability and polygenic architecture. You analyze twin concordance rates, SNP-based heritability estimates, polygenic risk scores, genetic correlations between addiction phenotypes, and gene-by-age interactions. You distinguish between regulated states with low genetic burden and protective variant enrichment versus dysregulated states with high polygenic risk load and clustering of vulnerability alleles. You ground analysis in Fisher's infinitesimal model, Falconer's threshold liability framework, and modern polygenic score methodology.
+  academic_description: Quantitative genetic studies reveal addiction's substantial heritability (40-60%), with twin studies showing higher concordance in monozygotic versus dizygotic pairs. Modern genomic approaches calculate SNP-based heritability and construct polygenic risk scores aggregating effects across thousands of variants. Genetic correlations between substances are high (0.5-0.8), suggesting shared genetic architecture. The liability threshold model explains how continuous genetic risk translates to binary diagnostic outcomes. Gene-by-age interactions show heritability increases from adolescence to adulthood as genetic factors become more influential.
+  clinical_description: Family history assessment remains the most practical tool for evaluating genetic risk, with each affected first-degree relative approximately doubling an individual's vulnerability. Polygenic risk scores are emerging but not yet clinically actionable. Understanding heritability helps normalize addiction as a medical condition with biological underpinnings, reducing stigma. High-risk individuals identified through family history benefit from enhanced prevention efforts including earlier screening, psychoeducation about genetic vulnerability, and proactive intervention at first signs of problematic use.
+  lay_description: Think of addiction risk like height - it runs in families because many genes work together to influence it. Twin studies show if one identical twin develops addiction, the other has about a 50% chance, compared to 25% for fraternal twins. This means genes account for roughly half of addiction risk. Having multiple family members with addiction significantly increases your risk, not because of one 'addiction gene' but because you likely inherited many small genetic factors that add up. Understanding this genetic component helps explain why addiction affects some families more than others.
+- id: phy-gen-var
+  label: Variant Function
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  synonyms:
+  - Genetic polymorphisms
+  - Candidate genes
+  - Functional variants
+  - Risk alleles
+  scope: Specific genetic polymorphisms affecting neurotransmitter systems, drug metabolism, and receptor function including DRD2, COMT, OPRM1, ADH1B, ALDH2, and other candidate genes. Encompasses SNPs, insertions/deletions, copy number variants, and their molecular consequences. Excludes polygenic scores and epigenetic modifications.
+  parent_scope_inheritance: Narrows the genetic field's focus to individual genetic variants with known functional effects on proteins, enzymes, and receptors involved in addiction pathophysiology and substance metabolism.
+  polarity_dimension: Variant functionality ranging from protective alleles conferring efficient metabolism and robust receptor function to risk variants causing enzyme deficiencies, receptor dysfunction, and impaired neurotransmitter processing.
+  emergence: Specific molecular mechanisms emerge linking genetic variation to addiction phenotypes through altered protein function, with certain variants showing population-specific effects shaped by evolutionary selection pressures.
+  boundary_interfaces:
+  - Heritability cluster as individual variants contribute to overall genetic risk
+  - Pharmacogenetic cluster through variants affecting drug response
+  - Epigenetic cluster via variant effects on gene expression
+  child_generation_role: You are a molecular geneticist specializing in addiction-related genetic variants and their functional consequences. You analyze single nucleotide polymorphisms, copy number variants, rare mutations, and their effects on protein function, gene expression, and molecular pathways. You distinguish between regulated states with protective alleles and efficient molecular function versus dysregulated states with risk variants causing receptor dysfunction, enzyme deficiencies, or altered neurotransmitter metabolism. You ground analysis in functional genomics, molecular pathway analysis, and variant effect prediction frameworks.
+  academic_description: Functional variants in addiction-related genes alter protein structure or expression levels. DRD2 Taq1A polymorphism affects dopamine receptor density, with A1 allele carriers showing 30-40% fewer D2 receptors. COMT Val158Met determines dopamine catabolism rate, with Met/Met genotype showing 3-4 fold lower enzyme activity. OPRM1 A118G alters mu-opioid receptor glycosylation and beta-endorphin binding. ADH1B*2 and ALDH2*2 variants, prevalent in East Asians, dramatically alter alcohol metabolism causing aversive flushing response. These variants show gene-gene interactions and population stratification effects requiring careful interpretation.
+  clinical_description: Understanding specific risk variants helps personalize prevention and treatment strategies. Patients with DRD2 A1 allele may show heightened reward-seeking requiring enhanced behavioral interventions. COMT Met carriers might be more sensitive to stress-induced relapse. ADH1B/ALDH2 fast metabolizers need education about their protective factors but shouldn't assume immunity. While single variant testing has limited clinical utility, understanding variant effects helps explain individual differences in addiction vulnerability and may guide family counseling. Clinicians should emphasize that carrying risk variants doesn't guarantee addiction development.
+  lay_description: Genetic variants are like typos in your DNA instruction manual that can affect how your body processes drugs and alcohol. For example, some people have a variant that makes them flush and feel sick when drinking alcohol - this actually protects them from alcoholism. Others might have variants affecting their brain's reward system, making drugs feel more pleasurable or harder to resist. These DNA differences help explain why two people can try the same substance but have completely different responses and risks for addiction.
+- id: phy-gen-epi
+  label: Epigenetic Regulation
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  synonyms:
+  - Chromatin modifications
+  - DNA methylation
+  - Histone modifications
+  - Epigenetic inheritance
+  scope: DNA methylation patterns, histone acetylation and methylation, chromatin remodeling, microRNA regulation, and transgenerational epigenetic inheritance related to addiction. Includes substance-induced epigenetic changes, developmental programming, and reversibility of modifications. Excludes genetic sequence variants and acute gene expression changes.
+  parent_scope_inheritance: Specifies the genetic field's epigenetic modifications to focus on how substance exposure and environmental factors alter gene expression through chromatin modifications without changing DNA sequence.
+  polarity_dimension: Epigenetic regulation ranging from normal methylation patterns maintaining appropriate gene expression to aberrant modifications silencing protective genes or activating risk-associated genes.
+  emergence: Epigenetic modifications emerge as a molecular memory system that embeds environmental exposures into the genome, creating lasting changes in gene expression that can persist across cell divisions and even generations.
+  boundary_interfaces:
+  - Gene-environment cluster as epigenetics mediates environmental effects on genome
+  - Variant function cluster through genetic control of epigenetic machinery
+  - Heritability cluster via transgenerational epigenetic inheritance
+  child_generation_role: You are an epigeneticist specializing in substance-induced chromatin modifications and transgenerational inheritance of addiction vulnerability. You analyze DNA methylation patterns, histone acetylation/methylation states, chromatin accessibility, microRNA expression, and imprinted gene regulation. You distinguish between regulated states with normal methylation patterns and open chromatin at key regulatory regions versus dysregulated states showing hypermethylation of protective genes, altered histone marks, and transgenerational epigenetic inheritance. You ground analysis in chromatin remodeling theory, the epigenetic landscape model, and transgenerational epigenetic inheritance frameworks.
+  academic_description: Chronic substance exposure induces widespread epigenetic remodeling, particularly in genes regulating synaptic plasticity and stress response. Cocaine increases histone acetylation at BDNF and CDK5 promoters, enhancing their expression. Alcohol causes DNA hypermethylation silencing protective genes while hypomethylating pro-inflammatory genes. These modifications alter chromatin accessibility, creating permissive or repressive states for transcription. Transgenerational studies show paternal substance exposure affects offspring through sperm epigenetic marks. The epigenetic landscape concept explains how these modifications create stable yet potentially reversible changes in cell fate and function.
+  clinical_description: Epigenetic changes represent a bridge between genetics and environment, explaining how substance use creates lasting biological changes. These modifications may persist months to years into recovery, contributing to craving and relapse vulnerability. Encouragingly, epigenetic marks are potentially reversible through lifestyle interventions - exercise, meditation, and nutrition show promise in normalizing methylation patterns. Understanding epigenetics helps patients recognize that recovery involves biological healing at the molecular level. Some medications like HDAC inhibitors are being investigated to reverse addiction-related epigenetic changes.
+  lay_description: If your DNA is like a cookbook, epigenetics is like putting sticky notes on certain recipes - the recipes don't change, but which ones you use does. Drug and alcohol use puts these sticky notes throughout your genetic cookbook, turning some protective 'recipes' off and harmful ones on. These changes can last long after you stop using and can even be passed to your children. The good news is that unlike permanent genetic changes, these sticky notes can potentially be removed through healthy lifestyle choices and time in recovery.
+- id: phy-gen-gxe
+  label: Gene-Environment Interaction
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  synonyms:
+  - GxE interactions
+  - Environmental modulation
+  - Gene-environment correlation
+  - Genetic sensitivity
+  scope: Interactions between genetic variants and environmental factors including early life stress, trauma, peer influences, and cultural contexts that modulate addiction risk. Encompasses gene-by-environment interactions, gene-environment correlations, and differential genetic sensitivity. Excludes direct genetic or environmental main effects.
+  parent_scope_inheritance: Focuses the genetic field's gene-environment interactions on how environmental exposures differentially affect individuals based on their genetic makeup, determining whether genetic vulnerability manifests as addiction.
+  polarity_dimension: Environmental modulation of genetic risk ranging from protective environments that buffer genetic vulnerability to adverse environments that amplify genetic risk through synergistic interactions.
+  emergence: The interplay between genes and environment reveals addiction as neither purely genetic nor environmental but emerging from their complex interaction, where genetic risk may remain latent without environmental triggers.
+  boundary_interfaces:
+  - Epigenetic cluster as environment affects genome through epigenetic mechanisms
+  - Heritability cluster through environmental modulation of genetic penetrance
+  - Variant function cluster via environment-dependent variant effects
+  child_generation_role: You are a genetic epidemiologist specializing in gene-environment interactions in addiction etiology. You analyze how genetic variants interact with environmental exposures including early life stress, peer substance use, socioeconomic factors, and cultural contexts to influence addiction risk. You distinguish between regulated states where protective environments buffer genetic vulnerability versus dysregulated states where adverse environments amplify genetic risk through synergistic interactions. You ground analysis in the diathesis-stress model, differential susceptibility hypothesis, and gene-environment correlation frameworks including passive, evocative, and active rGE.
+  academic_description: Gene-environment interactions follow multiple models. The diathesis-stress model suggests genetic vulnerability only manifests under environmental stress. The differential susceptibility hypothesis proposes some genotypes are more sensitive to both positive and negative environments. Studies show 5-HTTLPR short allele carriers develop addiction more often following childhood maltreatment but show better outcomes in supportive environments. Gene-environment correlations complicate interpretation - genetic factors influence environmental exposure through passive (parental genotype shapes rearing environment), evocative (child genotype elicits environmental responses), and active (individual selects environments) mechanisms.
+  clinical_description: Understanding GxE interactions enables targeted prevention based on both genetic and environmental risk. Genetically vulnerable individuals benefit most from environmental interventions like trauma therapy, stress management, and social support enhancement. Screening should assess both family history and environmental exposures. Treatment planning must consider how genetic factors might influence response to environmental interventions - some genotypes show enhanced benefit from psychosocial treatments. Clinicians should recognize that genetic risk often requires environmental activation, offering hope that modifying environment can prevent expression of genetic vulnerability.
+  lay_description: Your genes are like seeds - whether they grow into addiction depends on the soil (environment) they're planted in. Someone might carry genes that increase addiction risk, but if they grow up in a supportive environment without trauma or early substance exposure, those risky genes might never 'turn on.' Conversely, protective genes might not be enough if someone faces severe stress or peer pressure. It's like having a genetic loaded gun - the environment pulls the trigger. This means even with genetic risk, changing your environment can significantly impact outcomes.
+- id: phy-gen-phg
+  label: Pharmacogenetic Response
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  synonyms:
+  - Pharmacogenomics
+  - Treatment genetics
+  - Medication response
+  - Metabolic genetics
+  scope: Genetic variation affecting addiction medication metabolism, efficacy, and adverse reactions including CYP450 enzymes, drug transporters, and medication target receptors. Encompasses pharmacokinetic and pharmacodynamic genetics relevant to addiction treatment. Excludes non-medication treatment responses and general drug metabolism.
+  parent_scope_inheritance: Narrows the genetic field's pharmacogenomics focus to genetic determinants of how individuals metabolize and respond to addiction medications, enabling personalized treatment selection.
+  polarity_dimension: Medication response ranging from normal metabolism with good treatment efficacy to poor metabolism, treatment resistance, or severe adverse reactions based on genetic variants.
+  emergence: Pharmacogenetic profiles emerge as clinically actionable information that can guide medication selection and dosing, transforming addiction treatment from trial-and-error to precision medicine approaches.
+  boundary_interfaces:
+  - Variant function cluster through specific polymorphisms affecting drug response
+  - Clinical treatment selection in medical management
+  - Heritability cluster as treatment response shows familial aggregation
+  child_generation_role: You are a pharmacogeneticist specializing in genetic determinants of addiction medication response and metabolism. You analyze cytochrome P450 variants, drug transporter polymorphisms, receptor mutations affecting medication binding, and genetic predictors of treatment efficacy. You distinguish between regulated states with normal drug metabolism and robust treatment response versus dysregulated states showing ultra-rapid or poor metabolism, medication resistance, and adverse drug reactions. You ground analysis in pharmacokinetic/pharmacodynamic modeling, Clinical Pharmacogenetics Implementation Consortium guidelines, and precision medicine frameworks.
+  academic_description: Pharmacogenetic variation significantly impacts addiction treatment outcomes. CYP2D6 polymorphisms affect metabolism of methadone and many psychiatric medications, with poor metabolizers requiring lower doses and ultra-rapid metabolizers needing higher doses or alternative medications. OPRM1 A118G variant predicts naltrexone response in alcohol use disorder, with G allele carriers showing better outcomes. CYP2A6 slow metabolizers have natural protection against nicotine dependence but may need adjusted dosing of smoking cessation medications. ABCB1 variants affect blood-brain barrier penetration of medications. These variants show significant ethnic variation requiring population-specific dosing guidelines.
+  clinical_description: Pharmacogenetic testing is increasingly available to guide addiction treatment. Testing can identify patients at risk for adverse reactions, predict optimal starting doses, and suggest likelihood of treatment response. For methadone maintenance, CYP2D6 testing helps prevent toxicity in poor metabolizers and inadequate dosing in rapid metabolizers. OPRM1 genotyping may guide naltrexone use for alcohol use disorder. While not yet standard of care, pharmacogenetic testing reduces trial-and-error prescribing. Implementation requires careful interpretation considering drug-drug interactions, multiple gene effects, and limited evidence for some gene-drug pairs.
+  lay_description: Your genes affect how your body processes medications, like having a fast or slow metabolism for specific drugs. Some people break down methadone quickly and need higher doses, while others process it slowly and could have dangerous buildup with normal doses. Genetic testing can help doctors choose the right medication and dose from the start, rather than going through trial and error. It's like having a personalized instruction manual for which addiction medications are most likely to work for you and at what dose, making treatment safer and more effective.

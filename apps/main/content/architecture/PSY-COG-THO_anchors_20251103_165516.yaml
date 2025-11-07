@@ -1,0 +1,352 @@
+# Generated anchors for cluster: PSY-COG-THO
+# Timestamp: 20251103_165516
+
+anchors:
+- id: psy-cog-tho-aut-ada
+  label: Balanced Automatic Thoughts
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Realistic thinking
+  - Balanced cognitions
+  - Accurate thoughts
+  scope: Spontaneous, reality-based automatic thoughts that acknowledge both positive and negative aspects of situations, promoting balanced responses to triggers and stressors without catastrophizing or minimizing.
+  parent_scope_inheritance: Specifies the automatic thought component of thought patterns, focusing on immediate, spontaneous cognitions that arise in response to situations while maintaining accuracy and balance.
+  polarity_expression: Manifests as thoughts that accurately reflect reality, acknowledge nuance, and support healthy coping rather than justifying substance use or catastrophizing withdrawal.
+  cross_domain_resonance: Resonates with phy-neu-rew-nat-reg (natural reward processing), soc-fam-com-ope-coh (open family communication), and exi-mea-lif-gro-pur (growth-oriented purpose).
+  academic_description: Research demonstrates that balanced automatic thoughts correlate with successful recovery outcomes. Beck's cognitive model shows how realistic appraisals reduce vulnerability to relapse triggers. Studies using thought sampling methods find that individuals in sustained recovery generate more balanced automatic thoughts, with appropriate activation of prefrontal regulatory regions during thought generation. Cognitive flexibility allows for consideration of multiple perspectives rather than rigid, substance-focused cognitions.
+  clinical_description: Assessment through thought records reveals balanced thinking patterns - thoughts like 'This craving is uncomfortable but temporary' or 'I can handle stress without substances.' Interventions include cognitive restructuring to develop more balanced thoughts, mindfulness training to observe thoughts without judgment, and Socratic questioning to examine evidence. Clinicians help clients recognize the difference between thoughts and facts, developing a repertoire of balanced responses to common triggers.
+  lay_description: Your immediate thoughts about situations become more balanced and realistic. Instead of thinking 'I can't handle this without using,' you might think 'This is hard, but I have other ways to cope.' You see both positives and negatives rather than black-and-white extremes. These balanced thoughts don't ignore problems but also don't blow them out of proportion, helping you make better decisions moment by moment.
+  core_components:
+  - Reality testing
+  - Cognitive flexibility
+  - Balanced appraisal
+  associated_processes:
+  - Emotional regulation
+  - Decision-making
+  - Stress response
+- id: psy-cog-tho-aut-mal
+  label: Distorted Automatic Thoughts
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Cognitive distortions
+  - Permission-giving beliefs
+  - Thinking errors
+  scope: Distorted automatic thoughts including permission-giving beliefs, catastrophizing, minimization, all-or-nothing thinking, and other cognitive distortions that justify substance use and maintain addiction.
+  parent_scope_inheritance: Specifies the automatic thought component of thought patterns, focusing on immediate, spontaneous cognitions that are systematically biased toward maintaining addiction.
+  polarity_expression: Manifests as thoughts that distort reality through permission-giving beliefs ('I deserve it'), catastrophizing ('I'll die without it'), minimizing consequences ('One won't hurt'), and other systematic biases.
+  cross_domain_resonance: Resonates with phy-neu-rew-dru-dys (drug-hijacked rewards), soc-fam-com-avo-fra (avoidant communication), and exi-mea-lif-hed-dir (hedonistic drift).
+  academic_description: Research identifies specific cognitive distortions in addiction including permission-giving beliefs that justify use, catastrophizing withdrawal symptoms, minimizing negative consequences, and all-or-nothing thinking about recovery. These distortions show increased activation of limbic regions with reduced prefrontal modulation. Studies demonstrate that frequency of distorted automatic thoughts predicts relapse risk. The cognitive model of addiction shows how these thoughts create self-perpetuating cycles of use.
+  clinical_description: Assessment reveals characteristic distortions - 'I've already ruined everything, might as well use,' 'I can't cope without it,' 'Just this once won't matter.' These thoughts feel like absolute truths but represent thinking errors. Treatment involves identifying and labeling distortions, examining evidence through thought records, and developing balanced alternatives. Clinicians teach recognition of common patterns like black-and-white thinking, mind reading, and emotional reasoning that maintain addiction.
+  lay_description: Your mind plays tricks that keep you stuck in addiction. You might think 'I've had a terrible day, I deserve to use' (permission-giving) or 'If I don't use, I'll go crazy' (catastrophizing). These thoughts feel completely true in the moment but are actually distortions. You minimize the bad ('It wasn't that bad last time') and maximize the good ('It will solve all my problems'). Learning to catch and question these thinking traps is crucial for recovery.
+  core_components:
+  - Permission-giving beliefs
+  - Catastrophic thinking
+  - Minimization
+  associated_processes:
+  - Justification
+  - Rationalization
+  - Denial
+- id: psy-cog-tho-sch-ada
+  label: Flexible Cognitive Schemas
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Balanced core beliefs
+  - Adaptive schemas
+  - Flexible belief systems
+  scope: Flexible, balanced cognitive schemas including adaptive core beliefs about self, world, and future that support recovery, with conditional rules that allow for situational adaptation and healthy self-concept.
+  parent_scope_inheritance: Specifies the cognitive schema component of thought patterns, focusing on deep-seated belief structures that organize and guide information processing in adaptive ways.
+  polarity_expression: Manifests as core beliefs that acknowledge both strengths and vulnerabilities, conditional rather than absolute rules for living, and a self-concept that supports growth and recovery.
+  cross_domain_resonance: Resonates with phy-str-res-ada-reg (adaptive stress resilience), soc-cul-ide-inc-coh (inclusive cultural identity), and exi-spi-tra-wis-pur (wisdom-based transcendence).
+  academic_description: Research on adaptive schemas shows flexible belief systems that accommodate new information and support psychological wellbeing. Young's schema theory identifies healthy schemas involving realistic self-worth, appropriate autonomy, and reasonable standards. Neuroimaging reveals distributed, flexible neural networks underlying adaptive schemas, allowing for context-appropriate responses. Studies show that schema flexibility predicts better treatment outcomes and sustained recovery.
+  clinical_description: Assessment reveals balanced core beliefs - 'I am capable of growth,' 'I can learn from mistakes,' 'I deserve care and respect.' These schemas guide healthy decision-making without rigid rules. Schema therapy techniques including limited reparenting, imagery rescripting, and schema dialogue help develop more adaptive beliefs. Clinicians work to strengthen healthy schemas while reducing the influence of maladaptive early schemas through experiential and cognitive techniques.
+  lay_description: Your deepest beliefs about yourself and the world become more balanced and flexible. Instead of 'I'm worthless' or 'I can't trust anyone,' you develop beliefs like 'I have value despite my struggles' and 'Some people are trustworthy.' These core beliefs act like filters for how you see everything, and when they're balanced, you can adapt to different situations without falling back on substances for coping.
+  core_components:
+  - Adaptive core beliefs
+  - Flexible rules
+  - Balanced self-concept
+  associated_processes:
+  - Identity formation
+  - Meaning-making
+  - Self-regulation
+- id: psy-cog-tho-sch-mal
+  label: Rigid Addiction Schemas
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Maladaptive core beliefs
+  - Addiction schemas
+  - Rigid belief systems
+  scope: Rigid, addiction-maintaining cognitive schemas including maladaptive core beliefs about worthlessness, defectiveness, and dependency, with absolute rules that perpetuate substance use as a coping mechanism.
+  parent_scope_inheritance: Specifies the cognitive schema component of thought patterns, focusing on deep-seated belief structures that organize information processing in ways that maintain addiction.
+  polarity_expression: Manifests as core beliefs of fundamental defectiveness, absolute rules like 'I must use to cope,' and a self-concept fused with addiction identity.
+  cross_domain_resonance: Resonates with phy-str-res-chr-dys (chronic stress dysregulation), soc-cul-ide-mar-fra (marginalized identity fragmentation), and exi-spi-tra-spi-dir (spiritual emptiness).
+  academic_description: Research identifies specific maladaptive schemas in addiction including defectiveness/shame, emotional deprivation, and insufficient self-control schemas. These rigid belief structures show increased neural rigidity and reduced cognitive flexibility. Young's schema model demonstrates how early maladaptive schemas create vulnerability to addiction as a maladaptive coping mode. Studies show these schemas resist change and predict poorer treatment outcomes without targeted intervention.
+  clinical_description: Assessment reveals deep beliefs like 'I'm fundamentally flawed,' 'I need substances to survive,' 'I'll always be an addict.' These schemas filter all experiences through an addiction lens. Treatment requires intensive schema therapy - identifying origins, understanding how schemas developed as survival strategies, and gradually building healthier alternatives. Techniques include cognitive, experiential, and behavioral pattern-breaking work to loosen the grip of rigid schemas.
+  lay_description: Your deepest beliefs about yourself become prison bars. You might believe 'I'm broken beyond repair' or 'I can't handle life without substances.' These beliefs formed early, often from painful experiences, and now filter everything you experience. They make you see proof everywhere that you're defective and need substances to cope. Recovery means recognizing these aren't truths but old survival strategies that no longer serve you.
+  core_components:
+  - Defectiveness beliefs
+  - Dependency schemas
+  - Rigid rules
+  associated_processes:
+  - Identity fusion
+  - Learned helplessness
+  - Shame cycles
+- id: psy-cog-tho-met-ada
+  label: Functional Metacognitive Beliefs
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Metacognitive awareness
+  - Thought acceptance
+  - Cognitive flexibility
+  scope: Functional beliefs about thinking itself, including understanding thoughts as mental events, confidence in cognitive control without overcontrol, and acceptance of intrusive thoughts without fusion.
+  parent_scope_inheritance: Specifies the metacognitive belief component of thought patterns, focusing on adaptive beliefs about the nature and control of thinking processes.
+  polarity_expression: Manifests as recognizing thoughts as mental events rather than commands, confidence in natural thought regulation, and acceptance that intrusive thoughts are normal without requiring action.
+  cross_domain_resonance: Resonates with phy-neu-exe-cfl-reg (cognitive flexibility), soc-com-soc-emp-coh (empathic social cognition), and exi-mea-pur-val-pur (value-aligned purpose).
+  academic_description: Wells' S-REF model demonstrates how adaptive metacognitive beliefs support psychological flexibility. Research shows that viewing thoughts as mental events rather than facts reduces thought-action fusion. Metacognitive awareness correlates with better emotion regulation and reduced rumination. Neuroimaging reveals balanced activation between metacognitive monitoring regions and executive control, allowing for appropriate cognitive regulation without excessive control attempts.
+  clinical_description: Assessment reveals healthy beliefs about thinking - 'Thoughts are just mental events,' 'I don't need to control every thought,' 'Having cravings doesn't mean I'll relapse.' Metacognitive therapy develops these beliefs through detached mindfulness, attention training, and challenging metacognitive beliefs. Clients learn to observe their thinking process without becoming entangled, developing meta-awareness that supports recovery.
+  lay_description: You develop a healthy relationship with your own thinking. Instead of believing every thought or fighting to control them all, you understand that thoughts are just mental events - like clouds passing through the sky. You know that thinking about using doesn't mean you will use, and that you don't need to wrestle with every craving thought. This creates mental space and freedom.
+  core_components:
+  - Thought awareness
+  - Cognitive acceptance
+  - Flexible control
+  associated_processes:
+  - Mindfulness
+  - Psychological flexibility
+  - Emotion regulation
+- id: psy-cog-tho-met-mal
+  label: Dysfunctional Metacognitive Beliefs
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Thought-action fusion
+  - Metacognitive dysfunction
+  - Thought control beliefs
+  scope: Dysfunctional beliefs about thinking including thought-action fusion, beliefs about uncontrollability of thoughts, need for thought control, and beliefs that thoughts about using inevitably lead to relapse.
+  parent_scope_inheritance: Specifies the metacognitive belief component of thought patterns, focusing on maladaptive beliefs about thinking that perpetuate addiction cycles.
+  polarity_expression: Manifests as beliefs that thoughts equal actions, that craving thoughts are uncontrollable and dangerous, and that perfect thought control is necessary for recovery.
+  cross_domain_resonance: Resonates with phy-neu-exe-cfl-dys (cognitive inflexibility), soc-com-soc-iso-fra (social cognitive isolation), and exi-mea-pur-con-dir (purpose confusion).
+  academic_description: Research identifies specific metacognitive dysfunctions in addiction including beliefs about thought uncontrollability, thought-action fusion, and metacognitive beliefs about craving. Wells' S-REF model shows how these beliefs create recursive loops of worry and rumination. Studies demonstrate that dysfunctional metacognitive beliefs predict relapse through increased rumination and decreased cognitive flexibility. Neuroimaging shows hyperactivation of monitoring regions with ineffective control attempts.
+  clinical_description: Assessment reveals problematic beliefs - 'If I think about using, I will use,' 'I can't control my thoughts,' 'I must eliminate all drug thoughts.' These beliefs create anxiety about normal thoughts and paradoxically increase preoccupation. Treatment involves metacognitive therapy - challenging beliefs about thought control, conducting behavioral experiments about thought-action relationships, and developing detached mindfulness to observe thoughts without engagement.
+  lay_description: You become afraid of your own thoughts. You believe that thinking about using means you will definitely relapse, or that you should be able to control every thought that enters your mind. This creates a mental battle where you're constantly fighting your own thinking, which paradoxically makes drug thoughts stronger and more frequent. You need perfect thought control to stay clean, which is impossible and exhausting.
+  core_components:
+  - Thought-action fusion
+  - Control beliefs
+  - Thought danger beliefs
+  associated_processes:
+  - Rumination
+  - Worry
+  - Cognitive avoidance
+- id: psy-cog-tho-rum-ada
+  label: Constructive Reflection
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Problem-solving thinking
+  - Purposeful reflection
+  - Active coping
+  scope: Constructive reflection patterns involving time-limited, solution-focused thinking that leads to problem-solving, insight, and adaptive action rather than passive dwelling.
+  parent_scope_inheritance: Specifies the rumination pattern component of thought patterns, focusing on adaptive forms of repetitive thinking that support recovery.
+  polarity_expression: Manifests as purposeful reflection that generates solutions, time-limited processing of experiences, and thinking that leads to constructive action rather than paralysis.
+  cross_domain_resonance: Resonates with phy-neu-def-dmn-reg (regulated default mode), soc-pee-rec-mut-coh (mutual recovery support), and exi-gro-wis-ins-pur (insight-driven wisdom).
+  academic_description: Research distinguishes constructive reflection from maladaptive rumination through its problem-solving focus, concrete processing style, and action orientation. Studies show that reflective pondering, unlike depressive rumination, correlates with better outcomes and post-traumatic growth. Neuroimaging reveals balanced default mode network activity with appropriate executive engagement during constructive reflection, contrasting with the hyperactive DMN seen in rumination.
+  clinical_description: Assessment identifies solution-focused thinking patterns - processing experiences to extract learning, generating concrete action plans, and engaging in time-limited reflection. Interventions include problem-solving therapy, structured reflection exercises, and behavioral activation to channel thinking into action. Clinicians help differentiate productive processing from rumination, teaching when to engage versus disengage from repetitive thinking.
+  lay_description: Your repetitive thinking becomes purposeful and productive. Instead of endlessly asking 'Why me?' you think about 'What can I do?' Your reflection has a beginning, middle, and end - you process experiences, learn from them, and move forward. This kind of thinking helps you solve problems and understand yourself better, rather than getting stuck in mental loops.
+  core_components:
+  - Solution focus
+  - Time-limited processing
+  - Action orientation
+  associated_processes:
+  - Problem-solving
+  - Learning
+  - Planning
+- id: psy-cog-tho-rum-mal
+  label: Destructive Rumination
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Obsessive rumination
+  - Craving rumination
+  - Depressive brooding
+  scope: Destructive rumination patterns including drug-focused rumination, depressive brooding, and abstract 'why me' thinking that maintains negative mood and craving states without resolution.
+  parent_scope_inheritance: Specifies the rumination pattern component of thought patterns, focusing on maladaptive repetitive thinking that perpetuates addiction.
+  polarity_expression: Manifests as endless mental loops about substances, passive brooding about problems without solutions, and abstract rumination that increases distress without resolution.
+  cross_domain_resonance: Resonates with phy-neu-def-dmn-dys (dysregulated default mode), soc-pee-rec-tox-fra (toxic peer dynamics), and exi-gro-wis-sta-dir (wisdom stagnation).
+  academic_description: Research shows that drug-focused rumination predicts craving intensity and relapse risk. Depressive rumination involves abstract, evaluative thinking about problems and their implications without generating solutions. This passive brooding style shows hyperactivation of the default mode network with reduced cognitive control. Studies demonstrate that rumination maintains both negative affect and substance craving through recursive loops of negative thinking.
+  clinical_description: Assessment reveals characteristic patterns - endless thinking about past use, mentally rehearsing drug scenarios, asking unanswerable 'why' questions, and brooding about problems without action. Treatment includes rumination-focused CBT, teaching to recognize rumination triggers, and shifting to concrete, action-focused thinking. Behavioral activation breaks rumination cycles, while mindfulness helps disengage from repetitive thoughts.
+  lay_description: Your mind gets stuck in endless loops - thinking about using, replaying past highs, or asking 'Why can't I just be normal?' over and over. This mental spinning doesn't solve anything but makes cravings and negative feelings worse. You might spend hours lost in thoughts about substances or brooding about your problems without taking any action. It's like being trapped in a mental maze with no exit.
+  core_components:
+  - Drug-focused loops
+  - Abstract brooding
+  - Passive dwelling
+  associated_processes:
+  - Craving maintenance
+  - Mood deterioration
+  - Behavioral paralysis
+- id: psy-cog-tho-apr-ada
+  label: Accurate Cognitive Appraisals
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Realistic assessment
+  - Balanced evaluation
+  - Accurate interpretation
+  scope: Accurate cognitive appraisals involving realistic assessment of threats and opportunities, balanced evaluation of substance-related costs and benefits, and appropriate confidence in coping abilities.
+  parent_scope_inheritance: Specifies the cognitive appraisal component of thought patterns, focusing on accurate evaluation and interpretation of situations and internal states.
+  polarity_expression: Manifests as realistic risk assessment, balanced cost-benefit analysis of substance use, and accurate evaluation of personal coping resources and recovery supports.
+  cross_domain_resonance: Resonates with phy-neu-rew-lea-reg (appropriate reward learning), soc-env-nei-saf-coh (safe neighborhood appraisal), and exi-mea-lif-aut-pur (authentic life meaning).
+  academic_description: Research on cognitive appraisal shows that accurate threat detection and reward valuation support adaptive behavior. Studies demonstrate that realistic appraisals of substance effects, withdrawal severity, and coping abilities predict better recovery outcomes. Lazarus and Folkman's transactional model shows how accurate primary and secondary appraisals guide effective coping. Neuroimaging reveals balanced activation of valuation and control regions during accurate appraisal.
+  clinical_description: Assessment reveals realistic evaluations - accurately weighing pros and cons of use, realistic assessment of withdrawal discomfort, and appropriate confidence in coping skills. Interventions include cognitive restructuring to develop balanced appraisals, functional analysis to examine actual consequences, and behavioral experiments to test appraisal accuracy. Motivational interviewing explores ambivalence to develop more accurate cost-benefit appraisals.
+  lay_description: You see situations clearly without rose-colored glasses or doom-and-gloom filters. You accurately assess both the temporary pleasure and lasting damage of substance use. When facing challenges, you realistically evaluate both the difficulty and your ability to cope. This clear-eyed view helps you make decisions based on reality rather than distorted fears or false hopes.
+  core_components:
+  - Reality-based assessment
+  - Balanced evaluation
+  - Accurate self-efficacy
+  associated_processes:
+  - Decision-making
+  - Risk assessment
+  - Coping selection
+- id: psy-cog-tho-apr-mal
+  label: Biased Cognitive Appraisals
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Cognitive bias
+  - Distorted evaluation
+  - Biased interpretation
+  scope: Biased cognitive appraisals including overestimation of substance benefits, minimization of negative consequences, catastrophic interpretation of withdrawal, and underestimation of coping abilities.
+  parent_scope_inheritance: Specifies the cognitive appraisal component of thought patterns, focusing on systematic biases in evaluation that maintain addiction.
+  polarity_expression: Manifests as overvaluing drug rewards while minimizing risks, catastrophizing normal discomfort, and underestimating personal coping resources and available support.
+  cross_domain_resonance: Resonates with phy-neu-rew-lea-dys (distorted reward learning), soc-env-nei-cha-fra (chaotic environment appraisal), and exi-mea-lif-emp-dir (empty life meaning).
+  academic_description: Research identifies specific appraisal biases in addiction including attentional bias toward drug cues, interpretation bias favoring substance use, and memory bias for positive drug effects. Studies show systematic overestimation of drug benefits and underestimation of natural rewards. Catastrophic appraisal of withdrawal symptoms maintains avoidance. These biases show altered activation in valuation and salience networks, with reduced prefrontal modulation.
+  clinical_description: Assessment reveals characteristic biases - 'Drugs are the only thing that helps,' 'I'll die if I don't use,' 'Recovery is impossible for someone like me.' Treatment involves cognitive bias modification, systematic examination of evidence, and behavioral experiments to test biased predictions. Functional analysis helps identify actual versus perceived consequences. Mindfulness training reduces automatic acceptance of biased appraisals.
+  lay_description: Your mental evaluation system is rigged in favor of using. You see substances as more rewarding than they really are while downplaying the damage they cause. Normal discomfort feels catastrophic, making you believe you can't handle withdrawal or stress without using. You underestimate your own strength and the help available to you. These biased judgments keep you trapped by making use seem necessary and recovery seem impossible.
+  core_components:
+  - Benefit overestimation
+  - Risk minimization
+  - Catastrophic interpretation
+  associated_processes:
+  - Selective attention
+  - Confirmation bias
+  - Motivated reasoning
+- id: psy-cog-tho-slf-ada
+  label: Balanced Self-Referential Processing
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Healthy self-concept
+  - Balanced self-perception
+  - Integrated identity
+  scope: Balanced processing of self-relevant information with realistic self-evaluation, self-compassion, integrated identity that includes but isn't defined by addiction history, and growth-oriented self-concept.
+  parent_scope_inheritance: Specifies the self-referential processing component of thought patterns, focusing on how information is processed in relation to self-concept and identity.
+  polarity_expression: Manifests as realistic self-appraisal acknowledging strengths and vulnerabilities, self-compassion during struggles, and an integrated identity that incorporates recovery without being consumed by it.
+  cross_domain_resonance: Resonates with phy-dev-neu-int-reg (integrated neurodevelopment), soc-fam-rol-bal-coh (balanced family roles), and exi-ide-sel-int-pur (integrated self-concept).
+  academic_description: Research on self-referential processing shows that balanced self-focus correlates with psychological wellbeing. Studies demonstrate that self-compassion, rather than self-criticism, predicts better recovery outcomes. Neuroimaging reveals balanced activation of medial prefrontal cortex during self-referential processing, with appropriate integration of self-relevant information. Growth mindset regarding recovery ability shows better outcomes than fixed identity beliefs.
+  clinical_description: Assessment reveals balanced self-perception - 'I'm a person in recovery with strengths and challenges,' 'I can learn and grow from setbacks.' Interventions include self-compassion training, narrative therapy to reconstruct identity, and values clarification to build recovery-aligned self-concept. Clinicians help develop an integrated identity that acknowledges addiction history without being defined by it, fostering realistic self-evaluation with self-kindness.
+  lay_description: You develop a balanced view of yourself - neither perfect nor worthless. You see yourself as a whole person who happens to be in recovery, not just 'an addict.' You treat yourself with the same kindness you'd show a good friend, acknowledging mistakes without harsh self-judgment. Your sense of who you are includes your struggles but also your strengths, values, and potential for growth.
+  core_components:
+  - Realistic self-evaluation
+  - Self-compassion
+  - Integrated identity
+  associated_processes:
+  - Identity development
+  - Self-acceptance
+  - Personal growth
+- id: psy-cog-tho-slf-mal
+  label: Distorted Self-Referential Processing
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Thought Patterns
+  cluster_id: psy-cog-tho
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Negative self-concept
+  - Identity fusion
+  - Self-criticism
+  scope: Distorted processing of self-relevant information including excessive self-criticism, shame-based identity, fusion with addict identity, and fragmented or unstable self-concept that perpetuates addiction.
+  parent_scope_inheritance: Specifies the self-referential processing component of thought patterns, focusing on maladaptive self-processing that maintains addiction through identity and self-concept distortions.
+  polarity_expression: Manifests as harsh self-criticism, core shame beliefs, complete identification with addiction, and unstable self-concept that fluctuates between grandiosity and worthlessness.
+  cross_domain_resonance: Resonates with phy-dev-neu-del-dys (delayed neurodevelopment), soc-fam-rol-rig-fra (rigid family roles), and exi-ide-sel-fra-dir (fragmented self-concept).
+  academic_description: Research shows that excessive self-focus and negative self-referential processing predict depression and substance use. Studies identify shame as a key predictor of relapse, with self-critical rumination maintaining negative self-concept. Identity fusion with addiction ('I am an addict') reduces behavioral flexibility. Neuroimaging shows hyperactivation of self-referential regions with negative bias in information processing. Unstable self-concept correlates with emotion dysregulation and impulsive substance use.
+  clinical_description: Assessment reveals distorted self-processing - 'I'm nothing but an addict,' 'I'm fundamentally broken,' 'I don't deserve recovery.' This creates shame spirals triggering use. Treatment includes compassion-focused therapy for shame, narrative therapy to separate person from problem, and identity reconstruction work. Clinicians address the harsh inner critic, develop self-compassion practices, and help build a multifaceted identity beyond addiction.
+  lay_description: You see yourself through a harsh, distorted lens. You might define yourself entirely by your addiction ('I'm just an addict') or swing between feeling worthless and grandiose. The voice in your head is cruelly critical, telling you you're broken, weak, or undeserving of recovery. This shame and self-hatred becomes fuel for continued use - if you're worthless anyway, why try? Recovery means learning to see yourself as a complex, worthy person who deserves compassion and has the capacity to heal.
+  core_components:
+  - Shame-based identity
+  - Harsh self-criticism
+  - Identity fusion
+  associated_processes:
+  - Shame spirals
+  - Self-sabotage
+  - Identity confusion

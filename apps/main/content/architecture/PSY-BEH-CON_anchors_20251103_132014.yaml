@@ -1,0 +1,352 @@
+# Generated anchors for cluster: PSY-BEH-CON
+# Timestamp: 20251103_132014
+
+anchors:
+- id: psy-beh-con-cla-ada
+  label: Adaptive Classical Conditioning
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Flexible Pavlovian learning
+  - Appropriate cue conditioning
+  - Contextual conditioning
+  scope: Flexible classical conditioning showing appropriate formation and extinction of stimulus-response associations, with context-appropriate conditioned responses that update based on changing contingencies.
+  parent_scope_inheritance: Specifies conditioning systems' classical conditioning mechanisms to focus on adaptive Pavlovian learning that appropriately associates environmental cues with outcomes and shows flexible extinction.
+  polarity_expression: Manifests as appropriate conditioning to relevant stimuli with flexible updating and extinction when associations are no longer valid, maintaining contextual control over conditioned responses.
+  cross_domain_resonance: Resonates with phy-neu-rec-reg (regulated receptor sensitivity), soc-env-cue-coh (cohesive environmental cues), and exi-mea-sig-pur (purposeful signal interpretation).
+  academic_description: Adaptive classical conditioning involves appropriate CS-US associations with intact extinction learning. Research shows flexible updating of conditioned responses based on prediction errors, context-dependent expression of conditioning, and successful inhibitory learning during extinction. Neural circuits including amygdala-prefrontal pathways support appropriate fear and appetitive conditioning with regulatory control.
+  clinical_description: Assessment includes cue reactivity testing showing appropriate responses to relevant cues and minimal responses to irrelevant stimuli. Extinction learning capacity is intact with good retention across sessions. Interventions focus on maintaining flexibility through mindfulness of automatic responses, cognitive reappraisal of cue significance, and exposure exercises to prevent overgeneralization.
+  lay_description: Your brain appropriately learns which situations predict important outcomes, like feeling nervous before a test or excited before a celebration. You can also unlearn these connections when they're no longer relevant, like stopping feeling anxious about a previously stressful situation that's now resolved.
+  core_components:
+  - Flexible CS-US associations
+  - Context-appropriate responses
+  - Effective extinction learning
+  associated_processes:
+  - Prediction error signaling
+  - Contextual modulation
+  - Inhibitory learning
+- id: psy-beh-con-cla-mal
+  label: Maladaptive Classical Conditioning
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Pathological Pavlovian conditioning
+  - Overconditioning to drug cues
+  - Resistant conditioned responses
+  scope: Pathological classical conditioning characterized by overconditioning to drug-related cues with conditioned responses resistant to extinction, showing persistent craving and physiological responses to drug-associated stimuli.
+  parent_scope_inheritance: Specifies conditioning systems' classical conditioning mechanisms to focus on maladaptive Pavlovian learning showing excessive conditioning to drug cues with impaired extinction.
+  polarity_expression: Manifests as hyperconditioning to drug-related stimuli with persistent conditioned craving, physiological responses, and resistance to extinction despite repeated unreinforced exposure.
+  cross_domain_resonance: Resonates with phy-neu-rec-dys (dysregulated receptor sensitivity), soc-env-cue-fra (fragmented cue processing), and exi-mea-sig-dir (directionless signal interpretation).
+  academic_description: Maladaptive classical conditioning in addiction involves hyperconditioning to drug cues with impaired extinction. Research demonstrates enhanced CS-US acquisition for drug-related stimuli, persistent conditioned responses despite extinction training, and incubation of craving over time. Altered amygdala hyperactivity and reduced prefrontal inhibitory control maintain pathological associations.
+  clinical_description: Assessment reveals intense cue reactivity with strong craving and physiological responses to drug-related stimuli. Extinction deficits evident in persistent responses despite cue exposure therapy. Interventions include intensive cue exposure with response prevention, counterconditioning to establish competing responses, and pharmacological extinction enhancement with D-cycloserine or propranolol.
+  lay_description: Your brain has formed overly strong connections between certain triggers and drug cravings that won't go away even when you try to ignore them. Seeing drug-related items, places, or even feeling certain emotions automatically triggers intense urges that feel impossible to resist.
+  core_components:
+  - Hyperconditioning to drug cues
+  - Resistant conditioned craving
+  - Impaired extinction
+  associated_processes:
+  - Incubation of craving
+  - Spontaneous recovery
+  - Renewal effects
+- id: psy-beh-con-opr-ada
+  label: Adaptive Operant Reinforcement
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Balanced reinforcement sensitivity
+  - Natural reward responsiveness
+  - Flexible instrumental learning
+  scope: Balanced operant conditioning with appropriate sensitivity to natural reinforcers, showing flexible instrumental learning from consequences and maintained motivation for non-drug rewards.
+  parent_scope_inheritance: Specifies conditioning systems' operant conditioning mechanisms to focus on adaptive instrumental learning with balanced sensitivity to various reinforcement types.
+  polarity_expression: Manifests as appropriate effort-reward calculations, responsiveness to natural and social reinforcers, and flexible behavior modification based on changing contingencies.
+  cross_domain_resonance: Resonates with phy-neu-dop-reg (regulated dopamine), soc-rel-sup-coh (cohesive social reinforcement), and exi-mea-rew-pur (purposeful reward pursuit).
+  academic_description: Adaptive operant reinforcement involves balanced sensitivity to diverse reinforcer types with intact cost-benefit decision-making. Research shows appropriate effort expenditure for rewards, sensitivity to reinforcement schedules, and behavioral flexibility in response to contingency changes. Mesolimbic dopamine systems show graduated responses proportional to reward magnitude and probability.
+  clinical_description: Assessment demonstrates maintained interest in natural rewards, appropriate effort for reinforcement, and behavioral flexibility. Response to social praise and tangible reinforcers remains intact. Interventions focus on behavioral activation to increase natural reward exposure, contingency management using non-drug reinforcers, and community reinforcement approaches.
+  lay_description: You find satisfaction in everyday rewards like accomplishing tasks, spending time with friends, or enjoying hobbies. Your motivation adjusts appropriately based on the effort required and the reward available, and you can change your behavior when consequences change.
+  core_components:
+  - Natural reward sensitivity
+  - Flexible behavioral adaptation
+  - Balanced effort-reward processing
+  associated_processes:
+  - Cost-benefit analysis
+  - Reinforcement learning
+  - Behavioral flexibility
+- id: psy-beh-con-opr-mal
+  label: Maladaptive Operant Reinforcement
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Pathological reinforcement sensitivity
+  - Drug-biased reinforcement
+  - Anhedonic instrumental learning
+  scope: Dysregulated operant conditioning with hypersensitivity to drug reinforcement and hyposensitivity to natural rewards, showing compulsive drug-seeking maintained by pathological reinforcement schedules.
+  parent_scope_inheritance: Specifies conditioning systems' operant conditioning mechanisms to focus on maladaptive instrumental learning with skewed reinforcement sensitivity favoring drug rewards.
+  polarity_expression: Manifests as excessive responding for drug reinforcement, diminished responding for natural rewards, and insensitivity to punishment or negative consequences.
+  cross_domain_resonance: Resonates with phy-neu-dop-dys (dysregulated dopamine), soc-rel-sup-fra (fragmented social reinforcement), and exi-mea-rew-dir (directionless reward pursuit).
+  academic_description: Maladaptive operant reinforcement in addiction shows hypersensitivity to drug rewards with blunted natural reward processing. Research demonstrates excessive drug-seeking on progressive ratio schedules, reduced breaking points for natural reinforcers, and insensitivity to punishment. Dopamine system dysregulation creates motivational bias toward drug reinforcement.
+  clinical_description: Assessment reveals anhedonia for natural rewards, compulsive drug-seeking despite consequences, and resistance to contingency changes. High breaking points for drug versus low for natural reinforcers. Interventions include contingency management with escalating voucher schedules, community reinforcement approach, and pharmacological agents to restore reward sensitivity.
+  lay_description: Drugs have become the only thing that feels rewarding while everything else feels empty or meaningless. You continue using despite negative consequences because the immediate drug reward overrides any punishment, and normal pleasures no longer motivate your behavior.
+  core_components:
+  - Drug reinforcement hypersensitivity
+  - Natural reward hyposensitivity
+  - Punishment insensitivity
+  associated_processes:
+  - Anhedonia
+  - Compulsive responding
+  - Motivational narrowing
+- id: psy-beh-con-ext-ada
+  label: Adaptive Extinction Learning
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Robust extinction
+  - Effective inhibitory learning
+  - Flexible unlearning
+  scope: Effective extinction learning showing robust acquisition and retention of inhibitory associations, with successful suppression of previously reinforced responses across contexts.
+  parent_scope_inheritance: Specifies conditioning systems' extinction processes to focus on adaptive inhibitory learning that successfully suppresses conditioned responses.
+  polarity_expression: Manifests as rapid extinction acquisition, good retention between sessions, and generalization of extinction learning across different contexts.
+  cross_domain_resonance: Resonates with phy-neu-gab-reg (regulated GABA inhibition), soc-env-saf-coh (cohesive safety learning), and psy-cog-inh-ada (adaptive inhibitory control).
+  academic_description: Adaptive extinction involves robust inhibitory learning that suppresses conditioned responses. Research shows successful ventromedial prefrontal cortex regulation of amygdala responses, consolidation of extinction memories, and context-independent extinction retrieval. NMDA receptor function and BDNF signaling support extinction learning and retention.
+  clinical_description: Assessment demonstrates decreasing responses across extinction trials with maintained suppression at follow-up. Good retention between sessions and minimal renewal effects. Interventions optimize extinction through multiple context training, retrieval-extinction procedures, and cognitive enhancers like D-cycloserine to strengthen consolidation.
+  lay_description: You can successfully unlearn connections that are no longer relevant, like no longer craving when passing a former dealer's house after getting clean. These new learning experiences stick with you and help you stay on track even in challenging situations.
+  core_components:
+  - Robust extinction acquisition
+  - Strong extinction retention
+  - Cross-context generalization
+  associated_processes:
+  - Inhibitory learning
+  - Memory consolidation
+  - Contextual processing
+- id: psy-beh-con-ext-mal
+  label: Maladaptive Extinction Learning
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Impaired extinction
+  - Deficient inhibitory learning
+  - Persistent conditioned responses
+  scope: Impaired extinction learning characterized by poor acquisition and retention of inhibitory associations, with persistent conditioned responses showing spontaneous recovery and renewal.
+  parent_scope_inheritance: Specifies conditioning systems' extinction processes to focus on maladaptive inhibitory learning failures that maintain conditioned drug responses.
+  polarity_expression: Manifests as slow or incomplete extinction, poor retention between sessions, spontaneous recovery of extinguished responses, and strong renewal effects in different contexts.
+  cross_domain_resonance: Resonates with phy-neu-gab-dys (dysregulated GABA), soc-env-saf-fra (fragmented safety processing), and psy-cog-inh-mal (maladaptive inhibitory control).
+  academic_description: Maladaptive extinction shows deficient inhibitory learning with persistent conditioned responses. Research demonstrates reduced ventromedial prefrontal activation, impaired extinction consolidation, and context-dependent extinction deficits. Altered GABA signaling, reduced BDNF, and enhanced reconsolidation maintain pathological associations.
+  clinical_description: Assessment reveals minimal response reduction during extinction, poor between-session retention, and strong renewal when context changes. Spontaneous recovery occurs rapidly. Interventions include prolonged extinction training, pharmacological enhancement with D-cycloserine or cannabidiol, and reconsolidation disruption with propranolol.
+  lay_description: Even when you repeatedly experience triggers without using, the cravings don't seem to go away. The urges you thought were gone suddenly return full force, especially when you're in a new situation or after time has passed.
+  core_components:
+  - Poor extinction acquisition
+  - Weak extinction retention
+  - Strong renewal effects
+  associated_processes:
+  - Spontaneous recovery
+  - Reconsolidation dominance
+  - Context dependency
+- id: psy-beh-con-dis-ada
+  label: Adaptive Discriminative Control
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Precise stimulus control
+  - Context discrimination
+  - Appropriate generalization
+  scope: Clear discriminative stimulus control with accurate differentiation between contexts signaling drug availability versus safety, showing appropriate behavioral responses to specific discriminative stimuli.
+  parent_scope_inheritance: Specifies conditioning systems' stimulus control to focus on adaptive discrimination between different contexts and their associated contingencies.
+  polarity_expression: Manifests as precise recognition of safety versus risk signals, context-appropriate behavioral responses, and limited generalization of drug-seeking to irrelevant contexts.
+  cross_domain_resonance: Resonates with psy-cog-att-ada (adaptive attention), soc-env-con-coh (cohesive context processing), and phy-neu-hip-reg (regulated hippocampal function).
+  academic_description: Adaptive discriminative control involves precise stimulus discrimination with appropriate generalization gradients. Research shows intact hippocampal-prefrontal circuits supporting context discrimination, accurate safety signal processing, and behavioral flexibility based on discriminative stimuli. Pattern separation mechanisms prevent overgeneralization.
+  clinical_description: Assessment shows clear discrimination between drug-related and safe contexts with appropriate behavioral responses. Recognition of safety signals inhibits drug-seeking. Interventions include discrimination training to enhance stimulus control, safety signal learning, and environmental restructuring to establish clear contextual boundaries.
+  lay_description: You can clearly tell the difference between situations where drug use might be risky versus times when you're safe from temptation. You recognize warning signs and safety signals, responding appropriately to each situation without overreacting.
+  core_components:
+  - Precise context discrimination
+  - Safety signal recognition
+  - Appropriate stimulus generalization
+  associated_processes:
+  - Pattern separation
+  - Contextual processing
+  - Behavioral flexibility
+- id: psy-beh-con-dis-mal
+  label: Maladaptive Discriminative Control
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Overgeneralized stimulus control
+  - Poor context discrimination
+  - Excessive generalization
+  scope: Impaired discriminative stimulus control with overgeneralization of drug cues across contexts, showing inappropriate drug-seeking responses to ambiguous or irrelevant stimuli.
+  parent_scope_inheritance: Specifies conditioning systems' stimulus control to focus on maladaptive overgeneralization that triggers drug-seeking across inappropriate contexts.
+  polarity_expression: Manifests as poor discrimination between safe and risky contexts, overgeneralization of drug cues, and inappropriate drug-seeking responses to neutral stimuli.
+  cross_domain_resonance: Resonates with psy-cog-att-mal (maladaptive attention), soc-env-con-fra (fragmented context processing), and phy-neu-hip-dys (dysregulated hippocampal function).
+  academic_description: Maladaptive discriminative control shows impaired stimulus discrimination with pathological generalization. Research demonstrates hippocampal-prefrontal dysfunction, impaired pattern separation, and flattened generalization gradients. Safety signals fail to inhibit drug-seeking, and neutral stimuli acquire incentive properties through generalization.
+  clinical_description: Assessment reveals poor discrimination with drug-seeking triggered by diverse stimuli. Overgeneralization creates pervasive craving across contexts. Interventions include intensive discrimination training protocols, explicit safety signal establishment, and cognitive training to enhance pattern separation and reduce overgeneralization.
+  lay_description: Everything seems to trigger drug cravings - you can't tell the difference between truly risky situations and safe ones. Neutral places and things have become triggers, making it feel like there's no escape from constant urges.
+  core_components:
+  - Poor context discrimination
+  - Overgeneralized cue reactivity
+  - Failed safety signal processing
+  associated_processes:
+  - Pattern completion dominance
+  - Generalization gradients
+  - Ambiguous cue processing
+- id: psy-beh-con-hig-ada
+  label: Adaptive Higher-Order Conditioning
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Limited conditioning chains
+  - Controlled secondary associations
+  - Restricted cue networks
+  scope: Limited higher-order conditioning with minimal secondary and tertiary associations, maintaining simple and manageable cue-response relationships without elaborate associative networks.
+  parent_scope_inheritance: Specifies conditioning systems' higher-order conditioning to focus on adaptive limitation of associative chains that prevents widespread cue generalization.
+  polarity_expression: Manifests as limited spread of conditioning to secondary cues, weak higher-order associations that are easily disrupted, and contained cue networks that don't cascade.
+  cross_domain_resonance: Resonates with psy-cog-mem-ada (adaptive memory networks), soc-net-inf-coh (cohesive but limited influence), and phy-neu-syn-reg (regulated synaptic connectivity).
+  academic_description: Adaptive higher-order conditioning shows limited spread of associative learning beyond primary relationships. Research demonstrates constrained second-order conditioning, weak third-order associations, and natural decay of indirect associations. Prefrontal regulation prevents excessive associative chaining and maintains stimulus specificity.
+  clinical_description: Assessment shows minimal higher-order conditioning with few secondary triggers. Associative networks remain simple and targetable. Interventions focus on early disruption of emerging chains, preventing second-order conditioning through targeted extinction, and maintaining primary cue focus in treatment.
+  lay_description: Your triggers remain limited to direct drug-related cues without spreading to everything associated with them. The connections don't chain together endlessly, keeping your cravings manageable and predictable.
+  core_components:
+  - Limited secondary conditioning
+  - Weak associative chains
+  - Contained cue networks
+  associated_processes:
+  - Associative competition
+  - Chain termination
+  - Network pruning
+- id: psy-beh-con-hig-mal
+  label: Maladaptive Higher-Order Conditioning
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Elaborate conditioning networks
+  - Excessive secondary associations
+  - Complex cue chains
+  scope: Elaborate higher-order conditioning creating extensive networks of secondary and tertiary associations, with cascading activation spreading drug-related responses across multiple indirect cues.
+  parent_scope_inheritance: Specifies conditioning systems' higher-order conditioning to focus on maladaptive elaboration of associative networks that creates pervasive cue reactivity.
+  polarity_expression: Manifests as extensive second and third-order conditioning, robust associative chains resistant to disruption, and cascading network activation from minimal triggers.
+  cross_domain_resonance: Resonates with psy-cog-mem-mal (maladaptive memory networks), soc-net-inf-fra (fragmented but pervasive influence), and phy-neu-syn-dys (dysregulated synaptic proliferation).
+  academic_description: Maladaptive higher-order conditioning creates elaborate associative networks in addiction. Research shows robust second and third-order conditioning, resistance to chain disruption, and spreading activation across networks. Reduced prefrontal regulation allows unconstrained associative elaboration and maintenance of complex cue hierarchies.
+  clinical_description: Assessment reveals extensive networks with multiple indirect triggers. Secondary and tertiary cues elicit strong responses. Interventions require systematic network mapping, hierarchical desensitization addressing all chain levels, and disruption protocols targeting key network nodes to prevent cascading activation.
+  lay_description: Your drug cravings are triggered by an ever-expanding web of connections - not just direct reminders but things connected to those reminders, creating endless chains of triggers that seem to include everything in your life.
+  core_components:
+  - Extensive secondary conditioning
+  - Robust associative chains
+  - Cascading network activation
+  associated_processes:
+  - Spreading activation
+  - Chain elaboration
+  - Network expansion
+- id: psy-beh-con-rec-ada
+  label: Adaptive Reconditioning Resistance
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Reconditioning resistance
+  - Maintained extinction
+  - Reduced savings
+  scope: Resistance to reconditioning after successful extinction, showing slow reacquisition of extinguished responses and maintained inhibitory learning even after re-exposure to drugs.
+  parent_scope_inheritance: Specifies conditioning systems' reconditioning processes to focus on adaptive resistance to reacquisition that protects against relapse.
+  polarity_expression: Manifests as slow reacquisition rates after extinction, minimal savings effects, and maintained competition from extinction memories during reconditioning attempts.
+  cross_domain_resonance: Resonates with phy-neu-syn-reg (regulated synaptic plasticity), psy-cog-mem-ada (adaptive memory updating), and exi-tem-pre-pur (purposeful present focus).
+  academic_description: Adaptive reconditioning resistance involves protection against reacquisition after extinction. Research shows strong extinction memory consolidation, active competition from inhibitory traces, and reduced savings in reacquisition. Enhanced infralimbic prefrontal function maintains extinction memories and opposes reconditioning.
+  clinical_description: Assessment shows slow reacquisition if relapse occurs, with extinction gains partially maintained. Reduced savings effects evident. Interventions include extinction optimization before exposure risk, booster sessions to strengthen inhibitory traces, and cognitive strategies to maintain extinction memory retrieval.
+  lay_description: Even if you slip up after getting clean, the cravings don't immediately return to full strength. The work you did in recovery provides some protection, making it easier to get back on track without starting from square one.
+  core_components:
+  - Slow reacquisition rates
+  - Minimal savings effects
+  - Persistent extinction memory
+  associated_processes:
+  - Memory competition
+  - Inhibitory dominance
+  - Consolidation strength
+- id: psy-beh-con-rec-mal
+  label: Maladaptive Reconditioning Vulnerability
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Conditioning Systems
+  cluster_id: psy-beh-con
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Rapid reconditioning
+  - Strong savings effects
+  - Reinstated responses
+  scope: Vulnerability to rapid reconditioning after extinction, showing quick reacquisition with strong savings effects and immediate reinstatement of drug-seeking after minimal re-exposure.
+  parent_scope_inheritance: Specifies conditioning systems' reconditioning processes to focus on maladaptive vulnerability to reacquisition that promotes relapse.
+  polarity_expression: Manifests as immediate reacquisition after single re-exposure, strong savings showing faster and stronger reconditioning than original acquisition, and complete erasure of extinction gains.
+  cross_domain_resonance: Resonates with phy-neu-syn-dys (dysregulated synaptic plasticity), psy-cog-mem-mal (maladaptive memory persistence), and exi-tem-pas-dir (directionless past dominance).
+  academic_description: Maladaptive reconditioning vulnerability shows rapid reacquisition with strong savings effects. Research demonstrates persistent original memory traces, weak extinction consolidation, and immediate reinstatement after minimal re-exposure. Reduced infralimbic function fails to maintain extinction, allowing rapid reconditioning.
+  clinical_description: Assessment reveals immediate full relapse after single use, with stronger responses than before treatment. Complete loss of extinction gains. Interventions include intensive relapse prevention, pharmacological consolidation enhancement, and memory updating procedures to weaken original traces rather than relying on extinction alone.
+  lay_description: One slip immediately brings back all your old cravings at full force or even stronger than before. All the progress you made seems to vanish instantly, and the addiction feels more powerful than when you first started using.
+  core_components:
+  - Rapid reacquisition
+  - Strong savings effects
+  - Complete reinstatement
+  associated_processes:
+  - Memory reconsolidation
+  - Extinction erasure
+  - Trace dominance

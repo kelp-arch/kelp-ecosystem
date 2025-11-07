@@ -1,0 +1,328 @@
+# Generated anchors for cluster: PHY-NEU-EXE
+# Timestamp: 20251103_121631
+
+anchors:
+- id: phy-neu-exe-inh-reg
+  label: Regulated Response Inhibition
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Intact inhibitory control
+  - Successful response suppression
+  - Appropriate behavioral restraint
+  scope: Right inferior frontal gyrus and dorsolateral prefrontal cortex regions showing robust activation during response inhibition tasks. Intact GABA-mediated inhibitory signaling and efficient fronto-striatal communication enabling successful suppression of prepotent responses and resistance to impulses.
+  parent_scope_inheritance: Specifies the executive control cluster's inhibitory component by examining the neural circuits that enable stopping initiated actions and resisting drug cues, representing the 'brake' system of cognitive control.
+  polarity_expression: Manifests as successful stop-signal performance, ability to resist cravings, appropriate social restraint, and capacity for delayed gratification through intact inferior frontal activation.
+  cross_domain_resonance: Resonates with psy-beh-imp-ada (adaptive impulse control), soc-fam-bou-coh (cohesive family boundaries), and exi-age-pre-pur (purposeful present-moment awareness).
+  academic_description: Research demonstrates that intact response inhibition correlates with sustained abstinence and treatment retention. Neuroimaging shows robust right inferior frontal gyrus activation during successful stop trials, with effective connectivity to subthalamic nucleus mediating motor suppression. Studies link polymorphisms in GABA and dopamine genes to inhibitory control capacity.
+  clinical_description: Assessment uses stop-signal and go/no-go tasks to measure inhibitory control, with longer stop-signal reaction times indicating better control. Treatment includes stimulant medications to enhance dopaminergic signaling, mindfulness training to strengthen present-moment inhibition, and implementation intentions to create automatic suppression of drug cues.
+  lay_description: This is your brain's ability to slam on the brakes when needed - like stopping yourself from reaching for a cigarette or walking past a bar without going in. When working well, you can catch yourself before acting on impulse and make a different choice. It's the pause between trigger and response.
+  key_mediators: GABA, dopamine D2/D3 receptors, norepinephrine, glutamate in fronto-striatal circuits
+  key_mechanisms: Hyperdirect pathway activation via subthalamic nucleus, GABAergic interneuron signaling, prefrontal top-down control of motor cortex
+  clinical_relevance: Predicts treatment retention, relapse risk, and real-world impulse control problems
+  assessment_methods: Stop-signal task, go/no-go task, Barratt Impulsiveness Scale, commission errors on continuous performance tests
+  interventions: Methylphenidate or atomoxetine for enhancement, transcranial magnetic stimulation to right IFG, inhibitory control training paradigms
+  prominent_models: Aron's neural model of response inhibition, Band's horse-race model, Chambers' impulsivity endophenotype hypothesis
+- id: phy-neu-exe-inh-dys
+  label: Dysregulated Response Inhibition
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired inhibitory control
+  - Disinhibition
+  - Motor impulsivity
+  scope: Hypoactivation of right inferior frontal gyrus and reduced fronto-striatal connectivity during inhibition attempts. Disrupted GABA signaling and compromised stop-signal networks resulting in failure to suppress prepotent responses and inability to resist impulses.
+  parent_scope_inheritance: Specifies the executive control cluster's inhibitory dysfunction by examining how weakened prefrontal 'brake' systems fail to override subcortical drives, leading to compulsive drug-seeking.
+  polarity_expression: Manifests as failed stop-signal trials, inability to resist urges, premature responding, and motor impulsivity through reduced inferior frontal activation and disrupted inhibitory signaling.
+  cross_domain_resonance: Resonates with psy-beh-imp-mal (maladaptive impulsivity), soc-fam-bou-fra (fragmented family boundaries), and exi-age-pre-dir (directionless reactivity).
+  academic_description: Meta-analyses show consistent hypoactivation of right inferior frontal cortex in addiction during inhibitory control tasks. Structural imaging reveals reduced gray matter volume in these regions. Impaired inhibition correlates with earlier relapse and greater addiction severity. Animal models demonstrate causal role of prefrontal lesions in compulsive drug-seeking.
+  clinical_description: Patients show prolonged stop-signal reaction times and increased commission errors. Clinically presents as inability to resist cravings despite conscious intention, acting without thinking, and difficulty stopping drug use once initiated. Treatment focuses on external structure and cues while working to strengthen inhibitory capacity through practice.
+  lay_description: This is when your brain's brakes don't work properly - you know you should stop but can't seem to control the impulse. It's like watching yourself reach for another drink even though you promised you wouldn't. The 'stop' signal gets sent but doesn't arrive in time to prevent the action.
+  key_mediators: Reduced GABA, excessive glutamate, dopamine dysregulation, altered serotonin signaling
+  key_mechanisms: Hyperdirect pathway dysfunction, reduced GABAergic tone, impaired prefrontal-subthalamic communication, excessive motor cortex excitability
+  clinical_relevance: Core feature of addiction associated with relapse, treatment dropout, and accident risk
+  assessment_methods: Prolonged SSRT on stop-signal task, high commission errors, elevated Barratt scores, real-world impulsive behaviors
+  interventions: N-acetylcysteine for glutamate modulation, high-frequency rTMS to right IFG, contingency management for external control
+  prominent_models: Goldstein & Volkow's iRISA model, Jentsch & Taylor's inhibitory control theory, Bechara's myopia for future model
+- id: phy-neu-exe-wkm-reg
+  label: Regulated Working Memory
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Intact working memory capacity
+  - Efficient cognitive maintenance
+  - Normal executive attention
+  scope: Sustained dorsolateral prefrontal cortex activation during working memory tasks with intact dopamine D1 receptor signaling. Efficient frontoparietal network connectivity enabling maintenance and manipulation of goal-relevant information while resisting distraction.
+  parent_scope_inheritance: Specifies the executive control cluster's working memory component by examining the neural systems that maintain recovery goals and treatment plans in active awareness despite competing demands.
+  polarity_expression: Manifests as normal digit span performance, ability to maintain recovery goals in mind, successful multitasking, and following complex treatment instructions through sustained DLPFC activation.
+  cross_domain_resonance: Resonates with psy-cog-att-ada (adaptive attention), soc-occ-per-coh (cohesive occupational performance), and exi-tem-fut-pur (purposeful future orientation).
+  academic_description: Neuroimaging reveals sustained DLPFC and parietal activation during n-back tasks in healthy controls. Working memory capacity predicts treatment adherence and recovery outcomes. D1 receptor availability in DLPFC correlates with working memory performance. Training studies show transfer to untrained tasks and real-world functioning.
+  clinical_description: Assessment includes digit span, n-back tasks, and self-ordered pointing tests showing normal capacity. Patients can hold multiple pieces of information in mind, update goals flexibly, and maintain focus on recovery despite distractions. Cognitive training and pharmacological enhancement can further strengthen these capacities.
+  lay_description: This is your mental workspace - like a whiteboard where you keep important information while working on a problem. When functioning well, you can remember why you're in recovery, keep track of your triggers, and juggle multiple recovery strategies at once without losing focus.
+  key_mediators: Dopamine D1 receptors, NMDA receptors, acetylcholine, norepinephrine in prefrontal circuits
+  key_mechanisms: Persistent neural firing in DLPFC, dopamine-mediated gating of information, frontoparietal network synchronization
+  clinical_relevance: Predicts treatment compliance, ability to implement coping strategies, and occupational functioning
+  assessment_methods: Digit span forward and backward, n-back task, self-ordered pointing, WAIS working memory index
+  interventions: Computerized working memory training (Cogmed), modafinil for enhancement, mindfulness meditation for sustained attention
+  prominent_models: Baddeley's working memory model, Goldman-Rakic's cellular basis theory, D'Esposito's process-specific model
+- id: phy-neu-exe-wkm-dys
+  label: Dysregulated Working Memory
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Working memory deficits
+  - Reduced cognitive capacity
+  - Executive attention impairment
+  scope: Reduced dorsolateral prefrontal activation and disrupted frontoparietal connectivity during working memory tasks. Impaired D1 receptor signaling and inefficient neural processing resulting in limited capacity to maintain and manipulate information.
+  parent_scope_inheritance: Specifies the executive control cluster's working memory dysfunction by examining how reduced DLPFC capacity impairs ability to maintain recovery goals and resist drug cues that capture attention.
+  polarity_expression: Manifests as reduced digit span, forgetting recovery strategies, high distractibility, and difficulty following treatment plans through DLPFC hypoactivation and network disruption.
+  cross_domain_resonance: Resonates with psy-cog-att-mal (maladaptive attention), soc-occ-per-fra (fragmented work performance), and exi-tem-fut-dir (directionless present-focus).
+  academic_description: Meta-analyses demonstrate reduced working memory capacity across substance use disorders, with effect sizes correlating with addiction severity. Neuroimaging shows hypoactivation of DLPFC and reduced frontoparietal connectivity. Deficits predict poorer treatment outcomes and earlier relapse. Animal studies link working memory impairment to compulsive drug-seeking.
+  clinical_description: Patients show reduced digit span (typically 4-5 items vs. 7±2 normal), poor n-back performance, and complaints of forgetfulness. Cannot maintain recovery goals when faced with cues or stress. Require external reminders, simplified instructions, and cognitive aids to compensate for internal deficits.
+  lay_description: Your mental workspace is like a cluttered desk where important information keeps getting buried. You might forget why you wanted to quit, lose track of your coping strategies, or find your mind going blank when you need to remember your recovery plan. Drug cues easily push everything else out of awareness.
+  key_mediators: Reduced D1 receptor density, glutamate dysfunction, decreased acetylcholine, norepinephrine deficits
+  key_mechanisms: Unstable persistent firing, impaired dopaminergic gating, frontoparietal desynchronization, reduced DLPFC gray matter
+  clinical_relevance: Impairs treatment engagement, medication compliance, and implementation of coping strategies
+  assessment_methods: Reduced digit span (<5), poor n-back accuracy, low WAIS working memory index, subjective cognitive complaints
+  interventions: Cognitive remediation therapy, atomoxetine for noradrenergic enhancement, external memory aids and smartphone reminders
+  prominent_models: Hester & Garavan's cognitive control model, Goldstein's prefrontal dysfunction theory, Sofuoglu's cognitive enhancement approach
+- id: phy-neu-exe-flx-reg
+  label: Regulated Cognitive Flexibility
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Intact set-shifting
+  - Mental flexibility
+  - Adaptive task-switching
+  scope: Efficient coordination between lateral prefrontal cortex and anterior cingulate during set-shifting tasks. Balanced dopamine signaling and intact white matter connectivity enabling smooth transitions between mental sets and adaptive responses to changing contingencies.
+  parent_scope_inheritance: Specifies the executive control cluster's flexibility component by examining neural systems that enable adaptation to recovery challenges and shifting away from drug-focused behavioral patterns.
+  polarity_expression: Manifests as successful set-shifting on Wisconsin Card Sort, adapting to changing circumstances, learning from feedback, and mental flexibility through efficient prefrontal-cingulate coordination.
+  cross_domain_resonance: Resonates with psy-emo-reg-ada (adaptive emotion regulation), soc-rel-ada-coh (cohesive relationship adaptation), and exi-gro-ope-pur (purposeful openness to change).
+  academic_description: Studies show robust lateral PFC and ACC activation during successful set-shifts. Cognitive flexibility predicts treatment response and ability to adopt new coping strategies. White matter integrity in frontoparietal tracts correlates with switching performance. Training improves both laboratory measures and real-world adaptation.
+  clinical_description: Assessment shows normal Wisconsin Card Sort performance with minimal perseverative errors. Patients can shift strategies when current approach isn't working, adapt to unexpected challenges in recovery, and flexibly apply different coping skills. Enhancement through cognitive training and aerobic exercise.
+  lay_description: This is your brain's ability to shift gears and try new approaches when something isn't working. Like a GPS recalculating when you hit traffic, you can smoothly change strategies, learn from mistakes, and adapt your recovery plan as life circumstances change.
+  key_mediators: Dopamine, acetylcholine, BDNF, norepinephrine in frontal-striatal circuits
+  key_mechanisms: Lateral PFC rule updating, ACC conflict detection, efficient network reconfiguration, synaptic plasticity
+  clinical_relevance: Enables adoption of new coping strategies, lifestyle changes, and recovery-oriented behaviors
+  assessment_methods: Wisconsin Card Sorting Test, Trail Making Test B, task-switching paradigms, Cognitive Flexibility Scale
+  interventions: Cognitive flexibility training, problem-solving therapy, aerobic exercise for neuroplasticity, meditation practices
+  prominent_models: Monsell's task-switching framework, Miller & Cohen's guided activation theory, Robbins' neurochemical modulation model
+- id: phy-neu-exe-flx-dys
+  label: Dysregulated Cognitive Flexibility
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Cognitive rigidity
+  - Perseveration
+  - Set-shifting deficits
+  scope: Reduced lateral prefrontal and anterior cingulate activation during set-shifting with disrupted dopamine signaling. Compromised white matter integrity resulting in perseverative responses, inability to shift strategies, and rigid adherence to drug-seeking routines.
+  parent_scope_inheritance: Specifies the executive control cluster's inflexibility by examining how impaired prefrontal switching mechanisms trap individuals in repetitive drug-seeking patterns despite negative consequences.
+  polarity_expression: Manifests as perseverative errors on Wisconsin Card Sort, rigid thinking patterns, inability to change strategies, and stuck behavioral routines through reduced prefrontal-cingulate activation.
+  cross_domain_resonance: Resonates with psy-emo-reg-mal (maladaptive emotional rigidity), soc-rel-ada-fra (fragmented relationship patterns), and exi-gro-ope-dir (directionless stagnation).
+  academic_description: Meta-analyses show increased perseverative errors and reduced cognitive flexibility across addictions. Neuroimaging reveals hypoactivation in lateral PFC and ACC during switching. Inflexibility correlates with treatment resistance and chronic relapsing course. Animal models demonstrate drug-induced rigidity in reversal learning.
+  clinical_description: Patients show high perseverative errors, difficulty shifting strategies even when failing, and rigid adherence to drug routines. Cannot adapt when triggers or circumstances change. Stuck in 'all-or-nothing' thinking about recovery. Requires structured behavioral activation and gradual exposure to flexibility.
+  lay_description: Your brain gets stuck in the same groove, like a record skipping. You keep trying the same failed strategies, can't seem to break out of old patterns, and find yourself automatically following the same drug-seeking routines even when you want to change. Change feels impossible.
+  key_mediators: Dopamine imbalance, reduced BDNF, glutamate dysfunction, decreased acetylcholine
+  key_mechanisms: Impaired lateral PFC updating, reduced ACC signaling, white matter degradation, decreased synaptic plasticity
+  clinical_relevance: Maintains addictive behaviors, prevents adoption of new coping strategies, treatment resistance
+  assessment_methods: High perseverative errors on WCST, slow Trail Making B, poor task-switching, cognitive rigidity questionnaires
+  interventions: Cognitive remediation for flexibility, ketamine for rapid plasticity enhancement, behavioral activation therapy
+  prominent_models: Verdejo-García's neurocognitive model, Ersche's compulsivity framework, Garavan's cognitive dysfunction theory
+- id: phy-neu-exe-dec-reg
+  label: Regulated Decision-Making
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Advantageous decision-making
+  - Intact value processing
+  - Future-oriented choices
+  scope: Intact orbitofrontal and ventromedial prefrontal function with appropriate somatic marker generation during decision-making. Balanced value encoding and normal temporal discounting enabling consideration of long-term consequences and advantageous choices.
+  parent_scope_inheritance: Specifies the executive control cluster's decision-making component by examining prefrontal value systems that weigh immediate drug rewards against long-term recovery benefits.
+  polarity_expression: Manifests as advantageous Iowa Gambling Task performance, considering future consequences, appropriate risk assessment, and value-based choices through intact OFC/vmPFC function.
+  cross_domain_resonance: Resonates with psy-mot-goa-ada (adaptive goal pursuit), soc-eco-res-coh (cohesive resource management), and exi-val-pri-pur (purposeful value priorities).
+  academic_description: Research shows robust vmPFC and OFC activation during value-based decisions. Intact somatic markers guide advantageous choices. Normal delay discounting rates predict sustained recovery. Contingency management effectively reshapes value representations. Episodic future thinking reduces temporal discounting.
+  clinical_description: Assessment reveals advantageous performance on gambling tasks and normal delay discounting. Patients can weigh pros and cons, consider future consequences, and make decisions aligned with recovery goals. Enhancement through contingency management and future thinking exercises.
+  lay_description: Your brain's decision-making center works like a wise advisor, helping you see past immediate temptation to what really matters. You can feel in your gut when a choice is risky, weigh short-term pleasure against long-term goals, and choose what's best for your future self.
+  key_mediators: Dopamine value signals, serotonin, somatic markers, orexin/hypocretin, endocannabinoids
+  key_mechanisms: OFC value encoding, vmPFC integration, somatic marker generation, prospective memory activation
+  clinical_relevance: Enables recovery-supportive life choices, treatment engagement, and resistance to immediate drug rewards
+  assessment_methods: Iowa Gambling Task, delay discounting tasks, Cambridge Gambling Task, real-world decision quality
+  interventions: Contingency management, episodic future thinking training, financial planning therapy, mindful decision-making
+  prominent_models: Damasio's somatic marker hypothesis, Bechara's decision-making model, Bickel's competing neurobehavioral systems
+- id: phy-neu-exe-dec-dys
+  label: Dysregulated Decision-Making
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Disadvantageous decision-making
+  - Myopic choice patterns
+  - Impaired judgment
+  scope: Orbitofrontal and ventromedial prefrontal hypoactivation with absent somatic marker generation. Hyperbolic discounting of future rewards and biased value encoding favoring immediate drug rewards over long-term consequences.
+  parent_scope_inheritance: Specifies the executive control cluster's decision dysfunction by examining how compromised prefrontal value systems create 'myopia for the future' driving continued drug use despite known harms.
+  polarity_expression: Manifests as disadvantageous gambling choices, immediate gratification seeking, poor risk assessment, and impaired judgment through OFC/vmPFC hypoactivation and steep delay discounting.
+  cross_domain_resonance: Resonates with psy-mot-goa-mal (maladaptive goal neglect), soc-eco-res-fra (fragmented resource depletion), and exi-val-pri-dir (directionless value confusion).
+  academic_description: Meta-analyses show consistent disadvantageous decision-making and steeper delay discounting in addiction. Neuroimaging reveals OFC/vmPFC hypoactivation and absent somatic markers. Poor decision-making predicts relapse and treatment dropout. Animal models demonstrate drug-induced OFC dysfunction drives compulsive use.
+  clinical_description: Patients show preference for high-risk immediate rewards on gambling tasks and steep delay discounting. Choose immediate drug high over delayed recovery benefits despite understanding consequences. Cannot generate gut feelings warning of poor choices. Requires external structure and immediate reinforcement.
+  lay_description: Your brain's decision-maker is like a broken compass, always pointing toward 'right now' instead of 'what's best.' You might know drugs are harmful but can't feel it when choosing. Future consequences seem unreal while immediate rewards feel overwhelmingly important.
+  key_mediators: Dopamine dysregulation, reduced serotonin, absent somatic markers, orexin dysfunction
+  key_mechanisms: OFC value disruption, vmPFC hypoactivation, absent somatic markers, hyperbolic temporal discounting
+  clinical_relevance: Drives continued use despite consequences, treatment non-compliance, financial and legal problems
+  assessment_methods: Disadvantageous Iowa Gambling Task, steep delay discounting, poor real-world decisions, impaired judgment
+  interventions: Contingency management with immediate rewards, tDCS to enhance vmPFC, motivational interviewing for values
+  prominent_models: Bechara's myopia model, Redish's vulnerabilities framework, Volkow's disrupted decision-making circuits
+- id: phy-neu-exe-mon-reg
+  label: Regulated Conflict Monitoring
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Intact error detection
+  - Efficient performance monitoring
+  - Appropriate error awareness
+  scope: Robust anterior cingulate cortex activation during conflict and error detection with intact error-related negativity responses. Efficient performance monitoring enabling recognition of mistakes, post-error adjustments, and behavioral correction.
+  parent_scope_inheritance: Specifies the executive control cluster's monitoring component by examining cingulate systems that detect when behavior deviates from recovery goals and signal need for increased control.
+  polarity_expression: Manifests as appropriate post-error slowing, successful conflict detection on Stroop tasks, self-correction of mistakes, and performance awareness through robust ACC activation and ERN responses.
+  cross_domain_resonance: Resonates with psy-beh-sel-ada (adaptive self-regulation), soc-com-fee-coh (cohesive feedback processing), and exi-awa-min-pur (purposeful mindful awareness).
+  academic_description: Studies show robust ACC activation and normal ERN amplitude during errors. Post-error slowing indicates intact monitoring and adjustment. Conflict-related ACC activity predicts cognitive control recruitment. Mindfulness training enhances monitoring capacity. Better monitoring predicts treatment success.
+  clinical_description: Assessment shows normal error awareness, post-error slowing, and Stroop interference effects. Patients recognize lapses quickly, adjust behavior after mistakes, and maintain performance awareness. Can identify high-risk situations and early warning signs. Enhancement through mindfulness and biofeedback.
+  lay_description: Your brain's quality control system works like an alert supervisor, immediately noticing when you make a mistake or face a challenging situation. You catch yourself before a full lapse, recognize warning signs, and can course-correct quickly when drifting off track.
+  key_mediators: Dopamine error signals, norepinephrine arousal, acetylcholine attention, theta oscillations
+  key_mechanisms: ACC conflict detection, error-related negativity generation, theta-band synchronization, performance monitoring loops
+  clinical_relevance: Enables early lapse recognition, behavioral adjustment, and maintenance of recovery trajectory
+  assessment_methods: Error-related negativity ERP, post-error slowing, Stroop task, error awareness tasks, Go/No-Go monitoring
+  interventions: Mindfulness-based relapse prevention, biofeedback training, meditation for present-moment awareness
+  prominent_models: Botvinick's conflict monitoring theory, Holroyd's reinforcement learning model, Carter's ACC dysfunction hypothesis
+- id: phy-neu-exe-mon-dys
+  label: Dysregulated Conflict Monitoring
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired error detection
+  - Reduced performance monitoring
+  - Error unawareness
+  scope: Reduced anterior cingulate activation and blunted error-related negativity during mistakes. Impaired conflict detection and performance monitoring resulting in failure to recognize errors, absent post-error adjustments, and continued maladaptive behavior.
+  parent_scope_inheritance: Specifies the executive control cluster's monitoring dysfunction by examining how reduced ACC signaling prevents recognition of when behavior conflicts with recovery goals, allowing continued drug use.
+  polarity_expression: Manifests as absent post-error adjustments, unaware of mistakes, repeated errors without correction, and poor performance monitoring through ACC hypoactivation and blunted ERN.
+  cross_domain_resonance: Resonates with psy-beh-sel-mal (maladaptive self-dysregulation), soc-com-fee-fra (fragmented feedback blindness), and exi-awa-min-dir (directionless unawareness).
+  academic_description: Meta-analyses show reduced ERN amplitude and ACC hypoactivation in addiction. Absent post-error slowing indicates monitoring failure. Reduced error awareness correlates with relapse risk. Animal studies link ACC lesions to compulsive drug-taking despite punishment. Monitoring deficits persist into early recovery.
+  clinical_description: Patients show reduced error awareness, no post-error slowing, and repeated mistakes without learning. Cannot recognize when entering high-risk situations or early lapse warning signs. Miss internal conflict signals that would normally trigger control. Require external monitoring and feedback systems.
+  lay_description: Your brain's quality control system is offline - like driving without a dashboard warning light. You don't notice mistakes as they happen, can't feel when you're heading toward relapse, and keep repeating the same errors without realizing it. Lapses seem to come out of nowhere.
+  key_mediators: Blunted dopamine error signals, reduced norepinephrine, disrupted theta oscillations
+  key_mechanisms: ACC hypoactivation, absent ERN, reduced theta synchronization, disrupted monitoring loops
+  clinical_relevance: Prevents early intervention in lapse process, maintains maladaptive patterns, treatment non-response
+  assessment_methods: Reduced or absent ERN, no post-error slowing, poor error awareness, high error rates without correction
+  interventions: Error awareness training with feedback, real-time monitoring apps, external accountability systems, group therapy feedback
+  prominent_models: Garavan's performance monitoring deficit, Luijten's error processing model, Marhe's relapse prediction framework
+- id: phy-neu-exe-slf-reg
+  label: Regulated Self-Monitoring
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Intact metacognition
+  - Accurate self-awareness
+  - Good insight
+  scope: Intact medial prefrontal self-referential processing and appropriate default mode network function. Efficient metacognitive awareness enabling accurate self-assessment, recognition of one's condition, identification of triggers, and monitoring of cognitive states.
+  parent_scope_inheritance: Specifies the executive control cluster's self-monitoring component by examining medial prefrontal systems that maintain awareness of addiction status and ongoing need for recovery vigilance.
+  polarity_expression: Manifests as accurate self-assessment, insight into condition, recognition of personal triggers, and awareness of cognitive states through intact mPFC self-referential processing.
+  cross_domain_resonance: Resonates with psy-sel-awa-ada (adaptive self-awareness), soc-ide-aut-coh (cohesive authentic identity), and exi-aut-sel-pur (purposeful self-knowledge).
+  academic_description: Research shows intact medial PFC activation during self-referential processing. Normal default mode network connectivity supports accurate self-awareness. Good insight predicts treatment engagement and better outcomes. Metacognitive therapy enhances self-monitoring capacity. Motivational interviewing leverages intact self-awareness.
+  clinical_description: Assessment reveals good insight into addiction severity and consequences. Patients accurately identify triggers, recognize cognitive states, and maintain awareness of recovery needs. Can engage in meaningful self-reflection and utilize feedback. Enhancement through metacognitive therapy and self-monitoring exercises.
+  lay_description: You have a clear view of yourself - like having an honest internal mirror. You recognize your addiction for what it is, know your weak spots and triggers, and stay aware of your thoughts and feelings. This self-knowledge becomes your recovery compass.
+  key_mediators: Serotonin self-processing, oxytocin social cognition, default mode network connectivity, gamma oscillations
+  key_mechanisms: mPFC self-referential processing, DMN integration, metacognitive monitoring, cortical midline activation
+  clinical_relevance: Enables treatment engagement, accurate self-report, recognition of need for help, sustained recovery motivation
+  assessment_methods: Insight scales, self-awareness questionnaires, metacognitive assessments, clinical interview for insight
+  interventions: Metacognitive therapy, motivational interviewing, self-monitoring diaries, mindfulness-based self-inquiry
+  prominent_models: Goldstein's impaired self-awareness model, Moeller's insight framework, Fleming's metacognition theory
+- id: phy-neu-exe-slf-dys
+  label: Dysregulated Self-Monitoring
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Executive Control
+  cluster_id: phy-neu-exe
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired metacognition
+  - Poor self-awareness
+  - Lack of insight
+  scope: Reduced medial prefrontal activation during self-referential processing with disrupted default mode network function. Impaired metacognitive awareness resulting in denial of problems, poor insight into condition, and inability to accurately monitor cognitive and emotional states.
+  parent_scope_inheritance: Specifies the executive control cluster's self-monitoring dysfunction by examining how impaired mPFC self-awareness prevents recognition of addiction severity and need for treatment.
+  polarity_expression: Manifests as denial of problems, poor insight, anosognosia for deficits, and lack of self-awareness through reduced mPFC activation and DMN disruption.
+  cross_domain_resonance: Resonates with psy-sel-awa-mal (maladaptive self-blindness), soc-ide-aut-fra (fragmented false identity), and exi-aut-sel-dir (directionless self-confusion).
+  academic_description: Studies show reduced mPFC activation and disrupted DMN connectivity during self-referential tasks. Poor insight correlates with treatment resistance and dropout. Anosognosia for addiction parallels neurological denial syndromes. Impaired metacognition predicts relapse. Confrontational approaches often ineffective due to neurological basis.
+  clinical_description: Patients minimize addiction severity, deny consequences, and lack awareness of cognitive deficits. Cannot accurately self-assess or recognize need for help. Show surprise at objective feedback about their condition. Require gentle confrontation, video self-observation, and group feedback to build awareness.
+  lay_description: Your self-awareness system has blind spots - like trying to see your own back without a mirror. You might think you're fine when others see clear problems, not recognize how impaired your thinking has become, or believe you can control use when evidence shows otherwise.
+  key_mediators: Reduced serotonin, disrupted oxytocin, altered DMN connectivity, reduced gamma coherence
+  key_mechanisms: mPFC hypoactivation, DMN fragmentation, impaired metacognitive processing, reduced cortical midline activity
+  clinical_relevance: Prevents treatment seeking, maintains denial, resists intervention, poor prognosis without awareness
+  assessment_methods: Poor insight ratings, denial on questionnaires, discrepancy between self and observer ratings, anosognosia scales
+  interventions: Video self-confrontation, group therapy for feedback, psychoeducation about brain changes, gentle motivational approaches
+  prominent_models: Goldstein & Volkow's denial model, Verdejo-García's metacognition framework, Moeller's neurocognitive insight theory

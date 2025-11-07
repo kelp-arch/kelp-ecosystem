@@ -1,0 +1,466 @@
+# Generated anchors for cluster: PSY-EMO-MOO
+# Timestamp: 20251103_173139
+
+anchors:
+- id: psy-emo-moo-stb-ada
+  label: Mood Stability
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Affective stability
+  - Emotional equilibrium
+  - Mood resilience
+  scope: Stable mood patterns with appropriate variation in response to life events, maintaining emotional equilibrium while allowing natural fluctuations that match situational demands without disrupting function.
+  parent_scope_inheritance: Specifies the stability dimension of sustained affective patterns by focusing on the consistency and predictability of mood states over time.
+  polarity_expression: Manifests as resilient mood patterns that maintain baseline stability while allowing appropriate emotional responses to environmental changes.
+  cross_domain_resonance: Resonates with phy-neu-aut-sym-reg (autonomic stability), soc-fam-dyn-stb-coh (family stability), and exi-mea-lif-con-pur (life continuity).
+  academic_description: Research demonstrates that mood stability involves intact prefrontal-limbic circuits maintaining affective homeostasis. Studies show stable individuals exhibit consistent diurnal cortisol rhythms, balanced monoamine function, and preserved hippocampal volume. Resilience factors include cognitive flexibility, secure attachment, and effective stress response systems.
+  clinical_description: Assessment involves mood charting revealing consistent patterns with appropriate variation. Treatment focuses on maintaining stability through regular sleep-wake cycles, consistent daily routines, and stress management. Psychoeducation emphasizes recognizing normal mood variation versus concerning changes. Preventive strategies include identifying early warning signs and maintaining medication adherence when indicated.
+  lay_description: Your emotional weather stays relatively steady, like having mostly sunny days with occasional clouds that pass normally. You experience ups and downs, but they make sense given what's happening in your life and don't knock you off course. Your mood acts like a reliable compass rather than a spinning wheel.
+  core_components:
+  - Consistent baseline mood
+  - Proportionate emotional responses
+  - Predictable daily patterns
+  associated_processes:
+  - Effective emotion regulation
+  - Intact stress response
+  - Preserved circadian rhythms
+- id: psy-emo-moo-stb-mal
+  label: Mood Instability
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Affective instability
+  - Mood lability
+  - Emotional dysregulation
+  scope: Rapid, unpredictable mood fluctuations with extreme variations that occur without clear triggers or persist disproportionately to circumstances, disrupting daily functioning and relationships.
+  parent_scope_inheritance: Specifies the instability dimension of sustained affective patterns by focusing on chaotic, unpredictable mood variations that undermine emotional continuity.
+  polarity_expression: Manifests as volatile mood patterns with rapid cycling between emotional extremes, creating unpredictability in affective experience and behavior.
+  cross_domain_resonance: Resonates with phy-neu-aut-sym-dys (autonomic dysregulation), soc-fam-dyn-stb-fra (family chaos), and exi-mea-lif-con-dir (life discontinuity).
+  academic_description: Research shows mood instability involves disrupted prefrontal control over limbic activation, with heightened amygdala reactivity and reduced prefrontal regulation. Studies demonstrate altered HPA axis function, disrupted circadian gene expression, and monoamine imbalances. Kindling effects create progressive sensitization where smaller triggers produce larger mood disruptions over time.
+  clinical_description: Assessment reveals rapid mood shifts on daily ratings, with high variability scores on ecological momentary assessment. Treatment requires mood stabilizing medications, dialectical behavior therapy for emotion regulation skills, and intensive monitoring during high-risk periods. Crisis planning addresses safety during severe instability. Long-term management focuses on identifying triggers and early intervention.
+  lay_description: Your emotions feel like a rollercoaster you can't get off, swinging from high to low without warning. One moment you're fine, the next you're in despair or rage, often without knowing why. This emotional chaos makes it hard to maintain relationships or stick to plans, as you never know which version of yourself will show up.
+  core_components:
+  - Rapid mood cycling
+  - Unpredictable shifts
+  - Extreme variations
+  associated_processes:
+  - Limbic hyperreactivity
+  - Impaired prefrontal control
+  - Sensitization to triggers
+- id: psy-emo-moo-dep-ada
+  label: Absence of Depression
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Euthymic mood
+  - Normal sadness response
+  - Preserved hedonic capacity
+  scope: Sustained absence of pathological low mood with preserved capacity for pleasure, maintaining normal energy and motivation while experiencing appropriate sadness that resolves naturally.
+  parent_scope_inheritance: Specifies the non-depressive aspect of mood states by focusing on maintained hedonic tone and absence of persistent negative affect.
+  polarity_expression: Manifests as preserved interest and pleasure in activities with appropriate sadness responses that are proportionate and time-limited.
+  cross_domain_resonance: Resonates with phy-neu-rew-hed-reg (hedonic regulation), soc-rel-int-emo-coh (emotional intimacy), and exi-mea-hop-fut-pur (future hope).
+  academic_description: Research shows preserved serotonergic function, intact reward processing in ventral striatum, and maintained BDNF levels. Studies demonstrate normal cortisol awakening response, preserved slow-wave sleep, and balanced inflammatory markers. Protective factors include social support, physical activity, and cognitive flexibility in processing negative events.
+  clinical_description: Assessment shows PHQ-9 scores below clinical threshold with preserved functional capacity. Preventive interventions include behavioral activation scheduling, maintaining social connections, and regular exercise. Monitoring involves tracking early warning signs like sleep changes or anhedonia. Psychoeducation distinguishes normal sadness from clinical depression.
+  lay_description: You experience the normal ups and downs of life without getting stuck in persistent darkness. When sad things happen, you feel appropriately sad but bounce back. You maintain interest in activities you enjoy and can look forward to future plans. Your emotional baseline stays in neutral to positive territory.
+  core_components:
+  - Preserved pleasure capacity
+  - Normal energy levels
+  - Appropriate sadness responses
+  associated_processes:
+  - Intact reward processing
+  - Effective grief resolution
+  - Maintained motivation
+- id: psy-emo-moo-dep-mal
+  label: Depressive Episodes
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Major depression
+  - Clinical depression
+  - Persistent dysphoria
+  scope: Sustained pathological low mood lasting weeks to months with pervasive sadness, anhedonia, psychomotor changes, and cognitive symptoms that significantly impair functioning.
+  parent_scope_inheritance: Specifies the depressive dimension of mood states by focusing on persistent negative affect that dominates emotional experience.
+  polarity_expression: Manifests as persistent low mood with loss of pleasure, energy depletion, and negative cognitive patterns that resist natural resolution.
+  cross_domain_resonance: Resonates with phy-neu-rew-hed-dys (anhedonia), soc-rel-int-emo-fra (emotional withdrawal), and exi-mea-hop-fut-dir (hopelessness).
+  academic_description: Research demonstrates reduced serotonin transmission, decreased BDNF, and hippocampal atrophy in chronic depression. Studies show blunted reward response in nucleus accumbens, hyperactive default mode network, and elevated inflammatory cytokines. The kindling hypothesis suggests repeated episodes lower threshold for recurrence. Comorbid substance use occurs in 30-40% of cases.
+  clinical_description: Assessment using structured interviews confirms DSM-5 criteria with functional impairment. Treatment combines antidepressant medication, cognitive-behavioral therapy, and behavioral activation. Severe cases may require ECT or TMS. Substance use screening essential given high comorbidity. Suicide risk assessment critical during severe episodes. Long-term maintenance prevents recurrence.
+  lay_description: Everything feels heavy and gray, like you're moving through thick fog. Things that used to bring joy feel meaningless, and simple tasks become mountains to climb. Your mind gets stuck in loops of negative thoughts, and hope feels impossibly distant. It's not just sadness - it's a whole-body experience of depletion and despair that colors everything dark.
+  core_components:
+  - Persistent sadness
+  - Anhedonia
+  - Psychomotor retardation
+  associated_processes:
+  - Negative rumination
+  - Social withdrawal
+  - Cognitive impairment
+- id: psy-emo-moo-man-ada
+  label: Appropriate Positive Affect
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Normal enthusiasm
+  - Healthy optimism
+  - Balanced positive mood
+  scope: Sustained positive affect that remains proportionate to circumstances with appropriate enthusiasm, realistic optimism, and maintained judgment while preserving sleep and social boundaries.
+  parent_scope_inheritance: Specifies the non-manic aspect of elevated mood states by focusing on appropriate positive affect without pathological elevation.
+  polarity_expression: Manifests as genuine enthusiasm and optimism that enhances function without impairing judgment or creating interpersonal disruption.
+  cross_domain_resonance: Resonates with phy-neu-ene-aro-reg (appropriate arousal), soc-com-eng-par-coh (community participation), and exi-pur-gro-asp-pur (growth aspiration).
+  academic_description: Research shows balanced dopaminergic tone without excessive release, preserved prefrontal regulation of reward circuits, and normal circadian melatonin rhythms. Studies demonstrate appropriate goal-directed behavior without impulsivity, maintained insight, and preserved sleep architecture. Positive affect correlates with resilience and recovery.
+  clinical_description: Assessment shows appropriate range on mood scales without manic symptoms. Interventions support healthy positive affect through gratitude practices, mindfulness, and engagement in meaningful activities. Psychoeducation distinguishes healthy enthusiasm from hypomania. Monitoring ensures positive states don't escalate to pathological elevation.
+  lay_description: You feel genuinely good about life in ways that make sense - excited about real opportunities, optimistic about achievable goals, energized for activities you enjoy. Your enthusiasm inspires others rather than overwhelming them. You sleep normally and make decisions you won't regret later.
+  core_components:
+  - Realistic optimism
+  - Proportionate enthusiasm
+  - Preserved judgment
+  associated_processes:
+  - Goal-directed behavior
+  - Social attunement
+  - Maintained boundaries
+- id: psy-emo-moo-man-mal
+  label: Manic Episodes
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo-moo
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Mania
+  - Hypomania
+  - Pathological elevation
+  scope: Sustained pathological mood elevation with euphoria or irritability, decreased need for sleep, grandiosity, racing thoughts, and impulsive behavior that impairs judgment and functioning.
+  parent_scope_inheritance: Specifies the manic dimension of mood states by focusing on pathological elevation that disrupts normal functioning and judgment.
+  polarity_expression: Manifests as excessive mood elevation with behavioral activation, reduced sleep need, and impaired judgment leading to risky behaviors.
+  cross_domain_resonance: Resonates with phy-neu-ene-aro-dys (hyperarousal), soc-com-eng-par-fra (social disruption), and exi-pur-gro-asp-dir (grandiose pursuits).
+  academic_description: Research shows excessive dopamine release, reduced GABA inhibition, and disrupted circadian clock genes. Studies demonstrate hyperactivity in reward circuits, reduced prefrontal control, and elevated norepinephrine. Kindling models suggest progressive sensitization. Substance use during manic episodes occurs in 60% of bipolar patients, often as self-medication or disinhibition.
+  clinical_description: Assessment using Young Mania Rating Scale confirms elevated, expansive, or irritable mood with functional impairment. Treatment requires mood stabilizers or antipsychotics, often with hospitalization for severe mania. Substance use exacerbates symptoms and impairs treatment response. Long-term prophylaxis prevents recurrence. Family involvement crucial for early detection.
+  lay_description: You feel invincible, like you can do anything and normal rules don't apply. Your mind races with brilliant ideas that feel urgent and important. Sleep seems unnecessary when there's so much to do. Others can't keep up with your energy, and their concerns seem ridiculous. Later, you're left with consequences from decisions that seemed perfect at the time.
+  core_components:
+  - Euphoria or irritability
+  - Decreased sleep need
+  - Grandiosity
+  associated_processes:
+  - Racing thoughts
+  - Impulsive behavior
+  - Hypersexuality
+- id: psy-emo-moo-mix-ada
+  label: Emotional Integration
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Emotional complexity
+  - Integrated affect
+  - Emotional nuance
+  scope: Capacity to experience complex emotional states with mixed feelings that remain integrated and functional, allowing for nuanced responses without internal conflict or behavioral disruption.
+  parent_scope_inheritance: Specifies the integrated aspect of complex mood states by focusing on the ability to hold multiple emotions simultaneously without dysfunction.
+  polarity_expression: Manifests as sophisticated emotional experience where seemingly contradictory feelings coexist productively without creating distress or impairment.
+  cross_domain_resonance: Resonates with psy-cog-exe-cfl-ada (cognitive flexibility), soc-cul-ide-val-coh (value integration), and exi-mea-par-amb-pur (embracing paradox).
+  academic_description: Research shows mature prefrontal integration allowing simultaneous processing of multiple affective states. Studies demonstrate cognitive complexity correlating with emotional differentiation. Secure attachment facilitates tolerance of mixed feelings. Mindfulness training enhances capacity for emotional complexity without dysregulation.
+  clinical_description: Assessment reveals ability to articulate complex emotional states without distress. Interventions include emotion-focused therapy exploring nuanced feelings, mindfulness practices for non-judgmental awareness, and psychodynamic work on tolerating ambivalence. This capacity indicates psychological maturity and resilience.
+  lay_description: You can feel multiple emotions at once - like being happy about a promotion while sad about leaving colleagues, or loving someone while being frustrated with them. These mixed feelings don't tear you apart; instead, they give you a richer, more complete experience of life's complexity.
+  core_components:
+  - Emotional differentiation
+  - Tolerance of ambivalence
+  - Integrated experience
+  associated_processes:
+  - Cognitive complexity
+  - Reflective capacity
+  - Emotional maturity
+- id: psy-emo-moo-mix-mal
+  label: Mixed Episodes
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Dysphoric mania
+  - Agitated depression
+  - Mixed affective state
+  scope: Simultaneous presence of depressive and manic symptoms creating internal chaos with agitated depression, dysphoric mania, or rapid alternation between opposing mood states within the same episode.
+  parent_scope_inheritance: Specifies the mixed state dimension of mood episodes by focusing on the co-occurrence of seemingly incompatible mood symptoms.
+  polarity_expression: Manifests as tortuous combination of depression's pain with mania's activation, creating dangerous agitation and impulsivity with high suicide risk.
+  cross_domain_resonance: Resonates with psy-cog-exe-cfl-mal (cognitive rigidity), soc-cul-ide-val-fra (value conflict), and exi-mea-par-amb-dir (paralyzed by paradox).
+  academic_description: Research shows simultaneous activation of opposing neural circuits, with both elevated and depleted monoamines in different regions. Studies demonstrate highest suicide risk among mood states due to combination of hopelessness with energy to act. Substance use particularly dangerous during mixed episodes, increasing impulsivity and lethality.
+  clinical_description: Assessment requires careful evaluation for simultaneous manic and depressive symptoms. Treatment challenging, requiring mood stabilizers or atypical antipsychotics; antidepressants may worsen. Hospitalization often necessary for safety. Substance use screening critical as intoxication mimics or exacerbates mixed states. Close monitoring essential given high suicide risk.
+  lay_description: You feel the worst of both worlds - the crushing despair of depression combined with the restless agitation of mania. Your mind races with dark thoughts while your body can't stay still. You're exhausted but can't rest, hopeless but driven to act. It's like being trapped in a tornado of conflicting emotions that threatens to tear you apart.
+  core_components:
+  - Simultaneous depression and activation
+  - Agitated dysphoria
+  - Internal contradiction
+  associated_processes:
+  - Extreme distress
+  - Impulsive self-harm
+  - Cognitive disorganization
+- id: psy-emo-moo-irr-ada
+  label: Appropriate Frustration
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Normal irritation
+  - Proportionate anger
+  - Healthy assertiveness
+  scope: Sustained capacity for appropriate frustration responses that match situational demands, resolve naturally, and motivate problem-solving without damaging relationships or impairing function.
+  parent_scope_inheritance: Specifies the non-pathological aspect of irritable mood by focusing on proportionate and functional frustration responses.
+  polarity_expression: Manifests as appropriate anger that signals boundary violations, motivates assertive action, and resolves once the situation is addressed.
+  cross_domain_resonance: Resonates with phy-str-rea-fig-reg (appropriate stress response), soc-rel-bou-per-coh (healthy boundaries), and exi-aut-age-sel-pur (self-determination).
+  academic_description: Research shows balanced amygdala-prefrontal connectivity allowing appropriate anger expression with maintained control. Studies demonstrate moderate arousal facilitating assertive behavior without aggression. Secure attachment correlates with proportionate anger responses. Mindfulness enhances discrimination between appropriate and excessive irritability.
+  clinical_description: Assessment reveals irritability proportionate to triggers with natural resolution. Interventions include assertiveness training, boundary setting skills, and conflict resolution. Psychoeducation normalizes appropriate anger as healthy signal. Monitoring distinguishes normal frustration from pathological irritability patterns.
+  lay_description: You get appropriately annoyed when things are genuinely frustrating - stuck in traffic, dealing with unfairness, facing repeated obstacles. But this irritation motivates you to solve problems rather than lash out. Once you've addressed the issue or accepted what you can't change, the frustration naturally fades.
+  core_components:
+  - Proportionate responses
+  - Natural resolution
+  - Constructive expression
+  associated_processes:
+  - Assertive communication
+  - Problem-solving motivation
+  - Boundary enforcement
+- id: psy-emo-moo-irr-mal
+  label: Persistent Irritability
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Chronic irritability
+  - Hostile mood
+  - Persistent anger
+  scope: Sustained irritable mood lasting days to weeks with low frustration tolerance, hostile interpretation of neutral events, and aggressive responses that damage relationships and functioning.
+  parent_scope_inheritance: Specifies the pathological irritability dimension of mood states by focusing on persistent, disproportionate anger and hostility.
+  polarity_expression: Manifests as pervasive irritability with hair-trigger responses, hostile attribution bias, and difficulty returning to baseline after provocation.
+  cross_domain_resonance: Resonates with phy-str-rea-fig-dys (chronic fight response), soc-rel-bou-per-fra (boundary violations), and exi-aut-age-sel-dir (reactive rather than self-determined).
+  academic_description: Research shows heightened amygdala reactivity to neutral faces, reduced prefrontal regulation, and elevated inflammatory markers. Studies demonstrate hostile attribution bias and deficient emotion regulation. Common in substance withdrawal, with protracted irritability lasting weeks to months. Predicts relapse and treatment dropout.
+  clinical_description: Assessment using irritability scales reveals persistent elevation with functional impairment. Treatment includes mood stabilizers for severe irritability, anger management groups, and cognitive restructuring for hostile attribution. Substance use history essential as withdrawal causes severe irritability. Family therapy addresses relationship damage. Mindfulness reduces reactivity.
+  lay_description: Everything and everyone gets on your nerves. You're constantly on edge, ready to snap at the slightest provocation. Neutral comments feel like attacks, and small inconveniences trigger rage. People walk on eggshells around you, which only makes you more irritated. The anger never fully goes away, just simmers below the surface waiting to explode.
+  core_components:
+  - Low frustration tolerance
+  - Hostile attribution
+  - Aggressive responses
+  associated_processes:
+  - Relationship conflict
+  - Social isolation
+  - Chronic stress activation
+- id: psy-emo-moo-cir-ada
+  label: Circadian Mood Rhythm
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Diurnal mood variation
+  - Healthy mood rhythm
+  - Circadian affect pattern
+  scope: Normal daily mood variation with morning improvement, afternoon stability, and appropriate evening wind-down that synchronizes with sleep-wake cycles and supports optimal functioning.
+  parent_scope_inheritance: Specifies the temporal organization aspect of mood systems by focusing on healthy circadian patterns in affective states.
+  polarity_expression: Manifests as predictable daily mood patterns with morning brightening and evening calming that align with circadian biology and social rhythms.
+  cross_domain_resonance: Resonates with phy-cir-rhy-sle-reg (sleep-wake rhythm), soc-tem-sch-rou-coh (daily routines), and exi-tem-pre-now-pur (temporal presence).
+  academic_description: Research shows synchronized cortisol awakening response, morning peak in positive affect, and evening rise in melatonin. Studies demonstrate clock gene expression coordinating mood with metabolic rhythms. Light exposure entrains mood rhythms through retinal ganglion cells to suprachiasmatic nucleus. Social rhythms reinforce biological patterns.
+  clinical_description: Assessment through mood diaries reveals consistent diurnal patterns with morning improvement. Interventions include morning light exposure, regular wake times, and evening dim light. Social rhythm therapy stabilizes daily routines. Chronotherapy uses timed interventions matching circadian phase. Monitoring tracks rhythm stability as treatment outcome.
+  lay_description: Your mood follows a natural daily rhythm - you wake up feeling refreshed, maintain steady energy through the day, and naturally wind down in the evening. This predictable pattern helps you plan activities when you'll feel best and creates a sense of stability. Your mood clock stays synchronized with your life.
+  core_components:
+  - Morning brightening
+  - Afternoon stability
+  - Evening wind-down
+  associated_processes:
+  - Cortisol rhythm
+  - Melatonin cycle
+  - Social zeitgebers
+- id: psy-emo-moo-cir-mal
+  label: Disrupted Mood Rhythm
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Circadian mood disruption
+  - Reversed diurnal variation
+  - Arrhythmic mood pattern
+  scope: Absent, reversed, or chaotic daily mood patterns with morning worsening, evening activation, or unpredictable variations that desynchronize from sleep-wake cycles and impair functioning.
+  parent_scope_inheritance: Specifies the temporal disorganization aspect of mood systems by focusing on disrupted circadian patterns in affective states.
+  polarity_expression: Manifests as mood patterns disconnected from circadian biology, creating misalignment between internal state and environmental demands.
+  cross_domain_resonance: Resonates with phy-cir-rhy-sle-dys (sleep disruption), soc-tem-sch-rou-fra (schedule chaos), and exi-tem-pre-now-dir (temporal confusion).
+  academic_description: Research shows blunted cortisol awakening response, reversed or absent diurnal mood variation, and disrupted clock gene expression. Studies demonstrate desynchronization between central and peripheral clocks. Shift work and jet lag precipitate mood episodes. Substance use further disrupts circadian rhythms, creating vicious cycles.
+  clinical_description: Assessment reveals absent or reversed diurnal variation on mood ratings. Treatment includes bright light therapy, melatonin, and strict sleep-wake scheduling. Social rhythm therapy crucial for re-entrainment. Substance use cessation necessary as drugs severely disrupt circadian rhythms. Dark therapy for manic states uses circadian mechanisms.
+  lay_description: Your mood clock is broken - you feel worst in the morning when you need energy, then get wired at night when you should wind down. Or your mood seems completely random, unconnected to time of day. This misalignment makes everything harder, like constantly living with jet lag that never resolves.
+  core_components:
+  - Morning worsening
+  - Evening activation
+  - Unpredictable variation
+  associated_processes:
+  - Cortisol dysrhythmia
+  - Melatonin disruption
+  - Social jet lag
+- id: psy-emo-moo-trn-ada
+  label: Smooth Mood Transitions
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Gradual mood shifts
+  - Adaptive transitions
+  - Mood flexibility
+  scope: Gradual, context-appropriate transitions between mood states with maintained continuity of self, preserved function during shifts, and natural progression that allows psychological adaptation.
+  parent_scope_inheritance: Specifies the transition process aspect of mood systems by focusing on how movement between different affective states occurs adaptively.
+  polarity_expression: Manifests as fluid movement between mood states that maintains psychological coherence and allows time for behavioral adjustment.
+  cross_domain_resonance: Resonates with psy-cog-att-sus-ada (sustained attention through transitions), soc-rol-ide-mul-coh (role transitions), and exi-ide-sel-coh-pur (identity continuity).
+  academic_description: Research shows gradual neurotransmitter adjustments allowing psychological adaptation to mood shifts. Studies demonstrate preserved executive function during transitions, maintaining behavioral control. Cognitive flexibility facilitates smooth transitions. Secure attachment provides internal stability during affective changes.
+  clinical_description: Assessment reveals gradual mood changes over days to weeks with maintained insight. Interventions include mindfulness for awareness of subtle shifts, cognitive flexibility training, and transition planning. Psychoeducation about normal mood variation reduces anxiety about changes. Early warning sign monitoring enables proactive coping.
+  lay_description: Your mood shifts happen gradually, like seasons changing. You notice subtle signs of transition - slightly better sleep before mood lifts, or mild irritability before feeling down. These gradual changes give you time to adjust your expectations and activities. You maintain a sense of being yourself even as your emotional weather changes.
+  core_components:
+  - Gradual progression
+  - Maintained awareness
+  - Preserved function
+  associated_processes:
+  - Cognitive adaptation
+  - Behavioral adjustment
+  - Identity continuity
+- id: psy-emo-moo-trn-mal
+  label: Abrupt Mood Switches
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Rapid switching
+  - Mood kindling
+  - Affective sensitization
+  scope: Sudden, dramatic transitions between mood states occurring within hours to days with loss of psychological continuity, functional disruption, and progressive sensitization to triggers.
+  parent_scope_inheritance: Specifies the transition disruption aspect of mood systems by focusing on pathological switching between affective states.
+  polarity_expression: Manifests as jarring mood switches that disrupt psychological coherence and prevent adaptive behavioral adjustment.
+  cross_domain_resonance: Resonates with psy-cog-att-sus-mal (attention fragmentation), soc-rol-ide-mul-fra (role confusion), and exi-ide-sel-coh-dir (identity discontinuity).
+  academic_description: Research shows kindling effects where repeated mood episodes lower switch threshold. Studies demonstrate abrupt neurotransmitter cascades overwhelming homeostatic mechanisms. Substance use triggers rapid switches through acute intoxication and withdrawal. Progressive sensitization creates hair-trigger mood transitions from minimal stressors.
+  clinical_description: Assessment reveals rapid mood switches on daily ratings with functional disruption. Treatment requires mood stabilizers to reduce switching frequency. Ultra-rapid cycling may need combination therapy. Substance use cessation critical as drugs trigger switches. Psychoeducation about kindling emphasizes early intervention. Crisis planning for sudden switches essential.
+  lay_description: Your mood changes feel like someone flipping a switch - one moment you're fine, the next you're in a completely different emotional state. There's no transition period to adjust; you're suddenly drowning in depression or flying high in mania. These jarring switches leave you feeling like different people inhabiting the same body.
+  core_components:
+  - Sudden onset
+  - Dramatic shifts
+  - Progressive sensitization
+  associated_processes:
+  - Kindling effects
+  - Trigger sensitivity
+  - Identity disruption
+- id: psy-emo-moo-ton-ada
+  label: Positive Baseline Mood
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Positive emotional climate
+  - Healthy hedonic tone
+  - Adaptive set point
+  scope: Sustained positive or neutral baseline affective tone with preserved hedonic capacity, creating an emotional foundation that supports wellbeing, resilience, and natural reward processing.
+  parent_scope_inheritance: Specifies the baseline affective dimension of mood systems by focusing on the background emotional climate that colors all experience.
+  polarity_expression: Manifests as a generally positive or neutral emotional backdrop that allows full range of appropriate emotional responses while returning to a healthy baseline.
+  cross_domain_resonance: Resonates with phy-neu-rew-ton-reg (hedonic tone), soc-env-atm-emo-coh (positive atmosphere), and exi-mea-lif-sat-pur (life satisfaction).
+  academic_description: Research shows balanced tonic dopamine supporting positive hedonic tone, preserved mu-opioid receptor function maintaining capacity for pleasure, and appropriate endocannabinoid tone. Studies demonstrate positive baseline mood predicting resilience, recovery, and treatment response. Natural rewards maintain hedonic homeostasis through varied pleasure sources.
+  clinical_description: Assessment using PANAS shows positive affect exceeding negative affect at baseline. Interventions include gratitude practices, pleasant activity scheduling, and mindfulness of positive experiences. Building natural reward diversity prevents hedonic adaptation. Lifestyle factors like exercise, social connection, and meaningful activities maintain positive baseline.
+  lay_description: Your emotional baseline sits in positive or neutral territory - life generally feels okay to good. Even after difficult experiences, you return to this stable, pleasant foundation. You don't need extreme experiences to feel satisfied; ordinary pleasures still bring genuine enjoyment. This positive undercurrent makes challenges feel manageable rather than overwhelming.
+  core_components:
+  - Positive hedonic tone
+  - Preserved pleasure capacity
+  - Emotional resilience
+  associated_processes:
+  - Natural reward processing
+  - Hedonic flexibility
+  - Affective recovery
+- id: psy-emo-moo-ton-mal
+  label: Negative Baseline Mood
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Mood Systems
+  cluster_id: psy-emo-moo
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Dysphoric baseline
+  - Anhedonic set point
+  - Allostatic mood shift
+  scope: Persistent negative baseline affective tone with diminished hedonic capacity, creating a dysphoric emotional foundation that colors all experience and drives compensatory substance use.
+  parent_scope_inheritance: Specifies the baseline dysphoria dimension of mood systems by focusing on the persistently negative emotional climate resulting from allostatic changes.
+  polarity_expression: Manifests as a persistently negative emotional backdrop where even positive experiences are muted and baseline state feels uncomfortable or empty.
+  cross_domain_resonance: Resonates with phy-neu-rew-ton-dys (anhedonic tone), soc-env-atm-emo-fra (negative atmosphere), and exi-mea-lif-sat-dir (life dissatisfaction).
+  academic_description: Koob's allostatic model describes how repeated substance use shifts hedonic set point downward through opponent process mechanisms. Research shows reduced tonic dopamine, mu-opioid receptor downregulation, and elevated dynorphin creating persistent dysphoria. Studies demonstrate this negative affective state driving compulsive use to achieve normalcy rather than euphoria.
+  clinical_description: Assessment reveals chronically low positive affect and elevated negative affect on baseline measures. Treatment requires extended abstinence for hedonic recovery, often 6-12 months. Medications targeting anhedonia may help. Behavioral activation essential despite lack of anticipated pleasure. Psychoeducation about protracted withdrawal normalizes extended dysphoria timeline.
+  lay_description: Your emotional baseline has shifted into negative territory - nothing feels quite right even when things are objectively fine. Colors seem muted, food tastes bland, and activities that should be enjoyable feel empty. You're not actively sad, but there's a persistent discomfort, like emotional static, that makes you crave anything to feel normal again.
+  core_components:
+  - Persistent dysphoria
+  - Anhedonia
+  - Hedonic deficit
+  associated_processes:
+  - Allostatic load
+  - Reward deficiency
+  - Compensatory craving

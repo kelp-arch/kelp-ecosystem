@@ -1,0 +1,120 @@
+clusters:
+  - id: psy-emo-cor
+    label: Core Affect
+    forest: Psychological
+    forest_id: psy
+    field: Emotional
+    field_id: psy-emo
+    synonyms:
+      - Basic emotions
+      - Affective states
+      - Emotional experiences
+      - Primary affect
+    scope: Encompasses basic emotional experiences including discrete emotions (fear, anger, sadness, joy, disgust, surprise), dimensional affect (valence and arousal), hedonic tone, and emotional reactivity patterns. Includes both positive and negative affective states, emotional intensity, and affective responses to internal and external stimuli. Excludes regulation strategies, awareness processes, and sustained mood patterns.
+    parent_scope_inheritance: Narrows the emotional field to focus specifically on the raw experiential component of emotions - what is felt rather than how it is managed, understood, or sustained over time.
+    polarity_dimension: The appropriateness and functionality of emotional responses - ranging from adaptive emotional responsivity to maladaptive dysregulation, numbing, or hyperreactivity.
+    emergence: At the cluster level, discrete emotions combine into complex blends and mixed states. Emotional cascades emerge where one emotion triggers another. Affective patterns organize into characteristic response profiles that influence all other emotional processes.
+    boundary_interfaces:
+      - Core affect-regulation interface where raw emotions become targets for regulatory efforts
+      - Core affect-awareness interface where emotional experiences become objects of recognition
+      - Core affect-tolerance interface where negative emotions challenge coping capacity
+    child_generation_role: You are an affective neuroscientist specializing in core emotional systems and their dysfunction in addiction. You analyze amygdala reactivity, limbic activation patterns, emotional valence and arousal dimensions, and basic emotion circuits. You distinguish between adaptive states showing appropriate emotional range and responsivity versus maladaptive states showing emotional numbing, hyperreactivity, anhedonia, or affective instability. You ground analysis in Russell's circumplex model, Panksepp's affective neuroscience framework, and Baker's negative reinforcement model of addiction.
+    academic_description: Core affect systems generate the fundamental emotional experiences that drive addictive behavior through negative reinforcement cycles. The circumplex model (Russell) organizes emotions along valence and arousal dimensions, with addiction disrupting normal affective balance. Negative affect states (anxiety, irritability, dysphoria) intensify during withdrawal, creating powerful drive states for substance use. Anhedonia develops as natural rewards lose salience, leaving only substance-induced affect modulation. Stress sensitization amplifies emotional reactivity through kindling processes. Opponent process theory explains how initial positive affect from substances transforms into negative affect dominance. Neuroadaptations in amygdala and extended amygdala underlie affective dysregulation.
+    clinical_description: Core affect interventions target the emotional experiences that trigger use and complicate recovery. Assessment includes mood monitoring, affect ratings, and emotional reactivity measures. Emotion exposure helps clients experience feelings without immediate escape. Behavioral activation addresses anhedonia by scheduling pleasant activities. Mindfulness teaches observing emotions without judgment. Psychoeducation normalizes the emotional rollercoaster of early recovery. Medication may stabilize severe affective dysregulation. Building positive emotional experiences creates alternative reinforcement to substances. Validation techniques acknowledge the intensity of emotional pain while building hope for change.
+    lay_description: Core emotions are the raw feelings you experience - happiness, sadness, anger, fear, and everything in between. In addiction, these feelings often become overwhelming or completely numbed. You might use substances to escape painful emotions or to feel anything at all when natural pleasures stop working. During withdrawal and early recovery, emotions can feel like a rollercoaster - intense mood swings, irritability, anxiety, or feeling emotionally flat. Learning to experience these feelings without immediately trying to change them is crucial. This means sitting with discomfort, finding small pleasures again, and trusting that emotional balance will gradually return.
+
+  - id: psy-emo-reg
+    label: Emotion Regulation
+    forest: Psychological
+    forest_id: psy
+    field: Emotional
+    field_id: psy-emo
+    synonyms:
+      - Affect regulation
+      - Emotional control
+      - Emotion management
+      - Self-regulation
+    scope: Encompasses strategies and capacities for modulating emotional states including cognitive reappraisal, expressive suppression, attentional deployment, situation selection, and acceptance. Includes both antecedent-focused and response-focused strategies, regulatory flexibility, and the development of regulation skills. Excludes the emotions being regulated, awareness of emotions, and tolerance capacities.
+    parent_scope_inheritance: Specifies the emotional field's regulation component by focusing on the processes and strategies used to influence emotional trajectories rather than the emotions themselves or the capacity to withstand them.
+    polarity_dimension: The effectiveness and flexibility of regulation strategies - ranging from adaptive, context-appropriate regulation to maladaptive over-regulation, under-regulation, or rigid regulatory patterns.
+    emergence: At the cluster level, individual strategies combine into regulatory repertoires. Flexible deployment emerges based on contextual demands. Meta-regulation develops as awareness of regulation effectiveness guides strategy selection.
+    boundary_interfaces:
+      - Regulation-core affect interface where strategies target specific emotional states
+      - Regulation-awareness interface where emotional clarity enables effective regulation
+      - Regulation-tolerance interface where acceptance strategies bridge regulation and tolerance
+    child_generation_role: You are an emotion regulation researcher specializing in regulatory strategies and their breakdown in addiction. You analyze cognitive reappraisal, expressive suppression, attentional deployment, situation selection, and response modulation. You distinguish between adaptive states showing flexible, context-appropriate regulation versus maladaptive states showing rigid strategies, over-regulation, under-regulation, or substance-dependent regulation. You ground analysis in Gross's process model of emotion regulation, Linehan's biosocial theory, and Berking's Affect Regulation Training framework.
+    academic_description: Emotion regulation systems encompass the processes by which individuals influence which emotions they have, when they have them, and how they experience and express them. Gross's process model identifies five families of regulation strategies deployed at different points in the emotion-generative process. In addiction, substance use becomes a maladaptive regulation strategy, replacing healthier approaches. Cognitive reappraisal deficits limit ability to reframe emotional triggers. Suppression paradoxically increases physiological arousal and craving. Emotional dysregulation (Linehan) involves high sensitivity, intense reactions, and slow return to baseline. Neurobiologically, prefrontal regulation of limbic structures becomes compromised. Recovery requires rebuilding regulation repertoires and restoring top-down control.
+    clinical_description: Emotion regulation interventions rebuild healthy strategies to replace substance-based regulation. Dialectical Behavior Therapy teaches specific skills including opposite action, checking the facts, and problem-solving. Cognitive reappraisal training helps reframe triggering situations. Affect Regulation Training develops systematic regulation competencies. Mindfulness-based approaches teach non-reactive awareness as regulation. Assessment evaluates current strategies, flexibility, and effectiveness. Skills training progresses from basic labeling to complex regulation chains. Practice in session with homework generalization builds regulatory capacity. Therapists model and coach regulation in real-time during emotional activation.
+    lay_description: Emotion regulation is about managing your feelings in healthy ways. Many people with addiction have been using substances as their main way to control emotions - to calm down, cheer up, or numb out. This works temporarily but prevents learning better strategies. Recovery means developing a toolkit of healthier options, taking deep breaths when anxious, reframing negative thoughts, distracting yourself from cravings, or choosing situations that support your emotional balance. It's about finding the middle path - not suppressing all feelings but not being controlled by them either. With practice, you learn what works for different emotions and situations.
+
+  - id: psy-emo-awa
+    label: Emotional Awareness
+    forest: Psychological
+    forest_id: psy
+    field: Emotional
+    field_id: psy-emo
+    synonyms:
+      - Emotional recognition
+      - Affect consciousness
+      - Emotional clarity
+      - Emotional intelligence
+    scope: Encompasses the recognition, identification, differentiation, and labeling of emotional states. Includes emotional granularity, interoceptive awareness of emotional cues, meta-emotional awareness, and the ability to distinguish between similar emotions. Excludes the emotions themselves, regulation of emotions, and behavioral responses to emotions.
+    parent_scope_inheritance: Focuses the emotional field specifically on the metacognitive aspect of emotions - the ability to recognize and understand one's emotional experiences rather than the experiences themselves or their management.
+    polarity_dimension: The clarity and differentiation of emotional awareness - ranging from adaptive emotional granularity and accurate labeling to maladaptive alexithymia, poor differentiation, or emotional confusion.
+    emergence: At the cluster level, discrete awareness moments integrate into continuous emotional monitoring. Emotional vocabularies develop enabling nuanced differentiation. Meta-awareness emerges as awareness of one's awareness patterns and blind spots.
+    boundary_interfaces:
+      - Awareness-core affect interface where raw emotions become objects of awareness
+      - Awareness-regulation interface where clarity enables targeted regulation
+      - Awareness-mood interface where awareness tracks sustained affective patterns
+    child_generation_role: You are an emotional awareness researcher specializing in alexithymia and emotional differentiation in addiction. You analyze emotional granularity, interoceptive accuracy, emotional labeling capacity, and meta-emotional awareness. You distinguish between adaptive states showing clear emotional differentiation and accurate labeling versus maladaptive states showing alexithymia, poor emotional clarity, or undifferentiated negative affect. You ground analysis in Taylor's alexithymia construct, Lane's levels of emotional awareness, and Barrett's theory of constructed emotion.
+    academic_description: Emotional awareness systems enable the recognition and differentiation of affective states, crucial for adaptive functioning. Alexithymia, characterized by difficulty identifying and describing emotions, occurs in 45-67% of individuals with substance use disorders. Poor emotional differentiation leads to experiencing emotions as undifferentiated negative affect, driving crude regulation through substance use. Lane's Levels of Emotional Awareness Scale reveals developmental stages from bodily sensations to nuanced emotional blends. Emotional granularity - the ability to make fine-grained distinctions between similar emotions - predicts better regulation and outcomes. Interoceptive deficits compromise awareness of bodily emotional cues. Neurologically, this involves insula, anterior cingulate, and medial prefrontal regions.
+    clinical_description: Emotional awareness interventions develop capacity to recognize and label emotional states. Assessment includes alexithymia scales, emotional awareness interviews, and differentiation tasks. Emotion-focused therapy helps identify and articulate feelings through empathic exploration. Body scan exercises build interoceptive awareness of emotional cues. Emotion logs track feelings throughout the day, building recognition patterns. Psychoeducation provides emotional vocabulary and normalizes the full range of feelings. Mindfulness practices develop non-judgmental awareness of emotional states. Group therapy offers reflection of emotions by others, enhancing recognition. Progressive differentiation moves from basic pleasant/unpleasant to subtle emotional distinctions.
+    lay_description: Emotional awareness means knowing what you're feeling when you're feeling it. Many people with addiction struggle to identify their emotions beyond "good" or "bad," making it hard to address specific feelings appropriately. You might feel a vague discomfort and reach for substances without realizing you're actually lonely, bored, or disappointed. Recovery involves learning to tune into your body's emotional signals, building a vocabulary for different feelings, and recognizing patterns in your emotional life. This is like developing emotional vision - suddenly seeing distinctions you couldn't perceive before, which allows you to respond more precisely to what you're experiencing.
+
+  - id: psy-emo-tol
+    label: Distress Tolerance
+    forest: Psychological
+    forest_id: psy
+    field: Emotional
+    field_id: psy-emo
+    synonyms:
+      - Affect tolerance
+      - Emotional endurance
+      - Negative affect tolerance
+      - Distress acceptance
+    scope: Encompasses the capacity to withstand, accept, and persist through negative emotional states without immediate escape or avoidance. Includes tolerance thresholds, acceptance-based coping, crisis survival skills, and the ability to maintain functioning despite emotional discomfort. Excludes emotion regulation attempts, emotional awareness, and the distressing emotions themselves.
+    parent_scope_inheritance: Narrows the emotional field to focus specifically on the capacity to endure difficult emotions rather than changing, understanding, or experiencing them.
+    polarity_dimension: The capacity to tolerate emotional discomfort - ranging from adaptive acceptance and persistence through distress to maladaptive intolerance, immediate escape behaviors, and emotional avoidance.
+    emergence: At the cluster level, moment-to-moment tolerance accumulates into sustained endurance capacity. Acceptance and willingness emerge as alternatives to escape. Distress tolerance becomes a foundation for engaging with difficult therapeutic work.
+    boundary_interfaces:
+      - Tolerance-core affect interface where negative emotions challenge tolerance capacity
+      - Tolerance-regulation interface where tolerance serves as a regulation strategy
+      - Tolerance-awareness interface where recognition of emotions enables conscious tolerance
+    child_generation_role: You are a distress tolerance researcher specializing in negative affect tolerance and its role in addiction maintenance. You analyze tolerance thresholds, escape/avoidance tendencies, acceptance capacities, and crisis survival strategies. You distinguish between adaptive states showing ability to withstand emotional discomfort versus maladaptive states showing immediate escape behaviors, low frustration tolerance, or emotional avoidance. You ground analysis in Simons & Gaher's distress tolerance model, Linehan's distress tolerance framework, and Zvolensky's work on distress intolerance in substance use.
+    academic_description: Distress tolerance represents the perceived and actual capacity to withstand negative emotional states. Low distress tolerance strongly predicts substance use initiation, escalation, and relapse. The inability to tolerate negative affect drives immediate escape through substance use, preventing habituation to emotional discomfort. Simons and Gaher identify four components- tolerance, appraisal, absorption, and regulation. Experiential avoidance maintains addiction by preventing contact with difficult internal experiences. Acceptance and Commitment Therapy frameworks emphasize willingness to experience discomfort in service of values. Neurobiologically, distress tolerance involves prefrontal inhibition of amygdala-driven escape urges. Window of tolerance concepts explain optimal arousal zones for emotional processing.
+    clinical_description: Distress tolerance interventions build capacity to withstand emotional discomfort without immediate escape. DBT's TIPP skills (Temperature, Intense exercise, Paced breathing, Paired muscle relaxation) provide immediate crisis survival. Urge surfing teaches riding out cravings without acting. Radical acceptance reduces suffering through acknowledging reality. Assessment measures tolerance levels and escape tendencies. Graduated exposure to emotional discomfort builds tolerance systematically. Mindfulness of current emotion teaches observing without reacting. Pros and cons lists evaluate short versus long-term consequences of escape. Self-soothing skills provide comfort without avoidance. Distraction techniques offer temporary relief while maintaining commitment to tolerance.
+    lay_description: Distress tolerance is your ability to handle uncomfortable feelings without immediately trying to escape them. In addiction, the habit is often to use substances the moment you feel bad, never learning you can survive difficult emotions. Recovery requires building emotional muscle - learning to sit with anxiety, sadness, or anger without immediately making it go away. This doesn't mean suffering needlessly, but recognizing that emotions are temporary and won't destroy you. It's like learning to stand in a cold shower - at first it feels unbearable, but gradually you realize you can handle it. This capacity lets you face life's challenges without always needing an escape route.
+
+  - id: psy-emo-moo
+    label: Mood Systems
+    forest: Psychological
+    forest_id: psy
+    field: Emotional
+    field_id: psy-emo
+    synonyms:
+      - Affective patterns
+      - Mood states
+      - Sustained affect
+      - Emotional climate
+    scope: Encompasses sustained affective patterns lasting hours to weeks including mood episodes, affective instability, mood cycling, and background emotional tone. Includes euthymic, depressive, manic, mixed, and irritable mood states and their transitions. Excludes momentary emotions, regulation strategies, and trait affectivity.
+    parent_scope_inheritance: Specifies the emotional field's temporal dimension by focusing on sustained affective patterns rather than momentary emotional experiences or their management.
+    polarity_dimension: The stability and appropriateness of mood patterns - ranging from adaptive mood stability with appropriate variation to maladaptive mood instability, cycling, or persistent pathological mood states.
+    emergence: At the cluster level, individual mood states organize into episodes and cycles. Mood rhythms emerge with circadian and seasonal patterns. Complex interactions between mood and substance use cycles create compound affective patterns.
+    boundary_interfaces:
+      - Mood-core affect interface where sustained patterns emerge from accumulated emotions
+      - Mood-regulation interface where mood states resist or respond to regulatory efforts
+      - Mood-tolerance interface where persistent negative mood challenges endurance
+    child_generation_role: You are a mood researcher specializing in affective instability and mood disorders in addiction. You analyze mood variability, affective switching, sustained mood states, and circadian mood rhythms. You distinguish between adaptive states showing mood stability and appropriate mood variation versus maladaptive states showing rapid mood cycling, persistent negative mood, or affective instability. You ground analysis in Koob's allostatic model, mood spectrum concepts, and research on comorbid mood and substance use disorders.
+    academic_description: Mood systems generate sustained affective patterns that create vulnerability to and result from substance use. Koob's allostatic model describes how repeated substance use shifts hedonic set point, creating persistent dysphoria. Affective instability, characterized by rapid mood fluctuations, predicts poorer treatment outcomes. Mood disorders co-occur in 20-60% of individuals with substance use disorders, with complex bidirectional relationships. Circadian rhythm disruptions affect mood regulation and substance use patterns. Post-acute withdrawal syndrome includes protracted mood disturbances lasting months. Kindling effects create mood sensitization where smaller triggers produce larger mood disruptions. Neuroadaptations involve altered monoamine systems, HPA axis dysregulation, and circadian gene expression.
+    clinical_description: Mood interventions address sustained affective patterns that maintain addiction cycles. Mood monitoring tracks patterns, triggers, and substance use relationships. Behavioral activation schedules mood-boosting activities to counter depression. Social rhythm therapy stabilizes circadian patterns supporting mood regulation. Mood stabilizing medications may be necessary for severe instability. Psychoeducation explains post-acute withdrawal mood symptoms and recovery timeline. Cognitive therapy addresses mood-related beliefs and expectations. Light therapy and exercise target mood through biological mechanisms. Group therapy provides support through mood fluctuations. Relapse prevention identifies mood states as high-risk situations requiring specific coping plans.
+    lay_description: Mood refers to the emotional weather that colors everything for hours, days, or weeks - different from quick emotional reactions. In addiction, mood often becomes a rollercoaster with extreme highs and lows, or gets stuck in persistent negativity. Substance use temporarily lifts or numbs mood but ultimately makes these patterns worse. Early recovery often involves mood swings, irritability, or feeling emotionally flat for weeks or months. Learning to recognize mood patterns, understanding they're temporary even when they feel permanent, and finding healthy ways to influence your emotional climate becomes essential. This includes regular sleep, exercise, and activities that naturally support stable, positive mood over time.

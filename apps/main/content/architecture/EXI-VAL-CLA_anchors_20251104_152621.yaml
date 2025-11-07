@@ -1,0 +1,244 @@
+# Generated anchors for cluster: EXI-VAL-CLA
+# Timestamp: 20251104_152621
+
+anchors:
+- id: exi-val-cla-idn-pur
+  label: Value Identification - Purposeful
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Clear value discovery
+  - Value recognition
+  - Value awareness
+  scope: Represents the successful identification and discovery of personal values across life domains. Individuals can recognize what matters most to them, access their internal compass, and connect with sources of meaning and importance.
+  parent_scope_inheritance: This anchor specifies the identification component of values clarification, focusing on the discovery process through which individuals recognize what matters to them.
+  polarity_expression: The purposeful polarity manifests as clear access to and recognition of personal values, with individuals able to identify what brings meaning and importance to their lives.
+  cross_domain_resonance: Resonates with emotional recognition (psy-emo-rec-ada) in accessing feeling states that signal value importance, and identity formation (soc-ide-for-coh) in discovering core aspects of self.
+  academic_description: Value identification represents the foundational process of discovering personal values. Research shows that successful value identification requires emotional accessibility and reflective capacity. Studies using values card sorts and other discovery methods demonstrate that individuals who can identify 3-5 core values show greater well-being and life satisfaction. The process involves both cognitive recognition and emotional resonance with identified values.
+  clinical_description: Clinical value identification uses structured exercises to help clients discover what matters. Values card sorts allow systematic exploration across Schwartz's ten universal values. Therapists guide clients through life review exercises, asking about peak experiences and moments of deep satisfaction. The Sweet Spot exercise identifies when clients felt most authentic. Success indicators include identifying 3-5 core values, explaining personal importance, and emotional resonance when discussing values.
+  lay_description: Value identification is discovering what truly matters to you in life. It's like finding your internal compass that's been covered up by addiction or life stress. You might explore different areas of life and notice what lights you up inside - maybe it's being creative, helping others, or being a loving parent. The goal is recognizing these important parts of yourself that give life meaning.
+  foundational_themes: Personal meaning discovery, authentic self-recognition, and connection with life purpose
+  experiential_processes: Reflective exploration, emotional attunement to values, and recognition of meaningful life themes
+  personal_relevance: Provides foundation for life direction and decision-making based on what matters most
+- id: exi-val-cla-idn-dir
+  label: Value Identification - Directionless
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Value blindness
+  - Value disconnection
+  - Value absence
+  scope: Represents the inability to identify or access personal values. Individuals cannot recognize what matters to them beyond immediate needs or substance use, experiencing a disconnection from sources of meaning and an absence of internal guidance.
+  parent_scope_inheritance: This anchor specifies the failed identification component of values clarification, where individuals cannot discover or access their personal values.
+  polarity_expression: The directionless polarity manifests as complete disconnection from personal values, with substance use or emptiness replacing any sense of what matters.
+  cross_domain_resonance: Resonates with emotional numbing (psy-emo-num-mal) blocking access to value-signaling emotions, and identity diffusion (soc-ide-dif-fra) lacking coherent sense of self.
+  academic_description: Failed value identification represents a fundamental disconnection from sources of meaning. Research indicates that chronic substance use can create value blindness, where drugs become the sole organizing principle. Studies show individuals in active addiction often cannot identify any personal values beyond substance acquisition. This state is characterized by anhedonia for previously valued activities and alexithymia for value-related emotions.
+  clinical_description: Clients with value identification failure cannot name what matters to them. When asked about values, responses include 'I don't know,' 'nothing matters,' or 'just getting high.' Standard values exercises fail as clients cannot connect with any options. Interventions begin with experiential exercises bypassing cognitive barriers - art, music, or movement to access pre-verbal value connections. Therapists explore pre-addiction values or moments of non-substance pleasure.
+  lay_description: When you can't identify your values, life feels empty and meaningless. Nothing seems to matter except maybe getting high or avoiding pain. You might look at lists of values like 'family' or 'creativity' and feel nothing - like they're words that apply to other people but not you. It's like being colorblind to what makes life worth living.
+  foundational_themes: Existential emptiness, meaning absence, and disconnection from life purpose
+  experiential_processes: Emotional numbness to values, cognitive blindness to meaning, and exclusive focus on immediate survival or substance needs
+  personal_relevance: Maintains addiction cycle by removing alternative sources of meaning and direction
+- id: exi-val-cla-art-pur
+  label: Value Articulation - Purposeful
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Clear value expression
+  - Value communication
+  - Value verbalization
+  scope: Represents the ability to clearly articulate and express identified values in words. Individuals can explain why values matter personally, describe them in meaningful terms, and communicate their importance to others effectively.
+  parent_scope_inheritance: This anchor specifies the articulation component of values clarification, focusing on the verbal expression and communication of identified values.
+  polarity_expression: The purposeful polarity manifests as fluent expression of personal values with clear explanations of their meaning and importance.
+  cross_domain_resonance: Resonates with verbal processing (psy-cog-ver-ada) in language use, and interpersonal expression (soc-com-exp-coh) in communicating values to others.
+  academic_description: Value articulation involves translating internal value recognition into verbal expression. Research demonstrates that articulating values strengthens commitment through public declaration and self-persuasion effects. Studies show that individuals who can explain why values matter personally show greater value-behavior consistency. The process requires integration of emotional understanding with verbal capacities.
+  clinical_description: Successful value articulation means clients can explain values in their own words. They move beyond generic statements like 'family is important' to personal expressions like 'being the parent who shows up matters because I know what absence feels like.' Interventions include values writing exercises, metaphor development, and group sharing. Clinicians assess articulation through clarity, personal relevance, and emotional congruence of expressions.
+  lay_description: Value articulation is being able to put into words what matters to you and why. It's not just saying 'family is important' but explaining 'I want to be the dad who teaches his kids to ride bikes because those moments create bonds that last forever.' When you can articulate values clearly, they become more real and you can share them with others who can support you.
+  foundational_themes: Authentic self-expression, meaning communication, and value declaration
+  experiential_processes: Verbal encoding of values, emotional-linguistic integration, and interpersonal value sharing
+  personal_relevance: Strengthens value commitment through declaration and enables social support for value-based living
+- id: exi-val-cla-art-dir
+  label: Value Articulation - Directionless
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Value inarticulateness
+  - Value expression failure
+  - Value alexithymia
+  scope: Represents the inability to articulate or express values verbally despite potential internal awareness. Individuals cannot explain what matters or why, struggling to put values into words or communicate their importance.
+  parent_scope_inheritance: This anchor specifies the failed articulation component of values clarification, where individuals cannot verbally express their values even if internally recognized.
+  polarity_expression: The directionless polarity manifests as verbal blockage around values, with individuals unable to explain or communicate what matters to them.
+  cross_domain_resonance: Resonates with verbal processing deficits (psy-cog-ver-mal) and communication fragmentation (soc-com-exp-fra) in expression failures.
+  academic_description: Value articulation failure represents a disconnect between internal recognition and verbal expression. Research identifies this as values alexithymia - inability to put values into words. Studies show this predicts poorer treatment outcomes as individuals cannot engage in values-based therapy discussions. The condition may stem from limited emotional vocabulary, shame, or developmental trauma affecting self-expression.
+  clinical_description: Clients with articulation failure say 'I know what matters but can't explain it' or resort to clichés without personal meaning. They may identify values on card sorts but cannot elaborate beyond single words. Interventions use non-verbal expression first - art, music, or movement - then build bridges to words. Therapists provide vocabulary scaffolding and normalize the difficulty of value expression.
+  lay_description: When you can't articulate values, you might feel something matters deep inside but can't find words to explain it. You might point to 'family' on a list but freeze when asked why it matters to you. It's like having a song in your heart but no voice to sing it. This makes it hard to get support from others or stay committed when things get tough.
+  foundational_themes: Expression blockage, meaning muteness, and isolation in values
+  experiential_processes: Verbal-emotional disconnection, expression anxiety, and reliance on empty clichés
+  personal_relevance: Prevents social support and weakens commitment to value-based change
+- id: exi-val-cla-pri-pur
+  label: Value Prioritization - Purposeful
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Clear value hierarchy
+  - Organized value system
+  - Value ranking clarity
+  scope: Represents the ability to organize values into clear hierarchies and priorities. Individuals can rank values by importance, navigate value trade-offs, and use their value hierarchy to guide decisions when values conflict.
+  parent_scope_inheritance: This anchor specifies the prioritization component of values clarification, focusing on the hierarchical organization of multiple identified values.
+  polarity_expression: The purposeful polarity manifests as well-organized value hierarchies that provide clear guidance for decisions and trade-offs.
+  cross_domain_resonance: Resonates with executive prioritization (psy-exe-pri-ada) in ranking processes, and organizational regulation (phy-exe-org-reg) in systematic arrangement.
+  academic_description: Value prioritization involves organizing multiple values into functional hierarchies. Schwartz's circumplex model shows values exist in structured relationships with compatible and conflicting values. Research demonstrates that clear value hierarchies predict better decision-making and reduced ambivalence. Individuals with organized value systems show greater life satisfaction and goal achievement.
+  clinical_description: Successful prioritization means clients can rank their top 3-5 values and explain the hierarchy. They navigate trade-offs effectively, like choosing family time over work advancement. Assessment uses ranking exercises, paired comparisons, and hypothetical trade-off scenarios. Clinicians help explore what happens when values conflict and how to honor multiple values proportionally.
+  lay_description: Value prioritization is figuring out which values matter most when you can't have everything. It's knowing that while both family and career matter, family comes first when they conflict. Having clear priorities helps you make tough decisions - like turning down overtime to attend your kid's game - without endless second-guessing.
+  foundational_themes: Life priority clarity, decision-making framework, and value integration
+  experiential_processes: Comparative value weighing, trade-off navigation, and hierarchical thinking
+  personal_relevance: Enables consistent decision-making and reduces paralysis when values conflict
+- id: exi-val-cla-pri-dir
+  label: Value Prioritization - Directionless
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Value chaos
+  - Priority confusion
+  - Value conflict paralysis
+  scope: Represents the inability to organize values into priorities or hierarchies. Individuals experience all values as equally important or unimportant, cannot navigate trade-offs, and become paralyzed when values conflict.
+  parent_scope_inheritance: This anchor specifies the failed prioritization component of values clarification, where individuals cannot organize their values hierarchically.
+  polarity_expression: The directionless polarity manifests as chaotic or absent value organization, creating decision paralysis and chronic ambivalence.
+  cross_domain_resonance: Resonates with executive dysfunction (psy-exe-pri-mal) in prioritization failure, and organizational dysregulation (phy-exe-org-dys) in systematic disorganization.
+  academic_description: Value prioritization failure creates a flat value landscape where everything matters equally or nothing matters at all. Research shows this predicts decision paralysis and chronic ambivalence. Studies indicate that individuals with unorganized value systems experience greater distress when facing trade-offs. This state often emerges from perfectionism, trauma, or substance use disrupting executive function.
+  clinical_description: Clients with prioritization failure cannot rank values, saying 'they're all equally important' or changing rankings constantly. They become paralyzed by decisions requiring trade-offs, unable to choose between competing goods. Every choice feels like betraying something important. Interventions include forced ranking exercises, exploring the cost of not choosing, and accepting imperfect prioritization.
+  lay_description: Without value priorities, every decision becomes overwhelming. If family, work, health, and friends all matter equally, you're paralyzed when they conflict. You might ping-pong between choices, never satisfied because you're always neglecting something important. Or everything feels equally meaningless, so why choose anything? It's like trying to walk in all directions at once.
+  foundational_themes: Priority paralysis, value chaos, and decision overwhelm
+  experiential_processes: Ambivalence cycling, trade-off avoidance, and all-or-nothing value thinking
+  personal_relevance: Creates chronic indecision and prevents committed action in any direction
+- id: exi-val-cla-aut-pur
+  label: Value Authenticity - Purposeful
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Authentic values
+  - Self-determined values
+  - Intrinsic values
+  scope: Represents clear differentiation between authentic personal values and externally imposed expectations. Individuals can distinguish their own values from others' expectations, with values feeling personally chosen and intrinsically motivated.
+  parent_scope_inheritance: This anchor specifies the authenticity component of values clarification, focusing on differentiating between personal and imposed values.
+  polarity_expression: The purposeful polarity manifests as strong sense of value ownership with clear differentiation between 'I want' and 'I should.'
+  cross_domain_resonance: Resonates with authentic identity (soc-ide-aut-coh) in genuine self-expression, and self-differentiation (psy-sel-dif-ada) in distinguishing self from others.
+  academic_description: Value authenticity involves distinguishing intrinsic from extrinsic values. Self-Determination Theory shows intrinsic values (chosen for inherent satisfaction) predict well-being better than extrinsic values (pursued for external rewards). Research demonstrates that authentic value endorsement - values feeling personally chosen - predicts greater value-behavior consistency and life satisfaction.
+  clinical_description: 'Clients with authentic values can explain ''This matters to ME because...'' rather than ''I should value this.'' They differentiate between inherited family values and personal choices. Assessment explores value origins: ''Whose voice is that?'' when clients express values. Success includes owning chosen values and releasing imposed ones without guilt.'
+  lay_description: Authentic values are the ones that truly come from you, not what your parents, society, or others say should matter. It's knowing the difference between 'I want to be creative because it makes me feel alive' versus 'I should value success because that's what winners do.' When values are authentic, they energize rather than burden you.
+  foundational_themes: Self-determination, authentic choice, and intrinsic motivation
+  experiential_processes: Self-exploration, differentiation from others, and ownership of personal values
+  personal_relevance: Creates sustainable motivation and reduces conflict between self and values
+- id: exi-val-cla-aut-dir
+  label: Value Authenticity - Directionless
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Imposed values
+  - Introjected values
+  - Inauthentic values
+  scope: Represents confusion between personal values and external expectations. Individuals cannot distinguish their own values from others' impositions, with all values feeling like 'shoulds' rather than authentic choices.
+  parent_scope_inheritance: This anchor specifies the failed authenticity component of values clarification, where individuals cannot differentiate personal from imposed values.
+  polarity_expression: The directionless polarity manifests as value confusion with inability to distinguish self from others' expectations.
+  cross_domain_resonance: Resonates with identity diffusion (soc-ide-dif-fra) lacking authentic self, and poor differentiation (psy-sel-dif-mal) in self-other confusion.
+  academic_description: Value inauthenticity represents introjection of others' values without integration. Research shows this creates internal conflict as individuals pursue values that don't align with their authentic self. Studies demonstrate that externally regulated values predict lower well-being, greater distress, and increased vulnerability to addiction as individuals seek escape from inauthentic living.
+  clinical_description: 'Clients with inauthentic values express only ''shoulds'' and ''supposed tos.'' They cannot identify any personally chosen values, living by others'' rules. When asked why something matters, responses reference external authorities: ''My family expects it,'' ''Society says so.'' Interventions explore family-of-origin messages, practice permission-giving for authentic choice, and differentiate self from internalized others.'
+  lay_description: When values are inauthentic, everything feels like an obligation imposed by others. You might pursue success because dad demands it, or sacrifice yourself because mom modeled it, never asking what YOU actually want. Life becomes a performance for an audience that might not even be watching anymore. It's exhausting living by everyone else's rules.
+  foundational_themes: External control, self-abandonment, and living for others
+  experiential_processes: People-pleasing, should-thinking, and suppression of authentic desires
+  personal_relevance: Maintains external locus of control and prevents genuine engagement with life
+- id: exi-val-cla-dom-pur
+  label: Domain-Specific Value Clarity - Purposeful
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Comprehensive value clarity
+  - Multi-domain values
+  - Balanced value coverage
+  scope: Represents clear values across all major life domains including family, work, health, relationships, and personal growth. Individuals have articulated values for each area of life, creating comprehensive life direction.
+  parent_scope_inheritance: This anchor specifies the domain-specific component of values clarification, focusing on achieving clarity across all life areas.
+  polarity_expression: The purposeful polarity manifests as well-rounded value clarity providing direction in all life domains.
+  cross_domain_resonance: Resonates with life meaning (exi-mea-lif-pur) in comprehensive purpose, and role balance (soc-rol-bal-coh) in multi-domain engagement.
+  academic_description: Domain-specific value clarity involves articulated values across life spheres. Research shows that values in different domains (family, work, health, spirituality, relationships, personal growth) may vary in content but should form coherent patterns. Studies demonstrate that comprehensive domain coverage predicts life satisfaction and prevents over-investment in single areas.
+  clinical_description: Clients with domain clarity can articulate values for family ('being present and supportive'), work ('using creativity to contribute'), health ('treating my body with respect'), relationships ('deep authentic connection'), and growth ('continuous learning'). Assessment uses life wheel exercises mapping values to domains. Success includes balanced attention across domains without neglecting any area.
+  lay_description: Domain-specific clarity means knowing what matters in each area of your life. You're clear about what kind of parent, worker, friend, and person you want to be. Instead of putting all eggs in one basket - like only caring about work - you have a vision for your whole life. Each area has its own values that together create a complete picture.
+  foundational_themes: Holistic life vision, balanced purpose, and comprehensive meaning
+  experiential_processes: Multi-domain exploration, life visioning, and balanced value development
+  personal_relevance: Creates well-rounded life direction and prevents single-domain fixation
+- id: exi-val-cla-dom-dir
+  label: Domain-Specific Value Clarity - Directionless
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Values Clarification
+  cluster_id: exi-val-cla
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Domain value absence
+  - Life area blindness
+  - Narrow value focus
+  scope: Represents absence or confusion of values across life domains. Individuals have blank spots in major life areas, with substance use or emptiness replacing domain-specific values, creating an impoverished life vision.
+  parent_scope_inheritance: This anchor specifies the failed domain-specific component of values clarification, where individuals lack values across life areas.
+  polarity_expression: The directionless polarity manifests as empty or confused values in multiple life domains, often with substance use filling all areas.
+  cross_domain_resonance: Resonates with meaninglessness (exi-mea-lif-dir) in life emptiness, and role imbalance (soc-rol-imb-fra) in domain neglect.
+  academic_description: Domain-specific value absence creates impoverished life vision with entire areas lacking direction. Research shows addiction often causes domain collapse where substance use becomes the organizing principle across all life areas. Studies demonstrate that individuals may retain values in one domain (often work) while others remain empty, creating imbalanced lives vulnerable to relapse.
+  clinical_description: 'Clients show blank responses when exploring certain domains: ''I don''t know what kind of parent I want to be'' or ''Health doesn''t matter.'' Substance use may dominate all domains: ''Family means using together,'' ''Work is for drug money.'' Some maintain single-domain values (career success) while neglecting others entirely. Interventions explore each domain separately, using ''life without addiction'' visioning.'
+  lay_description: Without domain-specific values, whole areas of life feel empty or meaningless. You might have no vision for relationships beyond using buddies, or health might not exist as a concept. Sometimes drugs fill every domain - family becomes about using together, work is just for drug money. It's like having a life map with huge blank spaces where important territories should be.
+  foundational_themes: Life impoverishment, domain emptiness, and narrow existence
+  experiential_processes: Domain neglect, substance-dominated thinking, and life vision poverty
+  personal_relevance: Maintains narrow addiction-focused life and prevents balanced recovery

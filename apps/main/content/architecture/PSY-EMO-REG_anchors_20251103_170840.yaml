@@ -1,0 +1,410 @@
+# Generated anchors for cluster: PSY-EMO-REG
+# Timestamp: 20251103_170840
+
+anchors:
+- id: psy-emo-reg-cog-ada
+  label: Adaptive Cognitive Reappraisal
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Flexible reframing
+  - Cognitive flexibility
+  - Adaptive thinking
+  scope: Represents the capacity for flexible cognitive reframing of emotional situations that reduces distress while maintaining accurate reality testing. Includes perspective-taking, benefit finding, and normalization without minimization.
+  parent_scope_inheritance: Specifies the cognitive reappraisal component of emotion regulation, focusing on thought-based strategies that alter emotional trajectories through meaning-making.
+  polarity_expression: Manifests as flexible, reality-based reframing that effectively reduces emotional intensity while preserving adaptive emotional responses to genuine threats or losses.
+  cross_domain_resonance: Resonates with phy-neu-exc-cog-reg (cognitive control), soc-fam-com-per-coh (perspective-taking in families), and exi-mea-coh-ref-pur (meaning-making).
+  academic_description: Cognitive reappraisal involves changing the way one thinks about a situation to alter its emotional impact. Research shows activation of prefrontal regions during successful reappraisal with corresponding decreases in amygdala activity. Effective reappraisal predicts better mental health outcomes and is associated with increased positive affect and decreased negative affect without the physiological costs of suppression.
+  clinical_description: Assessment evaluates spontaneous use of reappraisal, flexibility in generating alternative interpretations, and ability to maintain balanced perspectives. Interventions include cognitive restructuring, Socratic questioning, and perspective-taking exercises. Therapists help identify automatic thoughts, examine evidence, and develop more balanced interpretations while avoiding toxic positivity or minimization of genuine concerns.
+  lay_description: This is about being able to look at situations from different angles to feel better without lying to yourself. Like seeing a job rejection as a chance to find something better, or understanding someone's criticism comes from their own struggles. It's finding the genuine silver lining or broader perspective that helps you cope.
+  core_components:
+  - Perspective-taking ability
+  - Cognitive flexibility
+  - Reality testing
+  associated_processes:
+  - Meaning-making
+  - Attribution processes
+  - Metacognition
+- id: psy-emo-reg-cog-mal
+  label: Maladaptive Cognitive Reappraisal
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Cognitive rigidity
+  - Reappraisal deficits
+  - Distorted thinking
+  scope: Represents impaired cognitive reappraisal characterized by inability to reframe, catastrophizing, or reality-distorting interpretations that maintain or increase emotional distress.
+  parent_scope_inheritance: Specifies the dysfunctional cognitive reappraisal aspect of emotion regulation, where thought-based strategies fail to modulate emotions or actively worsen emotional states.
+  polarity_expression: Manifests as rigid negative interpretations, catastrophic thinking, or defensive distortions that prevent emotional resolution and maintain dysregulation.
+  cross_domain_resonance: Resonates with phy-neu-exc-cog-dys (cognitive dyscontrol), soc-fam-com-per-fra (perspective-taking failures), and exi-mea-coh-ref-dir (meaning fragmentation).
+  academic_description: Reappraisal deficits involve reduced prefrontal activation and persistent amygdala activity during regulation attempts. Cognitive rigidity limits generation of alternative interpretations. Catastrophizing and rumination represent failed reappraisal attempts that amplify rather than reduce distress. In addiction, substance use bypasses the need for cognitive regulation, further atrophying reappraisal abilities.
+  clinical_description: Assessment reveals black-and-white thinking, catastrophizing, personalization, and inability to generate alternatives. Patients show rigid adherence to initial negative interpretations despite contradictory evidence. Interventions target cognitive flexibility through thought records, evidence examination, and graduated practice with increasingly complex emotional situations. Address both inability to reappraise and maladaptive reappraisal patterns.
+  lay_description: This is when your mind gets stuck on the worst possible interpretation of events and you can't see any other way to look at things. Every setback becomes a catastrophe, every criticism means you're worthless, and you can't find any genuine positives even when they exist. Your thinking becomes a trap that makes emotions worse.
+  core_components:
+  - Cognitive inflexibility
+  - Catastrophic thinking
+  - Interpretive bias
+  associated_processes:
+  - Rumination
+  - Negative attribution style
+  - Metacognitive deficits
+- id: psy-emo-reg-sup-ada
+  label: Adaptive Expression Modulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Appropriate expression
+  - Emotional congruence
+  - Expressive flexibility
+  scope: Represents context-appropriate modulation of emotional expression that maintains social functioning while preserving internal emotional processing and authenticity.
+  parent_scope_inheritance: Specifies the expressive component of emotion regulation, focusing on the adaptive modulation of emotional display based on social context without suppressing internal experience.
+  polarity_expression: Manifests as flexible adjustment of emotional expression to social demands while maintaining emotional awareness and allowing internal processing to occur naturally.
+  cross_domain_resonance: Resonates with soc-int-com-exp-coh (social expression), phy-aut-str-car-reg (physiological regulation), and exi-aut-exp-emo-pur (authentic expression).
+  academic_description: Adaptive expression modulation involves the strategic display of emotions based on social context without the costs of suppression. Unlike suppression, this involves surface acting while maintaining deep emotional processing. Research shows this preserves social relationships without increasing physiological arousal or impairing memory formation that occurs with suppression.
+  clinical_description: Assessment evaluates appropriateness of emotional expression across contexts, congruence between internal experience and expression, and social outcomes. Interventions include emotion expression exercises, assertiveness training, and practice with graduated emotional disclosure. Focus on expanding expressive repertoire rather than suppression.
+  lay_description: This is about knowing when and how to show your emotions in ways that work for the situation. You might tone down your excitement at a funeral or hold back tears at work, but you're still feeling and processing those emotions inside. It's like having a volume control that you can adjust without turning off the music.
+  core_components:
+  - Expressive flexibility
+  - Social attunement
+  - Internal-external congruence
+  associated_processes:
+  - Social cognition
+  - Display rules
+  - Emotional intelligence
+- id: psy-emo-reg-sup-mal
+  label: Maladaptive Expression Suppression
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Chronic suppression
+  - Emotional inhibition
+  - Expressive suppression
+  scope: Represents chronic suppression of emotional expression that paradoxically increases physiological arousal, impairs social connection, and prevents emotional processing.
+  parent_scope_inheritance: Specifies the dysfunctional expressive suppression aspect of emotion regulation, where attempts to hide emotions create additional dysregulation and interpersonal problems.
+  polarity_expression: Manifests as rigid inhibition of emotional expression leading to increased internal arousal, emotional numbing, social disconnection, and accumulation of unprocessed emotions.
+  cross_domain_resonance: Resonates with soc-int-com-exp-fra (expression breakdown), phy-aut-str-car-dys (autonomic dysregulation), and exi-aut-exp-emo-dir (emotional inauthenticity).
+  academic_description: Expressive suppression involves conscious inhibition of emotion-expressive behavior while emotionally aroused. Research demonstrates paradoxical effects including increased sympathetic activation, impaired memory for emotional events, and reduced rapport in social interactions. Chronic suppression is associated with depression, anxiety, and substance use as alternative regulation strategies.
+  clinical_description: Assessment reveals flat or incongruent affect, reports of feeling emotionally numb, and social withdrawal. Physical symptoms include tension, fatigue from effortful suppression. Interventions focus on safe emotional expression through writing, art, or graduated verbal expression. Address fears about emotional expression and build tolerance for vulnerability.
+  lay_description: This is when you constantly hold back your emotions, putting on a mask that everything is fine. But inside, the pressure builds up like a shaken soda bottle. You might feel disconnected from others who can't see the real you, and the effort of hiding feelings becomes exhausting. Eventually, emotions leak out in unexpected ways or you turn to substances to manage the pressure.
+  core_components:
+  - Behavioral inhibition
+  - Emotional masking
+  - Internal-external incongruence
+  associated_processes:
+  - Emotional numbing
+  - Social withdrawal
+  - Physiological arousal
+- id: psy-emo-reg-att-ada
+  label: Adaptive Attentional Deployment
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Flexible attention
+  - Attentional control
+  - Selective attention
+  scope: Represents flexible direction of attention toward or away from emotional stimuli based on regulatory goals, including effective distraction, concentration, and mindful awareness.
+  parent_scope_inheritance: Specifies the attentional component of emotion regulation, focusing on how attention is strategically deployed to modulate emotional experience.
+  polarity_expression: Manifests as ability to shift attention flexibly between emotional and neutral stimuli, engage in helpful distraction, or maintain present-moment awareness as needed.
+  cross_domain_resonance: Resonates with phy-neu-exc-att-reg (attention networks), psy-cog-exc-att-ada (cognitive attention), and exi-pre-awa-foc-pur (present-moment focus).
+  academic_description: Attentional deployment involves directing attention to modulate emotional response, including distraction (shifting attention away) and concentration (focusing on non-emotional aspects). Effective deployment activates frontoparietal attention networks to regulate limbic activity. Mindfulness represents a form of attentional deployment involving non-judgmental present-moment awareness.
+  clinical_description: Assessment evaluates ability to disengage from emotional stimuli, use distraction effectively, and maintain attentional flexibility. Interventions include attention training technique, mindfulness practices, and behavioral strategies for redirection. Build capacity for both focused and divided attention based on regulatory needs.
+  lay_description: This is about being able to direct your mental spotlight where it needs to go. When overwhelmed, you might focus on your breathing or immerse yourself in an activity. When problem-solving is needed, you can zoom in on the issue. It's like being the director of your own attention, choosing what to focus on based on what helps you cope.
+  core_components:
+  - Attentional flexibility
+  - Selective attention
+  - Present-moment awareness
+  associated_processes:
+  - Distraction
+  - Concentration
+  - Mindfulness
+- id: psy-emo-reg-att-mal
+  label: Maladaptive Attentional Deployment
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Attentional rigidity
+  - Rumination
+  - Hypervigilance
+  scope: Represents inflexible attention patterns including rumination, worry, hypervigilance to threat, or complete avoidance that maintain or amplify emotional distress.
+  parent_scope_inheritance: Specifies the dysfunctional attentional deployment aspect of emotion regulation, where attention becomes stuck or misdirected in ways that worsen emotional states.
+  polarity_expression: Manifests as inability to disengage from negative stimuli, compulsive monitoring of threats, or rigid avoidance that prevents emotional processing and problem-solving.
+  cross_domain_resonance: Resonates with phy-neu-exc-att-dys (attention deficits), psy-cog-exc-att-mal (cognitive perseveration), and exi-pre-awa-foc-dir (attentional fragmentation).
+  academic_description: Maladaptive attentional deployment includes rumination (repetitive focus on distress), worry (repetitive focus on future threats), and attentional bias toward negative stimuli. These patterns show increased default mode network activity and reduced cognitive control network engagement. Hypervigilance maintains anxiety while avoidance prevents habituation and learning.
+  clinical_description: Assessment reveals difficulty disengaging from negative thoughts, scanning for threats, or blanking out when emotional. Patients report feeling stuck in mental loops or unable to focus on anything but their distress. Interventions include rumination-focused CBT, attention bias modification, and grounding techniques to break attentional fixation.
+  lay_description: This is when your attention gets hijacked by worry or negative thoughts and you can't break free. You might replay the same painful memory over and over, constantly scan for danger, or zone out completely to avoid feelings. Your mental spotlight gets stuck, either locked onto distress or trying so hard to look away that you miss important information.
+  core_components:
+  - Attentional inflexibility
+  - Negative bias
+  - Avoidant attention
+  associated_processes:
+  - Perseveration
+  - Worry cycles
+  - Dissociation
+- id: psy-emo-reg-sit-ada
+  label: Adaptive Situation Selection
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Strategic selection
+  - Proactive regulation
+  - Environmental structuring
+  scope: Represents proactive selection and modification of situations to regulate emotional exposure, balancing approach toward growth opportunities with appropriate self-protection.
+  parent_scope_inheritance: Specifies the situation selection component of emotion regulation, focusing on antecedent-focused strategies that shape emotional experience through environmental choices.
+  polarity_expression: Manifests as thoughtful selection of activities, relationships, and environments that support emotional wellbeing while maintaining engagement with meaningful challenges.
+  cross_domain_resonance: Resonates with soc-env-con-phy-coh (environmental structuring), psy-mot-goa-app-ada (approach behaviors), and exi-age-act-eng-pur (purposeful engagement).
+  academic_description: Situation selection involves approaching or avoiding situations based on their likely emotional impact. Adaptive selection requires accurate prediction of emotional consequences and balancing short-term comfort with long-term goals. This antecedent-focused strategy prevents emotional dysregulation before it occurs while maintaining necessary exposure for growth and learning.
+  clinical_description: Assessment evaluates patterns of approach and avoidance, ability to predict emotional consequences, and balance between protection and growth. Interventions include behavioral activation, values-based activity scheduling, and graduated exposure planning. Help patients identify situations that support recovery while respecting genuine limitations.
+  lay_description: This is about making smart choices about where you go, who you spend time with, and what you do based on how it affects your emotions. Like choosing to avoid bars in early recovery, scheduling difficult conversations when you're rested, or seeking out activities that lift your mood. It's planning your life to set yourself up for emotional success.
+  core_components:
+  - Environmental planning
+  - Social selection
+  - Activity choice
+  associated_processes:
+  - Behavioral activation
+  - Values clarification
+  - Risk assessment
+- id: psy-emo-reg-sit-mal
+  label: Maladaptive Situation Selection
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Excessive avoidance
+  - Compulsive seeking
+  - Situational rigidity
+  scope: Represents dysfunctional patterns of situation selection including excessive avoidance that limits life or compulsive seeking of emotionally intense situations.
+  parent_scope_inheritance: Specifies the maladaptive situation selection aspect of emotion regulation, where environmental choices perpetuate emotional problems rather than solving them.
+  polarity_expression: Manifests as rigid avoidance of necessary situations, thrill-seeking that creates chaos, or inability to structure environment for emotional stability.
+  cross_domain_resonance: Resonates with soc-env-con-phy-fra (environmental chaos), psy-mot-goa-avo-mal (pathological avoidance), and exi-age-act-eng-dir (disengagement).
+  academic_description: Maladaptive situation selection includes experiential avoidance that maintains anxiety and depression through prevention of corrective experiences. Alternatively, sensation-seeking and selection of chaotic situations provides external regulation but prevents development of internal regulation capacities. Both patterns show poor prediction of emotional consequences and short-term focus.
+  clinical_description: Assessment reveals patterns of isolation, procrastination, or conversely, drama-seeking and crisis-generation. Patients avoid necessary but challenging situations or repeatedly enter destructive relationships and environments. Interventions include graded exposure, contingency management, and environmental restructuring with clear boundaries.
+  lay_description: This is when you either hide from life to avoid difficult feelings or constantly put yourself in dramatic, chaotic situations. You might avoid job interviews, social events, or doctor appointments because they cause anxiety. Or you might seek out toxic relationships and risky situations because the intensity feels familiar. Either way, your choices about situations keep you stuck.
+  core_components:
+  - Avoidance patterns
+  - Sensation-seeking
+  - Environmental chaos
+  associated_processes:
+  - Experiential avoidance
+  - Risk-taking
+  - Social isolation
+- id: psy-emo-reg-res-ada
+  label: Adaptive Response Modulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Effective modulation
+  - Arousal regulation
+  - Response control
+  scope: Represents effective modulation of emotional responses once activated, including physiological calming, behavioral control, and experiential acceptance techniques.
+  parent_scope_inheritance: Specifies the response modulation component of emotion regulation, focusing on direct influence over ongoing emotional responses at physiological and behavioral levels.
+  polarity_expression: Manifests as ability to calm physiological arousal, control behavioral impulses, and modulate subjective emotional intensity through body-based and behavioral interventions.
+  cross_domain_resonance: Resonates with phy-aut-str-sym-reg (autonomic regulation), psy-mot-exe-inh-ada (behavioral inhibition), and exi-emb-som-int-pur (somatic integration).
+  academic_description: Response modulation targets emotional responses after they have been initiated. Techniques include deep breathing to activate parasympathetic response, progressive muscle relaxation to reduce tension, and behavioral strategies like opposite action. These response-focused strategies directly alter the trajectory of activated emotions through bottom-up regulation pathways.
+  clinical_description: Assessment evaluates speed of return to baseline, effectiveness of self-soothing, and behavioral control during emotional activation. Interventions include relaxation training, biofeedback, TIPP skills from DBT (temperature, intense exercise, paced breathing, paired muscle relaxation), and opposite action techniques.
+  lay_description: This is about being able to calm yourself down when emotions are already running high. Using techniques like deep breathing, cold water on your face, or going for a run to burn off anger. It's having a toolkit of ways to directly dial down the intensity when you're already activated, bringing your body and behaviors back under control.
+  core_components:
+  - Physiological regulation
+  - Behavioral control
+  - Intensity modulation
+  associated_processes:
+  - Self-soothing
+  - Arousal reduction
+  - Impulse control
+- id: psy-emo-reg-res-mal
+  label: Maladaptive Response Modulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Dysregulated responses
+  - Modulation failure
+  - Substance-dependent regulation
+  scope: Represents inability to modulate emotional responses once activated, with prolonged arousal, behavioral dyscontrol, or reliance on substances for regulation.
+  parent_scope_inheritance: Specifies the failed response modulation aspect of emotion regulation, where activated emotions cannot be effectively modulated through healthy strategies.
+  polarity_expression: Manifests as prolonged physiological arousal, inability to self-soothe, impulsive behaviors during emotional states, or dependence on substances for arousal reduction.
+  cross_domain_resonance: Resonates with phy-aut-str-sym-dys (autonomic dysregulation), psy-mot-exe-inh-mal (disinhibition), and exi-emb-som-int-dir (somatic disconnection).
+  academic_description: Failed response modulation involves inability to activate parasympathetic response, prolonged sympathetic arousal, and behavioral disinhibition during emotional states. Substance use becomes primary modulation strategy, preventing development of natural regulation capacities. Kindling effects lead to increasingly intense and prolonged emotional responses over time.
+  clinical_description: Assessment reveals prolonged recovery from emotional activation, panic responses, emotional flooding, and substance use for calming. Patients report feeling unable to calm down, experiencing emotions as overwhelming and uncontrollable. Interventions may require medication support initially, intensive skills training, and somatic approaches to rebuild regulation capacity.
+  lay_description: This is when you can't calm down once upset - emotions feel like a runaway train. Your heart keeps racing, you can't stop crying, or anger explodes into actions you regret. Without healthy ways to dial down intensity, you might turn to alcohol, drugs, or other quick fixes. It feels like emotions control you rather than the other way around.
+  core_components:
+  - Prolonged arousal
+  - Self-soothing deficits
+  - Behavioral dyscontrol
+  associated_processes:
+  - Emotional flooding
+  - Panic responses
+  - Substance dependence
+- id: psy-emo-reg-flx-ada
+  label: Adaptive Regulatory Flexibility
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Strategic flexibility
+  - Regulatory repertoire
+  - Context-sensitive regulation
+  scope: Represents the meta-capacity to select and switch between regulation strategies based on contextual demands, emotional intensity, and available resources.
+  parent_scope_inheritance: Specifies the flexibility component of emotion regulation, focusing on the higher-order ability to deploy different strategies adaptively rather than any single strategy.
+  polarity_expression: Manifests as broad repertoire of strategies, accurate assessment of situational demands, and smooth transitions between regulatory approaches as contexts change.
+  cross_domain_resonance: Resonates with psy-cog-exe-cfl-ada (cognitive flexibility), soc-ada-cop-str-coh (coping flexibility), and exi-gro-dev-ada-pur (adaptive development).
+  academic_description: Regulatory flexibility involves the ability to implement different emotion regulation strategies depending on contextual demands. This meta-regulatory capacity requires monitoring of regulation effectiveness, accurate appraisal of situational features, and executive control to switch strategies. Research shows flexibility predicts better outcomes than any single strategy used rigidly.
+  clinical_description: Assessment evaluates repertoire breadth, strategy-situation matching, and ability to switch approaches when initial attempts fail. Interventions include regulatory flexibility training, teaching multiple strategies with decision rules for selection, and practicing transitions between strategies in session.
+  lay_description: This is like having a full toolbox and knowing which tool to use when. Sometimes you need to think differently about a situation, other times you need to breathe through it, and sometimes you need to leave. Being flexible means you can try different approaches and switch gears when something isn't working, rather than getting stuck using the same strategy for everything.
+  core_components:
+  - Strategy repertoire
+  - Contextual sensitivity
+  - Regulatory monitoring
+  associated_processes:
+  - Meta-awareness
+  - Strategy selection
+  - Adaptive switching
+- id: psy-emo-reg-flx-mal
+  label: Maladaptive Regulatory Rigidity
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Regulatory inflexibility
+  - Strategy perseveration
+  - Context-blind regulation
+  scope: Represents rigid application of limited regulation strategies regardless of context, inability to switch approaches, or absence of regulatory repertoire.
+  parent_scope_inheritance: Specifies the inflexibility aspect of emotion regulation, where regulation becomes stuck in patterns that may have once been adaptive but no longer fit current contexts.
+  polarity_expression: Manifests as perseveration on ineffective strategies, inability to recognize when different approaches are needed, or reliance on single regulation method regardless of situation.
+  cross_domain_resonance: Resonates with psy-cog-exe-cfl-mal (cognitive rigidity), soc-ada-cop-str-fra (coping breakdown), and exi-gro-dev-ada-dir (developmental stagnation).
+  academic_description: Regulatory rigidity involves over-reliance on limited strategies, often those that provided relief in past contexts but are maladaptive in current situations. Substance use represents ultimate regulatory inflexibility - one strategy applied to all emotional states. Perseveration on ineffective strategies shows reduced prefrontal flexibility and inability to update based on feedback.
+  clinical_description: Assessment reveals limited strategy repertoire, continued use of ineffective approaches, and inability to recognize contextual demands. Patients may suppress in all situations or always avoid, regardless of consequences. Interventions focus on expanding repertoire, teaching contextual assessment, and practicing flexible implementation with therapist coaching.
+  lay_description: This is like trying to use a hammer for every problem - whether you need to cut, measure, or tighten something. You might always try to think your way out of feelings, even when you need to feel them. Or you always avoid conflict, even when it needs addressing. Being stuck with one approach means it fails you when you need something different.
+  core_components:
+  - Limited repertoire
+  - Strategy perseveration
+  - Context insensitivity
+  associated_processes:
+  - Regulatory failure
+  - Maladaptive patterns
+  - Feedback resistance
+- id: psy-emo-reg-acc-ada
+  label: Adaptive Acceptance-Based Regulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Mindful acceptance
+  - Non-judgmental awareness
+  - Emotional allowing
+  scope: Represents regulation through acceptance and mindfulness, allowing emotions to arise and pass naturally without judgment or control attempts.
+  parent_scope_inheritance: Specifies the acceptance-based component of emotion regulation, focusing on regulation through non-resistance and present-moment awareness rather than active change attempts.
+  polarity_expression: Manifests as ability to observe emotions without judgment, tolerate emotional experience without immediate action, and allow natural emotional processing to occur.
+  cross_domain_resonance: Resonates with psy-emo-tol-dis-ada (distress tolerance), exi-pre-awa-mom-pur (present-moment awareness), and soc-spi-pra-min-coh (mindfulness practices).
+  academic_description: Acceptance-based regulation involves observing emotions without judgment or immediate action. This approach, central to third-wave therapies, paradoxically reduces emotional intensity through non-resistance. Mindfulness meditation increases prefrontal regulation while reducing amygdala reactivity. Acceptance prevents secondary emotions about emotions and allows natural habituation.
+  clinical_description: Assessment evaluates capacity for non-judgmental observation, willingness to experience emotions, and ability to resist immediate action urges. Interventions include mindfulness meditation, ACT exercises for willingness, DBT radical acceptance skills, and practice tolerating emotions in session without immediate resolution.
+  lay_description: This is about making peace with your emotions instead of fighting them. Like watching clouds pass in the sky, you observe feelings come and go without trying to push them away or hold onto them. By accepting that it's okay to feel sad, angry, or scared, the emotions often naturally soften and pass more quickly than when you struggle against them.
+  core_components:
+  - Non-judgmental observation
+  - Emotional willingness
+  - Present-moment awareness
+  associated_processes:
+  - Mindfulness
+  - Radical acceptance
+  - Emotional exposure
+- id: psy-emo-reg-acc-mal
+  label: Maladaptive Acceptance Dysfunction
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotion Regulation
+  cluster_id: psy-emo-reg
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Emotional phobia
+  - Excessive detachment
+  - Compulsive control
+  scope: Represents inability to accept emotional experience, manifesting as either phobic avoidance of emotions or dissociative detachment that prevents processing.
+  parent_scope_inheritance: Specifies the failed acceptance aspect of emotion regulation, where inability to tolerate emotional experience leads to avoidance or disconnection.
+  polarity_expression: Manifests as fear of emotional experience, compulsive attempts to control all emotions, or dissociative detachment that prevents genuine emotional engagement.
+  cross_domain_resonance: Resonates with psy-emo-tol-dis-mal (distress intolerance), exi-pre-awa-mom-dir (present-moment avoidance), and soc-spi-pra-min-fra (mindfulness barriers).
+  academic_description: Acceptance dysfunction involves experiential avoidance - the unwillingness to remain in contact with emotional experiences. This creates a phobic response to emotions themselves, leading to increased arousal and secondary distress. Alternatively, dissociative detachment represents pseudo-acceptance where emotions are observed from a disconnected state, preventing integration and processing.
+  clinical_description: Assessment reveals fear of losing control if emotions are felt, belief that emotions are dangerous, or reports of watching life from outside. Patients may panic when emotions arise or feel completely disconnected during emotional situations. Interventions require graduated emotional exposure, building tolerance through brief contact, and addressing trauma-based fears of emotions.
+  lay_description: This is when emotions feel so threatening that you'll do anything to avoid them, or you disconnect so completely that you feel nothing at all. You might fear that if you start crying you'll never stop, or that anger will make you lose control. Some people describe feeling like they're watching their life from outside their body. Either way, emotions can't do their job of giving you information and motivating action.
+  core_components:
+  - Experiential avoidance
+  - Emotional phobia
+  - Dissociative detachment
+  associated_processes:
+  - Control attempts
+  - Secondary distress
+  - Emotional numbing

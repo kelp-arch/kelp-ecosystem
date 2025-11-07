@@ -1,0 +1,244 @@
+# Generated anchors for cluster: SOC-FAM-ATT
+# Timestamp: 20251104_051419
+
+anchors:
+- id: soc-fam-att-sty-coh
+  label: Secure Attachment Style
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Secure attachment organization
+  - Earned security
+  - Coherent attachment
+  scope: Represents secure attachment organization characterized by coherent internal working models, flexible relationship strategies, comfort with both intimacy and autonomy, and capacity for emotional regulation through relationships.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on the overall organization of attachment patterns into secure configurations that provide resilience against addiction.
+  polarity_expression: Manifests as organized, coherent attachment strategies with integrated representations of self and others as trustworthy and valuable.
+  cross_domain_resonance: Resonates with psy-emo-reg-ada (adaptive emotion regulation), phy-str-cor-reg (regulated stress response), and exi-mea-con-pur (purposeful connection).
+  academic_description: Secure attachment, identified in 60% of populations, develops through consistent, sensitive caregiving. Main's Adult Attachment Interview reveals coherent narratives, metacognitive monitoring, and integrated attachment representations. Secure individuals show balanced autonomic regulation, effective stress management, and resilience to psychopathology including addiction.
+  clinical_description: Assessment through Adult Attachment Interview or self-report measures identifies secure patterns. Interventions focus on maintaining security or earning security through corrective experiences, coherence-building, and narrative integration. Therapy provides secure base for exploration of relationships.
+  lay_description: Secure attachment means feeling comfortable being close to others while also being independent. These individuals trust others, ask for help when needed, and handle emotions well through relationships rather than substances.
+  structural_components: Coherent attachment representations, integrated relationship models, flexible proximity strategies
+  social_processes: Effective support-seeking, balanced intimacy-autonomy, mutual regulation
+  societal_relevance: Creates resilient families, healthy communities, reduced addiction burden
+- id: soc-fam-att-sty-fra
+  label: Insecure Attachment Style
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Insecure attachment patterns
+  - Anxious-avoidant-disorganized
+  - Attachment disorganization
+  scope: Encompasses insecure attachment patterns including anxious (preoccupied), avoidant (dismissing), and disorganized styles characterized by incoherent working models, rigid strategies, and emotional dysregulation increasing addiction vulnerability.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on disorganized attachment patterns that create vulnerability to addiction through impaired emotional regulation.
+  polarity_expression: Manifests as fragmented, incoherent attachment strategies with conflicting or rigid approaches to relationships and self-regulation.
+  cross_domain_resonance: Resonates with psy-emo-reg-mal (maladaptive regulation), phy-str-cor-dys (dysregulated stress), and exi-mea-con-dir (directionless connection).
+  academic_description: Insecure attachment affects 40% of populations through three patterns. Anxious attachment involves hyperactivating strategies, emotional flooding, and desperate proximity-seeking. Avoidant attachment uses deactivating strategies, emotional suppression, and compulsive self-reliance. Disorganized attachment shows contradictory behaviors, approach-avoidance conflicts, and dissociative responses. Each pattern increases addiction risk through different self-medication pathways.
+  clinical_description: Assessment identifies specific insecure patterns and their defensive strategies. Treatment includes attachment-based therapy, EMDR for attachment trauma, and mentalization-based approaches. Focus on recognizing patterns, processing attachment injuries, and developing earned security through therapeutic relationship.
+  lay_description: Insecure attachment develops when caregiving is inconsistent, rejecting, or frightening. Anxiously attached people cling desperately and use substances to manage overwhelming emotions. Avoidantly attached people stay distant and use substances to maintain numbness. Disorganized attachment creates chaos managed through substance use.
+  structural_components: Incoherent representations, conflicting models, rigid or chaotic strategies
+  social_processes: Dysfunctional support patterns, intimacy problems, regulation failures
+  societal_relevance: Intergenerational transmission of trauma, increased addiction rates, family dysfunction
+- id: soc-fam-att-ava-coh
+  label: Emotional Availability
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Emotional presence
+  - Responsive caregiving
+  - Emotional accessibility
+  scope: Represents consistent emotional presence and responsiveness in family relationships, including accessibility to emotional needs, responsive caregiving, and reliable emotional support creating secure attachment bonds.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on the availability and responsiveness dimension that enables secure bonding and protects against addiction.
+  polarity_expression: Manifests as consistent emotional presence, responsive engagement, and reliable accessibility for emotional connection and co-regulation.
+  cross_domain_resonance: Resonates with psy-cog-att-ada (adaptive attention), soc-com-exp-coh (cohesive expression), and phy-aut-hrv-reg (regulated heart rate variability).
+  academic_description: Emotional availability encompasses sensitivity, structuring, non-intrusiveness, and non-hostility in caregiving. Biringen's Emotional Availability Scales measure dyadic quality. Available caregivers show contingent responsiveness, appropriate affect mirroring, and consistent presence. This availability provides external regulation scaffolding, developing internal regulation capacities that protect against addiction.
+  clinical_description: Assessment uses observation scales and self-report measures of emotional availability. Interventions include Emotionally Focused Family Therapy, availability coaching, and mindful parenting programs. Focus on increasing emotional presence, recognizing bids for connection, and maintaining availability despite stress.
+  lay_description: Emotionally available family members are truly present, not just physically there. They notice emotional needs, respond warmly, and stay accessible even during difficult times. This consistent emotional presence helps family members feel secure and reduces need for substances.
+  structural_components: Consistent presence, emotional accessibility, responsive patterns
+  social_processes: Bid-response cycles, emotional engagement, co-regulation
+  societal_relevance: Prevents emotional neglect, supports healthy development, reduces addiction risk
+- id: soc-fam-att-ava-fra
+  label: Emotional Unavailability
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Emotional absence
+  - Unresponsive caregiving
+  - Emotional withdrawal
+  scope: Encompasses emotional withdrawal, unresponsiveness, and inconsistent availability in family relationships, creating attachment insecurity and driving self-soothing through substances.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on unavailability and unresponsiveness that disrupts attachment formation and increases addiction vulnerability.
+  polarity_expression: Manifests as emotional absence, missed connection bids, unpredictable availability, and failure to provide co-regulation.
+  cross_domain_resonance: Resonates with psy-cog-att-mal (maladaptive attention), soc-com-exp-fra (fragmented expression), and phy-aut-hrv-dys (dysregulated HRV).
+  academic_description: Emotional unavailability results from parental depression, substance abuse, preoccupation, or attachment avoidance. Children experience emotional neglect despite physical presence. Unavailable caregivers miss emotional cues, fail to provide contingent responses, and leave children without co-regulation support. This forces premature self-regulation, often through substance use.
+  clinical_description: Assessment identifies patterns of withdrawal, missed cues, and emotional absence. Treatment addresses underlying causes (depression, addiction, trauma) while building availability skills. Interventions include parent sensitivity training, video feedback, and addressing barriers to emotional presence.
+  lay_description: Emotionally unavailable family members may be physically present but emotionally absent. They miss emotional cues, don't respond to needs, and seem preoccupied or withdrawn. Children learn to self-soothe, often through substances, when emotional support isn't available.
+  structural_components: Inconsistent presence, emotional inaccessibility, unresponsive patterns
+  social_processes: Missed bids, failed engagement, absent co-regulation
+  societal_relevance: Creates emotional neglect, impairs development, increases addiction vulnerability
+- id: soc-fam-att-att-coh
+  label: Attuned Synchronization
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Emotional attunement
+  - Synchronized interaction
+  - Mutual regulation
+  scope: Represents accurate affect reading and synchronized interaction between family members, including contingent responding, mutual regulation, and harmonious emotional exchanges that build secure attachment.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on the quality of emotional synchronization that enables co-regulation and prevents addiction.
+  polarity_expression: Manifests as synchronized interactions, accurate emotion recognition, contingent responses, and mutual regulatory support.
+  cross_domain_resonance: Resonates with phy-aut-syn-reg (regulated autonomic synchrony), psy-soc-emp-ada (adaptive empathy), and exi-rel-res-pur (purposeful resonance).
+  academic_description: Attunement involves matching, contingent responsiveness, and interactive synchrony. Tronick's Still Face paradigm demonstrates attunement's regulatory function. Attuned interactions show temporal synchrony, affective matching, and mutual regulation. This intersubjective experience builds neural networks for self-regulation, reducing addiction vulnerability.
+  clinical_description: Assessment observes interaction synchrony, contingent responding, and mutual regulation. Interventions include video feedback, mirroring exercises, and Theraplay activities. Focus on reading cues accurately, matching affect appropriately, and maintaining interactive rhythm.
+  lay_description: Attuned families are in sync with each other's emotions. They accurately read feelings, respond appropriately, and help regulate each other's emotional states. This emotional dance teaches healthy regulation without needing substances.
+  structural_components: Synchronized patterns, contingent responses, matched affect
+  social_processes: Interactive synchrony, mutual regulation, emotional coordination
+  societal_relevance: Builds emotional intelligence, supports co-regulation, prevents dysregulation
+- id: soc-fam-att-att-fra
+  label: Misattuned Asynchrony
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Emotional misattunement
+  - Asynchronous interaction
+  - Regulatory mismatch
+  scope: Encompasses misreading of emotional cues, asynchronous interactions, and regulatory mismatches that disrupt attachment formation and drive substance use for emotional regulation.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on misattunement that prevents co-regulation and increases addiction risk through regulatory failures.
+  polarity_expression: Manifests as out-of-sync interactions, misread emotions, non-contingent responses, and amplification of distress.
+  cross_domain_resonance: Resonates with phy-aut-syn-dys (dysregulated synchrony), psy-soc-emp-mal (maladaptive empathy), and exi-rel-res-dir (directionless resonance).
+  academic_description: Misattunement occurs through intrusive overstimulation, withdrawn understimulation, or mismatched affect. Parents may misread cues, respond non-contingently, or impose their emotional states. This creates regulatory chaos, teaching children that relationships don't provide regulation, driving them toward substances for predictable relief.
+  clinical_description: Assessment identifies patterns of misreading, mistiming, and mismatching in interactions. Treatment includes attunement training, reflective functioning therapy, and Parent-Child Interaction Therapy. Focus on improving cue reading, timing responses, and matching regulatory needs.
+  lay_description: Misattuned families are emotionally out of sync. They misread feelings, respond at wrong times or in wrong ways, and may make emotional situations worse instead of better. This teaches children to seek predictable relief through substances rather than unpredictable relationships.
+  structural_components: Asynchronous patterns, non-contingent responses, mismatched affect
+  social_processes: Failed synchrony, regulatory clashes, emotional discord
+  societal_relevance: Impairs emotional development, creates regulatory problems, increases substance dependence
+- id: soc-fam-att-tru-coh
+  label: Trust and Safety
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Secure base functioning
+  - Safe haven
+  - Reliable protection
+  scope: Represents reliable safe haven and secure base functioning in family relationships, including predictable protection, consistent trustworthiness, and felt safety that enables exploration and growth.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on the trust and safety foundation that enables secure attachment and protects against addiction.
+  polarity_expression: Manifests as reliable protection, predictable availability, consistent trustworthiness, and family as safe haven.
+  cross_domain_resonance: Resonates with phy-str-cor-reg (regulated cortisol), psy-tra-saf-ada (adaptive safety), and exi-tru-fai-pur (purposeful faith).
+  academic_description: Bowlby's secure base concept describes caregivers as safe haven for distress and secure base for exploration. Trust develops through repeated experiences of protection, comfort, and reliability. Secure base behavior shows proximity-seeking when distressed and exploration when safe. This foundation provides internal security reducing addiction vulnerability.
+  clinical_description: Assessment observes secure base use, comfort-seeking, and trust behaviors. Interventions include trust-building exercises, reliability experiences, and safety planning. Focus on establishing predictability, repairing breaches, and creating felt safety.
+  lay_description: Trusting families provide a safe haven when life gets difficult and a secure base for exploring the world. Members know they can count on each other for protection and comfort, reducing the need to seek safety in substances.
+  structural_components: Reliable protection, predictable responses, consistent availability
+  social_processes: Secure base use, safe haven seeking, trust building
+  societal_relevance: Creates family stability, enables healthy risk-taking, prevents trauma
+- id: soc-fam-att-tru-fra
+  label: Betrayal and Threat
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Attachment betrayal
+  - Unsafe relationships
+  - Unpredictable threat
+  scope: Encompasses betrayal trauma, unpredictable threat, and absence of safety in family relationships, creating hypervigilance and self-protective strategies including substance use.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on trust violations and safety threats that create insecure attachment and addiction vulnerability.
+  polarity_expression: Manifests as unpredictable danger, betrayal experiences, absent protection, and family as source of threat.
+  cross_domain_resonance: Resonates with phy-str-cor-dys (dysregulated cortisol), psy-tra-saf-mal (maladaptive safety), and exi-tru-fai-dir (directionless faith).
+  academic_description: Betrayal trauma occurs when dependents are harmed by those they rely on for survival. This creates impossible bind between attachment and self-protection. Children develop hypervigilance, dissociation, and self-protective strategies. Complex trauma from attachment figures profoundly disrupts development, creating vulnerability to addiction as self-medication.
+  clinical_description: Assessment identifies betrayal trauma, safety violations, and protective strategies. Treatment includes trauma-focused therapy, safety stabilization, and trust repair work. Focus on establishing safety, processing betrayal, and carefully rebuilding trust capacity.
+  lay_description: When families become sources of danger rather than safety, children learn to protect themselves through hypervigilance or emotional numbing. Without trustworthy protection, substances may seem like the only reliable source of safety and relief.
+  structural_components: Unpredictable threat, absent protection, betrayal patterns
+  social_processes: Hypervigilance, self-protection, trust avoidance
+  societal_relevance: Creates complex trauma, perpetuates cycles of violence, drives addiction epidemics
+- id: soc-fam-att-sep-coh
+  label: Balanced Individuation
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Healthy separation
+  - Connected autonomy
+  - Differentiated self
+  scope: Represents healthy separation-individuation with maintained connection, including age-appropriate autonomy, flexible proximity, differentiated self, and sustained emotional bonds.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on the developmental process of achieving autonomy while maintaining secure attachment bonds.
+  polarity_expression: Manifests as flexible proximity-seeking, maintained connection with independence, and differentiated yet connected self.
+  cross_domain_resonance: Resonates with psy-dev-aut-ada (adaptive autonomy), soc-fam-bou-coh (cohesive boundaries), and exi-ide-ind-pur (purposeful individuation).
+  academic_description: Mahler's separation-individuation describes developing autonomous self while maintaining attachment bonds. Healthy individuation involves differentiation without disconnection, autonomy without isolation. Bowen's differentiation of self describes maintaining self in emotional connection. Balanced individuation protects against addiction by providing both connection and independence.
+  clinical_description: Assessment evaluates differentiation level, proximity patterns, and autonomy-connection balance. Interventions include developmental guidance, differentiation therapy, and launching support. Focus on supporting age-appropriate independence while maintaining emotional connection.
+  lay_description: Healthy families support members becoming independent individuals while staying emotionally connected. Children develop their own identity and autonomy without losing family bonds, reducing the need for substances to manage independence or connection needs.
+  structural_components: Flexible boundaries, differentiated identity, maintained bonds
+  social_processes: Launching, reconnecting, balancing autonomy-intimacy
+  societal_relevance: Supports healthy development, prevents codependency, enables mature relationships
+- id: soc-fam-att-sep-fra
+  label: Enmeshment or Cutoff
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Attachment Systems
+  cluster_id: soc-fam-att
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Pathological individuation
+  - Fusion or isolation
+  - Boundary dysfunction
+  scope: Encompasses enmeshed fusion or emotional cutoff patterns, including poor differentiation, rigid proximity patterns, and identity confusion that drives substance use for pseudo-independence.
+  parent_scope_inheritance: Specifies the attachment systems cluster by focusing on individuation failures that create unhealthy dependence or isolation increasing addiction risk.
+  polarity_expression: Manifests as enmeshed clinging or complete cutoff, poor boundaries, and undifferentiated or isolated self.
+  cross_domain_resonance: Resonates with psy-dev-aut-mal (maladaptive autonomy), soc-fam-bou-fra (fragmented boundaries), and exi-ide-ind-dir (directionless individuation).
+  academic_description: Pathological individuation presents as two extremes. Enmeshment involves emotional fusion, poor boundaries, and inability to tolerate separation. Cutoff involves emotional isolation, rigid boundaries, and pseudo-independence. Both patterns reflect differentiation failure. Substances provide artificial solution - creating distance in enmeshment or numbing isolation in cutoff.
+  clinical_description: Assessment identifies enmeshment-cutoff patterns, differentiation level, and boundary problems. Treatment includes structural family therapy, boundary work, and individuation therapy. Focus on developing appropriate boundaries, tolerating separation, and maintaining connection.
+  lay_description: Some families are too close (enmeshed) with members unable to be separate individuals, while others are too distant (cutoff) with no real connection. Both extremes drive substance use - to escape suffocating closeness or to fill the emptiness of isolation.
+  structural_components: Rigid boundaries, fused or isolated identity, broken bonds
+  social_processes: Clinging or avoiding, fusion or isolation, dependence or detachment
+  societal_relevance: Creates codependency, isolation, and addiction as pseudo-solution

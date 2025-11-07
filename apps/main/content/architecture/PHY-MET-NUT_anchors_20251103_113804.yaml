@@ -1,0 +1,382 @@
+# Generated anchors for cluster: PHY-MET-NUT
+# Timestamp: 20251103_113804
+
+anchors:
+- id: phy-met-nut-thi-reg
+  label: Thiamine Sufficiency
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - B1 adequacy
+  - Normal transketolase activity
+  - Thiamine repletion
+  scope: Adequate thiamine status supporting normal transketolase activity, pentose phosphate pathway function, and ATP production. Maintains proper glucose metabolism in high-energy tissues, particularly the brain, with intact neurotransmitter synthesis and nerve conduction.
+  parent_scope_inheritance: Specifies the thiamine component of micronutrient metabolism, focusing on its role as an essential cofactor for carbohydrate metabolism and energy production in neural tissues.
+  polarity_expression: Manifests as sufficient thiamine stores maintaining normal enzymatic function, adequate ATP production, and protection against neurotoxicity from glucose metabolism disruption.
+  cross_domain_resonance: Resonates with psy-cog-mem-ada through preserved memory formation, soc-fam-par-coh through nutritional care provision, and exi-mea-gro-pur through sustained cognitive capacity for growth.
+  academic_description: Thiamine sufficiency maintains transketolase activity above 15% activation coefficient, supporting pentose phosphate pathway flux for NADPH generation and ribose-5-phosphate synthesis. Adequate thiamine pyrophosphate serves as cofactor for alpha-ketoglutarate dehydrogenase, pyruvate dehydrogenase, and branched-chain ketoacid dehydrogenase, enabling efficient ATP production and preventing lactate accumulation. Neural tissues maintain proper glucose oxidation, supporting neurotransmitter synthesis and myelin maintenance.
+  clinical_description: Normal thiamine status assessed by erythrocyte transketolase activity coefficient <15% or whole blood thiamine >70 nmol/L. Maintains cognitive function, normal reflexes, and stable gait. Prophylactic supplementation (100mg daily) recommended in at-risk populations. Dietary sources include whole grains, pork, legumes providing 1.2mg/day RDA. Supports alcohol withdrawal management and prevents progression to Wernicke encephalopathy.
+  lay_description: Having enough vitamin B1 means your brain can properly use sugar for energy. It's like having the right key to unlock your body's energy production. You think clearly, walk steadily, and your nerves work properly. Getting enough B1 from whole grains, meat, and beans keeps your brain sharp and prevents serious memory problems that can happen with heavy drinking.
+  key_mediators: Thiamine pyrophosphate (TPP), transketolase, pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, ATP, NADPH
+  key_mechanisms: Pentose phosphate pathway activation, citric acid cycle completion, acetylcholine synthesis, maintenance of membrane potential, prevention of oxidative stress
+  clinical_relevance: Prevention of Wernicke-Korsakoff syndrome, maintenance of cognitive function, support of energy metabolism, peripheral nerve function preservation
+  assessment_methods: Erythrocyte transketolase activity coefficient, whole blood thiamine levels, clinical examination for neurological signs
+  interventions: Dietary thiamine 1.2mg/day, prophylactic supplementation 100mg daily in at-risk groups, fortified foods, nutritional counseling
+  prominent_models: Thomson's thiamine deficiency framework, Harper's transketolase activation model, Wernicke-Korsakoff continuum theory
+- id: phy-met-nut-thi-dys
+  label: Thiamine Deficiency
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Beriberi
+  - Wernicke encephalopathy
+  - B1 deficiency
+  scope: Thiamine deficiency impairing transketolase activity and energy metabolism, particularly affecting high-metabolic tissues. Ranges from subclinical deficiency with mild cognitive effects to severe syndromes including Wernicke encephalopathy and Korsakoff psychosis.
+  parent_scope_inheritance: Represents the pathological thiamine depletion aspect of nutritional metabolism, emphasizing acute neurological consequences and metabolic dysfunction in addiction contexts.
+  polarity_expression: Expressed as depleted thiamine stores causing enzymatic dysfunction, impaired glucose metabolism, lactate accumulation, and progressive neurological deterioration.
+  cross_domain_resonance: Resonates with psy-cog-mem-mal through memory impairment, soc-fam-rel-fra through caregiving burden, and exi-mea-gro-dir through cognitive decline limiting personal development.
+  academic_description: Thiamine deficiency reduces transketolase activity with activation coefficient >25%, impairing pentose phosphate pathway and causing accumulation of glycolytic intermediates. Decreased thiamine pyrophosphate availability compromises pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, leading to lactate acidosis and reduced ATP production. Neural tissues experience selective vulnerability, particularly mammillary bodies, medial thalamus, and periaqueductal gray matter. Chronic deficiency causes irreversible neuronal loss and gliosis.
+  clinical_description: Presents with classic triad of confusion, ataxia, and ophthalmoplegia in Wernicke encephalopathy, though complete triad seen in only 10% of cases. Requires immediate treatment with IV thiamine 500mg TID for 3-5 days before glucose administration to prevent precipitation of encephalopathy. Untreated cases progress to Korsakoff syndrome with permanent anterograde amnesia. Peripheral manifestations include high-output cardiac failure and peripheral neuropathy. High mortality (20%) if untreated.
+  lay_description: When you don't have enough vitamin B1, your brain can't use sugar for energy properly, like trying to run a car without spark plugs. This can cause confusion, trouble walking, and eye movement problems. In severe cases, it can permanently damage your memory. Heavy drinkers are especially at risk because alcohol blocks B1 absorption and uses it up faster. It's a medical emergency that needs immediate vitamin treatment.
+  key_mediators: Reduced TPP, elevated lactate, decreased ATP, accumulated pyruvate, reduced acetylcholine, elevated transketolase activation coefficient
+  key_mechanisms: Impaired glucose oxidation, lactate acidosis, reduced NADPH synthesis, oxidative stress, neuronal energy failure, demyelination
+  clinical_relevance: Wernicke-Korsakoff syndrome, peripheral neuropathy, high-output heart failure, increased mortality risk, permanent cognitive impairment
+  assessment_methods: Transketolase activation coefficient >25%, low whole blood thiamine, elevated serum lactate, MRI showing mammillary body atrophy
+  interventions: IV thiamine 500mg TID x 3-5 days, then oral 100mg TID, must precede glucose administration, long-term supplementation, treat underlying alcohol use disorder
+  prominent_models: Wernicke-Korsakoff continuum, Victor-Adams-Collins triad, Caine criteria for diagnosis, Thomson's prophylaxis protocol
+- id: phy-met-nut-fol-reg
+  label: Folate Sufficiency
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal one-carbon metabolism
+  - Adequate methylation
+  - Folate repletion
+  scope: Adequate folate status supporting one-carbon metabolism, DNA synthesis, and methylation reactions. Maintains normal homocysteine levels, proper cell division, and neurotransmitter synthesis through methylation pathways.
+  parent_scope_inheritance: Specifies the folate component of micronutrient metabolism, emphasizing its role in methylation reactions and nucleotide synthesis critical for recovery.
+  polarity_expression: Manifests as sufficient folate stores maintaining normal methylation capacity, appropriate homocysteine metabolism, and intact DNA synthesis and repair.
+  cross_domain_resonance: Resonates with psy-emo-moo-ada through neurotransmitter synthesis, phy-neu-neu-reg through proper neural development, and soc-occ-emp-coh through maintained work capacity.
+  academic_description: Folate sufficiency maintains serum levels >3ng/mL and RBC folate >140ng/mL, supporting 5-methyltetrahydrofolate production for methionine synthesis from homocysteine. Adequate folate enables thymidylate synthase activity for DNA synthesis and S-adenosylmethionine production for methylation of neurotransmitters, DNA, and proteins. Prevents megaloblastic changes through normal nucleotide synthesis and maintains vascular health through homocysteine regulation.
+  clinical_description: Normal folate status with serum folate >3ng/mL prevents megaloblastic anemia and hyperhomocysteinemia. Supports mood stability through methylation of neurotransmitters. Daily requirement 400mcg from leafy greens, legumes, fortified grains. Supplementation with 1mg daily supports recovery. Important for preventing neural tube defects in women of childbearing age. Works synergistically with B12 for methylation reactions.
+  lay_description: Having enough folate means your body can properly build DNA for new cells and make brain chemicals that affect mood. It's like having the right building blocks for cellular repair and brain function. You maintain normal energy, stable mood, and healthy blood cells. Green vegetables, beans, and fortified cereals provide the folate needed for these essential processes.
+  key_mediators: 5-methyltetrahydrofolate, S-adenosylmethionine (SAM), methionine synthase, homocysteine, thymidylate synthase
+  key_mechanisms: One-carbon transfer reactions, methionine cycle function, DNA methylation, neurotransmitter synthesis, homocysteine conversion
+  clinical_relevance: Prevention of megaloblastic anemia, mood stabilization, cardiovascular protection, neural tube defect prevention, cognitive function support
+  assessment_methods: Serum folate levels, RBC folate, homocysteine levels, complete blood count with MCV, peripheral blood smear
+  interventions: Dietary folate 400mcg/day, folic acid supplementation 1mg daily, fortified foods, increased vegetable intake, address malabsorption
+  prominent_models: One-carbon metabolism pathway, methylation cycle model, folate-homocysteine hypothesis, neural tube defect prevention framework
+- id: phy-met-nut-fol-dys
+  label: Folate Deficiency
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Megaloblastic anemia
+  - Hyperhomocysteinemia
+  - Methylation deficit
+  scope: Folate deficiency disrupting one-carbon metabolism, causing impaired DNA synthesis, elevated homocysteine, and methylation deficits. Results in megaloblastic anemia, mood disorders, and increased cardiovascular risk.
+  parent_scope_inheritance: Represents the pathological folate depletion aspect of nutritional metabolism, highlighting disrupted methylation and its consequences for mental health and recovery.
+  polarity_expression: Expressed as depleted folate stores causing methylation failure, DNA synthesis impairment, homocysteine accumulation, and hematological abnormalities.
+  cross_domain_resonance: Resonates with psy-emo-moo-mal through depression from impaired neurotransmitter synthesis, phy-hem-ery-dys through megaloblastic changes, and soc-occ-emp-fra through work disability from fatigue.
+  academic_description: Folate deficiency with levels <2ng/mL impairs conversion of homocysteine to methionine, causing hyperhomocysteinemia and reduced S-adenosylmethionine production. Decreased methylation affects neurotransmitter synthesis, particularly serotonin and dopamine. Impaired thymidylate synthesis causes megaloblastic changes with nuclear-cytoplasmic asynchrony. Deficiency increases oxidative stress and endothelial dysfunction through elevated homocysteine.
+  clinical_description: Presents with macrocytic anemia (MCV >100), fatigue, glossitis, and mood changes. Serum folate <2ng/mL with elevated homocysteine >15 μmol/L. Can mask B12 deficiency neurological symptoms while correcting anemia. Treatment with folic acid 5mg daily for 4 months to replete stores. Common in alcohol use disorder due to poor diet, malabsorption, and increased utilization. Associated with depression and cognitive impairment.
+  lay_description: Without enough folate, your body can't properly make new cells or brain chemicals, leading to large, immature red blood cells that can't carry oxygen well. You feel exhausted, depressed, and may have a sore tongue. Your blood vessels also suffer from high homocysteine levels. Heavy drinking depletes folate quickly through poor diet and absorption problems.
+  key_mediators: Reduced 5-methyltetrahydrofolate, elevated homocysteine, decreased SAM, impaired thymidylate synthase, reduced methylation capacity
+  key_mechanisms: Disrupted one-carbon metabolism, impaired DNA synthesis, methylation failure, homocysteine accumulation, oxidative stress generation
+  clinical_relevance: Megaloblastic anemia, depression, cognitive dysfunction, cardiovascular disease risk, neural tube defects in pregnancy, impaired recovery
+  assessment_methods: Serum folate <2ng/mL, RBC folate <140ng/mL, elevated homocysteine, macrocytosis on CBC, hypersegmented neutrophils
+  interventions: Folic acid 5mg daily x 4 months, address alcohol use, improve diet, treat malabsorption, B12 assessment to prevent masking
+  prominent_models: Folate trap hypothesis, homocysteine vascular toxicity model, methylation deficit theory of depression
+- id: phy-met-nut-b12-reg
+  label: B12 Sufficiency
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Cobalamin adequacy
+  - Normal methylmalonic acid
+  - B12 repletion
+  scope: Adequate B12 status supporting methylation reactions, myelin synthesis, and normal hematopoiesis. Maintains neurological function, DNA synthesis, and proper folate metabolism through methionine synthase activity.
+  parent_scope_inheritance: Specifies the B12 component of micronutrient metabolism, focusing on its unique role in myelin maintenance and neurological function distinct from folate.
+  polarity_expression: Manifests as sufficient B12 stores maintaining normal methylmalonic acid levels, intact proprioception, and appropriate methylation in conjunction with folate.
+  cross_domain_resonance: Resonates with psy-cog-exe-ada through preserved executive function, phy-neu-mye-reg through myelin maintenance, and exi-pur-leg-pur through sustained cognitive capacity.
+  academic_description: 'B12 sufficiency maintains serum levels >200pg/mL with normal methylmalonic acid <0.4 μmol/L, supporting two critical enzymatic reactions: methionine synthase for methylation and methylmalonyl-CoA mutase for odd-chain fatty acid metabolism. Adequate B12 enables proper myelin synthesis through methylation of myelin basic protein and maintains neurological function through methylation of neurotransmitters and nerve growth factors.'
+  clinical_description: Normal B12 status prevents megaloblastic anemia and neurological complications. Serum B12 >200pg/mL with normal methylmalonic acid indicates adequacy. Daily requirement 2.4mcg from animal products. Intrinsic factor required for absorption. Supplementation may require parenteral route if malabsorption present. Critical for vegetarians/vegans who require supplementation. Works with folate for methylation but has unique neurological roles.
+  lay_description: Having enough B12 keeps your nerves properly insulated and your brain functioning well. It's like maintaining the protective coating on electrical wires - without it, signals get disrupted. You need B12 from animal products or supplements to make healthy blood cells and maintain balance and memory. Your stomach needs to be healthy to absorb it properly.
+  key_mediators: Methylcobalamin, adenosylcobalamin, methionine synthase, methylmalonyl-CoA mutase, intrinsic factor, transcobalamin
+  key_mechanisms: Methylation reactions, myelin synthesis, odd-chain fatty acid metabolism, DNA synthesis, neurotransmitter production
+  clinical_relevance: Prevention of pernicious anemia, peripheral neuropathy prevention, cognitive preservation, subacute combined degeneration prevention
+  assessment_methods: Serum B12 levels, methylmalonic acid, homocysteine, intrinsic factor antibodies, Schilling test if needed
+  interventions: Dietary B12 2.4mcg/day, oral supplementation 1000mcg daily, IM injections if malabsorption, address intrinsic factor deficiency
+  prominent_models: Methyl trap hypothesis, B12-folate interaction model, neurological-hematological dissociation framework
+- id: phy-met-nut-b12-dys
+  label: B12 Deficiency
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Cobalamin deficiency
+  - Pernicious anemia
+  - Methylmalonic acidemia
+  scope: B12 deficiency causing impaired methylation, demyelination, and megaloblastic changes. Results in neurological dysfunction, cognitive impairment, and hematological abnormalities with potential for irreversible nerve damage.
+  parent_scope_inheritance: Represents the pathological B12 depletion aspect of nutritional metabolism, emphasizing unique neurological consequences distinct from other B vitamin deficiencies.
+  polarity_expression: Expressed as depleted B12 stores causing elevated methylmalonic acid, progressive demyelination, and combined hematological and neurological dysfunction.
+  cross_domain_resonance: Resonates with psy-cog-mem-mal through cognitive decline, phy-neu-mye-dys through demyelination, and soc-fam-rel-fra through dependency from neurological disability.
+  academic_description: B12 deficiency with levels <200pg/mL causes elevated methylmalonic acid >0.4 μmol/L and homocysteine, indicating enzymatic dysfunction. Impaired methionine synthase causes methyl-folate trap, disrupting DNA synthesis. Methylmalonyl-CoA accumulation causes abnormal fatty acid incorporation into myelin. Progressive demyelination affects dorsal and lateral spinal columns, causing subacute combined degeneration with irreversible axonal damage if untreated.
+  clinical_description: Presents with megaloblastic anemia, glossitis, and neurological symptoms including paresthesias, ataxia, and cognitive changes. Elevated MMA distinguishes from folate deficiency. Can present with neurological symptoms without anemia. Requires IM B12 1000mcg weekly x 8 weeks then monthly, or high-dose oral 1000-2000mcg daily. Common in elderly, vegetarians, and those with malabsorption. Neurological damage may be irreversible if treatment delayed.
+  lay_description: B12 deficiency damages the protective coating around your nerves, causing numbness, tingling, and balance problems. Your body can't make proper blood cells, leaving you exhausted and weak. Memory and mood problems develop as your brain is affected. Unlike other vitamin deficiencies, B12 damage to nerves can be permanent if not treated quickly.
+  key_mediators: Elevated methylmalonic acid, elevated homocysteine, reduced methylcobalamin, impaired methionine synthase, accumulated methylmalonyl-CoA
+  key_mechanisms: Demyelination, methyl-folate trap, abnormal fatty acid metabolism, impaired DNA synthesis, neurotoxic metabolite accumulation
+  clinical_relevance: Subacute combined degeneration, peripheral neuropathy, megaloblastic anemia, cognitive impairment, psychiatric symptoms, irreversible neurological damage risk
+  assessment_methods: Serum B12 <200pg/mL, elevated MMA >0.4 μmol/L, elevated homocysteine, macrocytosis, hypersegmented neutrophils, MRI showing dorsal column changes
+  interventions: IM B12 1000mcg weekly x 8 then monthly, or oral 1000-2000mcg daily, treat underlying malabsorption, dietary counseling for vegetarians
+  prominent_models: Subacute combined degeneration model, methyl-folate trap theory, neurological-hematological dissociation, intrinsic factor deficiency framework
+- id: phy-met-nut-vit-reg
+  label: Vitamin D Sufficiency
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Calcitriol adequacy
+  - Normal 25-hydroxyvitamin D
+  - D3 repletion
+  scope: Adequate vitamin D status supporting calcium homeostasis, immune function, and mood regulation. Maintains bone health, reduces inflammation, and supports neurotransmitter synthesis through genomic and non-genomic pathways.
+  parent_scope_inheritance: Specifies the vitamin D component of micronutrient metabolism, emphasizing its hormone-like effects on mood and immune function relevant to addiction recovery.
+  polarity_expression: Manifests as sufficient 25-hydroxyvitamin D levels maintaining normal calcium absorption, appropriate immune response, and stable mood through vitamin D receptor activation.
+  cross_domain_resonance: Resonates with psy-emo-moo-ada through mood stabilization, phy-imm-ada-reg through immune competence, and soc-com-soc-coh through maintained social engagement.
+  academic_description: Vitamin D sufficiency maintains 25-hydroxyvitamin D levels >30ng/mL, enabling conversion to active 1,25-dihydroxyvitamin D (calcitriol) for genomic effects through vitamin D receptor activation. Regulates over 200 genes affecting calcium absorption, immune cell differentiation, and neurotransmitter synthesis. Non-genomic effects include rapid calcium flux and anti-inflammatory cytokine modulation. Supports tryptophan hydroxylase expression for serotonin synthesis.
+  clinical_description: Optimal vitamin D status with 25-OH D >30ng/mL supports mood stability and immune function. Obtained through sun exposure (15-30 minutes daily) or supplementation 800-1000 IU daily. Higher doses needed in deficiency or malabsorption. Important for depression prevention in addiction recovery. Reduces infection risk and supports bone health. Fat-soluble vitamin requiring adequate fat absorption.
+  lay_description: Vitamin D acts like a hormone that affects your mood, immune system, and bones. Getting enough sunshine vitamin helps you feel emotionally balanced, fight off infections, and maintain strong bones. Many people in recovery are deficient because they've been indoors, malnourished, or avoiding sunlight. Supplements can quickly improve energy and mood.
+  key_mediators: 25-hydroxyvitamin D, 1,25-dihydroxyvitamin D (calcitriol), vitamin D receptor (VDR), parathyroid hormone, calcium
+  key_mechanisms: Genomic transcription regulation, calcium homeostasis, immune cell differentiation, anti-inflammatory effects, serotonin synthesis support
+  clinical_relevance: Depression prevention, immune support, bone health maintenance, reduced infection risk, improved recovery outcomes
+  assessment_methods: 25-hydroxyvitamin D levels, parathyroid hormone, serum calcium, alkaline phosphatase, bone density if indicated
+  interventions: Sun exposure 15-30 minutes, vitamin D3 800-1000 IU daily, higher doses for repletion, dietary sources (fatty fish, fortified foods)
+  prominent_models: Vitamin D endocrine system model, immune-modulation framework, vitamin D-serotonin hypothesis, seasonal affective disorder connection
+- id: phy-met-nut-vit-dys
+  label: Vitamin D Deficiency
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Hypovitaminosis D
+  - Calcitriol deficiency
+  - D3 depletion
+  scope: Vitamin D deficiency disrupting calcium homeostasis, immune function, and mood regulation. Results in bone demineralization, increased infection susceptibility, and depression with particular relevance to addiction recovery.
+  parent_scope_inheritance: Represents the pathological vitamin D depletion aspect of nutritional metabolism, highlighting mood and immune consequences that complicate addiction recovery.
+  polarity_expression: Expressed as depleted vitamin D stores causing secondary hyperparathyroidism, immune dysfunction, mood dysregulation, and impaired calcium absorption.
+  cross_domain_resonance: Resonates with psy-emo-moo-mal through depression, phy-imm-ada-dys through increased infections, and soc-com-soc-fra through social withdrawal from mood symptoms.
+  academic_description: Vitamin D deficiency with 25-hydroxyvitamin D <20ng/mL impairs calcium absorption, causing secondary hyperparathyroidism and bone resorption. Reduced calcitriol production affects over 200 genes, disrupting immune cell function and increasing susceptibility to infections. Decreased vitamin D receptor activation in brain regions affects serotonin synthesis and GABA production, contributing to depression and anxiety. Inflammatory cytokine elevation further impacts mood.
+  clinical_description: Presents with fatigue, bone pain, muscle weakness, and mood changes. 25-OH D <20ng/mL indicates deficiency, <12ng/mL severe. Secondary hyperparathyroidism develops with elevated PTH. Treatment requires loading doses of 50,000 IU weekly for 8-12 weeks, then maintenance 1000-2000 IU daily. Common in addiction due to poor diet, limited sun exposure, and malabsorption. Associated with depression, making recovery more difficult.
+  lay_description: Without enough vitamin D, you feel exhausted, achy, and depressed. Your bones weaken, you catch infections easily, and your mood suffers. It's especially common in people recovering from addiction who've been living indoors, eating poorly, or whose bodies can't absorb nutrients well. Taking vitamin D supplements can significantly improve how you feel within weeks.
+  key_mediators: Low 25-hydroxyvitamin D, elevated PTH, reduced calcitriol, decreased VDR activation, elevated inflammatory cytokines
+  key_mechanisms: Impaired calcium absorption, secondary hyperparathyroidism, immune dysfunction, reduced serotonin synthesis, increased inflammation
+  clinical_relevance: Depression, osteomalacia/osteoporosis, increased infection risk, muscle weakness, impaired recovery, chronic pain
+  assessment_methods: 25-OH vitamin D <20ng/mL, elevated PTH, low-normal calcium, elevated alkaline phosphatase, bone density scan if indicated
+  interventions: Vitamin D 50,000 IU weekly x 8-12 weeks, then 1000-2000 IU daily maintenance, sun exposure, address malabsorption, dietary counseling
+  prominent_models: Vitamin D deficiency pandemic model, depression-inflammation hypothesis, immune dysfunction framework, addiction vulnerability model
+- id: phy-met-nut-mag-reg
+  label: Magnesium Balance
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Magnesium sufficiency
+  - Normal Mg homeostasis
+  - Electrolyte balance
+  scope: Adequate magnesium status supporting over 300 enzymatic reactions, neuromuscular stability, and cardiac rhythm. Maintains NMDA receptor function, GABA activity, and cellular energy production through ATP-magnesium complexes.
+  parent_scope_inheritance: Specifies the magnesium component of micronutrient metabolism, emphasizing its critical role in withdrawal management and neuromuscular stability during recovery.
+  polarity_expression: Manifests as sufficient intracellular magnesium maintaining normal neuromuscular excitability, stable cardiac conduction, and appropriate NMDA receptor modulation.
+  cross_domain_resonance: Resonates with phy-neu-gab-reg through GABA enhancement, psy-anx-pan-ada through anxiolytic effects, and phy-car-rhy-reg through cardiac stability.
+  academic_description: Magnesium sufficiency maintains serum levels 1.7-2.2mg/dL with adequate intracellular stores, serving as cofactor for >300 enzymes including those in glycolysis, Krebs cycle, and protein synthesis. Modulates NMDA receptor activity as endogenous antagonist, preventing excitotoxicity. Enhances GABA binding and reduces catecholamine release. Essential for ATP stability as Mg-ATP complex. Regulates calcium channels and maintains membrane potential stability.
+  clinical_description: Normal magnesium status prevents withdrawal complications and supports recovery. Serum Mg 1.7-2.2mg/dL, though intracellular levels more accurate. Daily requirement 400mg from green vegetables, nuts, whole grains. Critical for alcohol withdrawal management - reduces seizure risk and delirium tremens severity. Supports sleep, reduces anxiety, and prevents arrhythmias. Often depleted in addiction requiring aggressive repletion.
+  lay_description: Magnesium acts like a natural relaxant for your muscles and nerves, helping you stay calm and preventing seizures during withdrawal. It's involved in hundreds of body processes, from making energy to maintaining heart rhythm. Alcohol and stress deplete magnesium rapidly. Getting enough through diet or supplements helps reduce anxiety, improve sleep, and make withdrawal safer.
+  key_mediators: Mg-ATP complex, NMDA receptor, GABA-A receptor, voltage-gated calcium channels, Na-K-ATPase
+  key_mechanisms: NMDA antagonism, GABA enhancement, calcium channel regulation, ATP stabilization, catecholamine modulation
+  clinical_relevance: Withdrawal seizure prevention, anxiety reduction, sleep improvement, cardiac arrhythmia prevention, muscle cramp relief
+  assessment_methods: Serum magnesium, ionized magnesium, 24-hour urine magnesium, EKG for QT interval, clinical signs (reflexes, tetany)
+  interventions: Dietary magnesium 400mg/day, oral supplementation (oxide, citrate, glycinate), IV MgSO4 for acute depletion, monitor with calcium
+  prominent_models: Magnesium depletion syndrome, NMDA-magnesium interaction model, withdrawal severity framework, ATP-magnesium complex theory
+- id: phy-met-nut-mag-dys
+  label: Magnesium Depletion
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Hypomagnesemia
+  - Magnesium deficiency
+  - Mg depletion syndrome
+  scope: Magnesium deficiency causing neuromuscular irritability, cardiac instability, and severe withdrawal complications. Impairs hundreds of enzymatic reactions, increases NMDA excitotoxicity, and reduces GABA function.
+  parent_scope_inheritance: Represents the pathological magnesium depletion aspect of nutritional metabolism, emphasizing life-threatening withdrawal complications and neuromuscular instability.
+  polarity_expression: Expressed as depleted magnesium stores causing hyperexcitability, seizure susceptibility, cardiac arrhythmias, and severe withdrawal syndromes.
+  cross_domain_resonance: Resonates with phy-neu-gab-dys through reduced inhibition, psy-anx-pan-mal through severe anxiety, and phy-car-rhy-dys through arrhythmia risk.
+  academic_description: Magnesium deficiency with serum levels <1.7mg/dL causes loss of NMDA receptor antagonism, leading to calcium influx and excitotoxicity. Reduced GABA-A receptor sensitivity decreases inhibitory tone. Impaired Na-K-ATPase function disrupts membrane potentials. Over 300 Mg-dependent enzymes show reduced activity, affecting energy metabolism, protein synthesis, and DNA repair. Concurrent hypocalcemia and hypokalemia resist correction until magnesium repleted.
+  clinical_description: Presents with tremor, tetany, seizures, and personality changes. Serum Mg <1.7mg/dL, often with refractory hypocalcemia and hypokalemia. Increases withdrawal severity with higher risk of seizures and delirium tremens. QT prolongation predisposes to torsades de pointes. Requires IV MgSO4 2-4g over 20 minutes for severe depletion, then maintenance. Common in alcohol use disorder from poor intake, vomiting, diarrhea, and renal losses.
+  lay_description: Low magnesium makes your nerves and muscles hyperactive - you might have tremors, muscle cramps, or even seizures. Your heart rhythm becomes unstable, and withdrawal symptoms are much worse. It's like removing the brakes from your nervous system. Heavy drinking depletes magnesium through poor diet, vomiting, and increased urination. IV magnesium can quickly improve symptoms.
+  key_mediators: Reduced Mg-ATP, unopposed NMDA activation, decreased GABA binding, elevated intracellular calcium, increased catecholamines
+  key_mechanisms: NMDA overactivation, excitotoxicity, reduced GABA inhibition, membrane instability, enzymatic dysfunction
+  clinical_relevance: Withdrawal seizures, delirium tremens, cardiac arrhythmias, tetany, refractory electrolyte abnormalities, increased mortality
+  assessment_methods: Serum Mg <1.7mg/dL, prolonged QT interval, hypocalcemia, hypokalemia, positive Chvostek/Trousseau signs
+  interventions: IV MgSO4 2-4g over 20 minutes, then 1-2g/hour infusion, oral magnesium 400-800mg daily, treat concurrent electrolyte abnormalities, cardiac monitoring
+  prominent_models: Magnesium depletion cascade, withdrawal kindling hypothesis, excitotoxicity model, refractory electrolyte framework
+- id: phy-met-nut-znc-reg
+  label: Zinc Adequacy
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Zinc sufficiency
+  - Normal zinc status
+  - Trace mineral balance
+  scope: Adequate zinc status supporting immune function, wound healing, and enzymatic processes. Maintains taste and smell perception, protein synthesis, and DNA repair through zinc-finger proteins and metalloenzymes.
+  parent_scope_inheritance: Specifies the zinc component of micronutrient metabolism, focusing on immune support and tissue repair critical for recovery from addiction-related physical damage.
+  polarity_expression: Manifests as sufficient zinc stores maintaining normal immune response, intact wound healing, and appropriate enzymatic function in over 300 zinc-dependent proteins.
+  cross_domain_resonance: Resonates with phy-imm-ada-reg through immune competence, phy-gas-muc-reg through gut barrier integrity, and psy-cog-att-ada through cognitive function.
+  academic_description: Zinc sufficiency maintains serum levels 70-120μg/dL, supporting function of >300 metalloenzymes including alkaline phosphatase, carbonic anhydrase, and alcohol dehydrogenase. Essential for zinc-finger protein transcription factors regulating gene expression. Critical for immune cell development, particularly T-cell maturation and cytokine production. Supports wound healing through collagen synthesis and epithelialization. Maintains intestinal barrier function and taste receptor maintenance.
+  clinical_description: Normal zinc status supports immune function and wound healing during recovery. Serum zinc 70-120μg/dL indicates adequacy. Daily requirement 8-11mg from meat, shellfish, legumes, nuts. Important for taste perception - deficiency causes dysgeusia. Supports testosterone production and mood regulation. Competes with copper absorption - balance important. Often depleted in addiction from poor diet and increased losses.
+  lay_description: Zinc helps your immune system fight infections and helps wounds heal properly. It's essential for taste and smell, which often improve when zinc levels are restored. Your body needs zinc to make proteins and DNA for cellular repair. Getting enough zinc from foods like meat, beans, and nuts helps your body recover from the physical damage of addiction.
+  key_mediators: Zinc metalloenzymes, zinc-finger proteins, metallothionein, thymulin, insulin-like growth factor
+  key_mechanisms: Gene transcription regulation, immune cell differentiation, protein synthesis, antioxidant defense, wound healing cascade
+  clinical_relevance: Immune support, wound healing, taste/smell preservation, testosterone maintenance, mood stabilization
+  assessment_methods: Serum zinc levels, alkaline phosphatase activity, lymphocyte count, taste testing, copper levels for balance
+  interventions: Dietary zinc 8-11mg/day, zinc sulfate 220mg daily if deficient, monitor copper status, address malabsorption
+  prominent_models: Zinc-immunity axis, metallothionein regulation model, zinc finger transcription framework, wound healing cascade
+- id: phy-met-nut-znc-dys
+  label: Zinc Deficiency
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Hypozincemia
+  - Zinc depletion
+  - Trace mineral deficiency
+  scope: Zinc deficiency impairing immune function, wound healing, and sensory perception. Results in increased infection susceptibility, delayed healing, and dysgeusia with impact on nutritional recovery.
+  parent_scope_inheritance: Represents the pathological zinc depletion aspect of nutritional metabolism, emphasizing immune compromise and impaired tissue repair that complicate physical recovery.
+  polarity_expression: Expressed as depleted zinc stores causing immune dysfunction, impaired wound healing, taste abnormalities, and reduced protein synthesis capacity.
+  cross_domain_resonance: Resonates with phy-imm-ada-dys through immunosuppression, phy-gas-muc-dys through increased permeability, and psy-emo-anh-mal through taste-related anhedonia.
+  academic_description: Zinc deficiency with levels <70μg/dL impairs function of >300 zinc-dependent enzymes, disrupting protein synthesis and DNA repair. T-cell dysfunction and reduced cytokine production increase infection susceptibility. Impaired collagen cross-linking and reduced growth factor production delay wound healing. Loss of taste acuity from taste bud atrophy affects nutritional intake. Increased intestinal permeability from tight junction disruption. Reduced testosterone synthesis affects mood and libido.
+  clinical_description: Presents with frequent infections, slow wound healing, hair loss, and taste changes. Serum zinc <70μg/dL indicates deficiency. Dysgeusia affects appetite and nutrition. Skin lesions, particularly perioral and acral dermatitis. Diarrhea worsens deficiency through losses. Treatment with zinc sulfate 220mg daily for 2-3 months. Monitor copper levels as zinc supplementation can induce copper deficiency. Common in alcohol use disorder from poor intake and increased urinary losses.
+  lay_description: Without enough zinc, your immune system weakens, making you catch every cold and infection. Cuts and wounds heal slowly, food tastes bland or metallic, and you might lose hair. This makes recovery harder as your body can't repair itself properly. Heavy drinking depletes zinc through poor diet and increased losses. Supplements can restore immune function and taste within weeks.
+  key_mediators: Reduced metalloenzymes, impaired zinc fingers, decreased thymulin, reduced IGF-1, altered metallothionein
+  key_mechanisms: Impaired gene transcription, T-cell dysfunction, disrupted protein synthesis, increased oxidative stress, barrier dysfunction
+  clinical_relevance: Immunosuppression, delayed wound healing, dysgeusia, alopecia, hypogonadism, depression, diarrhea
+  assessment_methods: Serum zinc <70μg/dL, low alkaline phosphatase, lymphopenia, response to zinc supplementation trial
+  interventions: Zinc sulfate 220mg daily x 2-3 months, dietary counseling, treat diarrhea, monitor copper levels, address malabsorption
+  prominent_models: Zinc deficiency syndrome, immune dysfunction cascade, intestinal permeability model, taste receptor theory
+- id: phy-met-nut-abs-reg
+  label: Nutrient Bioavailability
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal absorption
+  - Intact bioavailability
+  - Nutrient uptake efficiency
+  scope: Intact gastrointestinal absorption, hepatic storage, and transport protein synthesis enabling optimal micronutrient bioavailability. Maintains nutrient delivery to tissues through functional enterocytes, adequate intrinsic factor, and appropriate carrier proteins.
+  parent_scope_inheritance: Specifies the absorption and bioavailability component of micronutrient metabolism, addressing the gateway processes that determine actual nutrient utilization regardless of intake.
+  polarity_expression: Manifests as intact intestinal barrier function, adequate digestive enzymes, normal transport proteins, and sufficient hepatic storage maintaining tissue nutrient delivery.
+  cross_domain_resonance: Resonates with phy-gas-muc-reg through mucosal integrity, phy-hep-syn-reg through protein synthesis, and phy-met-ene-reg through ATP-dependent transport.
+  academic_description: Optimal bioavailability requires intact intestinal mucosa with functional enterocytes expressing specific transporters (DMT1 for iron, NaP2b for phosphate, TRPV6 for calcium). Adequate gastric acid production enables B12-intrinsic factor binding and mineral solubilization. Pancreatic enzymes release protein-bound vitamins. Hepatic synthesis of transport proteins (transferrin, transcobalamin, retinol-binding protein) enables systemic distribution. Adequate hepatic storage capacity maintains buffer against dietary variation.
+  clinical_description: Normal absorption indicated by adequate micronutrient levels despite standard dietary intake. Albumin >3.5g/dL and prealbumin >20mg/dL suggest intact synthetic function. Fat-soluble vitamin levels reflect absorption and storage. Absence of steatorrhea indicates fat absorption. Intrinsic factor and pancreatic function support B12 and fat-soluble vitamin absorption. Recovery involves healing gut mucosa and restoring hepatic function over weeks to months.
+  lay_description: Your gut needs to be healthy to absorb vitamins and minerals from food. Think of it like a selective filter - damaged intestines can't properly absorb nutrients even if you eat well. Your liver stores many vitamins and makes proteins that carry nutrients through your blood. When these systems work properly, nutrients from your diet actually reach your cells where they're needed.
+  key_mediators: Intrinsic factor, pancreatic enzymes, bile acids, transport proteins (albumin, transferrin, transcobalamin), enterocyte transporters
+  key_mechanisms: Active transport, facilitated diffusion, receptor-mediated endocytosis, protein-bound transport, hepatic storage and release
+  clinical_relevance: Nutrient delivery optimization, prevention of deficiencies despite adequate intake, recovery support, treatment response
+  assessment_methods: Albumin/prealbumin levels, fat-soluble vitamin levels, stool fat content, D-xylose test, intrinsic factor antibodies
+  interventions: Gut healing protocols, digestive enzyme support, probiotics, adequate protein intake, treatment of underlying GI conditions
+  prominent_models: Intestinal adaptation model, hepatic first-pass metabolism, carrier-mediated transport theory, gut-liver axis framework
+- id: phy-met-nut-abs-dys
+  label: Malabsorption Syndrome
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Nutritional Metabolism
+  cluster_id: phy-met-nut
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired absorption
+  - Bioavailability deficit
+  - Nutrient malabsorption
+  scope: Malabsorption from damaged intestinal mucosa, reduced transport proteins, and depleted hepatic stores causing multiple micronutrient deficiencies despite adequate intake. Results in treatment resistance and prolonged recovery.
+  parent_scope_inheritance: Represents the pathological malabsorption aspect of nutritional metabolism, emphasizing how gut and liver damage create systemic nutrient deficiencies regardless of supplementation.
+  polarity_expression: Expressed as damaged intestinal barrier, reduced absorptive surface, depleted transport proteins, and exhausted hepatic stores causing systemic micronutrient depletion.
+  cross_domain_resonance: Resonates with phy-gas-muc-dys through mucosal damage, phy-hep-syn-dys through reduced protein synthesis, and phy-imm-bar-dys through increased permeability.
+  academic_description: Malabsorption results from enterocyte damage reducing brush border enzymes and transporters. Alcohol-induced villous atrophy decreases absorptive surface area. Reduced gastric acid and intrinsic factor impair B12 absorption. Pancreatic insufficiency limits fat-soluble vitamin absorption. Bacterial overgrowth consumes nutrients and produces toxins. Hypoalbuminemia from hepatic dysfunction reduces nutrient transport capacity. Depleted hepatic stores cannot buffer against poor absorption.
+  clinical_description: Presents with multiple deficiencies despite supplementation. Steatorrhea indicates fat malabsorption affecting vitamins A, D, E, K. Low albumin <3.5g/dL and prealbumin <20mg/dL indicate protein malnutrition. Weight loss despite adequate intake. May require parenteral nutrition initially. Recovery requires months of gut healing - glutamine, zinc, probiotics support repair. Pancreatic enzymes may help. Address bacterial overgrowth if present.
+  lay_description: When your gut is damaged from alcohol or drugs, it can't absorb nutrients properly - like trying to fill a bucket with holes in it. Even if you eat well and take vitamins, they pass through without being absorbed. Your liver, which normally stores vitamins, is also depleted. This means you need higher doses of supplements, sometimes through injections, while your gut heals over several months.
+  key_mediators: Reduced intrinsic factor, decreased pancreatic enzymes, altered bile acids, hypoalbuminemia, damaged enterocytes, bacterial overgrowth
+  key_mechanisms: Villous atrophy, reduced absorptive surface, impaired active transport, bacterial competition, increased intestinal permeability
+  clinical_relevance: Multiple deficiency syndromes, treatment resistance, prolonged recovery, increased infection risk, failure to thrive
+  assessment_methods: Steatorrhea (>7g fat/day in stool), low albumin/prealbumin, multiple micronutrient deficiencies, D-xylose test, small bowel biopsy if indicated
+  interventions: Parenteral vitamins initially, high-dose oral supplements, pancreatic enzymes, treat SIBO, glutamine for gut repair, extended supplementation period
+  prominent_models: Malabsorption cascade, gut-liver axis dysfunction, bacterial overgrowth model, intestinal failure framework

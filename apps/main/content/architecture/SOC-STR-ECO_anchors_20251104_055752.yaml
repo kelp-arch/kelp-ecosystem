@@ -1,0 +1,292 @@
+# Generated anchors for cluster: SOC-STR-ECO
+# Timestamp: 20251104_055752
+
+anchors:
+- id: soc-str-eco-inc-coh
+  label: Equitable Income Distribution
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Living wages
+  - Income equity
+  - Fair compensation
+  scope: Represents economic structures with equitable income distribution, living wages that meet basic needs, progressive taxation, and strong collective bargaining that ensures workers receive fair shares of economic productivity.
+  parent_scope_inheritance: Specifies the economic systems cluster's focus on income and wages by examining how equitable distribution and living wage policies create economic security that protects against addiction vulnerability.
+  polarity_expression: Manifests as cohesive economic structures through narrow income gaps, wages above poverty thresholds, progressive tax systems, and strong labor protections that distribute prosperity broadly across populations.
+  cross_domain_resonance: Resonates with psychological executive function (psy-cog-exe) through reduced poverty-related cognitive load, physiological stress systems (phy-neu-str) through economic security, and existential purpose (exi-mea-pur) through dignified compensation.
+  academic_description: Research demonstrates equitable income distribution's protective effects against addiction through multiple pathways. Studies show Gini coefficients below 0.3 correlate with lower substance use rates. Living wage policies reduce economic stress that drives self-medication. Progressive taxation funds treatment infrastructure while reducing relative deprivation effects. Strong minimum wages above poverty thresholds decrease survival-driven substance trade involvement. Collective bargaining creates workplace cultures supporting recovery. Meta-analyses reveal dose-response relationships between income equality and population health outcomes including addiction rates.
+  clinical_description: Clinical practice in cohesive income contexts benefits from clients' economic stability. Assessment finds lower financial stress scores and reduced survival-mode thinking. Clients can afford copayments and medications without choosing between treatment and basic needs. Stable income enables consistent treatment attendance without work schedule conflicts. Living wages reduce pressure for illegal income generation. Financial counseling focuses on budgeting and savings rather than crisis management. Vocational services emphasize career development over immediate survival. Recovery planning can include long-term goals knowing basic needs are secure.
+  lay_description: When everyone earns enough to live on and the gap between rich and poor isn't extreme, people are less likely to turn to drugs and alcohol. Fair wages mean you can pay your bills without constant stress. You don't have to choose between rent and rehab. There's less temptation to sell drugs when legitimate work pays enough. You feel valued when your labor provides dignity. Recovery seems possible when you know a decent job awaits. The whole community benefits when prosperity is shared rather than hoarded at the top.
+  structural_components: Progressive tax brackets, robust minimum wage laws, collective bargaining rights, CEO pay ratios, wealth redistribution mechanisms, earned income tax credits, living wage ordinances
+  social_processes: Wage negotiation, income mobility, wealth accumulation, tax compliance, labor organizing, profit sharing, economic participation
+  societal_relevance: Reduces addiction risk through economic security, enables treatment access through adequate income, supports recovery through financial stability, prevents intergenerational poverty cycles
+- id: soc-str-eco-inc-fra
+  label: Extreme Income Inequality
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Poverty wages
+  - Wealth concentration
+  - Economic disparity
+  scope: Represents economic structures with extreme income inequality, poverty wages below subsistence levels, regressive taxation, and weakened labor power that concentrates wealth while impoverishing workers.
+  parent_scope_inheritance: Specifies the economic systems cluster's fragmented pole through examination of how extreme inequality and poverty wages create economic desperation that drives addiction vulnerability and blocks recovery access.
+  polarity_expression: Manifests as fragmented economic structures through vast income gaps, minimum wages below living costs, regressive tax burdens on poor, and absent labor protections that concentrate wealth while spreading deprivation.
+  cross_domain_resonance: Resonates with psychological learned helplessness (psy-emo-dep) through economic futility, physiological allostatic load (phy-neu-str) through chronic poverty stress, and existential meaninglessness (exi-mea-dir) through devalued labor.
+  academic_description: Research documents extreme inequality's role in addiction epidemics through multiple mechanisms. Gini coefficients above 0.4 predict higher substance use prevalence. Poverty wages below living costs create chronic stress driving self-medication. Regressive taxation depletes resources needed for treatment while funding cuts eliminate public programs. Stagnant minimum wages push survival crimes including drug trade. Weakened unions remove workplace recovery supports. Studies show widening inequality explains rising deaths of despair. Relative deprivation effects persist even controlling for absolute poverty.
+  clinical_description: Clinical practice in fragmented income contexts faces severe challenges from clients' economic desperation. Assessment reveals high financial stress, survival-mode cognition, and crisis-driven decision-making. Clients cannot afford copayments, medications, or transportation to treatment. Poverty wages force choosing between treatment and homelessness. Financial counseling addresses immediate crises rather than planning. Vocational services struggle with jobs paying below subsistence. Recovery planning must account for ongoing economic trauma. Clinicians witness how poverty wages and inequality create seemingly insurmountable barriers to sustained recovery.
+  lay_description: When the rich get richer while working people can't afford basics, addiction explodes. Poverty wages mean choosing between food and rent, let alone treatment. The stress of never having enough drives people to drink or use drugs to cope. Seeing others prosper while you struggle despite hard work breeds despair. Some turn to selling drugs when legal jobs don't pay enough to survive. Getting clean seems pointless when sobriety still means poverty. The shame of needing food stamps while working full-time eats away at self-worth.
+  structural_components: Regressive tax systems, inadequate minimum wages, union busting, unlimited CEO compensation, wealth hoarding, tax havens, wage theft
+  social_processes: Wage suppression, wealth extraction, tax avoidance, labor exploitation, poverty perpetuation, debt accumulation, economic exclusion
+  societal_relevance: Drives addiction through economic desperation, blocks treatment through unaffordability, undermines recovery through ongoing poverty, perpetuates intergenerational disadvantage
+- id: soc-str-eco-emp-coh
+  label: Stable Quality Employment
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Job security
+  - Career employment
+  - Workplace stability
+  scope: Represents employment structures with job security, comprehensive benefits, predictable schedules, career advancement opportunities, and workplace protections that provide economic stability and occupational identity.
+  parent_scope_inheritance: Specifies the economic systems cluster's employment dimension by examining how stable, quality jobs with benefits and advancement opportunities support recovery through structure, purpose, and economic security.
+  polarity_expression: Manifests as cohesive employment structures through long job tenure, employer-provided healthcare, paid leave, regular schedules, promotion pathways, and strong worker protections creating occupational stability.
+  cross_domain_resonance: Resonates with psychological identity formation (psy-dev-ide) through work roles, social capital (soc-com-soc) through workplace relationships, and existential purpose (exi-mea-pur) through meaningful contribution.
+  academic_description: Research demonstrates stable employment's protective effects against addiction through multiple pathways. Job security reduces anxiety and stress-driven substance use. Employer-provided health insurance enables treatment access. Predictable schedules support recovery routines and meeting attendance. Career ladders provide future orientation countering addiction's immediacy. Workplace social capital offers recovery support networks. Studies show unemployment doubles addiction risk while stable employment halves relapse rates. Longitudinal research reveals job quality matters more than employment alone for recovery outcomes.
+  clinical_description: Clinical practice with stably employed clients leverages workplace structure for recovery. Assessment evaluates job satisfaction, workplace culture, and Employee Assistance Program availability. Clients maintain treatment engagement through employer insurance and paid sick leave. Predictable schedules enable consistent appointment attendance. Workplace drug testing provides external accountability. Vocational counseling focuses on career development and workplace recovery disclosure decisions. Return-to-work planning coordinates with occupational health. Stable employment provides routine, identity, and social connection essential for sustained recovery.
+  lay_description: A good job with benefits makes staying clean so much easier. When you know your job is secure, there's less stress pushing you to drink or use. Health insurance means you can actually afford treatment. Paid sick days let you go to appointments without losing income. Regular hours help you build recovery routines. Work gives you purpose and identity beyond addiction. Coworkers become a support network. Career goals give you something to work toward. The stability of a real job with a future helps you believe recovery is worth it.
+  structural_components: Labor contracts, benefit packages, promotion systems, workplace protections, paid leave policies, retirement plans, job training programs
+  social_processes: Career development, workplace socialization, skill building, professional networking, mentorship, team collaboration, organizational commitment
+  societal_relevance: Prevents addiction through job security, enables treatment through employer benefits, supports recovery through workplace structure, provides economic mobility
+- id: soc-str-eco-emp-fra
+  label: Precarious Gig Employment
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Job insecurity
+  - Contingent work
+  - Employment instability
+  scope: Represents employment structures with high turnover, absent benefits, unpredictable scheduling, blocked advancement, and no worker protections creating economic precarity and occupational alienation.
+  parent_scope_inheritance: Specifies the economic systems cluster's fragmented employment through examination of how precarious work without benefits or stability undermines recovery by removing structure, purpose, and economic security.
+  polarity_expression: Manifests as fragmented employment structures through short-term gigs, no health insurance, unpaid leave, irregular schedules, dead-end positions, and at-will termination creating occupational instability.
+  cross_domain_resonance: Resonates with psychological anxiety (psy-tem-anx) through job insecurity, social isolation (soc-com-iso) through workplace exclusion, and existential meaninglessness (exi-mea-dir) through disposable labor.
+  academic_description: Research documents precarious employment's role in addiction vulnerability through multiple mechanisms. Job insecurity creates chronic stress driving self-medication. Lack of health insurance blocks treatment access. Unpredictable schedules prevent recovery meeting attendance. Dead-end positions remove future orientation. Workplace isolation eliminates social support. Studies show gig workers have twice the substance use rates of stable employees. Longitudinal data reveals employment quality decline predicts addiction onset. The expansion of precarious work explains rising deaths of despair among working-age adults.
+  clinical_description: Clinical practice with precariously employed clients faces structural barriers to recovery. Assessment reveals high job stress, schedule chaos, and benefit absence. Clients lack insurance for medications or ongoing treatment. Unpredictable schedules prevent consistent attendance. Multiple jobs leave no time for recovery activities. Job loss fears prevent taking time for treatment. Vocational services struggle finding stable positions. Recovery planning must account for ongoing employment instability. Clinicians witness how precarious work makes sustained recovery nearly impossible despite motivation.
+  lay_description: When you're juggling gig work with no benefits or job security, staying sober becomes incredibly hard. Never knowing your schedule makes meetings impossible. No health insurance means treatment is unaffordable. The constant fear of losing work creates stress that triggers cravings. Dead-end jobs with no future make using seem like the only escape. Getting fired for missing work for treatment is always a risk. The isolation of gig work removes potential support. Recovery requires stability that precarious employment simply doesn't provide.
+  structural_components: At-will employment, gig platforms, temporary agencies, zero-hour contracts, independent contractor classification, absent benefits, no unions
+  social_processes: Job churning, benefit loss, schedule chaos, skill underutilization, workplace exclusion, disposable labor, economic anxiety
+  societal_relevance: Increases addiction through job stress, blocks treatment through benefit absence, undermines recovery through instability, perpetuates economic vulnerability
+- id: soc-str-eco-edu-coh
+  label: Accessible Quality Education
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Educational opportunity
+  - Universal education
+  - Learning access
+  scope: Represents educational structures with universal access to quality schools, affordable higher education, comprehensive adult learning, and wraparound support ensuring educational attainment regardless of background.
+  parent_scope_inheritance: Specifies the economic systems cluster's educational dimension by examining how accessible, quality education provides cognitive resources, health literacy, and credentials that protect against addiction and support recovery.
+  polarity_expression: Manifests as cohesive educational structures through well-funded schools, need-based aid, low dropout rates, adult education availability, and support services ensuring broad educational attainment.
+  cross_domain_resonance: Resonates with psychological cognitive development (psy-cog-lea) through learning, social mobility (soc-str-mob) through credentials, and existential growth (exi-mea-gro) through knowledge expansion.
+  academic_description: Research demonstrates education's protective effects against addiction through cognitive and social pathways. Educational attainment develops executive function and decision-making capacity. Health literacy enables understanding addiction and treatment. School completion provides alternative identity to substance use. Higher education correlates with lower addiction rates controlling for income. Quality schools offer protective activities and mentorship. Adult education provides second chances after addiction disrupts schooling. Studies show each additional year of education reduces addiction risk by 5-10%.
+  clinical_description: Clinical practice in cohesive educational contexts leverages learning for recovery. Assessment evaluates educational history, literacy levels, and learning goals. Clients access recovery high schools and collegiate recovery programs. GED completion and college enrollment provide purpose and structure. Educational counseling addresses learning differences and academic anxiety. Psychoeducation builds on existing health literacy. Vocational planning includes educational pathways. Recovery becomes framed as learning process. Educational achievement rebuilds self-efficacy damaged by addiction.
+  lay_description: Good schools and affordable education help prevent addiction and support recovery in many ways. Education teaches you to think through consequences and make better decisions. Understanding how addiction works helps you recognize warning signs. School provides goals and identity beyond partying. College opens doors to careers that make recovery worthwhile. Adult education offers second chances when addiction derailed your schooling. Learning new things in recovery rebuilds confidence. Education is power - the power to understand your addiction and choose a different path.
+  structural_components: Public school funding, tuition assistance, adult education centers, vocational programs, libraries, online learning platforms, student support services
+  social_processes: Learning acquisition, credential completion, peer learning, mentorship, academic achievement, knowledge sharing, educational advancement
+  societal_relevance: Prevents addiction through cognitive development, enables informed treatment choices, supports recovery through learning structure, provides economic opportunity
+- id: soc-str-eco-edu-fra
+  label: Educational Barriers & Failure
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - School failure
+  - Educational inequality
+  - Learning barriers
+  scope: Represents educational structures with underfunded schools, unaffordable higher education, absent adult learning, and lack of support creating educational failure that perpetuates disadvantage.
+  parent_scope_inheritance: Specifies the economic systems cluster's fragmented education through examination of how educational barriers and failure remove cognitive resources, health literacy, and credentials increasing addiction vulnerability.
+  polarity_expression: Manifests as fragmented educational structures through school underfunding, financial barriers, high dropout rates, no adult education, and absent support creating widespread educational failure.
+  cross_domain_resonance: Resonates with psychological learned helplessness (psy-emo-dep) through academic failure, social exclusion (soc-com-iso) through educational sorting, and existential stagnation (exi-mea-dir) through blocked learning.
+  academic_description: Research documents educational failure's role in addiction vulnerability through multiple pathways. School underfunding limits cognitive development and decision-making capacity. Low health literacy prevents understanding addiction risks and treatment. Dropout status removes protective structure and prosocial identity. Educational debt creates financial stress without corresponding opportunity. Poor schools lack prevention programs and supportive adults. Absent adult education blocks second chances. Studies show high school dropouts have triple the addiction rates of graduates.
+  clinical_description: Clinical practice with educationally disadvantaged clients faces literacy and comprehension challenges. Assessment reveals learning trauma, low health literacy, and credential absence. Clients struggle understanding psychoeducation and treatment concepts. Written materials require adaptation for literacy levels. Shame about educational failure complicates engagement. Vocational options remain limited without credentials. Recovery planning must address educational gaps. Clinicians witness how educational failure creates cascading disadvantages making recovery harder at every step.
+  lay_description: When schools fail and education is out of reach, addiction risk skyrockets. Bad schools don't teach you to think through consequences. Without education, you can't understand how addiction works. Dropping out removes structure and positive goals. Student debt without a degree creates hopeless stress. No adult education means no second chances after addiction disrupts schooling. Jobs without education requirements rarely pay enough for treatment. The shame of educational failure makes you feel worthless. Recovery seems impossible when you lack basic skills others take for granted.
+  structural_components: School underfunding, tuition barriers, absent adult education, no vocational training, closed libraries, digital divides, no student support
+  social_processes: Academic failure, dropout cycles, credential barriers, learning avoidance, educational sorting, knowledge gaps, opportunity hoarding
+  societal_relevance: Increases addiction through cognitive limitations, blocks treatment understanding, undermines recovery through skill deficits, perpetuates intergenerational disadvantage
+- id: soc-str-eco-mob-coh
+  label: Open Mobility Pathways
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Economic opportunity
+  - Social mobility
+  - Upward advancement
+  scope: Represents economic structures with genuine meritocracy, entrepreneurship support, wealth-building opportunities, and clear advancement pathways enabling economic mobility across generations.
+  parent_scope_inheritance: Specifies the economic systems cluster's mobility dimension by examining how open pathways for economic advancement provide hope, motivation, and tangible goals that support recovery investment.
+  polarity_expression: Manifests as cohesive mobility structures through high intergenerational movement, small business growth, homeownership access, savings accumulation, and merit-based advancement.
+  cross_domain_resonance: Resonates with psychological hope (psy-emo-hop) through future possibility, social capital (soc-com-soc) through network mobility, and existential purpose (exi-mea-pur) through achievement potential.
+  academic_description: Research demonstrates economic mobility's protective effects against addiction through hope and opportunity. Perceived advancement possibilities reduce fatalistic substance use. Entrepreneurship provides alternative identity and income to drug trade. Homeownership creates investment in community and future. Savings ability enables planning beyond immediate survival. Studies show low mobility areas have higher addiction rates controlling for poverty. Intergenerational advancement protects children from parental addiction impacts. Economic opportunity reduces deaths of despair.
+  clinical_description: Clinical practice in high-mobility contexts leverages advancement goals for recovery motivation. Assessment explores economic aspirations and perceived barriers. Clients engage mobility mentoring and opportunity mapping. Individual Development Accounts support asset building. Microenterprise development provides legal income alternatives. Financial coaching builds credit and savings. Housing programs enable stability and wealth building. Recovery planning includes concrete economic goals. Advancement possibilities make recovery investment rational rather than futile.
+  lay_description: When you can actually get ahead through hard work, recovery makes sense as an investment. Seeing others rise from poverty gives hope that you can too. Starting a small business provides legal income and purpose. Buying a home gives you something to protect. Being able to save money lets you plan for the future. Your kids can do better than you did. Recovery isn't just about stopping use - it's about building the life you want. When advancement is possible, staying clean becomes a stepping stone rather than an endpoint.
+  structural_components: Small business loans, first-time buyer programs, education grants, apprenticeships, savings incentives, progressive taxation, anti-discrimination enforcement
+  social_processes: Skill development, network building, asset accumulation, business creation, career advancement, wealth transfer, opportunity recognition
+  societal_relevance: Prevents addiction through hope and purpose, motivates treatment through advancement goals, sustains recovery through economic progress, breaks intergenerational cycles
+- id: soc-str-eco-mob-fra
+  label: Blocked Mobility Traps
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Poverty traps
+  - Economic stagnation
+  - Opportunity hoarding
+  scope: Represents economic structures with rigid class boundaries, discrimination, wealth concentration, and systemic barriers creating poverty traps that block economic mobility across generations.
+  parent_scope_inheritance: Specifies the economic systems cluster's fragmented mobility through examination of how blocked advancement pathways create hopelessness, fatalism, and rational disinvestment in recovery.
+  polarity_expression: Manifests as fragmented mobility structures through low intergenerational movement, business barriers, housing discrimination, inability to save, and class-based exclusion.
+  cross_domain_resonance: Resonates with psychological hopelessness (psy-emo-dep) through futility, social exclusion (soc-com-iso) through class barriers, and existential meaninglessness (exi-mea-dir) through predetermined fate.
+  academic_description: Research documents blocked mobility's role in addiction through hopelessness and rational fatalism. Poverty traps make substance use logical when advancement is impossible. Discrimination removes legitimate pathways leaving illegal alternatives. Wealth concentration prevents asset building removing future orientation. Inability to save makes immediate gratification rational. Studies show addiction concentrates in low-mobility areas independent of poverty levels. Intergenerational stagnation perpetuates family addiction patterns. Blocked opportunity drives deaths of despair.
+  clinical_description: Clinical practice with mobility-blocked clients confronts deep hopelessness about change. Assessment reveals fatalistic beliefs and rational pessimism about advancement. Clients see no point in recovery when sobriety doesn't improve prospects. Criminal records create permanent barriers regardless of recovery. Discrimination blocks opportunities despite qualifications. Poverty traps make relapse seem inevitable. Vocational services cannot overcome systemic barriers. Recovery planning must address realistic limitations while maintaining hope. Clinicians witness how blocked mobility makes recovery seem irrational.
+  lay_description: When you're born poor and will die poor no matter what you do, why get clean? The system is rigged against people like you. Criminal records slam doors forever. Even with recovery, you'll never own a home or build savings. Your kids face the same dead ends you did. The rich get richer while you stay stuck. Drug dealing might be the only business opportunity available. Using at least provides temporary escape from permanent hopelessness. Recovery seems pointless when sobriety doesn't change your prospects.
+  structural_components: Regressive policies, discrimination systems, wealth hoarding, credentialism, criminal record barriers, redlining, opportunity deserts
+  social_processes: Exclusion cycles, network isolation, asset stripping, opportunity blocking, discrimination, stigmatization, fatalistic adaptation
+  societal_relevance: Drives addiction through hopelessness, removes treatment motivation, undermines recovery through futility, perpetuates intergenerational cycles
+- id: soc-str-eco-hcd-coh
+  label: Robust Skills Development
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Workforce investment
+  - Skills training
+  - Human capital building
+  scope: Represents human capital structures with comprehensive workforce development, apprenticeship programs, continuous learning opportunities, and reskilling support enabling skill acquisition and career adaptation.
+  parent_scope_inheritance: Specifies the economic systems cluster's human capital dimension by examining how skills development and training opportunities provide competencies, confidence, and career flexibility supporting recovery.
+  polarity_expression: Manifests as cohesive human capital structures through widespread vocational training, employer investment, reskilling programs, apprenticeships, and credential pathways building workforce capacity.
+  cross_domain_resonance: Resonates with psychological self-efficacy (psy-dev-sel) through competence, social integration (soc-com-int) through workplace participation, and existential growth (exi-mea-gro) through mastery.
+  academic_description: Research demonstrates skills development's protective effects against addiction through competence and opportunity. Vocational training provides alternative identity and income sources. Apprenticeships offer structured pathways with mentorship. Continuous learning maintains relevance preventing obsolescence despair. Reskilling enables adaptation to economic change. Studies show vocational program participants have lower relapse rates. Skills training increases employment quality not just quantity. Human capital investment reduces community-level addiction rates.
+  clinical_description: Clinical practice in robust training contexts leverages skill-building for recovery. Assessment evaluates existing skills, interests, and training goals. Clients access vocational rehabilitation and workforce development programs. Apprenticeships provide structure, mentorship, and career pathways. Skills training rebuilds confidence damaged by addiction. Certification programs offer concrete achievements. Continuous learning becomes recovery activity. Career planning includes ongoing skill development. Training participation provides routine, social connection, and future orientation essential for recovery.
+  lay_description: Learning new job skills gives you hope and confidence in recovery. Training programs provide structure and goals beyond just staying clean. Apprenticeships offer real careers not just jobs. Certificates and credentials prove you're more than your addiction. Reskilling means you're never stuck in dead-end work. Employers who invest in training show they value you. Learning alongside others builds supportive relationships. New skills mean new opportunities and better pay. Recovery becomes part of building a career rather than just avoiding relapse.
+  structural_components: Vocational schools, apprenticeship programs, workforce boards, employer training, online learning, certification systems, career centers
+  social_processes: Skill acquisition, mentorship, peer learning, competency building, certification, career progression, professional development
+  societal_relevance: Prevents addiction through competence and opportunity, enables career recovery, supports advancement through skills, builds economic resilience
+- id: soc-str-eco-hcd-fra
+  label: Skills Obsolescence & Neglect
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Training deficits
+  - Skill gaps
+  - Human capital depletion
+  scope: Represents human capital structures with absent workforce development, no apprenticeships, blocked learning access, and no reskilling creating skill obsolescence and unemployability.
+  parent_scope_inheritance: Specifies the economic systems cluster's fragmented human capital through examination of how absent skills development creates incompetence, unemployment, and economic marginalization driving addiction.
+  polarity_expression: Manifests as fragmented human capital structures through no vocational training, employer disinvestment, absent reskilling, blocked apprenticeships, and credential barriers depleting workforce capacity.
+  cross_domain_resonance: Resonates with psychological incompetence (psy-dev-sel) through skill deficits, social exclusion (soc-com-iso) through unemployability, and existential stagnation (exi-mea-dir) through blocked development.
+  academic_description: Research documents skill neglect's role in addiction through unemployability and despair. Absent training leaves workers without marketable skills. Automation displaces workers without reskilling options. Credential inflation blocks opportunities despite experience. Skills-job mismatches create underemployment frustration. Studies show displaced workers without retraining have elevated substance use. Communities with low training investment have higher addiction rates. Human capital depletion drives deaths of despair in deindustrialized regions.
+  clinical_description: Clinical practice with skill-depleted clients faces employability barriers beyond motivation. Assessment reveals skill obsolescence, training absence, and credential lacks. Clients cannot access jobs paying living wages without skills. Vocational services struggle without available training programs. Criminal records block apprenticeships and certifications. Age discrimination prevents reskilling opportunities. Recovery planning must address skill deficits limiting employment. Clinicians witness how skill neglect creates permanent economic marginalization despite recovery.
+  lay_description: When your skills become worthless and there's no way to learn new ones, despair sets in. The factory closed and there's no retraining available. Your experience doesn't matter without the right certificates. Apprenticeships won't accept people with records. You're too old for anyone to invest in training you. Dead-end jobs are all that's available without skills. The frustration of being capable but unemployable drives drinking. Recovery seems pointless when you'll never have a real career. You're economically obsolete and there's no way back.
+  structural_components: Defunded vocational programs, no apprenticeships, employer disinvestment, absent workforce boards, no online access, credential barriers, no career services
+  social_processes: Skill atrophy, obsolescence cycles, training exclusion, credential blocking, underemployment, deskilling, economic displacement
+  societal_relevance: Increases addiction through unemployability, blocks recovery employment, perpetuates economic marginalization, creates permanent underclass
+- id: soc-str-eco-saf-coh
+  label: Comprehensive Safety Net
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Social insurance
+  - Income support
+  - Welfare state
+  scope: Represents safety net structures with universal healthcare, adequate unemployment insurance, dignified disability support, and smooth benefit transitions providing security during hardship without degradation.
+  parent_scope_inheritance: Specifies the economic systems cluster's safety net dimension by examining how comprehensive income support and social insurance enable treatment engagement and recovery without survival fears.
+  polarity_expression: Manifests as cohesive safety net structures through benefits above poverty levels, universal eligibility, seamless transitions, and dignified processes preserving human worth during hardship.
+  cross_domain_resonance: Resonates with psychological security (psy-tem-sec) through reduced survival anxiety, healthcare access (soc-ins-hea) through universal coverage, and existential dignity (exi-con-dig) through respectful support.
+  academic_description: Research demonstrates comprehensive safety nets' protective effects against addiction through security and dignity. Universal healthcare enables treatment access regardless of employment. Adequate unemployment benefits prevent desperation-driven substance use. Disability support allows recovery focus without survival fears. Housing assistance provides stability for treatment engagement. Studies show stronger safety nets correlate with lower addiction rates internationally. Benefit adequacy matters more than mere existence. Dignified processes preserve self-worth crucial for recovery.
+  clinical_description: Clinical practice in comprehensive safety net contexts enables focus on recovery rather than survival. Assessment finds lower survival anxiety and crisis-driven decisions. Clients access treatment through universal healthcare regardless of employment status. Unemployment benefits allow treatment participation without homelessness fears. Disability support provides stability during early recovery. Housing assistance ensures safe recovery environment. Case management coordinates benefits without degrading bureaucracy. Recovery planning can prioritize healing over immediate income generation.
+  lay_description: A strong safety net means you can focus on getting better without worrying about survival. Universal healthcare covers treatment regardless of your job situation. Unemployment benefits let you go to rehab without losing your home. Disability support means recovery time without starvation. Housing help provides stable environment for healing. You're treated with dignity rather than shame when you need help. The safety net catches you when addiction causes you to fall, giving you a chance to recover rather than spiral further. Recovery is possible when basic needs are guaranteed.
+  structural_components: Universal healthcare, unemployment insurance, disability benefits, housing assistance, food support, childcare subsidies, benefit coordination
+  social_processes: Benefit enrollment, needs assessment, service coordination, dignity preservation, crisis prevention, stability maintenance, transition support
+  societal_relevance: Prevents addiction through economic security, enables treatment access, supports recovery stability, preserves human dignity during hardship
+- id: soc-str-eco-saf-fra
+  label: Inadequate Punitive Welfare
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Economic & Human Capital Systems
+  cluster_id: soc-str-eco
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Welfare gaps
+  - Benefit inadequacy
+  - Safety net holes
+  scope: Represents safety net structures with healthcare gaps, inadequate unemployment, denied disability claims, and punitive benefit systems creating insecurity during hardship with degrading processes.
+  parent_scope_inheritance: Specifies the economic systems cluster's fragmented safety net through examination of how inadequate, punitive welfare systems force survival crimes and self-medication while blocking treatment access.
+  polarity_expression: Manifests as fragmented safety net structures through benefits below subsistence, restrictive eligibility, benefit cliffs, and degrading requirements destroying human dignity during hardship.
+  cross_domain_resonance: Resonates with psychological trauma (psy-tem-anx) through survival threats, healthcare barriers (soc-ins-hea) through coverage gaps, and existential degradation (exi-con-ali) through dehumanizing treatment.
+  academic_description: Research documents inadequate safety nets' role in addiction through desperation and degradation. Healthcare gaps force choosing between treatment and other needs. Inadequate unemployment drives survival crimes including drug trade. Disability denials despite clear impairment create hopelessness. Benefit cliffs trap people in poverty. Punitive drug testing removes support when most needed. Studies show weaker safety nets predict higher addiction and overdose rates. Degrading welfare processes damage self-worth essential for recovery.
+  clinical_description: Clinical practice in fragmented safety net contexts battles constant survival crises. Assessment reveals high survival anxiety and benefits-related trauma. Clients cannot access treatment without insurance or ability to pay. Inadequate benefits force choosing between treatment and homelessness. Disability denials despite clear addiction-related impairment. Benefit cliffs discourage employment during recovery. Punitive drug testing terminates benefits for active addiction. Case management spends excessive time navigating hostile bureaucracies. Recovery planning must account for ongoing survival threats.
+  lay_description: When the safety net has huge holes and treats you like a criminal for needing help, addiction becomes a survival strategy. No health insurance means no treatment access. Unemployment that doesn't cover rent forces desperate choices. Getting denied disability despite being unable to work due to addiction creates hopelessness. Benefit cliffs mean working makes you poorer. Drug testing for benefits punishes addiction instead of treating it. The humiliation of begging for inadequate help destroys self-worth. You turn to substances to cope with the degradation and desperation of poverty.
+  structural_components: Coverage gaps, inadequate benefits, complex eligibility, benefit cliffs, drug testing requirements, time limits, bureaucratic barriers
+  social_processes: Benefit denial, bureaucratic humiliation, survival scrambling, dignity stripping, crisis cycling, desperation crimes, system trauma
+  societal_relevance: Drives addiction through survival desperation, blocks treatment through coverage gaps, undermines recovery through ongoing crises, perpetuates cycles through punishment

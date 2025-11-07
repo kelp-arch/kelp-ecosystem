@@ -1,0 +1,244 @@
+# Generated anchors for cluster: SOC-STR-CJS
+# Timestamp: 20251104_061104
+
+anchors:
+- id: soc-str-cjs-pol-coh
+  label: Diversion-Oriented Policing
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Harm reduction policing
+  - Community policing
+  - Pre-arrest diversion
+  scope: Law enforcement approaches prioritizing treatment referral and diversion over arrest for drug-related offenses, including crisis intervention teams, LEAD programs, and naloxone distribution.
+  parent_scope_inheritance: Specifies the policing and arrest component of criminal justice system involvement, focusing on initial law enforcement contact as a potential diversion point rather than entry into criminal processing.
+  polarity_expression: Manifests cohesion through police-community partnerships, officer training in addiction response, and systematic diversion to treatment services rather than criminal justice processing.
+  cross_domain_resonance: Resonates with psy-beh-hlp-ada (adaptive help-seeking) through facilitating treatment access, and exi-rel-com-pur (purposeful community) through police-community collaboration.
+  academic_description: Research demonstrates that Law Enforcement Assisted Diversion (LEAD) programs reduce recidivism and improve housing and employment outcomes compared to traditional arrest. Crisis Intervention Team (CIT) training enhances officer response to substance use crises, reducing use of force and increasing treatment referrals. Pre-arrest diversion programs show cost-effectiveness by reducing criminal justice expenditures while improving public health outcomes. Community policing models that prioritize relationship-building over enforcement reduce neighborhood drug market violence and increase willingness to seek help.
+  clinical_description: Diversion-oriented policing creates opportunities for treatment engagement without criminal justice involvement. Clients avoid arrest trauma and maintain employment, housing, and family stability. Clinical teams coordinate with police diversion programs to receive direct referrals. Treatment planning can focus on recovery rather than navigating criminal justice requirements. Reduced fear of arrest increases help-seeking behavior and treatment retention.
+  lay_description: When police focus on helping rather than arresting people with addiction, everyone benefits. Officers trained in crisis response can connect you to treatment instead of taking you to jail. Programs like LEAD let police refer you directly to services without any charges filed. Officers carry naloxone to reverse overdoses and save lives. This approach keeps you out of the criminal justice system, preserves your job and housing, and gets you the help you actually need.
+  structural_components: Police departments, diversion programs, crisis intervention teams, community partnerships, treatment referral systems
+  social_processes: De-escalation, treatment referral, community engagement, trust-building, harm reduction
+  societal_relevance: Reduces incarceration rates, improves public safety, decreases criminal justice costs, enhances community-police relations
+- id: soc-str-cjs-pol-fra
+  label: Enforcement-Focused Policing
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Zero-tolerance policing
+  - Drug war enforcement
+  - Arrest-focused approach
+  scope: Law enforcement practices emphasizing arrest and prosecution for drug offenses, including aggressive enforcement tactics, racial profiling in drug policing, and minimal diversion options.
+  parent_scope_inheritance: Specifies the policing and arrest component of criminal justice system involvement, focusing on enforcement actions that initiate criminal justice cycling and create barriers to recovery.
+  polarity_expression: Manifests fragmentation through adversarial police-community relations, punishment-focused responses to addiction, and systematic channeling of drug users into criminal justice rather than treatment systems.
+  cross_domain_resonance: Resonates with psy-beh-hlp-mal (maladaptive help-seeking) through deterring treatment access, and phy-neu-str-dys (dysregulated stress) through arrest trauma.
+  academic_description: Research reveals that aggressive drug enforcement increases incarceration without reducing drug use or availability. Racial disparities in drug arrests persist despite similar usage rates across racial groups, concentrating criminal justice involvement in communities of color. Zero-tolerance policies disrupt social networks and informal controls that protect against drug market violence. Arrest for drug possession predicts reduced employment, increased homelessness, and higher recidivism. Fear of arrest deters help-seeking for overdose and reduces treatment engagement.
+  clinical_description: Enforcement-focused policing creates multiple clinical challenges. Arrest trauma requires processing in therapy. Criminal charges complicate treatment planning and create external stressors. Clients fear seeking help during crises. Incarceration disrupts treatment continuity and medication access. Criminal records create lasting barriers to recovery resources. Clinical teams must address both addiction and criminal justice involvement simultaneously.
+  lay_description: When police treat addiction as a crime to punish rather than a health issue to treat, it makes everything worse. Getting arrested for drugs starts a downward spiral - you lose your job, maybe your home, and get a criminal record that follows you forever. The trauma of arrest and fear of police keeps you from calling for help during an overdose. Instead of treatment, you get jail where your addiction often gets worse. This approach doesn't reduce drug use but does destroy lives and communities.
+  structural_components: Drug task forces, arrest quotas, mandatory arrest policies, criminal justice funding priorities
+  social_processes: Criminalization, surveillance, profiling, community disruption, fear generation
+  societal_relevance: Drives mass incarceration, perpetuates racial disparities, undermines public health, erodes police legitimacy
+- id: soc-str-cjs-crt-coh
+  label: Treatment-Oriented Courts
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Drug courts
+  - Problem-solving courts
+  - Therapeutic jurisprudence
+  scope: Judicial approaches prioritizing treatment over incarceration for drug offenses, including drug courts, deferred prosecution, individualized sentencing, and consideration of addiction in judicial decisions.
+  parent_scope_inheritance: Specifies the court processing and sentencing component of criminal justice involvement, focusing on judicial responses that facilitate treatment engagement while maintaining accountability.
+  polarity_expression: Manifests cohesion through integration of treatment and justice goals, judicial discretion in addressing individual needs, and court procedures that support recovery while ensuring public safety.
+  cross_domain_resonance: Resonates with exi-mea-jus-pur (purposeful justice) through balancing accountability and compassion, and psy-cog-mot-ada (adaptive motivation) through external structure supporting internal change.
+  academic_description: Drug court research shows reduced recidivism and cost savings compared to incarceration, though outcomes vary by program model and participant characteristics. Therapeutic jurisprudence principles emphasize law's therapeutic potential, using court authority to motivate treatment engagement. Deferred prosecution programs allow charges to be dismissed upon treatment completion, avoiding criminal records. Individualized sentencing that considers addiction and trauma as mitigating factors produces better outcomes than mandatory minimums. Problem-solving courts work best when they balance accountability with support, use graduated sanctions, and maintain procedural fairness.
+  clinical_description: Treatment courts create structured frameworks for recovery with regular judicial monitoring. Clinical teams coordinate closely with court personnel, balancing therapeutic needs with legal requirements. Treatment plans incorporate court mandates while maintaining therapeutic alliance. Regular court appearances provide external accountability that some clients find helpful. Graduated sanctions allow for learning from mistakes without immediate incarceration. Successful completion can result in charge dismissal, removing barriers to future opportunities.
+  lay_description: Drug courts and similar programs offer treatment instead of prison for people whose crimes stem from addiction. You appear regularly before a judge who monitors your progress, celebrates successes, and responds to setbacks with support rather than immediate jail. The structure helps many people stay on track - knowing you'll see the judge next week can motivate you through tough moments. If you complete the program successfully, charges may be dropped entirely, giving you a fresh start without a criminal record.
+  structural_components: Drug courts, mental health courts, veterans courts, deferred prosecution programs, alternative sentencing
+  social_processes: Judicial monitoring, treatment coordination, graduated responses, therapeutic engagement, procedural justice
+  societal_relevance: Reduces incarceration, lowers recidivism, saves costs, promotes public health approach to addiction
+- id: soc-str-cjs-crt-fra
+  label: Punishment-Focused Courts
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Mandatory sentencing
+  - Assembly-line justice
+  - Punitive prosecution
+  scope: Judicial approaches emphasizing punishment and incarceration for drug offenses, including mandatory minimum sentences, limited judicial discretion, prosecution-driven processes, and minimal consideration of treatment needs.
+  parent_scope_inheritance: Specifies the court processing and sentencing component of criminal justice involvement, focusing on judicial responses that prioritize punishment over rehabilitation and create barriers to recovery.
+  polarity_expression: Manifests fragmentation through rigid sentencing guidelines that ignore individual circumstances, adversarial proceedings that traumatize defendants, and court processes that funnel drug users to incarceration rather than treatment.
+  cross_domain_resonance: Resonates with exi-mea-jus-dir (directionless justice) through arbitrary punishment, and psy-emo-sha-mal (maladaptive shame) through public humiliation and stigmatization.
+  academic_description: Mandatory minimum sentences for drug offenses remove judicial discretion and prevent individualized responses to addiction. Research shows these laws increase incarceration without reducing drug use or trafficking. Prosecutorial charging decisions become the primary determinant of sentences, shifting power from judges to prosecutors. Assembly-line processing in overburdened courts provides minimal time for considering individual circumstances or treatment alternatives. Harsh sentences disrupt families and communities, creating collateral consequences that extend far beyond the individual defendant. The adversarial nature of criminal proceedings can retraumatize defendants with histories of trauma.
+  clinical_description: Punishment-focused courts create severe clinical challenges. Harsh sentences mean long-term treatment disruption and family separation. The adversarial process itself can be traumatizing, especially for clients with trauma histories. Mandatory minimums prevent judges from considering treatment progress or individual circumstances. Incarceration often means forced medication discontinuation and exposure to additional trauma. Clinical teams have limited influence on court outcomes and must prepare clients for potential incarceration rather than focusing on recovery.
+  lay_description: When courts focus only on punishment for drug crimes, they often make addiction worse. Mandatory minimum sentences mean judges must send you to prison even if treatment would work better. The court process feels like an assembly line where no one has time to understand your situation. Prosecutors push for harsh sentences to appear tough on crime. You end up in prison where you can't get proper treatment, separated from family and support systems. The trauma of the whole process often drives people deeper into substance use.
+  structural_components: Mandatory sentencing laws, prosecutorial policies, plea bargain systems, overcrowded dockets
+  social_processes: Criminalization, stigmatization, dehumanization, mass processing, family disruption
+  societal_relevance: Drives mass incarceration, perpetuates cycles of addiction, increases costs, undermines rehabilitation
+- id: soc-str-cjs-inc-coh
+  label: Therapeutic Incarceration
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Treatment-focused corrections
+  - Rehabilitative incarceration
+  - Therapeutic communities in prison
+  scope: Correctional environments prioritizing treatment and rehabilitation during incarceration, including therapeutic communities, medication continuity, trauma-informed approaches, and comprehensive reentry preparation.
+  parent_scope_inheritance: Specifies the incarceration component of criminal justice involvement, focusing on correctional practices that support recovery and prepare individuals for successful reentry despite the constraints of confinement.
+  polarity_expression: Manifests cohesion through integration of treatment into correctional settings, maintenance of therapeutic relationships and medications, and programming that addresses underlying causes of criminal behavior.
+  cross_domain_resonance: Resonates with psy-dev-att-ada (adaptive attachment) through therapeutic relationships in custody, and psy-cog-lea-ada (adaptive learning) through skill development programs.
+  academic_description: Prison-based therapeutic communities show significant reductions in recidivism when combined with aftercare. Continuation of medication-assisted treatment during incarceration prevents forced withdrawal, reduces overdose risk upon release, and improves post-release outcomes. Trauma-informed correctional practices recognize the high prevalence of trauma among incarcerated populations and adapt environments accordingly. Educational and vocational programs during incarceration improve employment prospects and reduce recidivism. Peer support programs leverage lived experience to provide credible mentorship. Family engagement during incarceration maintains crucial support systems.
+  clinical_description: Therapeutic correctional environments maintain treatment continuity despite incarceration. Medication-assisted treatment continues without interruption, preventing forced withdrawal. Therapeutic communities provide intensive group treatment addressing addiction and criminal thinking. Individual counseling addresses trauma and mental health needs. Discharge planning begins early, arranging community treatment, housing, and support services. Family therapy sessions maintain relationships crucial for reentry success. Peer support specialists with lived experience provide hope and practical guidance.
+  lay_description: Some prisons and jails actually provide real treatment for addiction instead of just warehousing people. Therapeutic communities are special units where everyone is working on recovery together through intensive group therapy. You can continue medications like methadone or buprenorphine instead of going through forced withdrawal. There are programs to address trauma, learn job skills, and prepare for release. Peer mentors who've been through the same experience provide support and hope. While still incarceration, these programs give you tools to build a different life upon release.
+  structural_components: Therapeutic communities, medical units, education departments, vocational programs, reentry services
+  social_processes: Group therapy, peer support, skill building, family engagement, reentry planning
+  societal_relevance: Reduces recidivism, improves public safety, supports successful reintegration, breaks intergenerational cycles
+- id: soc-str-cjs-inc-fra
+  label: Warehousing Incarceration
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Punitive incarceration
+  - Treatment-absent corrections
+  - Traumatizing confinement
+  scope: Correctional environments lacking treatment resources and exposing individuals to additional trauma, including overcrowding, violence, forced withdrawal, drug availability, and absent reentry preparation.
+  parent_scope_inheritance: Specifies the incarceration component of criminal justice involvement, focusing on correctional practices that exacerbate addiction, create trauma, and fail to prepare individuals for successful reentry.
+  polarity_expression: Manifests fragmentation through absence of treatment services, exposure to violence and trauma, continuation of drug use within facilities, and release without preparation or support.
+  cross_domain_resonance: Resonates with phy-neu-str-dys (dysregulated stress) through chronic trauma exposure, and psy-dev-att-mal (maladaptive attachment) through isolation and relationship disruption.
+  academic_description: Overcrowded correctional facilities with minimal programming show high recidivism rates and poor health outcomes. Forced withdrawal from opioids during incarceration increases overdose risk upon release by reducing tolerance. Exposure to violence and sexual assault in correctional settings creates new trauma that exacerbates substance use. Drug availability within many facilities means addiction continues or worsens during incarceration. Solitary confinement causes lasting psychological harm and predicts poor reentry outcomes. Release without preparation, identification, or medication creates immediate relapse risk.
+  clinical_description: Warehousing incarceration severely disrupts treatment and often worsens addiction. Forced medication discontinuation causes unnecessary suffering and increases overdose risk. Exposure to violence creates new trauma requiring extensive treatment. Drug use often continues inside, sometimes with more dangerous substances. Clients lose coping skills and support systems. Release occurs abruptly without medications, appointments, or stable housing arranged. Clinical teams must address complex trauma from incarceration itself while trying to restart treatment from scratch.
+  lay_description: Many jails and prisons make addiction worse instead of better. You're forced to withdraw from medications cold turkey, which is dangerous and traumatic. Violence is common, creating new trauma on top of what you already carry. Drugs are often available inside, sometimes forcing you to use just to stay safe. There's no treatment, no programs, just endless time that breaks you down further. When release finally comes, you're dumped on the street with no medications, no appointments, no plan - setting you up for immediate relapse or overdose.
+  structural_components: Overcrowded facilities, underfunded medical departments, absent programming, solitary confinement units
+  social_processes: Violence exposure, forced withdrawal, isolation, dehumanization, institutionalization
+  societal_relevance: Perpetuates recidivism, increases overdose deaths, creates public health crises, wastes resources
+- id: soc-str-cjs-sup-coh
+  label: Recovery-Supportive Supervision
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Therapeutic probation
+  - Supportive parole
+  - Recovery-oriented supervision
+  scope: Community supervision approaches prioritizing treatment support and graduated responses over surveillance and immediate revocation, including specialized caseloads, motivational approaches, and coordination with treatment providers.
+  parent_scope_inheritance: Specifies the probation and parole component of criminal justice involvement, focusing on supervision practices that support sustained recovery while maintaining public safety through therapeutic rather than punitive means.
+  polarity_expression: Manifests cohesion through integration of supervision and treatment goals, use of motivational rather than coercive approaches, and responses to violations that maintain progress rather than returning to incarceration.
+  cross_domain_resonance: Resonates with psy-cog-con-ada (adaptive control) through supporting self-regulation development, and psy-beh-cop-ada (adaptive coping) through building recovery skills.
+  academic_description: Research on specialized probation caseloads for substance use shows improved outcomes when officers use motivational interviewing techniques and coordinate closely with treatment providers. Graduated sanctions that respond proportionally to violations reduce reincarceration while maintaining accountability. Swift and certain but modest sanctions prove more effective than delayed but severe punishments. Recovery-oriented supervision that focuses on strengths and progress rather than deficits improves engagement. Peer support specialists embedded in supervision units provide credible role models and practical assistance.
+  clinical_description: Recovery-supportive supervision creates a collaborative framework for sustained recovery. Officers trained in motivational interviewing support rather than coerce change. Regular communication between supervision and treatment teams ensures coordinated responses. Graduated sanctions allow for learning from mistakes without devastating consequences. Supervision requirements accommodate treatment schedules and recovery activities. Officers connect clients to resources for housing, employment, and benefits. Positive reinforcement for progress balances accountability for violations.
+  lay_description: Good probation or parole officers understand that recovery isn't perfect and work with you rather than against you. They're trained to motivate rather than threaten, celebrating your progress and problem-solving setbacks. If you relapse, the response is increased treatment rather than immediate jail. They help connect you to resources like housing and job training. Requirements are realistic and work around treatment schedules. The focus is on building a stable life rather than catching you in violations.
+  structural_components: Specialized caseloads, officer training programs, treatment coordination systems, graduated sanction policies
+  social_processes: Motivational engagement, resource connection, progress monitoring, collaborative problem-solving, strength-building
+  societal_relevance: Reduces reincarceration, supports long-term recovery, improves public safety, cost-effective
+- id: soc-str-cjs-sup-fra
+  label: Surveillance-Focused Supervision
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Punitive probation
+  - Zero-tolerance parole
+  - Compliance-focused supervision
+  scope: Community supervision emphasizing surveillance, compliance monitoring, and quick revocation for violations, including zero-tolerance policies, excessive requirements, and minimal treatment coordination.
+  parent_scope_inheritance: Specifies the probation and parole component of criminal justice involvement, focusing on supervision practices that create instability, increase stress, and perpetuate criminal justice cycling through technical violations.
+  polarity_expression: Manifests fragmentation through adversarial supervision relationships, impossible-to-meet requirements, immediate incarceration for minor violations, and lack of coordination with treatment needs.
+  cross_domain_resonance: Resonates with phy-neu-str-dys (dysregulated stress) through constant threat of reincarceration, and psy-beh-avo-mal (maladaptive avoidance) through fear-driven disengagement.
+  academic_description: Technical violations of probation and parole, rather than new crimes, drive much of the reincarceration in the United States. Zero-tolerance policies that mandate revocation for any positive drug test ignore the reality of addiction as a relapsing condition. Excessive supervision requirements - frequent reporting, fees, drug tests, and program attendance - create practical impossibilities for people lacking transportation and resources. Fear of revocation deters honest communication about struggles and relapse. High caseloads prevent meaningful engagement, reducing supervision to compliance checking. Supervision fees create additional financial stress that can trigger relapse.
+  clinical_description: Surveillance-focused supervision undermines treatment through constant stress and fear. Clients face immediate incarceration for relapse, preventing honest discussion in therapy. Excessive requirements conflict with treatment schedules and recovery activities. Fear of drug tests creates anxiety that triggers use. Technical violations disrupt any progress made, restarting the cycle. Adversarial relationships with officers prevent help-seeking during crises. Clinical teams struggle to maintain therapeutic alliance while managing supervision requirements.
+  lay_description: Bad probation or parole feels like a trap designed to send you back to prison. Officers act more like cops than helpers, looking for any reason to violate you. One positive drug test, missed appointment, or late fee payment sends you back to jail, no matter how well you were doing otherwise. The requirements are impossible - multiple meetings per week, expensive drug tests, fees you can't afford - all while trying to work and rebuild your life. The stress and fear of going back actually trigger relapse, creating the very problem supervision claims to prevent.
+  structural_components: Zero-tolerance policies, high caseloads, surveillance technology, violation protocols, fee structures
+  social_processes: Surveillance, compliance monitoring, violation processing, fear generation, relationship disruption
+  societal_relevance: Drives reincarceration, perpetuates cycles, increases costs, undermines public safety
+- id: soc-str-cjs-col-coh
+  label: Reintegrative Consequences
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Second chance policies
+  - Record expungement
+  - Restoration of rights
+  scope: Policies and practices that minimize lasting consequences of criminal records and support reintegration, including expungement processes, ban-the-box initiatives, restored eligibility for benefits, and second chance employment.
+  parent_scope_inheritance: Specifies the collateral consequences component of criminal justice involvement, focusing on policies that remove barriers to reintegration and support successful reentry into community life.
+  polarity_expression: Manifests cohesion through systematic removal of record-based barriers, restoration of civil rights and benefits, and creation of pathways for full community membership despite past justice involvement.
+  cross_domain_resonance: Resonates with soc-str-eco-coh (economic cohesion) through employment access, and exi-mea-hop-pur (purposeful hope) through possibility of redemption.
+  academic_description: Research shows that employment is one of the strongest predictors of successful reentry, yet criminal records create substantial barriers to hiring. Ban-the-box policies that delay background checks until later in hiring increase employment for people with records. Expungement of criminal records improves employment outcomes and reduces recidivism. Restoration of voting rights enhances civic engagement and community connection. Access to public benefits and student aid supports stability during early recovery. Second chance employer programs that actively hire people with records show positive outcomes for both employees and businesses.
+  clinical_description: Reintegrative policies remove practical barriers to recovery stability. Expungement eligibility provides hope and motivation for sustained sobriety. Ban-the-box policies expand employment options crucial for self-esteem and financial stability. Restored benefit eligibility ensures basic needs are met during early recovery. Housing access prevents homelessness that triggers relapse. Educational opportunities through restored financial aid enable career development. Clinical teams can focus on recovery work rather than navigating permanent barriers.
+  lay_description: Second chance policies recognize that people can change and shouldn't be punished forever for past mistakes. Record expungement clears your criminal history after you've demonstrated rehabilitation, opening doors to jobs and housing. Ban-the-box laws mean employers can't ask about criminal history on applications, giving you a chance to be seen as a person first. Restored benefits like food stamps and student aid help you rebuild stability. These policies acknowledge that everyone deserves the opportunity to contribute to society after paying their debt.
+  structural_components: Expungement courts, legal aid clinics, second chance employers, policy reform organizations, reentry programs
+  social_processes: Record clearing, rights restoration, employer engagement, community acceptance, redemption narratives
+  societal_relevance: Reduces recidivism, strengthens workforce, promotes public safety, supports economic growth
+- id: soc-str-cjs-col-fra
+  label: Exclusionary Consequences
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Criminal Justice System
+  cluster_id: soc-str-cjs
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Permanent punishment
+  - Collateral sanctions
+  - Civil death
+  scope: Policies and practices creating permanent barriers based on criminal records, including employment discrimination, housing exclusions, benefit denials, and loss of civil rights that persist long after sentence completion.
+  parent_scope_inheritance: Specifies the collateral consequences component of criminal justice involvement, focusing on policies that create lasting barriers to reintegration and perpetuate marginalization regardless of rehabilitation efforts.
+  polarity_expression: Manifests fragmentation through permanent exclusion from employment, housing, education, and civic participation based on past convictions, creating a permanent underclass regardless of current behavior.
+  cross_domain_resonance: Resonates with soc-str-eco-fra (economic fragmentation) through employment barriers, and exi-mea-hop-dir (directionless hope) through permanent exclusion.
+  academic_description: Collateral consequences of criminal convictions create what scholars term 'civil death' - permanent exclusion from full citizenship. Over 44,000 collateral consequences exist in U.S. law, affecting employment, housing, education, voting, and public benefits. These barriers persist regardless of rehabilitation, creating permanent marginalization. Employment discrimination based on criminal records reduces earnings by 40% annually. Public housing bans affect entire families, punishing children for parents' convictions. Student aid ineligibility prevents education that could break cycles of crime. Voting disenfranchisement affects millions, undermining democratic participation. These accumulating barriers make successful reentry nearly impossible, driving recidivism.
+  clinical_description: Exclusionary consequences create insurmountable barriers to recovery. Permanent employment discrimination destroys hope and self-worth. Housing denials lead to homelessness that triggers relapse. Benefit ineligibility creates survival crimes. Educational barriers prevent career advancement. Family separation through housing bans disrupts crucial support. The permanence of consequences regardless of recovery progress breeds hopelessness. Clinical work must address not just addiction but systemic exclusion that makes stability impossible.
+  lay_description: A criminal record becomes a life sentence of punishment that continues long after you've served your time. You can't get hired because every employer runs background checks. You can't rent an apartment because landlords reject anyone with a record. You lose food stamps, can't get student loans, and may never vote again. Your family can be evicted from public housing just for letting you visit. No matter how hard you work on recovery or how long you stay clean, these barriers never go away. The system makes it nearly impossible to build a stable life, pushing many people back to crime and drugs just to survive.
+  structural_components: Background check systems, occupational licensing boards, public housing authorities, benefit agencies, voter registration systems
+  social_processes: Systematic exclusion, discrimination, stigmatization, permanent marginalization, hope destruction
+  societal_relevance: Perpetuates recidivism, maintains poverty, undermines families, weakens democracy

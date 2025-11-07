@@ -1,0 +1,452 @@
+# Generated anchors for cluster: PSY-PER-PAT
+# Timestamp: 20251103_192205
+
+anchors:
+- id: psy-per-pat-idn-ada
+  label: Identity Coherence
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Integrated identity
+  - Stable self-concept
+  - Identity synthesis
+  - Coherent self
+  scope: Represents stable, integrated self-concept with consistent identity across contexts, clear sense of personal values and goals, and coherent life narrative that provides continuity of self-experience.
+  parent_scope_inheritance: Specifies the identity dimension of personality pathology, focusing on the integration versus fragmentation of self-representations as a core feature of personality functioning.
+  polarity_expression: Manifests as cohesive self-organization with stable identity versus identity diffusion with unstable self-image and chronic emptiness.
+  cross_domain_resonance: Resonates with exi-mea-lif-idn-pur (existential identity), soc-ide-sel-idn-coh (social identity), and psy-dev-ego-idn-ada (developmental identity).
+  academic_description: Identity coherence represents the structural organization of self-concept involving identity synthesis, role integration, and temporal continuity. Research shows secure identity predicts better mental health outcomes and protects against substance use. Erikson's identity development theory and Kernberg's structural model emphasize identity integration as marker of personality organization.
+  clinical_description: Assessment includes Structured Interview for Personality Organization and Identity Disturbance Questionnaire. Treatment involves schema therapy for early maladaptive schemas, narrative therapy for coherent life story, and mentalization-based approaches for self-reflection. Long-term psychodynamic therapy addresses identity consolidation through transference work.
+  lay_description: Having a clear, stable sense of who you are - your values, goals, and what makes you unique. This inner stability helps you stay grounded even when life gets challenging, rather than feeling empty or unsure of your identity.
+  core_components:
+  - Self-continuity across time
+  - Integrated self-representations
+  - Clear personal values
+  - Coherent life narrative
+  associated_processes:
+  - Identity synthesis
+  - Self-reflection
+  - Value clarification
+  - Autobiographical reasoning
+- id: psy-per-pat-idn-mal
+  label: Identity Diffusion
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Identity disturbance
+  - Fragmented self
+  - Identity confusion
+  - Unstable self-image
+  scope: Represents fragmented, unstable self-concept with identity diffusion, chronic feelings of emptiness, unclear values and goals, and lack of coherent life narrative leading to discontinuous self-experience.
+  parent_scope_inheritance: Specifies the pathological identity fragmentation seen in personality disorders, particularly borderline personality, as a core feature requiring specialized intervention.
+  polarity_expression: Manifests as chaotic self-organization with identity diffusion, unstable self-image, and chronic emptiness characteristic of severe personality pathology.
+  cross_domain_resonance: Resonates with exi-mea-lif-idn-dir (identity crisis), soc-ide-sel-idn-fra (fragmented social identity), and psy-dev-ego-idn-mal (identity confusion).
+  academic_description: Identity diffusion represents lack of identity integration seen in borderline personality organization. Kernberg's structural model identifies this as core to borderline pathology. Research shows identity disturbance predicts self-harm, substance use, and interpersonal dysfunction. Involves splitting, lack of object constancy, and primitive defenses.
+  clinical_description: 'Assessment through clinical interview reveals contradictory self-descriptions, chronic emptiness, and chameleon-like adaptation. Treatment requires long-term approaches: transference-focused psychotherapy for integration, DBT identity modules for stability, and schema therapy for core beliefs. Address splitting through consistent therapeutic frame.'
+  lay_description: Feeling like you don't know who you really are, with your sense of self constantly shifting based on who you're with or how you're feeling. This creates an painful inner emptiness and confusion about your identity, values, and direction in life.
+  core_components:
+  - Contradictory self-aspects
+  - Chronic emptiness
+  - Unstable self-image
+  - Lack of continuity
+  associated_processes:
+  - Splitting
+  - Identity confusion
+  - Projective identification
+  - Dissociative states
+- id: psy-per-pat-emo-ada
+  label: Emotional Regulation
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Affect regulation
+  - Emotional stability
+  - Mood regulation
+  - Emotional control
+  scope: Represents effective emotion modulation with appropriate emotional responses, emotional awareness and differentiation, and capacity to tolerate and process difficult emotions without becoming overwhelmed.
+  parent_scope_inheritance: Specifies the adaptive emotional functioning aspect of personality, contrasting with the emotional dysregulation central to many personality disorders, particularly borderline pathology.
+  polarity_expression: Manifests as emotional stability with appropriate affective responses versus emotional dysregulation with mood instability and overwhelming affects.
+  cross_domain_resonance: Resonates with phy-neu-lim-emo-reg (limbic regulation), psy-cog-exe-inh-ada (cognitive control), and psy-cop-str-emo-ada (emotional coping).
+  academic_description: Emotional regulation involves conscious and unconscious processes modulating emotional experience and expression. Gross's process model identifies situation selection, modification, attention, reappraisal, and response modulation strategies. Secure attachment facilitates regulation development. Effective regulation predicts better mental health and social functioning.
+  clinical_description: Assessment includes Difficulties in Emotion Regulation Scale and ecological momentary assessment. Interventions include mindfulness-based approaches for awareness, emotion coaching for recognition, and cognitive reappraisal training. DBT PLEASE skills address vulnerability factors. Biofeedback enhances physiological regulation.
+  lay_description: Being able to handle your emotions without being overwhelmed by them - feeling things fully but not being controlled by feelings. This means staying relatively steady even when stressed, and bouncing back from upsets without extreme reactions.
+  core_components:
+  - Emotional awareness
+  - Affect tolerance
+  - Emotional differentiation
+  - Recovery capacity
+  associated_processes:
+  - Cognitive reappraisal
+  - Emotional acceptance
+  - Distress tolerance
+  - Affect labeling
+- id: psy-per-pat-emo-mal
+  label: Emotional Dysregulation
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Affect dysregulation
+  - Emotional instability
+  - Mood lability
+  - Emotional flooding
+  scope: Represents pervasive emotion dysregulation with intense, rapidly shifting emotions, inability to modulate affective states, emotional flooding, and inappropriate emotional responses that disrupt functioning.
+  parent_scope_inheritance: Specifies the pathological emotional dysregulation central to borderline and other personality disorders, representing a core treatment target in personality pathology.
+  polarity_expression: Manifests as emotional chaos with affective instability, intense inappropriate anger, and overwhelming emotional states characteristic of personality pathology.
+  cross_domain_resonance: Resonates with phy-neu-lim-emo-dys (limbic dysregulation), psy-tra-pts-emo-mal (trauma dysregulation), and psy-cop-str-emo-mal (maladaptive emotional coping).
+  academic_description: Emotional dysregulation represents core feature of borderline personality involving heightened emotional sensitivity, intense reactions, and slow return to baseline. Linehan's biosocial model emphasizes biological vulnerability interacting with invalidating environment. Associated with prefrontal-limbic dysfunction, childhood trauma, and attachment disruption.
+  clinical_description: 'Assessment reveals affective instability, intense anger, emotional crises, and self-harm for regulation. DBT provides comprehensive skills: distress tolerance for crisis survival, emotion regulation for vulnerability reduction, and TIPP for acute dysregulation. Psychopharmacology may target mood lability. Chain analysis identifies triggers and patterns.'
+  lay_description: Experiencing emotions as overwhelming tidal waves that sweep you away - intense mood swings, explosive anger, or crushing sadness that feels uncontrollable. Small triggers can cause extreme reactions, making daily life feel like an emotional rollercoaster.
+  core_components:
+  - Affective instability
+  - Emotional intensity
+  - Poor recovery
+  - Emotional flooding
+  associated_processes:
+  - Emotional cascades
+  - Rumination
+  - Catastrophizing
+  - Emotional avoidance
+- id: psy-per-pat-int-ada
+  label: Interpersonal Stability
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Relational stability
+  - Secure relating
+  - Interpersonal effectiveness
+  - Relationship health
+  scope: Represents stable, reciprocal relationships with appropriate boundaries, capacity for intimacy and autonomy, realistic perceptions of others, and ability to maintain connections through conflict.
+  parent_scope_inheritance: Specifies the adaptive interpersonal functioning aspect of personality, contrasting with the relational chaos characteristic of personality disorders.
+  polarity_expression: Manifests as stable other-representations with secure attachment versus interpersonal chaos with splitting and unstable relationships.
+  cross_domain_resonance: Resonates with soc-rel-int-att-coh (secure attachment), psy-dev-att-sec-ada (developmental attachment), and soc-sup-soc-con-coh (social connection).
+  academic_description: Interpersonal stability involves integrated object relations, mentalization capacity, and secure attachment representations. Bowlby's attachment theory and Kernberg's object relations model emphasize stable internal working models. Involves empathy, perspective-taking, and differentiation between self and other.
+  clinical_description: Assessment includes Adult Attachment Interview and Inventory of Interpersonal Problems. Interventions include interpersonal therapy for relationship patterns, couples therapy for dyadic issues, and group therapy for interpersonal learning. Mentalization-based treatment enhances reflective functioning.
+  lay_description: Having steady, healthy relationships where you can be close without losing yourself, handle disagreements without destroying the connection, and trust others while maintaining appropriate boundaries.
+  core_components:
+  - Stable attachments
+  - Appropriate boundaries
+  - Relationship continuity
+  - Realistic perceptions
+  associated_processes:
+  - Secure attachment
+  - Effective communication
+  - Conflict resolution
+  - Interpersonal trust
+- id: psy-per-pat-int-mal
+  label: Interpersonal Chaos
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Relational instability
+  - Interpersonal dysfunction
+  - Relationship turbulence
+  - Attachment disruption
+  scope: Represents unstable, chaotic relationships with boundary violations, alternating between idealization and devaluation, fear of abandonment, and inability to maintain stable connections.
+  parent_scope_inheritance: Specifies the pathological interpersonal patterns central to personality disorders, particularly borderline and narcissistic pathology, requiring specialized relational interventions.
+  polarity_expression: Manifests as fragmented other-representations with splitting, fear of abandonment, and alternating idealization-devaluation characteristic of personality pathology.
+  cross_domain_resonance: Resonates with soc-rel-int-att-fra (insecure attachment), psy-tra-com-att-mal (attachment trauma), and soc-dys-rel-abu-fra (relational abuse).
+  academic_description: Interpersonal chaos involves splitting, projective identification, and disorganized attachment. Kernberg describes alternating idealization-devaluation and identity diffusion affecting relationships. Fear of abandonment drives frantic efforts to avoid separation. Involves reenactment of early relational trauma.
+  clinical_description: Assessment reveals pattern of unstable relationships, fear of abandonment, and interpersonal crises. Treatment includes DBT interpersonal effectiveness skills, transference-focused psychotherapy for object relations, and schema therapy for relational patterns. Therapeutic relationship provides corrective experience.
+  lay_description: Relationships feel like constant drama - swinging between putting people on pedestals and feeling betrayed by them, desperately fearing abandonment while pushing people away, creating the very rejection you fear most.
+  core_components:
+  - Unstable relationships
+  - Fear of abandonment
+  - Splitting
+  - Boundary violations
+  associated_processes:
+  - Idealization-devaluation
+  - Projective identification
+  - Interpersonal hypersensitivity
+  - Rejection sensitivity
+- id: psy-per-pat-emp-ada
+  label: Empathic Functioning
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Mentalization capacity
+  - Prosocial functioning
+  - Empathic attunement
+  - Moral functioning
+  scope: Represents intact empathy and mentalization with accurate understanding of mental states, genuine concern for others, moral reasoning, and prosocial behavior guided by conscience.
+  parent_scope_inheritance: Specifies the adaptive empathic and prosocial functioning aspect of personality, contrasting with the empathy deficits seen in antisocial and narcissistic pathology.
+  polarity_expression: Manifests as accurate mentalization with genuine empathy and moral functioning versus mentalization failures with callousness and exploitation.
+  cross_domain_resonance: Resonates with psy-soc-emp-cog-ada (cognitive empathy), soc-eth-mor-car-coh (moral care), and exi-eth-vir-com-pur (compassion).
+  academic_description: Empathic functioning involves cognitive empathy (perspective-taking), affective empathy (emotional resonance), and empathic concern. Mentalization theory emphasizes understanding mental states in self and others. Moral development involves care-based and justice-based reasoning. Mirror neuron systems and theory of mind networks support empathy.
+  clinical_description: Assessment includes Interpersonal Reactivity Index and mentalization measures. Interventions include mentalization-based treatment for reflective functioning, compassion-focused therapy, and perspective-taking exercises. Moral reconation therapy addresses antisocial patterns. Group therapy provides empathy practice.
+  lay_description: Being able to understand and care about others' feelings, seeing situations from their perspective, and having a conscience that guides you to treat people fairly and kindly.
+  core_components:
+  - Accurate mentalization
+  - Emotional empathy
+  - Moral reasoning
+  - Prosocial concern
+  associated_processes:
+  - Perspective-taking
+  - Emotional contagion
+  - Compassionate responding
+  - Moral decision-making
+- id: psy-per-pat-emp-mal
+  label: Empathic Deficits
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Mentalization failure
+  - Callousness
+  - Empathy impairment
+  - Antisocial traits
+  scope: Represents deficient empathy and mentalization with inability to understand mental states, lack of genuine concern for others, absent remorse, and callous exploitation of others.
+  parent_scope_inheritance: Specifies the pathological empathy deficits central to antisocial and narcissistic personality disorders, representing critical treatment targets for prosocial functioning.
+  polarity_expression: Manifests as mentalization failures with callousness, lack of empathy, and exploitation characteristic of antisocial and narcissistic pathology.
+  cross_domain_resonance: Resonates with psy-soc-emp-cog-mal (cognitive empathy deficits), soc-dys-vio-agg-fra (aggression), and exi-eth-vir-com-dir (lack of compassion).
+  academic_description: Empathic deficits involve reduced cognitive and affective empathy seen in antisocial and narcissistic personality. Psychopathy research shows amygdala hypoactivity and reduced mirror neuron response. Callous-unemotional traits predict aggression and rule-breaking. Involves instrumental rather than reactive aggression.
+  clinical_description: Assessment reveals lack of remorse, callousness, exploitation, and disregard for others' rights. Treatment challenging but includes mentalization-based approaches, moral reconation therapy, and therapeutic communities. Focus on consequences rather than empathy. Address narcissistic vulnerability underlying grandiosity.
+  lay_description: Having difficulty understanding or caring about how others feel, using people for personal gain without guilt, and lacking the conscience that normally prevents hurting others.
+  core_components:
+  - Mentalization failures
+  - Lack of empathy
+  - Absent remorse
+  - Callous exploitation
+  associated_processes:
+  - Dehumanization
+  - Instrumental aggression
+  - Moral disengagement
+  - Exploitative behavior
+- id: psy-per-pat-beh-ada
+  label: Behavioral Control
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Impulse control
+  - Self-control
+  - Behavioral regulation
+  - Executive control
+  scope: Represents effective behavioral control with appropriate impulse regulation, considered decision-making, behavioral flexibility, and ability to delay gratification for long-term goals.
+  parent_scope_inheritance: Specifies the adaptive behavioral control aspect of personality functioning, contrasting with the impulsivity central to antisocial and borderline pathology.
+  polarity_expression: Manifests as integrated behavioral control with appropriate inhibition versus fragmented control with impulsivity and behavioral dysregulation.
+  cross_domain_resonance: Resonates with psy-cog-exe-inh-ada (cognitive inhibition), phy-neu-pfc-exe-reg (prefrontal control), and psy-add-beh-imp-ada (addiction impulse control).
+  academic_description: Behavioral control involves prefrontal executive functions including response inhibition, planning, and decision-making. Dual-process models distinguish automatic impulses from controlled responses. Self-control strength model suggests regulatory depletion. Delay discounting research shows impulsivity predicts substance use and antisocial behavior.
+  clinical_description: Assessment includes continuous performance tasks, delay discounting measures, and behavioral observations. Interventions include cognitive-behavioral therapy for impulse control, contingency management for behavior change, and mindfulness for response inhibition. DBT distress tolerance prevents impulsive actions.
+  lay_description: Being able to think before you act, resist immediate urges when they might cause problems, and make choices based on long-term consequences rather than momentary impulses.
+  core_components:
+  - Response inhibition
+  - Impulse regulation
+  - Behavioral planning
+  - Delay tolerance
+  associated_processes:
+  - Executive control
+  - Decision-making
+  - Self-monitoring
+  - Consequence evaluation
+- id: psy-per-pat-beh-mal
+  label: Behavioral Dyscontrol
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Impulsivity
+  - Disinhibition
+  - Behavioral dysregulation
+  - Recklessness
+  scope: Represents pervasive behavioral dyscontrol with pathological impulsivity, inability to inhibit responses, reckless behavior, aggression, self-harm, and failure to consider consequences.
+  parent_scope_inheritance: Specifies the pathological behavioral dyscontrol central to antisocial and borderline personality disorders, representing a critical risk factor for addiction and self-destructive behavior.
+  polarity_expression: Manifests as fragmented behavioral control with impulsivity, aggression, and self-destructive actions characteristic of personality pathology.
+  cross_domain_resonance: Resonates with psy-add-beh-imp-mal (addiction impulsivity), phy-neu-pfc-exe-dys (prefrontal dysfunction), and soc-dys-vio-agg-fra (aggressive behavior).
+  academic_description: 'Behavioral dyscontrol involves prefrontal-striatal dysfunction affecting response inhibition and reward processing. Impulsivity multifaceted: urgency, lack of premeditation, lack of perseverance, sensation-seeking. Associated with dopaminergic dysregulation, childhood ADHD, and trauma exposure. Predicts substance use, aggression, and self-harm.'
+  clinical_description: Assessment reveals impulsive aggression, self-harm, substance use, risky sexual behavior, and reckless driving. Treatment includes DBT distress tolerance and PLEASE skills, anger management programs, and harm reduction approaches. Pharmacotherapy may target impulsive aggression. Safety planning essential.
+  lay_description: Acting on impulse without thinking things through - doing things you later regret, exploding in anger, engaging in risky behaviors, or hurting yourself when overwhelmed, unable to stop even knowing the consequences.
+  core_components:
+  - Pathological impulsivity
+  - Response disinhibition
+  - Reckless behavior
+  - Aggressive outbursts
+  associated_processes:
+  - Urgency
+  - Sensation-seeking
+  - Risk-taking
+  - Behavioral activation
+- id: psy-per-pat-slf-ada
+  label: Stable Self-Worth
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Healthy narcissism
+  - Stable self-esteem
+  - Authentic self-worth
+  - Genuine confidence
+  scope: Represents stable, realistic self-worth based on genuine accomplishments and values, with internal validation, appropriate self-confidence, and ability to acknowledge both strengths and limitations.
+  parent_scope_inheritance: Specifies the adaptive self-worth regulation aspect of personality, contrasting with the pathological narcissistic patterns of grandiosity and fragile self-esteem.
+  polarity_expression: Manifests as integrated self-worth with stable, realistic self-esteem versus fragmented narcissistic regulation with grandiosity and vulnerability.
+  cross_domain_resonance: Resonates with psy-dev-ego-sel-ada (healthy self-concept), exi-mea-pur-aut-pur (authentic purpose), and soc-ide-sel-est-coh (social self-esteem).
+  academic_description: Stable self-worth involves optimal self-esteem based on intrinsic rather than contingent sources. Deci and Ryan's self-determination theory emphasizes authentic self-esteem from autonomy and competence. Involves self-compassion, realistic self-appraisal, and growth mindset. Protects against depression and addiction.
+  clinical_description: Assessment includes Rosenberg Self-Esteem Scale and measures of contingent self-worth. Interventions include self-compassion training, values clarification, and cognitive restructuring of self-critical thoughts. Address perfectionism and comparison. Build genuine accomplishments and internal validation.
+  lay_description: Having a solid sense of your worth that doesn't depend on constant praise or achievement - knowing your value while accepting your imperfections, feeling confident without needing to prove superiority over others.
+  core_components:
+  - Realistic self-appraisal
+  - Internal validation
+  - Self-acceptance
+  - Genuine confidence
+  associated_processes:
+  - Self-compassion
+  - Authentic pride
+  - Growth orientation
+  - Balanced self-focus
+- id: psy-per-pat-slf-mal
+  label: Narcissistic Dysregulation
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Pathological narcissism
+  - Grandiosity
+  - Narcissistic vulnerability
+  - Entitled self-concept
+  scope: Represents pathological narcissistic regulation with grandiosity, entitlement, need for admiration, fragile self-esteem requiring constant external validation, and exploitation of others for self-enhancement.
+  parent_scope_inheritance: Specifies the pathological narcissistic features seen in narcissistic personality disorder, involving dysregulated self-worth that complicates treatment engagement and therapeutic alliance.
+  polarity_expression: Manifests as fragmented self-worth regulation with alternating grandiosity and vulnerability, requiring constant external validation and resulting in interpersonal exploitation.
+  cross_domain_resonance: Resonates with psy-def-mec-nar-mal (narcissistic defenses), soc-dys-rel-exp-fra (exploitation), and exi-mea-pur-aut-dir (inauthentic purpose).
+  academic_description: Pathological narcissism involves grandiose and vulnerable dimensions. Kohut's self-psychology emphasizes narcissistic injury and rage. Kernberg describes grandiose self protecting against dependency. Associated with insecure attachment, childhood invalidation, and shame. Involves entitlement, exploitation, and lack of empathy.
+  clinical_description: Assessment reveals grandiosity, entitlement, need for admiration, and narcissistic injury sensitivity. Treatment challenging due to limited insight and therapeutic resistance. Schema therapy addresses entitlement and defectiveness schemas. Focus on narcissistic vulnerability beneath grandiosity. Careful management of therapeutic relationship.
+  lay_description: Needing to feel special and superior to others while secretly feeling inadequate - demanding admiration, feeling entitled to special treatment, using others for personal gain, and reacting with rage when challenged or criticized.
+  core_components:
+  - Grandiosity
+  - Entitlement
+  - Need for admiration
+  - Fragile self-esteem
+  associated_processes:
+  - Narcissistic rage
+  - Devaluation of others
+  - Exploitative behavior
+  - External validation seeking
+- id: psy-per-pat-soc-ada
+  label: Social Engagement
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Social connection
+  - Interpersonal comfort
+  - Social confidence
+  - Relational engagement
+  scope: Represents comfortable social engagement with appropriate selectivity, social confidence without excessive anxiety, ability to form connections while maintaining autonomy, and balanced need for solitude and companionship.
+  parent_scope_inheritance: Specifies the adaptive social engagement aspect of personality, contrasting with the avoidant patterns of social withdrawal and interpersonal hypersensitivity.
+  polarity_expression: Manifests as integrated social functioning with comfortable engagement versus fragmented social avoidance with withdrawal and isolation.
+  cross_domain_resonance: Resonates with soc-sup-soc-con-coh (social connection), psy-anx-soc-pho-ada (social comfort), and soc-rel-int-eng-coh (interpersonal engagement).
+  academic_description: Social engagement involves approach motivation, social reward sensitivity, and interpersonal comfort. Attachment security facilitates social connection. Social cognitive theory emphasizes self-efficacy in social situations. Involves balance between affiliation needs and autonomy. Protects against depression and addiction through social support.
+  clinical_description: Assessment includes Social Interaction Anxiety Scale and behavioral approach tasks. Interventions include social skills training, assertiveness training, and graduated exposure to social situations. Build social confidence through success experiences. Group therapy provides safe practice environment.
+  lay_description: Feeling comfortable connecting with others when you choose to - enjoying social interactions without overwhelming anxiety, being able to reach out for support, while also being okay with alone time.
+  core_components:
+  - Social approach
+  - Interpersonal comfort
+  - Connection capacity
+  - Social flexibility
+  associated_processes:
+  - Social confidence
+  - Interpersonal warmth
+  - Affiliation motivation
+  - Social reciprocity
+- id: psy-per-pat-soc-mal
+  label: Social Avoidance
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Personality Pathology
+  cluster_id: psy-per-pat
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Social withdrawal
+  - Interpersonal avoidance
+  - Social inhibition
+  - Relational withdrawal
+  scope: Represents pervasive social avoidance with social inhibition, hypersensitivity to rejection, feelings of inadequacy, and withdrawal from interpersonal contact despite desire for connection.
+  parent_scope_inheritance: Specifies the pathological social avoidance seen in avoidant personality disorder, involving interpersonal hypersensitivity that leads to isolation and loneliness despite craving connection.
+  polarity_expression: Manifests as fragmented social functioning with withdrawal, isolation, and hypersensitivity to rejection characteristic of avoidant personality pathology.
+  cross_domain_resonance: Resonates with psy-anx-soc-pho-mal (social anxiety), soc-sup-soc-iso-fra (social isolation), and soc-dys-rel-rej-fra (rejection sensitivity).
+  academic_description: 'Social avoidance in avoidant personality involves hypersensitivity to rejection, negative self-concept, and behavioral inhibition. Millon emphasizes anxious-fearful personality cluster. Associated with childhood criticism, peer rejection, and insecure attachment. Creates approach-avoidance conflict: desiring but fearing connection.'
+  clinical_description: Assessment reveals pervasive social inhibition, feelings of inadequacy, and avoidance of interpersonal contact. Treatment includes cognitive therapy for negative self-beliefs, graduated exposure to social situations, and social skills training. Address shame and self-criticism. Long-term therapy needed for personality change.
+  lay_description: Desperately wanting close relationships but being too afraid of rejection to reach out - feeling inferior to others, avoiding social situations, and ending up isolated and lonely despite craving connection.
+  core_components:
+  - Social inhibition
+  - Rejection sensitivity
+  - Feelings of inadequacy
+  - Interpersonal avoidance
+  associated_processes:
+  - Social withdrawal
+  - Hypervigilance to rejection
+  - Self-criticism
+  - Shame avoidance

@@ -1,0 +1,244 @@
+# Generated anchors for cluster: SOC-PER-SEL
+# Timestamp: 20251104_053249
+
+anchors:
+- id: soc-per-sel-hom-coh
+  label: Multi-dimensional Homophily
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Diverse similarity-based selection
+  - Value-based friend selection
+  - Multi-faceted homophily
+  scope: Friend selection based on multiple dimensions of similarity including values, interests, activities, and goals beyond substance use. Creates diverse yet compatible peer networks supporting recovery through varied connection points.
+  parent_scope_inheritance: Specifies the selection component of selection-influence dynamics when homophily operates across multiple dimensions, creating robust peer connections based on diverse similarities rather than singular focus on substance use.
+  polarity_expression: Cohesive multi-dimensional selection integrates various similarity assessments to build diverse, supportive networks, while fragmented selection fixates on substance use similarity alone.
+  cross_domain_resonance: Resonates with psy-soc-ide-ada (healthy identity formation through diverse connections) and exi-mea-con-pur (purposeful relationship building based on shared values).
+  academic_description: Multi-dimensional homophily operates through value homophily, interest homophily, and demographic homophily simultaneously. Research shows selection based on multiple similarity dimensions creates more stable, supportive relationships than uni-dimensional selection. Network studies demonstrate that diverse similarity bases provide multiple pathways for connection and mutual support. Recovery-oriented selection involves consciously expanding homophily dimensions beyond substance use to include recovery values, healthy activities, and life goals. This creates redundant ties that maintain relationships even when substance use patterns change.
+  clinical_description: Assessment explores the basis of current friendships - whether connections rest solely on substance use or include other shared interests, values, and activities. Interventions expand selection criteria through structured activities, hobby groups, volunteer work, and educational settings where clients meet peers with diverse commonalities. Values clarification helps identify non-substance dimensions for friend selection. Social skills training develops ability to connect on multiple levels. Group therapy provides practice selecting friends based on recovery commitment and personal growth rather than using history. Clinicians guide strategic friend-making that builds networks supporting long-term recovery.
+  lay_description: Healthy friendships connect on many levels - shared hobbies, similar values, common goals, compatible personalities. When selection focuses only on who uses the same substances, friendships become fragile and limiting. Recovery involves rediscovering other ways to connect with people. Maybe you both love music, share spiritual beliefs, enjoy sports, or have similar family situations. Building friendships on multiple foundations creates stronger, more supportive relationships that can weather changes in substance use patterns.
+  structural_components: Selection criteria diversity, similarity assessment processes, opportunity structures for varied connections, and network composition reflecting multiple homophily dimensions.
+  social_processes: Friend selection based on values, activity partner selection, interest-based grouping, personality matching, and goal alignment beyond substance use.
+  societal_relevance: Promotes social integration through diverse connections, reduces substance-based social segregation, and builds community resilience through multi-dimensional relationships.
+- id: soc-per-sel-hom-fra
+  label: Substance-focused Homophily
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Uni-dimensional selection
+  - Use-based friend selection
+  - Substance homophily
+  scope: Friend selection based primarily or exclusively on shared substance use patterns. Creates homogeneous networks of users that reinforce addiction through limited diversity and singular connection points centered on substances.
+  parent_scope_inheritance: Specifies the selection component of selection-influence dynamics when homophily operates uni-dimensionally around substance use, creating fragmented networks that lack diverse connection points and reinforce addictive patterns.
+  polarity_expression: Fragmented substance-focused selection reduces friend choice to shared use patterns, eliminating network diversity and creating echo chambers of addiction reinforcement.
+  cross_domain_resonance: Resonates with psy-soc-ide-mal (identity reduction to user status) and exi-mea-con-dir (directionless relationships lacking deeper meaning).
+  academic_description: Substance-focused homophily represents a narrowing of selection criteria where drug or alcohol use becomes the primary or sole basis for friendship formation. Research shows this creates highly clustered networks of users with limited bridging ties to non-using populations. Such uni-dimensional selection increases network homogeneity, reduces social capital, and limits exposure to alternative norms and behaviors. Studies demonstrate that substance-based selection creates fragile relationships that dissolve when use patterns change. This selection pattern reinforces addiction through network effects, normalization, and limited exposure to recovery models.
+  clinical_description: Assessment identifies when friendships exist solely around substance use - friends met through using, activities always involve substances, conversations center on use. These relationships often lack depth beyond shared addiction. Interventions address the anxiety and skill deficits maintaining narrow selection patterns. Motivational interviewing explores fears about connecting with non-users. Social anxiety treatment removes barriers to diverse friendships. Gradual exposure to new peer groups through structured activities reduces reliance on substance-based connections. Clinicians help recognize how limiting selection to users perpetuates addiction cycles.
+  lay_description: When all your friends are people you use with, your world shrinks. These friendships often feel shallow - you might not even know much about each other beyond drug or alcohol preferences. You chose them because they use like you, and that becomes the main thing holding you together. This creates a bubble where using seems normal and everyone reinforces each other's habits. Breaking free means learning to connect with people in other ways, even if it feels uncomfortable at first.
+  structural_components: Narrow selection criteria, homogeneous network composition, limited bridging ties, and clustering within substance-using populations.
+  social_processes: Selection through using venues, dealer networks, substance-centered activities, avoidance of non-users, and comfort-seeking with similar users.
+  societal_relevance: Perpetuates substance use epidemics through network clustering, limits social mobility, and creates marginalized communities organized around addiction.
+- id: soc-per-sel-inf-coh
+  label: Recovery-promoting Influence
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Positive peer influence
+  - Recovery contagion
+  - Supportive influence
+  scope: Peer influence processes that promote recovery through positive pressure, sober norm transmission, healthy behavior modeling, and mutual support. Friends actively encourage and reinforce movement away from substance use.
+  parent_scope_inheritance: Specifies the influence component of selection-influence dynamics when peer effects support recovery, showing how cohesive networks transmit positive behavioral changes through social influence mechanisms.
+  polarity_expression: Cohesive recovery influence integrates multiple positive influence pathways - encouragement, modeling, norm setting, and support - creating social pressure toward health rather than addiction.
+  cross_domain_resonance: Resonates with psy-soc-con-ada (adaptive conformity to healthy norms) and soc-fam-tra-coh (positive value transmission through social networks).
+  academic_description: Recovery-promoting influence operates through multiple mechanisms including descriptive norms (observing friends' sobriety), injunctive norms (friends' approval of recovery), behavioral modeling, and direct social support. Research demonstrates positive peer influence significantly predicts recovery maintenance. Social learning theory explains how observing friends' successful recovery provides vicarious reinforcement. Network studies show recovery spreads through social ties similar to how substance use spreads. Peer support groups leverage these influence mechanisms deliberately. Meta-analyses confirm that positive peer influence effects can match or exceed negative influence in magnitude.
+  clinical_description: Assessment evaluates current peer influences - do friends support or undermine recovery efforts? Interventions leverage positive influence through peer support groups, sponsor relationships, and recovery communities. Group therapy creates controlled environments for positive influence. Recovery coaching provides structured positive influence. Sober social networks offer immersion in recovery norms. Skills training helps clients become positive influences themselves. Clinicians help identify and strengthen relationships providing recovery support while managing relationships that might undermine progress.
+  lay_description: When friends support your recovery, their influence becomes a powerful positive force. They celebrate your sober milestones, invite you to healthy activities, and show through their own lives that recovery is possible. You absorb their positive attitudes and behaviors almost automatically. Being around people committed to health makes staying healthy feel natural and supported. This positive peer pressure works just as strongly as negative pressure, but pushes you toward wellness instead of addiction.
+  structural_components: Recovery network density, support tie strength, positive influence pathways, and norm transmission channels promoting sobriety.
+  social_processes: Encouragement and celebration of sobriety, recovery story sharing, sober activity planning, accountability partnerships, and mutual aid.
+  societal_relevance: Facilitates recovery movements, reduces addiction burden through social contagion of health, and builds recovery capital in communities.
+- id: soc-per-sel-inf-fra
+  label: Addiction-reinforcing Influence
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Negative peer pressure
+  - Use contagion
+  - Enabling influence
+  scope: Peer influence processes that reinforce addiction through pressure to use, substance norm transmission, use modeling, and enabling behaviors. Friends actively or passively encourage continued or escalated substance use.
+  parent_scope_inheritance: Specifies the influence component of selection-influence dynamics when peer effects undermine recovery, showing how fragmented networks transmit and reinforce addictive behaviors through negative social influence.
+  polarity_expression: Fragmented addiction influence operates through peer pressure, normalization of use, behavioral modeling of addiction, and enabling, creating social forces that maintain and escalate substance use.
+  cross_domain_resonance: Resonates with psy-soc-con-mal (maladaptive conformity to unhealthy norms) and soc-fam-tra-fra (negative value transmission through social networks).
+  academic_description: Addiction-reinforcing influence manifests through direct peer pressure, descriptive norms making use appear prevalent, injunctive norms suggesting use approval, and behavioral modeling of substance use. Research consistently shows negative peer influence as a primary risk factor for substance use initiation and escalation. Social learning mechanisms include observation of use behaviors, vicarious reinforcement when peers enjoy substances, and direct reinforcement through social inclusion. Network studies demonstrate how substance use spreads through social ties via influence mechanisms. Enabling behaviors and co-use rituals strengthen addiction-reinforcing influence.
+  clinical_description: Assessment identifies specific influence mechanisms - direct pressure, subtle encouragement, normalization, or enabling. Friends might actively push substances, make sobriety difficult, or simply model heavy use. Interventions teach influence resistance through refusal skills, cognitive restructuring of peer pressure, and assertiveness training. Boundary setting helps manage relationships with users. Sometimes relationships must be limited or ended. Clinicians help differentiate friends who might support recovery from those invested in continued use. Developing immunity to negative influence while maintaining valuable relationships requires careful navigation.
+  lay_description: Friends who use can pull you back into addiction through obvious pressure or subtle influence. They might directly offer substances, make you feel left out for being sober, or just make using look normal and fun. Being around active use makes staying clean much harder - you see it, smell it, remember it. Even well-meaning friends might enable your use without realizing it. Learning to resist this influence, set boundaries, or sometimes step away from certain friendships becomes crucial for recovery.
+  structural_components: Pressure networks, enabling tie patterns, normalization channels, and influence pathways maintaining addiction.
+  social_processes: Direct peer pressure, use initiation rituals, substance sharing, co-use activities, and normalization of excessive use.
+  societal_relevance: Perpetuates addiction epidemics through social transmission, normalizes substance use in communities, and creates cultures of addiction.
+- id: soc-per-sel-cyc-coh
+  label: Positive Selection-Influence Spirals
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Virtuous cycles
+  - Recovery momentum
+  - Upward spirals
+  scope: Self-reinforcing positive cycles where recovery-oriented peer selection leads to positive influence, which facilitates further healthy selection. Creates accelerating upward trajectories toward sustained recovery through feedback loops.
+  parent_scope_inheritance: Specifies the feedback loop component of selection-influence dynamics when cycles create positive momentum, showing how cohesive integration of selection and influence generates self-sustaining recovery trajectories.
+  polarity_expression: Cohesive spirals show strong positive feedback where each healthy choice (selection or influence) facilitates the next, creating momentum that makes recovery progressively easier and more stable.
+  cross_domain_resonance: Resonates with phy-neu-pla-reg (positive neuroplasticity cycles), psy-beh-hab-ada (adaptive habit formation), and exi-gro-tra-pur (purposeful growth trajectories).
+  academic_description: Positive selection-influence spirals represent dynamic feedback processes where initial recovery-oriented peer selection exposes individuals to positive influence, which strengthens recovery motivation and skills, leading to further positive selection. Systems theory explains these as positive feedback loops with amplifying effects. Each iteration strengthens recovery capital - selecting healthier friends provides better support, which enables selecting even healthier friends. Research shows these spirals can reach tipping points where recovery becomes self-sustaining. Longitudinal studies demonstrate accelerating recovery trajectories when positive cycles establish. These virtuous cycles contrast with vicious cycles of addiction.
+  clinical_description: Assessment tracks trajectory patterns - are selection and influence creating upward momentum? Early recovery interventions aim to initiate positive cycles through strategic peer selection and structured positive influence. Clinicians help clients recognize and amplify positive feedback loops. Small initial changes (joining one recovery group) can cascade into larger transformations. Motivational interviewing highlights how positive choices build on each other. Group therapy demonstrates spirals in action as members' progress inspires others. Treatment planning sequences interventions to create momentum. Celebrating incremental progress reinforces cycles.
+  lay_description: Recovery creates its own momentum through positive spirals. You join a recovery group (selection), get inspired by others' success (influence), which motivates you to seek more recovery-focused friends (selection), who further support your progress (influence). Each positive step makes the next one easier. What starts as difficult conscious choices becomes increasingly natural as the cycle strengthens. These upward spirals are the opposite of addiction's downward spirals - instead of problems creating more problems, solutions create more solutions.
+  structural_components: Feedback loop architecture, amplification mechanisms, cascade patterns, and tipping points toward recovery stability.
+  social_processes: Progressive network improvement, expanding recovery connections, deepening positive influences, and accelerating behavior change through social reinforcement.
+  societal_relevance: Creates recovery contagion in communities, demonstrates possibility of positive social change, and shows how individual recovery can catalyze collective healing.
+- id: soc-per-sel-cyc-fra
+  label: Negative Selection-Influence Spirals
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Vicious cycles
+  - Addiction momentum
+  - Downward spirals
+  scope: Self-reinforcing negative cycles where substance-focused peer selection leads to addiction-reinforcing influence, which drives further problematic selection. Creates accelerating downward trajectories through destructive feedback loops.
+  parent_scope_inheritance: Specifies the feedback loop component of selection-influence dynamics when cycles create negative momentum, showing how fragmented patterns of selection and influence generate self-perpetuating addiction trajectories.
+  polarity_expression: Fragmented spirals show destructive feedback where each problematic choice (selection or influence) facilitates worse choices, creating momentum that makes addiction progressively deeper and harder to escape.
+  cross_domain_resonance: Resonates with phy-neu-pla-dys (negative neuroplasticity cycles), psy-beh-hab-mal (maladaptive habit formation), and exi-gro-tra-dir (directionless decline trajectories).
+  academic_description: Negative selection-influence spirals represent destructive feedback processes where selection of substance-using peers leads to increased use through influence, which limits social circles to heavier users, creating escalating cycles. Systems theory identifies these as positive feedback loops with destructive outcomes. Each iteration deepens addiction - using friends encourage more use, requiring friends who accept heavier use, who encourage even more. Research shows these spirals can reach crisis points. Longitudinal studies demonstrate accelerating trajectories toward severe addiction. Breaking these cycles requires external intervention as internal resources become depleted.
+  clinical_description: Assessment identifies whether clients are caught in downward spirals where peer relationships and substance use mutually reinforce deterioration. Crisis intervention may be needed to interrupt acute spirals. Treatment focuses on cycle disruption through simultaneous intervention in selection and influence patterns. Motivational interviewing explores how each bad choice led to worse options. Harm reduction can slow spiral speed even when full reversal isn't immediately possible. Intensive outpatient or residential treatment may be necessary to fully break cycles. Relapse prevention addresses vulnerability to restarting spirals.
+  lay_description: Addiction creates downward spirals through your friendships. You start using, lose non-using friends, connect with heavier users, who influence you to use more, which limits you to even heavier users. Each step down makes climbing back up harder. What began as occasional use with casual friends becomes daily use with dependent friends. The spiral accelerates - problems pile up, options narrow, and escape seems impossible. Breaking these vicious cycles often requires outside help and dramatic changes to interrupt the destructive momentum.
+  structural_components: Destructive feedback architecture, amplification of problems, cascade failures, and tipping points toward addiction crisis.
+  social_processes: Progressive network deterioration, narrowing to heavy users, deepening negative influences, and accelerating substance use through mutual reinforcement.
+  societal_relevance: Explains rapid addiction progression in communities, shows how individual addiction affects social networks, and demonstrates need for circuit-breaker interventions.
+- id: soc-per-sel-pos-coh
+  label: Strategic Network Positioning
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Optimal network position
+  - Recovery network centrality
+  - Bridge positioning
+  scope: Strategic positioning within peer networks to maximize recovery support and minimize addiction exposure. Includes central positions in recovery networks, bridge roles between communities, and access to diverse social resources.
+  parent_scope_inheritance: Specifies the network structure component of selection-influence dynamics when positioning supports recovery, showing how cohesive network integration provides optimal locations for positive selection and influence.
+  polarity_expression: Cohesive positioning places individuals strategically within networks to access recovery resources, positive influences, and diverse connections while maintaining healthy boundaries with risk networks.
+  cross_domain_resonance: Resonates with soc-com-soc-coh (high social capital through positioning), soc-fam-bou-coh (healthy position in family system), and psy-soc-ass-ada (adaptive social assertion).
+  academic_description: Strategic network positioning leverages network topology for recovery advantage. Central positions in recovery networks provide maximum exposure to positive influence and support resources. Bridge positions between recovery and general communities prevent isolation while maintaining recovery focus. Research shows network position affects both selection opportunities and influence exposure. Centrality in recovery networks predicts better outcomes. Bridge positions provide resilience through diverse connections. Strategic positioning requires intentional relationship management and boundary setting. Network interventions can reshape position through targeted connection-building.
+  clinical_description: Assessment maps client's current network position - are they central or peripheral, bridging or isolated? Network visualization helps identify strategic positioning opportunities. Interventions guide intentional relationship building to achieve optimal positions. This might mean becoming more central in recovery communities through increased participation, or building bridges to non-recovery networks for normalized social life. Social skills training enables navigation of different network positions. Boundary management prevents problematic positioning. Clinicians help balance integration with protection from negative influences.
+  lay_description: Your position in social networks affects your recovery. Being central in recovery communities - knowing many people in recovery, being known and supported - provides maximum help. But you also need connections beyond recovery for a full life. The ideal position connects you to recovery support while maintaining diverse friendships. This might mean being active in recovery groups while also joining hobby clubs or volunteer organizations. Strategic positioning means consciously choosing where you fit in different social circles to support your goals.
+  structural_components: Network centrality measures, bridging positions, clustering coefficients, and strategic tie patterns optimizing recovery support.
+  social_processes: Active participation in recovery communities, bridge-building to diverse groups, strategic relationship cultivation, and boundary management.
+  societal_relevance: Promotes recovery through optimal social integration, prevents marginalization of recovering individuals, and builds community recovery capital.
+- id: soc-per-sel-pos-fra
+  label: Problematic Network Isolation
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Network marginalization
+  - Use cluster isolation
+  - Peripheral positioning
+  scope: Isolation within substance-using network clusters or peripheral positions that limit access to recovery resources. Includes entrapment in using networks, disconnection from mainstream communities, and lack of bridging ties.
+  parent_scope_inheritance: Specifies the network structure component of selection-influence dynamics when positioning perpetuates addiction, showing how fragmented network positions trap individuals in cycles of use with limited escape routes.
+  polarity_expression: Fragmented positioning isolates individuals within substance-using clusters or peripheral locations, limiting exposure to recovery resources and positive influences while maximizing addiction reinforcement.
+  cross_domain_resonance: Resonates with soc-com-soc-fra (low social capital through isolation), soc-fam-bou-fra (problematic position in family system), and psy-soc-ass-mal (social withdrawal and isolation).
+  academic_description: Problematic network isolation occurs when individuals become trapped in dense clusters of substance users with few or no bridging ties to recovery or mainstream networks. Peripheral positions in all networks limit access to social resources. Research shows isolation in using clusters predicts continued addiction. High clustering with low bridging creates echo chambers reinforcing use. Peripheral positions in multiple networks indicate social marginalization. Network analysis reveals how structural positions constrain behavior change. Breaking out requires developing bridging ties, but this is difficult from isolated positions.
+  clinical_description: Assessment identifies network isolation patterns - is the client trapped in a using cluster, peripheral to all networks, or lacking bridges to recovery resources? Interventions focus on strategic tie-building to break isolation. This requires identifying potential bridge relationships and developing skills to form them. Structured activities provide opportunities for new connections outside using networks. Peer support specialists who've escaped similar isolation provide roadmaps. Sometimes geographical relocation is necessary to escape entrenched network positions. Treatment addresses social anxiety maintaining isolation.
+  lay_description: Being stuck in a bubble of users makes recovery feel impossible. When everyone you know uses, and you don't know anyone in recovery, you're isolated even if surrounded by people. You might be on the edges of social groups, not really belonging anywhere. This isolation maintains addiction - no one models recovery, everyone reinforces use, and you can't imagine different relationships. Breaking free requires consciously building bridges to new communities, which feels risky when your current network is all you know.
+  structural_components: High clustering in use networks, absent bridging ties, peripheral positions, and structural holes preventing access to recovery resources.
+  social_processes: Social segregation in using communities, disconnection from mainstream networks, limited relationship diversity, and reinforcement of isolation.
+  societal_relevance: Perpetuates addiction through social isolation, creates marginalized communities, and demonstrates how network structure maintains health disparities.
+- id: soc-per-sel-tem-coh
+  label: Synchronized Network-Behavior Evolution
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Coordinated coevolution
+  - Aligned temporal change
+  - Synchronized development
+  scope: Well-timed, coordinated changes in peer networks and substance use behaviors that support recovery. Network changes align with and reinforce behavioral changes through optimal sequencing and pacing.
+  parent_scope_inheritance: Specifies the temporal dynamics component of selection-influence processes when network and behavior changes synchronize effectively, showing how cohesive timing patterns facilitate successful recovery trajectories.
+  polarity_expression: Cohesive temporal patterns show synchronized, well-paced coevolution where network changes and behavioral changes support each other through optimal timing and sequencing.
+  cross_domain_resonance: Resonates with phy-cir-syn-reg (synchronized biological rhythms), psy-dev-mat-ada (well-timed developmental transitions), and exi-gro-sta-pur (purposeful growth stages).
+  academic_description: Synchronized network-behavior evolution occurs when changes in peer relationships and substance use behaviors align temporally to create mutual reinforcement. Research using longitudinal network models shows optimal recovery trajectories involve coordinated timing - network changes slightly precede or coincide with behavioral changes. Too rapid network change can destabilize recovery; too slow can impede progress. Critical periods exist when network-behavior alignment is crucial. Successful coevolution shows phase transitions where both networks and behaviors shift together toward recovery states. Temporal coordination predicts long-term recovery maintenance.
+  clinical_description: Assessment examines timing of network and behavior changes - are they supporting or undermining each other? Treatment planning sequences interventions for optimal coordination. Early recovery might focus on behavior stabilization before major network changes. Or strategic network changes might precede and enable behavior change. Pacing is individualized based on readiness and stability. Clinicians help coordinate transitions, ensuring network changes don't destabilize recovery progress. Timeline exercises visualize planned coevolution. Stage-based treatment aligns network and behavioral interventions.
+  lay_description: Successful recovery requires good timing between changing friendships and changing behaviors. If you try to quit using while surrounded by users, timing works against you. If you change all friendships before you're stable, you might feel too isolated. The key is coordination - gradually shifting toward recovery-focused friends as you reduce use, letting each change support the other. This synchronized evolution feels natural and sustainable, unlike forced changes that create instability.
+  structural_components: Temporal alignment patterns, phase transitions, critical periods, and coevolution trajectories showing coordinated change.
+  social_processes: Staged relationship transitions, gradual network shifting, timed behavior changes, and coordinated evolution of social and personal patterns.
+  societal_relevance: Demonstrates importance of timing in social interventions, shows how coordinated change facilitates recovery, and informs staged treatment approaches.
+- id: soc-per-sel-tem-fra
+  label: Desynchronized Network-Behavior Evolution
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Selection-Influence Dynamics
+  cluster_id: soc-per-sel
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Chaotic coevolution
+  - Misaligned temporal change
+  - Desynchronized development
+  scope: Poorly timed, uncoordinated changes in peer networks and substance use behaviors that undermine recovery. Network changes conflict with behavioral changes through problematic sequencing and pacing.
+  parent_scope_inheritance: Specifies the temporal dynamics component of selection-influence processes when network and behavior changes desynchronize destructively, showing how fragmented timing patterns create unstable and unsustainable change attempts.
+  polarity_expression: Fragmented temporal patterns show desynchronized, poorly paced coevolution where network changes and behavioral changes undermine each other through problematic timing and sequencing.
+  cross_domain_resonance: Resonates with phy-cir-syn-dys (disrupted biological rhythms), psy-dev-mat-mal (poorly timed developmental transitions), and exi-gro-sta-dir (directionless growth attempts).
+  academic_description: Desynchronized network-behavior evolution occurs when peer relationship changes and substance use changes conflict temporally, creating instability. Research shows problematic patterns include premature network abandonment before behavioral stability, delayed network change despite behavior change needs, or oscillating changes that never stabilize. Misaligned timing creates vulnerability - attempting sobriety while maintaining using networks, or abandoning all relationships during early recovery. Chaotic coevolution shows repeated failed attempts at change. Temporal misalignment predicts relapse and recovery failure. These patterns reflect poor coordination between social and behavioral change processes.
+  clinical_description: Assessment identifies temporal misalignment - are network and behavior changes working against each other? Common problems include trying to maintain using friendships while attempting sobriety, cutting off all relationships too quickly, or flip-flopping between networks and behaviors. Interventions focus on temporal coordination. This might mean slowing network changes until behavior stabilizes, or accelerating network shifts to support behavioral goals. Crisis intervention addresses acute desynchronization. Treatment helps sequence changes appropriately. Relapse often follows temporal chaos. Stabilization requires realigning network and behavior trajectories.
+  lay_description: When friendship changes and behavior changes don't line up, recovery becomes chaotic. You might try to quit while keeping using friends, setting yourself up for failure. Or you might cut off everyone too quickly and relapse from loneliness. Some people ping-pong between different friends and behaviors, never finding stability. This misaligned timing creates constant crisis - your relationships and your recovery goals work against each other instead of together. Finding the right pace and sequence for changes is crucial for sustainable recovery.
+  structural_components: Temporal misalignment patterns, unstable transitions, conflicting change trajectories, and coevolution failures.
+  social_processes: Premature relationship changes, delayed network adaptation, oscillating social patterns, and uncoordinated evolution creating instability.
+  societal_relevance: Explains why many recovery attempts fail, demonstrates importance of coordinated social support, and highlights need for staged, synchronized interventions.

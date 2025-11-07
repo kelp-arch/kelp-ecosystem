@@ -1,0 +1,220 @@
+# Generated anchors for cluster: PHY-END-GON
+# Timestamp: 20251103_102638
+
+anchors:
+- id: phy-end-gon-hpg-reg
+  label: HPG Axis Regulation
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Gonadal Hormones
+  cluster_id: phy-end-gon
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal gonadotropin function
+  - Intact HPG axis
+  - Preserved GnRH pulsatility
+  scope: Normal hypothalamic GnRH pulsatility driving appropriate pituitary LH and FSH secretion, maintaining gonadal stimulation and feedback loops with preserved fertility potential and hormone production capacity.
+  parent_scope_inheritance: Specifies the gonadal hormone cluster by focusing on the central hypothalamic-pituitary control mechanisms that regulate downstream sex hormone production in both males and females.
+  polarity_expression: Manifests as regular GnRH pulses, appropriate gonadotropin responses to feedback signals, and maintained capacity for gonadal stimulation supporting normal reproductive function.
+  cross_domain_resonance: Resonates with psy-exe-inh-ada (executive control), soc-fam-par-coh (parenting capacity), and exi-gro-mat-pur (developmental maturation) through reproductive competence.
+  academic_description: The HPG axis maintains homeostasis through pulsatile GnRH release from hypothalamic neurons, stimulating anterior pituitary gonadotrophs to secrete LH and FSH in patterns appropriate for sex and reproductive status. Kisspeptin neurons integrate metabolic and stress signals to modulate GnRH release. Negative feedback from sex steroids maintains appropriate gonadotropin levels. This system shows remarkable plasticity in response to nutritional, stress, and seasonal cues.
+  clinical_description: Normal HPG function presents with LH and FSH levels appropriate for age and sex, regular hormone pulses detectable through frequent sampling, and preserved fertility potential. Assessment includes baseline and stimulated gonadotropin levels, GnRH stimulation testing when indicated, and evaluation of downstream hormone production. Maintaining HPG function requires adequate nutrition, stress management, and avoiding substances that suppress GnRH. Recovery of HPG function after substance use varies with age, duration of use, and individual factors.
+  lay_description: The brain's control center for reproduction works like a master clock, sending regular signals to the pituitary gland that then tells the ovaries or testes when to make hormones. When this system works properly, it maintains fertility, supports normal hormone cycles, and helps regulate mood and energy. Good nutrition, regular sleep, and managing stress all help keep this system running smoothly.
+  key_mediators: GnRH, kisspeptin, LH, FSH, inhibin B, anti-Müllerian hormone
+  key_mechanisms: GnRH pulse generation, gonadotroph responsiveness, negative feedback loops, kisspeptin signaling
+  clinical_relevance: Fertility preservation, hormone replacement timing, recovery prognosis
+  assessment_methods: LH/FSH levels, GnRH stimulation test, frequent sampling studies, inhibin B measurement
+  interventions: Nutritional rehabilitation, stress reduction, sleep optimization, avoiding HPG suppressants
+  prominent_models: GnRH pulse generator model, kisspeptin-GnRH-gonadotropin axis, metabolic gating hypothesis
+- id: phy-end-gon-hpg-dys
+  label: HPG Axis Suppression
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Gonadal Hormones
+  cluster_id: phy-end-gon
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Hypogonadotropic hypogonadism
+  - Central hypogonadism
+  - GnRH deficiency
+  scope: Suppressed hypothalamic GnRH release with reduced or absent LH and FSH secretion, leading to inadequate gonadal stimulation, disrupted feedback mechanisms, and secondary hypogonadism with associated metabolic and mood disturbances.
+  parent_scope_inheritance: Specifies the gonadal hormone cluster by examining how chronic substance use disrupts central HPG control, causing downstream hormone deficiencies that affect both reproductive and non-reproductive functions.
+  polarity_expression: Manifests as absent or irregular GnRH pulses, low or undetectable gonadotropins, loss of normal feedback responsiveness, and secondary gonadal insufficiency with systemic consequences.
+  cross_domain_resonance: Resonates with psy-exe-inh-mal (impaired control), soc-fam-par-fra (compromised parenting), and exi-gro-mat-dir (stunted development) through reproductive dysfunction.
+  academic_description: Chronic opioid and alcohol use suppress GnRH neurons through multiple mechanisms including direct μ-opioid receptor activation, elevated prolactin, and inflammatory cytokines. This causes functional GnRH deficiency with loss of pulsatile secretion. Kisspeptin neurons are particularly vulnerable to opioid suppression. The resulting hypogonadotropic hypogonadism affects up to 90% of men on chronic opioids and causes anovulation in women. Recovery requires months to years after cessation, with incomplete restoration in some cases.
+  clinical_description: HPG suppression presents with low or undetectable LH and FSH, absent hormone pulses on frequent sampling, and secondary hypogonadism. Common in chronic opioid use, severe alcohol use disorder, and malnutrition. Causes infertility, sexual dysfunction, osteoporosis risk, and mood symptoms. Assessment shows low gonadotropins with low sex hormones. GnRH stimulation may show blunted response. Recovery varies - younger patients show better restoration. May require temporary hormone replacement during early recovery. Consider fertility preservation counseling before chronic opioid therapy.
+  lay_description: When drugs or alcohol are used heavily over time, they essentially shut down the brain's reproductive control center. The signals that normally tell the body to make sex hormones stop working properly. This causes low hormone levels that affect far more than just reproduction - energy drops, mood worsens, bones weaken, and sexual function suffers. The good news is that this system often recovers with sustained sobriety, though it can take many months and may need medical support during healing.
+  key_mediators: Suppressed GnRH, low LH/FSH, elevated prolactin, inflammatory cytokines, endogenous opioids
+  key_mechanisms: GnRH neuron inhibition, kisspeptin suppression, hyperprolactinemia, inflammatory disruption
+  clinical_relevance: Infertility, osteoporosis risk, metabolic syndrome, depression, sexual dysfunction
+  assessment_methods: Low LH/FSH with low sex hormones, absent pulses on frequent sampling, MRI for pituitary evaluation
+  interventions: Substance use treatment, nutritional support, consider hormone replacement, fertility preservation
+  prominent_models: Opioid-induced androgen deficiency model, functional hypothalamic amenorrhea, stress-induced HPG suppression
+- id: phy-end-gon-tes-reg
+  label: Testosterone Homeostasis
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Gonadal Hormones
+  cluster_id: phy-end-gon
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal testosterone function
+  - Androgen sufficiency
+  - Intact Leydig cell function
+  scope: Normal testosterone production by Leydig cells with appropriate receptor sensitivity, supporting anabolic functions, mood stability, sexual function, and male-typical behaviors while maintaining negative feedback regulation.
+  parent_scope_inheritance: Specifies the gonadal hormone cluster by focusing on the male androgen system, its production, regulation, and diverse physiological effects that influence addiction vulnerability and recovery.
+  polarity_expression: Manifests as testosterone levels within normal range, preserved diurnal rhythm, appropriate tissue responsiveness, and maintained anabolic-androgenic balance supporting physical and psychological wellbeing.
+  cross_domain_resonance: Resonates with psy-mot-drv-ada (motivational drive), soc-rel-int-coh (intimate relationships), and exi-aut-age-pur (personal agency) through masculine vitality.
+  academic_description: Testosterone production occurs in Leydig cells under LH stimulation, with levels showing diurnal variation (peak in morning). Testosterone and its metabolite DHT act through androgen receptors widely distributed in brain and body. Beyond reproductive functions, testosterone influences dopamine synthesis, reward sensitivity, and aggressive behavior. It maintains muscle mass, bone density, erythropoiesis, and metabolic function. Testosterone may influence addiction through effects on risk-taking and reward processing.
+  clinical_description: Normal testosterone presents with levels of 300-1000 ng/dL in adult men, preserved morning peak, and clinical signs of androgenization. Supports libido, erectile function, energy, and mood. Assessment includes total and free testosterone, preferably morning samples. SHBG and albumin affect bioavailable testosterone. Normal levels support treatment engagement through improved mood and energy. Exercise, adequate sleep, and nutrition help maintain production. Age-related decline is gradual, unlike the acute suppression seen with opioid use.
+  lay_description: Testosterone is often called the 'male hormone,' though women have small amounts too. In men, healthy testosterone levels support not just sexual function but also energy, mood, muscle strength, and motivation. The body makes most testosterone in the morning, which is why energy often feels highest then. Good testosterone levels help men feel vital and engaged in life. Exercise, good sleep, and healthy weight all support natural testosterone production.
+  key_mediators: Testosterone, dihydrotestosterone (DHT), LH, androgen receptors, SHBG
+  key_mechanisms: Leydig cell steroidogenesis, 5α-reductase conversion, receptor activation, feedback inhibition
+  clinical_relevance: Sexual function, mood regulation, metabolic health, bone density, muscle mass
+  assessment_methods: Total and free testosterone, LH levels, SHBG, morning sampling, symptom questionnaires
+  interventions: Exercise, weight management, sleep optimization, vitamin D supplementation, stress reduction
+  prominent_models: Androgen receptor signaling model, testosterone-dopamine interaction, anabolic-androgenic balance
+- id: phy-end-gon-tes-dys
+  label: Testosterone Deficiency
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Gonadal Hormones
+  cluster_id: phy-end-gon
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Opioid-induced androgen deficiency
+  - Male hypogonadism
+  - Low testosterone syndrome
+  scope: Suppressed testosterone production with Leydig cell dysfunction, causing systemic effects including depression, sexual dysfunction, metabolic disruption, reduced bone density, and compromised recovery capacity.
+  parent_scope_inheritance: Specifies the gonadal hormone cluster by examining how substance use, particularly opioids, causes male hypogonadism with wide-ranging effects on physical health, mood, and addiction recovery.
+  polarity_expression: Manifests as testosterone levels below 300 ng/dL, loss of diurnal rhythm, clinical signs of hypogonadism, and associated metabolic, mood, and sexual dysfunction that impairs quality of life and recovery.
+  cross_domain_resonance: Resonates with psy-mot-drv-mal (amotivation), soc-rel-int-fra (relationship dysfunction), and exi-aut-age-dir (diminished agency) through loss of vitality.
+  academic_description: Opioid-induced androgen deficiency affects up to 90% of men on chronic opioids through central suppression of GnRH and direct effects on Leydig cells. Alcohol causes testicular atrophy and impairs steroidogenesis. Low testosterone contributes to depression, fatigue, and reduced treatment engagement. It causes sarcopenia, osteoporosis, metabolic syndrome, and increased cardiovascular risk. Recovery is variable - younger men may restore function within months while older men may have permanent deficits.
+  clinical_description: Testosterone deficiency presents with levels below 300 ng/dL, often below 100 in severe cases. Symptoms include fatigue, depression, erectile dysfunction, reduced libido, and loss of morning erections. Physical signs include reduced muscle mass, increased adiposity, and gynecomastia. Contributes to poor treatment engagement and quality of life. Assessment confirms low testosterone with inappropriately normal or low LH. Consider replacement therapy after stabilization on opioid agonist therapy. Monitor for polycythemia and prostate issues with replacement.
+  lay_description: When men use opioids or alcohol heavily, testosterone levels often drop dramatically - sometimes to nearly zero. This isn't just about sex drive; low testosterone causes profound fatigue, depression, weight gain, and weakness. Men describe feeling like they've aged decades overnight. The body stops maintaining muscle and bone properly. Recovery can be slow, and some men need testosterone replacement to feel normal again. This hidden consequence of substance use significantly impacts quality of life and recovery success.
+  key_mediators: Suppressed testosterone, low LH, elevated prolactin, inflammatory markers, cortisol
+  key_mechanisms: Leydig cell suppression, central hypogonadism, testicular atrophy, receptor desensitization
+  clinical_relevance: Depression, sexual dysfunction, osteoporosis, metabolic syndrome, sarcopenia
+  assessment_methods: Low testosterone with low/normal LH, prolactin level, morning cortisol, DEXA scan
+  interventions: Treat underlying substance use, testosterone replacement therapy, hCG therapy, lifestyle modification
+  prominent_models: OPIAD syndrome (opioid-induced androgen deficiency), alcohol-related hypogonadism
+- id: phy-end-gon-est-reg
+  label: Estrogen Balance
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Gonadal Hormones
+  cluster_id: phy-end-gon
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal estrogen cycling
+  - Balanced estradiol function
+  - Physiological estrogen patterns
+  scope: Normal cyclical estrogen production with appropriate follicular phase peaks and luteal phase decline, supporting reproductive function, bone health, and cardiovascular protection without enhancing addiction vulnerability.
+  parent_scope_inheritance: Specifies the gonadal hormone cluster by focusing on female estrogen patterns and their complex relationship with reward systems, mood regulation, and addiction susceptibility.
+  polarity_expression: Manifests as regular menstrual cycles with predictable estrogen fluctuations, balanced mood across cycle phases, and maintained reproductive and metabolic health without excessive reward enhancement.
+  cross_domain_resonance: Resonates with psy-rew-nat-ada (natural reward), soc-rol-gen-coh (gender role integration), and exi-mea-ful-pur (life fulfillment) through feminine vitality.
+  academic_description: Estradiol production by ovarian follicles follows predictable patterns across the menstrual cycle, with peaks during late follicular phase. Estrogen acts through ERα and ERβ receptors distributed throughout brain and body. It modulates dopamine synthesis and release, influences serotonin systems, and affects stress responsivity. While estrogen enhances cognitive function and mood in many contexts, it also potentiates drug reward through dopamine system interactions. Normal cycling maintains physiological benefits while limiting addiction vulnerability windows.
+  clinical_description: Normal estrogen cycling presents with regular 28-day cycles, mid-cycle estradiol peaks of 200-400 pg/mL, and luteal phase decline. Supports bone density, cardiovascular health, and cognitive function. Assessment includes cycle day-specific estradiol levels, FSH, and menstrual pattern tracking. Understanding individual cycle patterns helps identify vulnerability windows. Follicular phase (high estrogen) may increase reward sensitivity. Many women report stable mood and cravings with regular cycles. Hormonal contraceptives alter these patterns and may affect treatment response.
+  lay_description: Estrogen levels naturally rise and fall throughout the menstrual cycle, affecting not just reproduction but also mood, energy, and even how rewarding certain experiences feel. During the first half of the cycle, rising estrogen often brings increased energy and positive mood. When these patterns are regular and balanced, they support overall health - strong bones, heart protection, and mental clarity. Understanding your cycle helps predict times when cravings might be stronger and when you might need extra support.
+  key_mediators: Estradiol, estrone, FSH, estrogen receptors (ERα, ERβ), aromatase
+  key_mechanisms: Follicular development, aromatase conversion, receptor activation, HPG feedback
+  clinical_relevance: Bone health, cardiovascular protection, cognitive function, mood regulation
+  assessment_methods: Cycle-specific estradiol, FSH levels, menstrual tracking, bone density screening
+  interventions: Cycle awareness, nutritional support, stress management, regular exercise, adequate body fat
+  prominent_models: Estrogen-dopamine interaction model, reproductive aging continuum, cycle-dependent vulnerability
+- id: phy-end-gon-est-dys
+  label: Estrogen Dysregulation
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Gonadal Hormones
+  cluster_id: phy-end-gon
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Estrogen-enhanced vulnerability
+  - Telescoping phenomenon
+  - Cycle-dependent sensitization
+  scope: Disrupted estrogen patterns with enhanced drug reward during high estrogen states, accelerated progression to addiction (telescoping), and increased vulnerability to relapse during specific cycle phases.
+  parent_scope_inheritance: Specifies the gonadal hormone cluster by examining how estrogen's interaction with reward systems creates sex-specific addiction vulnerabilities and influences treatment outcomes in women.
+  polarity_expression: Manifests as estrogen-potentiated drug reward, accelerated addiction progression in women, cycle-dependent craving patterns, and heightened stress sensitivity during hormonal transitions.
+  cross_domain_resonance: Resonates with psy-rew-inc-mal (incentive sensitization), soc-rol-gen-fra (gender role conflict), and exi-mea-ful-dir (loss of meaning) through hormonal vulnerability.
+  academic_description: Estrogen enhances dopamine release in nucleus accumbens and potentiates drug reward, particularly for stimulants. The telescoping phenomenon - women's accelerated progression from initiation to dependence - relates to estrogen's enhancement of drug effects. High estrogen states (late follicular phase) increase cocaine and amphetamine reward. Estrogen also enhances stress responsivity, creating dual vulnerability. Menopausal transition with fluctuating estrogen creates additional risk. These interactions explain sex differences in addiction trajectories and treatment needs.
+  clinical_description: Estrogen dysregulation in addiction presents as cycle-dependent craving patterns, with many women reporting increased use during late follicular phase. Telescoping means women often present with more severe consequences despite shorter use duration. Assessment includes detailed menstrual history and cycle tracking. Some women benefit from continuous hormonal contraceptives to avoid fluctuations. Perimenopause and menopause create additional vulnerability with erratic estrogen levels. Treatment planning should account for hormonal influences on craving and mood. Consider enhanced support during high-risk cycle phases.
+  lay_description: For women, estrogen doesn't just affect reproduction - it can make drugs feel more rewarding and lead to faster addiction development. Many women notice their cravings change throughout their cycle, often getting stronger when estrogen peaks mid-cycle. This helps explain why women often develop severe addiction problems more quickly than men, despite starting use later. Major hormonal changes like pregnancy, postpartum, and menopause can be especially challenging times. Understanding these patterns helps women and their treatment providers plan better support strategies.
+  key_mediators: Elevated estradiol, enhanced dopamine, reduced MAO activity, altered receptor sensitivity
+  key_mechanisms: Estrogen-dopamine synergy, receptor sensitization, stress axis potentiation, reward enhancement
+  clinical_relevance: Telescoping progression, cycle-dependent relapse, treatment timing, contraceptive considerations
+  assessment_methods: Cycle tracking with craving patterns, hormonal profiling, timeline follow-back with cycle data
+  interventions: Cycle-informed treatment, hormonal contraceptives consideration, enhanced follicular phase support
+  prominent_models: Telescoping model, estrogen-dopamine interaction, sex-specific vulnerability framework
+- id: phy-end-gon-prg-reg
+  label: Progesterone Protection
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Gonadal Hormones
+  cluster_id: phy-end-gon
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Luteal phase protection
+  - Progesterone buffering
+  - Neurosteroid protection
+  scope: Normal luteal phase progesterone production providing stress-buffering effects, reduced drug craving, anxiolytic properties, and neuroprotection through GABA-ergic mechanisms and neurosteroid activity.
+  parent_scope_inheritance: Specifies the gonadal hormone cluster by focusing on progesterone's protective role against addiction, its stress-buffering properties, and potential as a therapeutic intervention.
+  polarity_expression: Manifests as adequate luteal progesterone levels, reduced stress reactivity mid-cycle, lower drug craving during high progesterone states, and enhanced emotional regulation.
+  cross_domain_resonance: Resonates with psy-str-res-ada (stress resilience), soc-sup-emo-coh (emotional support), and exi-tra-gro-pur (growth through adversity) through hormonal protection.
+  academic_description: Progesterone and its neurosteroid metabolite allopregnanolone act as positive allosteric modulators of GABA-A receptors, producing anxiolytic and stress-buffering effects. Luteal phase progesterone reduces drug craving and stress-induced relapse. Allopregnanolone levels are reduced in addiction and depression. Progesterone opposes estrogen's enhancement of drug reward and may protect against addiction progression. Exogenous progesterone shows promise as an adjunct treatment for cocaine and nicotine use disorders.
+  clinical_description: Normal progesterone function presents with luteal levels of 10-20 ng/mL, reduced anxiety mid-cycle, and lower reported cravings during luteal phase. Assessment includes luteal phase progesterone, typically day 21 of cycle. Women with adequate progesterone often report feeling calmer and having fewer cravings during the second half of their cycle. Progesterone supplementation is being studied as addiction treatment. Natural progesterone (not synthetic progestins) may have therapeutic benefits. Supporting corpus luteum function through stress reduction and nutrition helps maintain production.
+  lay_description: Progesterone, which rises after ovulation, acts like a natural calming agent in the brain. Women often feel less anxious and have fewer drug cravings when progesterone is high in the second half of their cycle. This hormone works similarly to anti-anxiety medications by enhancing the brain's natural calming systems. When progesterone is working well, it provides a buffer against stress and may protect against addiction. This is why some women notice they feel more stable and have better control during certain times of the month.
+  key_mediators: Progesterone, allopregnanolone, GABA-A receptors, 5α-reductase, neurosteroids
+  key_mechanisms: GABA-A modulation, HPA axis regulation, neurosteroid synthesis, anti-inflammatory effects
+  clinical_relevance: Craving reduction, stress buffering, anxiety management, potential therapeutic target
+  assessment_methods: Luteal phase progesterone, allopregnanolone levels, premenstrual symptom tracking
+  interventions: Stress reduction, luteal phase support, progesterone supplementation research, cycle optimization
+  prominent_models: Neurosteroid hypothesis, progesterone protection model, GABA-ergic modulation framework
+- id: phy-end-gon-prg-dys
+  label: Progesterone Deficiency
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Gonadal Hormones
+  cluster_id: phy-end-gon
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Luteal phase deficiency
+  - Low progesterone vulnerability
+  - Neurosteroid depletion
+  scope: Inadequate progesterone production or sensitivity leading to loss of stress-buffering effects, increased craving vulnerability, enhanced anxiety, and reduced neuroprotection particularly during luteal phase and premenstrual period.
+  parent_scope_inheritance: Specifies the gonadal hormone cluster by examining how progesterone deficiency removes natural protection against stress and craving, increasing addiction vulnerability and relapse risk.
+  polarity_expression: Manifests as low luteal progesterone, increased premenstrual symptoms, heightened stress sensitivity, elevated drug craving during low progesterone states, and compromised emotional regulation.
+  cross_domain_resonance: Resonates with psy-str-vul-mal (stress vulnerability), soc-sup-emo-fra (support needs), and exi-tra-gro-dir (stagnation) through loss of hormonal protection.
+  academic_description: Progesterone deficiency removes GABA-ergic protection and stress buffering. Low allopregnanolone is associated with increased addiction vulnerability, depression, and anxiety. Luteal phase deficiency creates a window of heightened craving and relapse risk. Chronic substance use suppresses progesterone production and alters neurosteroid synthesis. The premenstrual period (progesterone withdrawal) is a high-risk time for relapse. Loss of progesterone's opposition to estrogen effects may accelerate addiction progression.
+  clinical_description: Progesterone deficiency presents with luteal levels below 10 ng/mL, severe premenstrual symptoms, and increased cravings during late luteal phase. Women report feeling most vulnerable to relapse just before menstruation when progesterone drops. Assessment shows low day 21 progesterone, short luteal phase, or anovulatory cycles. Associated with anxiety, irritability, and mood swings that trigger use. Consider progesterone supplementation in early recovery. Bioidentical progesterone may help reduce cravings. Synthetic progestins don't provide same benefits. Address underlying stress and nutritional deficiencies.
+  lay_description: When progesterone levels are too low, women lose a natural protection against stress and cravings. This is especially noticeable in the days before menstruation when progesterone drops dramatically - many women describe this as their most vulnerable time for relapse. Without enough progesterone, anxiety increases, mood becomes unstable, and drugs may seem more appealing. Chronic stress and poor nutrition can worsen progesterone deficiency. Some women find that supporting progesterone levels through stress management, nutrition, or medical treatment helps reduce cravings and improve mood stability.
+  key_mediators: Low progesterone, reduced allopregnanolone, GABA-A hypofunction, elevated cortisol
+  key_mechanisms: Luteal insufficiency, impaired neurosteroid synthesis, GABA deficit, HPA dysregulation
+  clinical_relevance: Premenstrual relapse risk, anxiety disorders, mood instability, treatment resistance
+  assessment_methods: Low luteal progesterone, short luteal phase, severe PMS/PMDD symptoms, cycle irregularity
+  interventions: Progesterone supplementation, stress management, nutritional support, cycle regulation
+  prominent_models: Neurosteroid deficit model, premenstrual vulnerability framework, progesterone withdrawal hypothesis

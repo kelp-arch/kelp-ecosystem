@@ -1,0 +1,274 @@
+# Generated anchors for cluster: PHY-MET-GAS
+# Timestamp: 20251103_120353
+
+anchors:
+- id: phy-met-gas-bar-reg
+  label: Intact Gut Barrier
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Intact intestinal barrier
+  - Normal permeability
+  - Tight junction integrity
+  scope: Intact intestinal epithelial barrier with functional tight junctions, selective permeability, and appropriate mucus layer protection. Normal zonulin levels maintain controlled paracellular transport while preventing bacterial translocation.
+  parent_scope_inheritance: Specifies the gut barrier integrity component of gastrointestinal function, focusing on the physical and chemical barriers that maintain selective permeability.
+  polarity_expression: Manifests as intact tight junction proteins, normal zonulin levels (<30 ng/mL), healthy lactulose/mannitol ratio (<0.03), and absence of systemic endotoxin markers.
+  cross_domain_resonance: Resonates with psychological attention regulation (psy-cog-att-ada) through stress-gut axis and social boundary cohesion (soc-fam-bou-coh) in maintaining protective barriers.
+  academic_description: The intestinal barrier consists of multiple defense layers including mucus, epithelial cells connected by tight junctions, and immune cells. Tight junction proteins (occludin, claudins, ZO-1) form selective gates between cells. Zonulin regulates intestinal permeability in response to stimuli. The mucus layer, rich in mucins and antimicrobial peptides, provides physical and chemical protection. This barrier selectively allows nutrient absorption while preventing pathogen and toxin entry. Intestinal alkaline phosphatase detoxifies LPS at the epithelial surface.
+  clinical_description: Assessment includes intestinal permeability testing via lactulose/mannitol ratio, serum zonulin levels, and markers of bacterial translocation (LPS, LPS-binding protein). Symptoms of intact barrier include regular digestion without bloating, food sensitivities, or systemic inflammation. Support involves L-glutamine (5-10g daily) for enterocyte fuel, zinc carnosine (75mg twice daily) for barrier repair, and bone broth providing glycine and proline for tissue healing. Vitamin A and D support epithelial integrity. Avoiding alcohol, NSAIDs, and processed foods prevents barrier disruption.
+  lay_description: Your gut lining acts like a smart filter, letting nutrients through while keeping harmful substances out. When healthy, this barrier has tight seals between cells that open only for specific nutrients. A protective mucus layer coats the surface like a shield. This intact barrier prevents toxins and bacteria from entering your bloodstream, reducing inflammation and protecting your overall health. You maintain this barrier by eating whole foods, managing stress, and avoiding excessive alcohol or medications that damage the gut lining.
+  key_mediators: Zonulin, occludin, claudin proteins, ZO-1, mucin-2, secretory IgA, trefoil factors, intestinal alkaline phosphatase
+  key_mechanisms: Tight junction assembly and regulation, mucus production and secretion, epithelial cell turnover, antimicrobial peptide secretion, selective permeability maintenance
+  clinical_relevance: Prevents systemic inflammation, autoimmune activation, food sensitivities, and endotoxemia. Maintains nutrient compartmentalization and immune homeostasis.
+  assessment_methods: Lactulose/mannitol permeability test, serum zonulin, fecal calprotectin, serum LPS and LPS-binding protein, anti-LPS antibodies
+  interventions: L-glutamine supplementation, zinc carnosine, bone broth, collagen peptides, vitamin A and D, removal of barrier disruptors, stress management
+  prominent_models: Fasano's zonulin-mediated permeability model, three-tier mucus barrier model, intestinal alkaline phosphatase detoxification theory
+- id: phy-met-gas-bar-dys
+  label: Compromised Gut Barrier
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Leaky gut
+  - Intestinal hyperpermeability
+  - Barrier dysfunction
+  scope: Disrupted intestinal barrier with compromised tight junctions, increased permeability, and thinned mucus layer. Elevated zonulin causes uncontrolled paracellular transport allowing bacterial translocation and endotoxemia.
+  parent_scope_inheritance: Specifies the pathological disruption of gut barrier integrity within gastrointestinal dysfunction, representing the 'leaky gut' phenomenon central to addiction-related GI pathology.
+  polarity_expression: Manifests as disrupted tight junction proteins, elevated zonulin (>50 ng/mL), abnormal lactulose/mannitol ratio (>0.07), and presence of systemic endotoxin markers indicating bacterial translocation.
+  cross_domain_resonance: Resonates with psychological attention dysregulation (psy-cog-att-mal) through stress-induced permeability and social boundary fragmentation (soc-fam-bou-fra) in loss of protective barriers.
+  academic_description: Intestinal hyperpermeability results from tight junction disruption via multiple mechanisms. Alcohol directly damages epithelial cells and increases zonulin release. Dysbiosis produces bacterial toxins that disrupt tight junctions. Inflammation upregulates zonulin and downregulates tight junction proteins. The mucus layer thins due to reduced goblet cell function and altered mucin glycosylation. This allows paracellular transport of macromolecules, bacterial products (LPS), and dietary antigens. Systemic endotoxemia triggers inflammation through TLR4 activation. Impaired intestinal alkaline phosphatase fails to detoxify LPS.
+  clinical_description: Presents with bloating, food sensitivities, systemic inflammation, and autoimmune activation. Testing reveals elevated lactulose/mannitol ratio, high serum zonulin, detectable LPS or LPS-binding protein, and elevated inflammatory markers. Treatment requires removing triggers (alcohol, NSAIDs, processed foods), implementing gut repair protocol with L-glutamine (10-15g daily), zinc carnosine, and collagen support. Anti-inflammatory interventions include curcumin and omega-3 fatty acids. Recovery typically requires 3-6 months of consistent support. Address underlying dysbiosis and inflammation concurrently.
+  lay_description: When your gut becomes 'leaky,' the normally tight seals between intestinal cells loosen, creating gaps that allow harmful substances to escape into your bloodstream. Alcohol, stress, and poor diet damage these seals and thin the protective mucus layer. This lets bacteria, toxins, and undigested food particles enter your body, triggering widespread inflammation, food sensitivities, and fatigue. Your immune system goes on high alert, potentially attacking your own tissues. Healing requires removing damaging substances, taking specific nutrients like glutamine to repair the lining, and being patient as your gut slowly rebuilds its barrier over several months.
+  key_mediators: Elevated zonulin, reduced occludin/claudins, inflammatory cytokines (TNF-α, IL-6), bacterial endotoxin (LPS), oxidative stress markers
+  key_mechanisms: Tight junction protein degradation, zonulin-mediated permeability increase, mucus layer degradation, epithelial cell apoptosis, bacterial translocation, endotoxemia
+  clinical_relevance: Contributes to systemic inflammation, autoimmune diseases, food allergies, metabolic endotoxemia, liver disease progression, and mood disorders
+  assessment_methods: Elevated lactulose/mannitol ratio, high serum zonulin (>50 ng/mL), positive serum endotoxin, elevated fecal calprotectin, food sensitivity panels
+  interventions: Remove barrier disruptors, L-glutamine loading protocol, zinc carnosine, bone broth, slippery elm, marshmallow root, phosphatidylcholine, butyrate supplementation
+  prominent_models: Alcohol-induced gut permeability model, endotoxin-inflammation hypothesis, molecular mimicry autoimmune theory, metabolic endotoxemia framework
+- id: phy-met-gas-mic-reg
+  label: Balanced Microbiome
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Eubiosis
+  - Healthy gut flora
+  - Microbial homeostasis
+  scope: Diverse and balanced gut microbiome with high species richness, appropriate phyla ratios, and abundant beneficial bacteria. Robust production of beneficial metabolites including short-chain fatty acids supports gut and systemic health.
+  parent_scope_inheritance: Specifies the microbiome composition and function component of gastrointestinal health, focusing on bacterial diversity and metabolite production that support barrier function and metabolism.
+  polarity_expression: Manifests as high diversity indices (Shannon >3), balanced Firmicutes/Bacteroidetes ratio, abundant Lactobacillus and Bifidobacterium, low pathobiont levels (<5% Proteobacteria), and robust SCFA production.
+  cross_domain_resonance: Resonates with psychological mood adaptation (psy-emo-moo-ada) through microbial metabolite influence on neurotransmitters and existential connection (exi-mea-con-pur) to internal ecology.
+  academic_description: A healthy microbiome contains >1000 operational taxonomic units with high alpha diversity. Firmicutes and Bacteroidetes dominate (90%), with <5% Proteobacteria. Key beneficial genera include Lactobacillus, Bifidobacterium, Faecalibacterium, Akkermansia, and Roseburia. These bacteria produce short-chain fatty acids (butyrate, propionate, acetate) through fiber fermentation. SCFAs provide colonocyte energy, regulate intestinal pH, enhance barrier function, and modulate immune responses. The microbiome synthesizes vitamins (K, B12, folate), metabolizes bile acids, and provides colonization resistance against pathogens. Bacterial metabolites influence systemic metabolism and brain function via gut-brain axis.
+  clinical_description: Healthy microbiome presents with regular bowel movements, minimal gas/bloating, and absence of GI symptoms. Comprehensive stool analysis shows high diversity, abundant beneficial species, and robust SCFA production. Support includes multi-strain probiotics (10-50 billion CFU daily) with Lactobacillus and Bifidobacterium species, prebiotic fibers (10-20g daily) from diverse sources, and fermented foods (yogurt, kefir, sauerkraut, kimchi). Gradual fiber increase prevents bloating. Avoid unnecessary antibiotics and processed foods. Recovery of microbiome diversity after disruption typically takes 3-6 months with consistent support.
+  lay_description: Your gut houses trillions of beneficial bacteria that work as partners in your health. When balanced, these good bacteria outnumber harmful ones, creating a diverse ecosystem like a thriving garden. They break down fiber into compounds that feed your gut lining, make vitamins, train your immune system, and even produce chemicals that affect your mood. You support this balance by eating a variety of plant foods, fermented foods like yogurt, and taking probiotics. A healthy microbiome means better digestion, stronger immunity, more energy, and improved mood.
+  key_mediators: Short-chain fatty acids (butyrate, propionate, acetate), vitamin K, B vitamins, secondary bile acids, tryptophan metabolites, GABA
+  key_mechanisms: Fiber fermentation, SCFA production, vitamin synthesis, bile acid metabolism, pathogen exclusion, immune modulation, gut-brain signaling
+  clinical_relevance: Supports barrier function, prevents infections, regulates metabolism, influences mood and cognition, reduces inflammation
+  assessment_methods: Comprehensive stool analysis with diversity indices, 16S rRNA sequencing, SCFA levels, beneficial/pathogenic bacteria ratios, metabolomics
+  interventions: Multi-strain probiotics, diverse prebiotics, fermented foods, polyphenol-rich foods, resistant starch, gradual fiber increase, stress reduction
+  prominent_models: Diversity-stability hypothesis, SCFA-mediated health model, colonization resistance theory, microbiome-gut-brain axis framework
+- id: phy-met-gas-mic-dys
+  label: Dysbiotic Microbiome
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Dysbiosis
+  - Microbial imbalance
+  - Gut flora disruption
+  scope: Disrupted gut microbiome with reduced diversity, pathobiont overgrowth, and loss of beneficial bacteria. Decreased production of beneficial metabolites and increased harmful bacterial products contribute to inflammation and metabolic dysfunction.
+  parent_scope_inheritance: Specifies the pathological disruption of microbiome composition within gastrointestinal dysfunction, representing the dysbiosis that accompanies and perpetuates addiction-related GI pathology.
+  polarity_expression: Manifests as low diversity indices (Shannon <2), altered phyla ratios, reduced Lactobacillus and Bifidobacterium, elevated pathobionts (>20% Proteobacteria), and decreased SCFA production.
+  cross_domain_resonance: Resonates with psychological mood maladaptation (psy-emo-moo-mal) through disrupted microbial-brain signaling and existential disconnection (exi-mea-con-dir) from internal ecology.
+  academic_description: Dysbiosis involves reduced microbial diversity with <500 operational taxonomic units. Alcohol causes selective bacterial killing, favoring ethanol-tolerant and gram-negative species. Proteobacteria increase (>20%), while beneficial Firmicutes decrease. Loss of key species like Faecalibacterium prausnitzii, Akkermansia muciniphila, and Bifidobacterium occurs. SCFA production drops significantly, removing their barrier-protective and anti-inflammatory effects. Pathobiont overgrowth produces endotoxin, ammonia, and other toxic metabolites. Altered tryptophan metabolism reduces serotonin precursors. Impaired bile acid metabolism affects lipid digestion and signaling. This dysbiosis perpetuates intestinal permeability and systemic inflammation.
+  clinical_description: Presents with irregular bowel habits, bloating, gas, food intolerances, and systemic symptoms like fatigue and brain fog. Stool analysis reveals low diversity, elevated pathogenic bacteria, reduced beneficial species, and decreased SCFA levels. Treatment requires targeted probiotic therapy with specific strains, gradual prebiotic introduction to avoid bloating, and potential antimicrobial herbs (oregano, berberine) for pathobiont overgrowth. Saccharomyces boulardii helps during antibiotic treatment. Recovery requires 3-6 months of consistent intervention. Address diet, stress, and medications that perpetuate dysbiosis. Monitor with repeat stool testing.
+  lay_description: When your gut bacteria become imbalanced, harmful bacteria overtake the beneficial ones, like weeds choking out a garden. Alcohol and poor diet kill off good bacteria while feeding bad ones. This imbalance causes digestive problems like bloating and irregular bowel movements, but also affects your whole body - causing fatigue, brain fog, and mood changes. The bad bacteria produce toxins instead of helpful compounds, increasing inflammation throughout your body. Rebuilding a healthy balance requires targeted probiotics, special fibers that feed good bacteria, and patience as your gut garden slowly recovers over several months.
+  key_mediators: Reduced SCFAs, elevated LPS, increased ammonia, altered bile acids, decreased tryptophan metabolites, reduced vitamin production
+  key_mechanisms: Loss of microbial diversity, pathobiont expansion, reduced SCFA production, increased endotoxin, altered metabolite profiles, impaired colonization resistance
+  clinical_relevance: Perpetuates intestinal permeability, drives systemic inflammation, impairs nutrient synthesis, disrupts mood regulation, increases infection risk
+  assessment_methods: Low diversity indices on stool analysis, elevated Proteobacteria, reduced beneficial species, decreased SCFA levels, breath tests for overgrowth
+  interventions: Strain-specific probiotics, gradual prebiotic titration, antimicrobial herbs if indicated, fermented foods, dietary diversification, stress management
+  prominent_models: Alcohol-induced dysbiosis model, diversity-disease hypothesis, pathobiont bloom theory, dysbiosis-inflammation cycle
+- id: phy-met-gas-mot-reg
+  label: Normal GI Motility
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Regular peristalsis
+  - Normal transit time
+  - Coordinated motility
+  scope: Normal gastrointestinal motility with coordinated peristaltic waves, regular migrating motor complexes, and appropriate transit times. Functional enteric nervous system maintains proper movement of intestinal contents.
+  parent_scope_inheritance: Specifies the motility component of gastrointestinal function, focusing on the neural control of intestinal movement that ensures proper digestion and prevents bacterial overgrowth.
+  polarity_expression: Manifests as daily bowel movements, normal transit time (24-48 hours), absence of bloating or cramping, and regular migrating motor complexes during fasting.
+  cross_domain_resonance: Resonates with psychological inhibitory control (psy-exe-inh-ada) through vagal regulation and physiological autonomic balance (phy-neu-ans-reg) in coordinated neural control.
+  academic_description: Normal motility depends on intact enteric nervous system function with coordinated activity of excitatory (acetylcholine, substance P) and inhibitory (NO, VIP) neurotransmitters. Interstitial cells of Cajal serve as pacemakers generating slow waves. Migrating motor complexes (MMCs) occur every 90-120 minutes during fasting, sweeping debris and bacteria distally. Fed state shows mixing contractions and propulsive peristalsis. Gastrocolic reflex coordinates stomach emptying with colonic movement. Proper motility prevents small intestinal bacterial overgrowth (SIBO) and ensures regular elimination. Vagal input modulates but doesn't control intrinsic enteric reflexes.
+  clinical_description: Normal motility presents with daily soft bowel movements, absence of straining or urgency, and minimal gas or bloating. Transit time testing shows 24-48 hour passage. Support includes regular meal timing to trigger gastrocolic reflex, adequate hydration (2-3L daily), physical activity to stimulate peristalsis, and stress management for vagal tone. Fiber intake (25-35g daily) provides bulk. Magnesium citrate (200-400mg) can support regular movements. Avoid motility suppressants like anticholinergics. Probiotics may enhance motility through metabolite production.
+  lay_description: Your intestines have their own nervous system that creates coordinated waves pushing food through your digestive tract. Like a well-choreographed dance, these waves mix food with digestive juices and move waste toward elimination. Between meals, sweeping waves clean out debris and prevent bacterial buildup. When working properly, you have comfortable daily bowel movements without straining, bloating, or urgency. Regular meals, adequate water, physical activity, and managing stress all support these natural rhythms. Your gut's movement patterns affect not just digestion but also mood and energy through the gut-brain connection.
+  key_mediators: Acetylcholine, serotonin (5-HT), substance P, nitric oxide, vasoactive intestinal peptide, motilin, ghrelin
+  key_mechanisms: Enteric nervous system coordination, interstitial cells of Cajal pacemaking, migrating motor complexes, gastrocolic reflex, segmentation and peristalsis
+  clinical_relevance: Prevents SIBO, ensures regular elimination, optimizes nutrient absorption, maintains gut-brain communication
+  assessment_methods: Bristol stool scale, transit time studies, wireless motility capsule, antroduodenal manometry, defecography
+  interventions: Regular meal timing, adequate hydration, physical activity, fiber optimization, magnesium supplementation, stress reduction, prokinetic foods
+  prominent_models: Enteric nervous system autonomy model, migrating motor complex theory, brain-gut axis regulation framework
+- id: phy-met-gas-mot-dys
+  label: Disrupted GI Motility
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Dysmotility
+  - Altered transit
+  - Motility disorder
+  scope: Disrupted gastrointestinal motility with either hypomotility (constipation) or hypermotility (diarrhea), absent or irregular migrating motor complexes, and abnormal transit times. Enteric neuropathy or external factors impair coordinated movement.
+  parent_scope_inheritance: Specifies the pathological disruption of GI motility within gastrointestinal dysfunction, particularly the severe constipation from opioids and altered motility from alcohol that characterize addiction-related GI pathology.
+  polarity_expression: Manifests as constipation (<3 bowel movements/week) or diarrhea (>3/day), abnormal transit time (<12 or >72 hours), severe bloating, and absent migrating motor complexes.
+  cross_domain_resonance: Resonates with psychological inhibitory dyscontrol (psy-exe-inh-mal) through impaired neural regulation and physiological autonomic dysregulation (phy-neu-ans-dys) in disrupted neural control.
+  academic_description: Opioids cause severe hypomotility through μ-receptor activation in enteric neurons, reducing acetylcholine release and increasing tonic contractions. This eliminates propulsive peristalsis and MMCs, causing opioid-induced constipation (OIC). Alcohol initially increases motility through irritation but chronic use damages enteric neurons causing dysmotility. Enteric neuropathy involves loss of neurons, altered neurotransmitter expression, and impaired ICC function. Absent MMCs allow bacterial overgrowth. Methane-producing bacteria further slow transit. Serotonin signaling disruption affects both motility and mood. Chronic constipation causes paradoxical diarrhea from overflow.
+  clinical_description: Opioid-induced constipation presents with <3 bowel movements weekly, hard stools, straining, and incomplete evacuation unresponsive to standard laxatives. Alcohol-related dysmotility alternates between diarrhea and constipation. SIBO symptoms include bloating, gas, and malabsorption. Treatment for OIC requires peripherally-acting μ-opioid antagonists (methylnaltrexone, naloxegol) that don't cross blood-brain barrier. Prokinetics like prucalopride stimulate 5-HT4 receptors. Rifaximin treats SIBO. Gradual fiber increase with adequate fluids prevents impaction. Biofeedback helps pelvic floor dysfunction. Recovery of normal motility after opioid cessation takes weeks to months.
+  lay_description: When drugs or alcohol disrupt your intestinal movement, food either moves too slowly (constipation) or too quickly (diarrhea). Opioids essentially paralyze your gut, causing severe constipation where you might go a week without a bowel movement. This backup causes painful bloating, nausea, and allows harmful bacteria to overgrow. Alcohol can cause alternating diarrhea and constipation. Without proper movement, your gut can't clear out debris, leading to bacterial buildup that produces gas and toxins. Special medications can block opioid effects in the gut without affecting pain relief. Recovery requires patience as your gut's nervous system slowly heals and relearns normal patterns.
+  key_mediators: Altered acetylcholine, disrupted serotonin, μ-opioid receptor activation, reduced motilin, elevated methane, inflammatory mediators
+  key_mechanisms: Enteric neuropathy, μ-receptor mediated inhibition, loss of MMCs, ICC dysfunction, bacterial overgrowth, methane production
+  clinical_relevance: Causes severe constipation, SIBO, malabsorption, hemorrhoids, fecal impaction, toxic megacolon risk, significant quality of life impact
+  assessment_methods: Rome IV criteria, opioid-induced constipation scales, breath testing for SIBO, colonic transit studies, anorectal manometry
+  interventions: Peripherally-acting μ-opioid antagonists, prokinetics, rifaximin for SIBO, graduated fiber protocol, pelvic floor therapy, bowel retraining
+  prominent_models: Opioid-induced constipation mechanism, SIBO-dysmotility cycle, enteric neuropathy progression model
+- id: phy-met-gas-abs-reg
+  label: Efficient Nutrient Absorption
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal absorption
+  - Optimal nutrient uptake
+  - Digestive efficiency
+  scope: Efficient absorption of macro and micronutrients through intact intestinal villi, functional transporters, and adequate digestive enzymes. Proper breakdown and uptake of proteins, fats, carbohydrates, vitamins, and minerals supports nutritional status.
+  parent_scope_inheritance: Specifies the nutrient absorption component of gastrointestinal function, focusing on the digestive and absorptive capacity essential for nutritional recovery in addiction.
+  polarity_expression: Manifests as normal serum nutrient levels (B12, folate, iron, fat-soluble vitamins), stable weight, formed stools without steatorrhea, and adequate energy levels.
+  cross_domain_resonance: Resonates with physiological energy metabolism (phy-met-ene-reg) through nutrient availability and psychological memory function (psy-cog-mem-ada) through nutrition-cognition links.
+  academic_description: 'Efficient absorption requires intact intestinal architecture with normal villus height and crypt depth. Brush border enzymes (lactase, sucrase, peptidases) break down nutrients for absorption. Specific transporters mediate uptake: SGLT1 for glucose, amino acid transporters for proteins, NPC1L1 for cholesterol. Fat absorption requires bile acid emulsification and pancreatic lipases. Fat-soluble vitamins (A,D,E,K) require micelle formation. B12 absorption needs intrinsic factor and intact terminal ileum. Iron absorption occurs in duodenum via DMT1 and ferroportin. Folate uses specific carriers. Adequate stomach acid is essential for mineral ionization and B12 release from food.'
+  clinical_description: Normal absorption presents with stable weight, good energy, and absence of deficiency symptoms. Laboratory assessment shows normal B12 (>400 pg/mL), folate (>5 ng/mL), iron studies, and fat-soluble vitamins. Support includes optimizing stomach acid with betaine HCl if hypochlorhydric, digestive enzymes with meals, and ensuring adequate bile flow with bitter herbs or ox bile. Address any SIBO that impairs absorption. Nutrient timing matters - iron away from calcium, fat-soluble vitamins with fats. Gradual refeeding prevents refeeding syndrome in malnourished patients.
+  lay_description: Your small intestine has millions of tiny finger-like projections that absorb nutrients from food, like roots absorbing water from soil. Special enzymes break down food into small pieces that specific transporters carry into your bloodstream. You need stomach acid to prepare minerals for absorption and specific factors to absorb certain vitamins like B12. When this system works well, you maintain healthy weight, have good energy, and your blood tests show normal vitamin and mineral levels. Supporting absorption means having enough digestive enzymes, healthy gut lining, and the right bacteria to help process nutrients.
+  key_mediators: Pancreatic enzymes, brush border enzymes, bile acids, intrinsic factor, specific nutrient transporters, stomach acid
+  key_mechanisms: Enzymatic digestion, transporter-mediated uptake, micelle formation, active and passive transport, enterocyte processing
+  clinical_relevance: Maintains nutritional status, supports energy production, enables neurotransmitter synthesis, prevents deficiency diseases
+  assessment_methods: Comprehensive metabolic panel, vitamin levels (B12, folate, D), iron studies, fecal elastase, D-xylose absorption test
+  interventions: Digestive enzyme supplementation, betaine HCl for low stomach acid, bile acid support, targeted nutrient repletion, optimal nutrient timing
+  prominent_models: Brush border enzyme model, transporter specificity theory, bile acid-fat absorption framework
+- id: phy-met-gas-abs-dys
+  label: Impaired Nutrient Absorption
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Malabsorption
+  - Nutrient deficiency
+  - Digestive insufficiency
+  scope: Impaired absorption of nutrients due to villous atrophy, reduced digestive enzymes, damaged transporters, or bacterial overgrowth. Malabsorption of proteins, fats, carbohydrates, vitamins, and minerals leads to nutritional deficiencies and systemic effects.
+  parent_scope_inheritance: Specifies the pathological disruption of nutrient absorption within gastrointestinal dysfunction, representing the malnutrition that complicates addiction recovery and perpetuates physical and mental symptoms.
+  polarity_expression: Manifests as multiple nutrient deficiencies (low B12, folate, iron, vitamins), unintentional weight loss, steatorrhea (fatty stools), and fatigue from poor nutrient uptake.
+  cross_domain_resonance: Resonates with physiological energy dysregulation (phy-met-ene-dys) through nutrient unavailability and psychological memory dysfunction (psy-cog-mem-mal) through nutrition-related cognitive impairment.
+  academic_description: 'Alcohol damages intestinal villi causing atrophy and reduced absorptive surface area. Pancreatic insufficiency from chronic alcohol use reduces enzyme production. Bacterial overgrowth deconjugates bile acids impairing fat absorption and competes for nutrients. Inflammation downregulates nutrient transporters. Rapid transit prevents adequate absorption time. Specific deficiencies develop: B12 from terminal ileum damage, folate from jejunal dysfunction, iron from duodenal inflammation, fat-soluble vitamins from steatorrhea. Protein malabsorption causes hypoalbuminemia. Zinc deficiency impairs taste and wound healing. Magnesium depletion affects hundreds of enzymes. Thiamine deficiency risks Wernicke-Korsakoff syndrome.'
+  clinical_description: 'Presents with weight loss, chronic diarrhea, steatorrhea (pale, floating, foul-smelling stools), bloating, and deficiency symptoms: fatigue (iron), neuropathy (B12), night blindness (vitamin A), bone pain (vitamin D). Laboratory findings include low albumin, multiple vitamin deficiencies, and abnormal fecal elastase. Treatment requires high-dose supplementation often via injection initially (B12 1000mcg IM, thiamine 100mg IV), pancreatic enzyme replacement (lipase 10,000-25,000 units/meal), and treatment of underlying SIBO with rifaximin. Gradual refeeding with elemental diet may be necessary. Monitor for refeeding syndrome with phosphate, magnesium, and thiamine repletion.'
+  lay_description: When your intestines can't properly absorb nutrients, you become malnourished even if eating adequate food. Alcohol damages the absorptive surface, reduces digestive enzymes, and allows bacteria to steal nutrients. You might notice weight loss, fatty floating stools, extreme fatigue, and symptoms like tingling from vitamin deficiencies. Your body lacks the building blocks for energy, brain function, and healing. Treatment requires high-dose vitamins (often by injection initially), digestive enzymes with meals, and treating bacterial overgrowth. Recovery is gradual as your intestinal lining heals and absorption improves over months.
+  key_mediators: Reduced pancreatic enzymes, damaged brush border enzymes, altered bile acids, decreased transporters, inflammatory cytokines
+  key_mechanisms: Villous atrophy, enzyme deficiency, transporter dysfunction, bacterial nutrient consumption, rapid transit, inflammation-induced malabsorption
+  clinical_relevance: Causes multiple deficiency syndromes, impairs wound healing, reduces immunity, affects cognitive function, delays recovery
+  assessment_methods: Comprehensive nutritional panel, fecal fat test, fecal elastase, hydrogen breath test, D-xylose test, small bowel biopsy
+  interventions: Parenteral vitamin repletion, pancreatic enzyme replacement, treatment of SIBO, elemental diet, gradual refeeding protocol, zinc and magnesium repletion
+  prominent_models: Villous atrophy progression model, pancreatic insufficiency framework, SIBO-malabsorption cycle
+- id: phy-met-gas-glv-reg
+  label: Healthy Gut-Liver Communication
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal gut-liver axis
+  - Regulated portal circulation
+  - Healthy enterohepatic circulation
+  scope: Properly regulated communication between gut and liver via portal circulation with controlled endotoxin clearance, normal bile acid cycling, and appropriate metabolite exchange. Liver efficiently processes gut-derived substances without inflammatory activation.
+  parent_scope_inheritance: Specifies the gut-liver axis component of gastrointestinal function, focusing on the bidirectional communication that links intestinal and hepatic health in addiction recovery.
+  polarity_expression: Manifests as normal liver enzymes (ALT <40, AST <40), undetectable serum endotoxin, normal bile acid levels, and absence of hepatic inflammation markers.
+  cross_domain_resonance: Resonates with physiological hepatic function (phy-met-hep-reg) through direct organ communication and immune inflammation regulation (phy-imm-inf-reg) through endotoxin clearance.
+  academic_description: The gut-liver axis involves bidirectional communication via portal blood, bile, and signaling molecules. Portal blood delivers 70% of liver blood supply carrying nutrients, bacterial products, and hormones from intestines. Kupffer cells efficiently clear small amounts of LPS preventing systemic inflammation. Bile acids synthesized in liver are conjugated, stored in gallbladder, and released for fat digestion. Intestinal bacteria deconjugate bile acids; 95% are reabsorbed in terminal ileum (enterohepatic circulation). FXR and TGR5 receptors mediate bile acid signaling affecting metabolism. Liver produces antimicrobial proteins (C3, IgA) transported to gut via bile. GLP-1 and FGF19 from intestines regulate hepatic glucose and bile acid synthesis.
+  clinical_description: Healthy gut-liver axis shows normal liver function tests, undetectable endotoxin markers, and normal postprandial bile acid levels. Support includes milk thistle (200-400mg silymarin daily) for liver protection, phosphatidylcholine (1-3g daily) for cell membranes, and N-acetylcysteine (600-1200mg) for glutathione support. Bitter herbs (dandelion, artichoke) stimulate bile flow. Taurine conjugates bile acids reducing toxicity. Maintaining gut barrier integrity prevents endotoxin translocation. Regular meals stimulate bile release preventing stasis. Coffee consumption supports liver health through multiple mechanisms.
+  lay_description: Your gut and liver constantly communicate through blood vessels and bile. The liver receives everything absorbed from your intestines through special blood vessels called the portal system. When healthy, your liver easily filters out any stray bacteria or toxins that slip through, preventing body-wide inflammation. Your liver makes bile that helps digest fats and gets recycled between meals. This system coordinates digestion, detoxification, and metabolism. Supporting both organs together - with herbs like milk thistle, maintaining good gut bacteria, and eating regular meals - keeps this communication healthy and prevents liver inflammation.
+  key_mediators: Bile acids, FXR/TGR5 receptors, GLP-1, FGF19, portal blood factors, Kupffer cells, secretory IgA
+  key_mechanisms: Portal blood filtration, enterohepatic bile acid circulation, Kupffer cell clearance, metabolite signaling, antimicrobial secretion
+  clinical_relevance: Prevents hepatic inflammation, maintains metabolic homeostasis, supports detoxification, regulates lipid metabolism
+  assessment_methods: Liver function tests, serum bile acids, endotoxin/LPS levels, LPS-binding protein, FGF19 levels
+  interventions: Milk thistle, phosphatidylcholine, NAC, bitter herbs for bile flow, taurine supplementation, gut barrier support, coffee consumption
+  prominent_models: Gut-liver axis model, enterohepatic circulation framework, portal endotoxemia theory
+- id: phy-met-gas-glv-dys
+  label: Disrupted Gut-Liver Communication
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Gastrointestinal Function
+  cluster_id: phy-met-gas
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Gut-liver axis dysfunction
+  - Portal endotoxemia
+  - Enterohepatic disruption
+  scope: Disrupted communication between gut and liver with endotoxin overload via portal circulation, impaired bile acid metabolism, and inflammatory activation. Overwhelmed hepatic clearance allows systemic inflammation and metabolic dysfunction.
+  parent_scope_inheritance: Specifies the pathological disruption of gut-liver communication within gastrointestinal dysfunction, representing the portal endotoxemia and hepatic inflammation central to addiction-related organ damage.
+  polarity_expression: Manifests as elevated liver enzymes (ALT >40, AST >40), detectable serum endotoxin, elevated bile acids, and presence of hepatic inflammation markers (CRP, TNF-α).
+  cross_domain_resonance: Resonates with physiological hepatic dysfunction (phy-met-hep-dys) through direct organ damage and immune inflammation dysregulation (phy-imm-inf-dys) through endotoxemia.
+  academic_description: Intestinal hyperpermeability allows massive LPS translocation overwhelming Kupffer cell clearance capacity. Portal endotoxemia activates hepatic stellate cells initiating fibrosis. TLR4 activation on Kupffer cells produces inflammatory cytokines (TNF-α, IL-6, IL-1β). Alcohol and endotoxin synergistically damage hepatocytes. Bile acid metabolism disrupts - reduced synthesis, impaired conjugation, altered microbiome deconjugation. Toxic bile acids accumulate causing cholestasis. FXR signaling downregulation impairs metabolic regulation. Reduced bile flow allows bacterial overgrowth. Hepatic production of antimicrobials decreases. Portal hypertension develops from fibrosis, increasing intestinal permeability. This creates a vicious cycle of gut-liver damage.
+  clinical_description: 'Presents with elevated transaminases, particularly AST/ALT ratio >2 in alcoholic hepatitis. Elevated GGT indicates cholestasis. Detectable serum LPS or LPS-binding protein confirms endotoxemia. Elevated bile acids cause pruritus. Jaundice indicates severe dysfunction. Treatment requires addressing both gut and liver: rifaximin (550mg twice daily) reduces bacterial translocation, lactulose decreases ammonia absorption, ursodeoxycholic acid (13-15mg/kg) protects against toxic bile acids. N-acetylcysteine provides antioxidant support. Phosphatidylcholine may reduce fibrosis. Abstinence from alcohol is essential. Recovery requires months of gut barrier restoration and hepatic regeneration.'
+  lay_description: When your gut becomes leaky, bacteria and toxins flood into your liver through the portal blood system, overwhelming its filtering capacity. Your liver becomes inflamed trying to clear these toxins, leading to damage and scarring. Bile production and flow disrupts, affecting fat digestion and allowing more bacterial growth. This creates a vicious cycle where gut problems damage the liver, and liver problems worsen gut health. You might notice fatigue, abdominal pain, yellowing skin, or itching from bile buildup. Healing requires treating both organs - sealing the gut barrier to reduce toxin flow and supporting liver recovery with specific medications and nutrients. Recovery is slow but possible with consistent treatment.
+  key_mediators: Elevated LPS, inflammatory cytokines (TNF-α, IL-6), toxic bile acids, ammonia, activated stellate cells, TLR4 activation
+  key_mechanisms: Portal endotoxemia, Kupffer cell overwhelm, stellate cell activation, bile acid dysmetabolism, cholestasis, fibrosis initiation
+  clinical_relevance: Drives alcoholic liver disease, NAFLD progression, hepatic encephalopathy risk, portal hypertension, increased mortality
+  assessment_methods: Elevated liver enzymes, serum endotoxin markers, bile acid profiles, fibroscan, ammonia levels, liver biopsy if indicated
+  interventions: Rifaximin for bacterial translocation, lactulose, ursodeoxycholic acid, NAC, phosphatidylcholine, complete alcohol cessation, gut barrier restoration
+  prominent_models: Portal endotoxemia hypothesis, gut-liver axis disruption model, bile acid-microbiome-liver triangle

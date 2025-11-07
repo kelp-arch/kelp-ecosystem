@@ -1,0 +1,124 @@
+# Generated clusters for field: PSY-COG
+# Timestamp: 20251102_193416
+
+clusters:
+- id: psy-cog-exe
+  label: Executive Control
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  synonyms:
+  - Executive function
+  - Cognitive control
+  - Prefrontal control
+  - Top-down regulation
+  - Executive attention
+  scope: Encompasses prefrontal executive functions including response inhibition, cognitive flexibility/set-shifting, and working memory updating. Includes goal maintenance, task switching, interference resolution, and performance monitoring. Excludes basic attentional processes (attentional systems cluster), value-based choices (decision processes cluster), and thought content (thought patterns cluster).
+  parent_scope_inheritance: Specifies the cognitive field's executive functions to focus on top-down regulatory mechanisms that enable goal-directed behavior and self-control in addiction contexts.
+  polarity_dimension: The integrity and efficiency of executive control processes - ranging from intact inhibitory control, cognitive flexibility, and efficient updating (adaptive) to impaired inhibition, cognitive rigidity, and updating failures (maladaptive).
+  emergence: At the cluster level, separate executive components integrate into a unified control system enabling complex self-regulation, goal pursuit despite interference, and flexible adaptation to changing demands.
+  boundary_interfaces:
+  - Executive-attention interface where top-down control guides selective attention
+  - Executive-decision interface where controlled processing overrides automatic choices
+  - Executive-thought interface where cognitive control regulates rumination
+  child_generation_role: You are an executive function specialist focusing on prefrontal control mechanisms in addiction. You analyze response inhibition measured through stop-signal and go/no-go tasks, set-shifting assessed via Wisconsin Card Sort and task-switching paradigms, and updating evaluated through n-back and running span tasks. You distinguish between adaptive states showing efficient inhibitory control, cognitive flexibility, and working memory updating versus maladaptive states showing disinhibition, perseveration, and updating failures. You ground analysis in Miyake's unity/diversity framework and Goldstein & Volkow's executive dysfunction model.
+  academic_description: Executive control encompasses prefrontal regulatory functions critical for addiction self-regulation. The unity/diversity model (Miyake et al.) identifies three core components - inhibition, shifting, and updating - that show both common and unique variance. In addiction, executive dysfunction manifests as impaired response inhibition on stop-signal tasks, reduced cognitive flexibility on set-shifting paradigms, and compromised working memory updating. Neuroimaging reveals hypoactivation in dorsolateral and anterior cingulate regions during cognitive control. These deficits predict relapse risk and treatment retention. Cognitive training targeting specific executive components shows promise for strengthening top-down control over drug-seeking behavior.
+  clinical_description: Executive control deficits undermine recovery efforts by impairing the ability to resist cravings and maintain goals. Response inhibition training uses stop-signal and go/no-go tasks to strengthen the mental brakes needed to interrupt drug-seeking. Cognitive flexibility exercises practice switching between different rules or perspectives, reducing rigid thinking patterns. Working memory training with n-back tasks improves the ability to hold recovery goals in mind during challenging situations. Goal management training breaks down complex recovery objectives into manageable steps. Mindfulness practices enhance cognitive control by strengthening present-moment awareness and reducing automatic responding.
+  lay_description: Executive control is like being the CEO of your brain - managing impulses, switching gears when needed, and keeping important goals in mind. In addiction, this CEO function becomes impaired. You might know you shouldn't use but can't stop yourself (poor inhibition), get stuck in the same patterns unable to try new approaches (reduced flexibility), or forget your reasons for quitting when stressed (working memory problems). Recovery involves strengthening these mental muscles through practice - learning to pause before acting, finding new ways to handle situations, and keeping your recovery goals front and center even when life gets complicated.
+- id: psy-cog-att
+  label: Attentional Systems
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  synonyms:
+  - Selective attention
+  - Attentional bias
+  - Cue reactivity
+  - Attentional control
+  - Vigilance
+  scope: Encompasses selective attention, sustained attention/vigilance, attentional bias toward substance cues, and attentional control networks. Includes automatic attentional capture, controlled attention allocation, and disengagement processes. Excludes executive attention (executive control cluster), attention during memory encoding (memory processing cluster), and attention to internal thoughts (thought patterns cluster).
+  parent_scope_inheritance: Specifies the cognitive field's attention components to focus on how information selection and attentional allocation processes become biased toward drug-related stimuli in addiction.
+  polarity_dimension: The balance and control of attentional allocation - ranging from balanced attention with reduced cue salience (adaptive) to attentional capture by drug cues with difficulty disengaging (maladaptive).
+  emergence: At the cluster level, attentional subsystems integrate into a coherent selection mechanism that filters environmental information, with addiction creating a pathological prioritization of drug-related stimuli.
+  boundary_interfaces:
+  - Attention-executive interface where top-down control modulates selective attention
+  - Attention-memory interface where attention during encoding affects memory formation
+  - Attention-decision interface where attention to different choice aspects influences decisions
+  child_generation_role: You are an attention researcher specializing in attentional bias and cue reactivity in addiction. You analyze selective attention through Stroop tasks and dot-probe paradigms, sustained attention via continuous performance tasks, and attentional control through attention network tests. You distinguish between adaptive states showing balanced attention allocation and reduced cue salience versus maladaptive states showing attentional capture, difficulty disengaging from substance cues, and narrowed attentional focus. You ground analysis in Field & Cox's attentional bias model and Posner's attention networks framework.
+  academic_description: Attentional systems in addiction show systematic bias toward drug-related stimuli, measured through modified Stroop tasks revealing slower color-naming for drug words and dot-probe paradigms showing faster detection of targets replacing drug cues. Field & Cox's model proposes reciprocal relationships between attentional bias and craving. Neuroimaging reveals enhanced activation in visual and parietal regions to drug cues. The attention network test identifies specific deficits in executive attention while alerting and orienting networks remain relatively intact. Attentional bias predicts relapse and correlates with craving intensity. Attention bias modification training shows mixed but promising results in reducing automatic capture.
+  clinical_description: Attention training helps reduce the magnetic pull of drug-related triggers. Attention bias modification uses computer tasks where you repeatedly practice directing attention away from substance cues toward neutral or positive stimuli. Mindfulness meditation strengthens overall attentional control and the ability to notice where attention goes without being pulled along. Cue exposure with response prevention includes attention training components - learning to notice triggers without fixating on them. Environmental modification reduces attentional load by removing obvious cues. Psychoeducation explains how addiction hijacks attention, making triggers seem to jump out even when you're not looking for them.
+  lay_description: Your attention system acts like a spotlight, highlighting what seems important. In addiction, this spotlight gets hijacked - drug-related things grab your attention automatically. You might notice every liquor store on your route, find your eyes drawn to people drinking in movies, or unable to stop thinking about a trigger once noticed. It's like these cues have become highlighted in mental yellow marker. Recovery involves retraining your attention - practicing looking away from triggers, broadening your focus to notice other things, and strengthening your ability to choose where to direct your mental spotlight rather than having it pulled automatically.
+- id: psy-cog-mem
+  label: Memory Processing
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  synonyms:
+  - Working memory
+  - Implicit memory
+  - Memory systems
+  - Associative memory
+  - Memory capacity
+  scope: Encompasses working memory capacity and manipulation, implicit memory for drug associations, prospective memory for intentions, and episodic memory for consequences. Includes memory encoding, storage, retrieval, and reconsolidation processes. Excludes attentional aspects of encoding (attentional systems cluster), executive components of working memory (executive control cluster), and memory-based schemas (thought patterns cluster).
+  parent_scope_inheritance: Specifies the cognitive field's memory components to focus on how different memory systems maintain addiction through automatic associations and impair recovery through working memory deficits.
+  polarity_dimension: The functionality and content of memory systems - ranging from intact working memory with weakened drug associations (adaptive) to impaired working memory with strong implicit drug memories (maladaptive).
+  emergence: At the cluster level, multiple memory systems interact to create both automatic drug-seeking programs and the capacity for conscious recollection and manipulation of recovery-relevant information.
+  boundary_interfaces:
+  - Memory-executive interface where the central executive coordinates working memory
+  - Memory-attention interface where selective attention affects encoding
+  - Memory-thought interface where memories activate cognitive schemas
+  child_generation_role: You are a memory systems researcher focusing on working memory deficits and implicit memory biases in addiction. You analyze working memory through complex span tasks and n-back paradigms, implicit associations via IAT and priming tasks, and prospective memory through intention implementation tasks. You distinguish between adaptive states showing intact working memory capacity and weakened drug associations versus maladaptive states showing reduced working memory span, strong implicit drug memories, and prospective memory failures. You ground analysis in Baddeley's working memory model and implicit cognition frameworks.
+  academic_description: Memory processing in addiction involves multiple systems with distinct vulnerabilities. Working memory deficits, particularly in the phonological loop and visuospatial sketchpad (Baddeley's model), impair ability to maintain and manipulate recovery-relevant information. Complex span tasks reveal reduced capacity that predicts relapse risk. Implicit memory creates strong drug-context associations measured through evaluative conditioning and approach-avoidance tasks. These automatic associations persist despite explicit knowledge of harm. Prospective memory failures result in forgetting recovery intentions. Episodic memory shows bias toward recalling positive drug experiences while minimizing negative consequences. Memory reconsolidation offers a window for updating drug memories.
+  clinical_description: Memory-focused interventions target both automatic associations and conscious memory processes. Working memory training uses adaptive n-back tasks and dual-task exercises to strengthen capacity for holding recovery goals in mind. Counter-conditioning creates new associations incompatible with drug use - pairing drug cues with negative outcomes or recovery cues with rewards. Implementation intentions ("if-then" planning) compensate for prospective memory failures. Episodic future thinking exercises vividly imagine positive recovery outcomes to counterbalance drug memories. Memory reconsolidation techniques present drug cues followed by unexpected outcomes to update implicit associations. Cognitive aids like reminder apps support prospective memory for recovery activities.
+  lay_description: Memory in addiction works on multiple levels. Your working memory - the mental notepad for juggling information - becomes less reliable, making it hard to keep recovery goals in mind when stressed. Meanwhile, your brain has created powerful automatic memories linking drugs with relief, certain places with using, or specific feelings with craving. These associations operate like mental shortcuts you're not even aware of. You might also find yourself remembering the good times using while forgetting the consequences, and forgetting to follow through on recovery plans. Recovery involves both strengthening your conscious memory abilities and gradually weakening those automatic drug associations through new experiences.
+- id: psy-cog-dec
+  label: Decision Processes
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  synonyms:
+  - Decision-making
+  - Choice behavior
+  - Temporal discounting
+  - Risk assessment
+  - Problem-solving
+  scope: Encompasses value-based decision-making, risk/reward evaluation, temporal discounting, decisions under uncertainty, and problem-solving strategies. Includes preference formation, option evaluation, and choice implementation. Excludes executive control over decisions (executive control cluster), attentional focus during choice (attentional systems cluster), and decision-related beliefs (thought patterns cluster).
+  parent_scope_inheritance: Specifies the cognitive field's decision-making components to focus on how addiction distorts value computation, temporal horizons, and risk assessment in choice behavior.
+  polarity_dimension: The quality and temporal orientation of decision-making - ranging from balanced risk assessment with future-oriented choices (adaptive) to impulsive decisions with steep temporal discounting (maladaptive).
+  emergence: At the cluster level, multiple decision processes integrate to generate choices that reflect complex tradeoffs between immediate and delayed outcomes, with addiction shifting the balance toward immediate rewards.
+  boundary_interfaces:
+  - Decision-executive interface where cognitive control influences choice
+  - Decision-attention interface where attentional focus affects option evaluation
+  - Decision-thought interface where cognitive biases shape preferences
+  child_generation_role: You are a decision neuroscientist specializing in value-based choice and temporal discounting in addiction. You analyze decision-making through Iowa Gambling Task performance, delay discounting paradigms, and probabilistic learning tasks. You distinguish between adaptive states showing balanced risk-reward evaluation and future-oriented choices versus maladaptive states showing impulsive decision-making, steep temporal discounting, and insensitivity to negative outcomes. You ground analysis in Bechara's somatic marker hypothesis and Bickel's competing neurobehavioral decision systems theory.
+  academic_description: Decision processes in addiction show systematic distortions in value computation and temporal evaluation. The somatic marker hypothesis (Damasio, Bechara) explains poor decision-making through absent anticipatory arousal for negative outcomes, evident in Iowa Gambling Task deficits. Temporal discounting research reveals steeper devaluation of delayed rewards, with addiction showing hyperbolic rather than exponential discounting curves. Bickel's competing neurobehavioral decision systems theory identifies imbalance between impulsive and executive systems. Probabilistic learning impairments reduce sensitivity to punishment. Computational modeling reveals altered learning rates and exploration-exploitation tradeoffs. These deficits persist into recovery and predict relapse probability.
+  clinical_description: Decision-making interventions aim to shift choices toward long-term recovery goals. Contingency management provides immediate rewards for recovery behaviors, working with rather than against temporal discounting. Episodic future thinking training involves vividly imagining future positive events before making choices, reducing discounting rates. Problem-solving therapy teaches systematic decision strategies - defining problems, generating alternatives, evaluating consequences, and implementing solutions. Behavioral activation schedules rewarding substance-free activities to compete with drug reinforcement. Financial planning exercises make future consequences more concrete. Mindful decision-making creates pause between impulse and action, allowing consideration of long-term outcomes.
+  lay_description: Decision-making in addiction becomes skewed toward "now" at the expense of "later." Your brain overvalues immediate rewards (the quick high) while discounting future benefits (health, relationships, goals). It's like having a broken calculator that makes $10 today seem worth more than $100 next month. You might also become less sensitive to negative consequences - continuing to choose options that repeatedly lead to problems. Risk assessment gets distorted; the certain relief from using seems to outweigh uncertain future benefits of abstinence. Recovery involves recalibrating your decision-making - learning to factor in long-term consequences, finding immediate rewards in recovery activities, and developing strategies to make better choices when cravings hijack your judgment.
+- id: psy-cog-tho
+  label: Thought Patterns
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  synonyms:
+  - Cognitive schemas
+  - Automatic thoughts
+  - Cognitive distortions
+  - Metacognition
+  - Mental schemas
+  scope: Encompasses cognitive schemas, automatic thoughts, cognitive distortions, metacognitive beliefs, rumination patterns, and self-referential processing. Includes permission-giving beliefs, outcome expectancies, and cognitive appraisals. Excludes thought control processes (executive control cluster), memory-based associations (memory processing cluster), and decision heuristics (decision processes cluster).
+  parent_scope_inheritance: Specifies the cognitive field's thought pattern components to focus on the content and structure of addiction-related cognitions, beliefs, and metacognitive processes.
+  polarity_dimension: The accuracy and balance of thought patterns - ranging from realistic appraisals with balanced thinking (adaptive) to cognitive distortions with permission-giving beliefs (maladaptive).
+  emergence: At the cluster level, individual thoughts organize into coherent schemas and metacognitive beliefs that create self-perpetuating cycles of addiction-maintaining cognitions.
+  boundary_interfaces:
+  - Thought-executive interface where cognitive control regulates rumination
+  - Thought-memory interface where schemas guide memory retrieval
+  - Thought-decision interface where cognitive biases influence choice
+  child_generation_role: You are a cognitive therapy researcher specializing in automatic thoughts and cognitive distortions in addiction. You analyze thought patterns through thought records and cognitive bias questionnaires, metacognitive beliefs via MCQ assessments, and rumination through response styles questionnaires. You distinguish between adaptive states showing balanced thinking and accurate self-appraisal versus maladaptive states showing cognitive distortions, permission-giving beliefs, and negative rumination cycles. You ground analysis in Beck's cognitive model and Wells' S-REF theory of psychological disorders.
+  academic_description: Thought patterns in addiction involve characteristic cognitive distortions and metacognitive beliefs that maintain use. Beck's cognitive model identifies addiction-specific automatic thoughts like permission-giving beliefs ("I deserve a reward"), cognitive distortions (catastrophizing withdrawal, minimizing consequences), and drug-related schemas. Metacognitive beliefs about thought control ("I can't stop thinking about using") create recursive loops. Rumination, particularly drug-focused rumination, predicts craving intensity and relapse. The Self-Regulatory Executive Function model (Wells) explains how metacognitive beliefs lead to unhelpful coping strategies. Cognitive fusion with thoughts ("I am my cravings") reduces psychological flexibility. These patterns show modification through cognitive restructuring and metacognitive therapy.
+  clinical_description: Cognitive interventions target the thoughts and beliefs maintaining addiction. Cognitive restructuring identifies and challenges automatic thoughts through thought records and Socratic questioning - examining evidence for beliefs like "I can't cope without substances." Metacognitive therapy addresses beliefs about thinking itself, reducing rumination and worry about cravings. Mindfulness-based approaches teach observing thoughts without believing or acting on them. Cognitive defusion techniques create distance from thoughts - seeing "I'm having the thought that I need a drink" rather than "I need a drink." Schema therapy identifies and modifies deep-seated beliefs about self and world. Psychoeducation normalizes intrusive thoughts about using while teaching that thoughts don't require action.
+  lay_description: Your thought patterns in addiction develop predictable distortions - mental tricks that justify using. You might think "I've had a hard day, I deserve it" (permission-giving), "I'll die if I don't use" (catastrophizing), or "One won't hurt" (minimizing). These thoughts feel like facts but are actually mental habits. You might also develop beliefs about your thinking itself - "If I think about using, it means I'll relapse" - creating anxiety about normal thoughts. Recovery involves recognizing these thought traps, questioning their accuracy, and developing new, more balanced ways of thinking. It's learning that thoughts are just mental events, not commands you must obey or truths you must believe.

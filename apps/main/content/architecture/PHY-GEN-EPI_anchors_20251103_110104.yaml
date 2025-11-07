@@ -1,0 +1,328 @@
+# Generated anchors for cluster: PHY-GEN-EPI
+# Timestamp: 20251103_110104
+
+anchors:
+- id: phy-gen-epi-dna-reg
+  label: DNA Methylation Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal methylation patterns
+  - Balanced CpG methylation
+  - Appropriate gene silencing
+  scope: Balanced DNA methylation maintaining appropriate gene expression through normal DNMT and TET enzyme activity, with protective genes remaining unmethylated and actively expressed while potentially harmful genes show appropriate silencing through methylation.
+  parent_scope_inheritance: Specifies the DNA methylation component of epigenetic regulation, focusing on the balanced addition and removal of methyl groups to cytosine bases that maintains normal gene expression patterns.
+  polarity_expression: Manifests as normal methylation levels at CpG islands, appropriate methylation maintenance during cell division, and balanced activity of methylating and demethylating enzymes.
+  cross_domain_resonance: Resonates with psy-cog-exe-ada (adaptive executive function), soc-fam-tra-coh (cohesive transgenerational patterns), and exi-mea-val-pur (purposeful value systems).
+  academic_description: Normal DNA methylation involves balanced DNMT1/3A/3B activity maintaining methylation patterns, with TET enzymes mediating active demethylation. CpG islands at housekeeping gene promoters remain unmethylated, while tissue-specific genes show appropriate methylation-based silencing. This creates stable yet flexible gene expression programs supporting normal cellular function and adaptation.
+  clinical_description: Healthy DNA methylation patterns support normal stress response, emotional regulation, and reward processing. Assessment through methylation arrays or bisulfite sequencing can identify protective methylation signatures. Lifestyle factors like exercise, nutrition, and stress management help maintain normal methylation. Some individuals show resilient methylation patterns despite substance exposure.
+  lay_description: Think of DNA methylation like dimmer switches on your genes - in a healthy state, the right genes are turned up or down appropriately. Protective genes stay 'bright' and active, while potentially harmful genes are properly 'dimmed.' This natural balance helps your cells function normally and respond appropriately to your environment.
+  key_mediators: DNMT1, DNMT3A, DNMT3B, TET1/2/3 enzymes, S-adenosylmethionine (SAM), 5-methylcytosine, 5-hydroxymethylcytosine
+  key_mechanisms: CpG island methylation, methylation maintenance during replication, active demethylation via TET oxidation, methyl-CpG binding protein recruitment
+  clinical_relevance: Maintains normal gene expression, supports cellular differentiation, enables appropriate stress responses, protects against aberrant gene activation
+  assessment_methods: Bisulfite sequencing, methylation arrays (450K/EPIC), pyrosequencing, methylation-specific PCR, whole genome bisulfite sequencing
+  interventions: Folate supplementation, exercise programs, mindfulness meditation, dietary methyl donors, stress reduction techniques
+  prominent_models: DNA methylation maintenance model, active demethylation pathway, methylation-based gene silencing model
+- id: phy-gen-epi-dna-dys
+  label: DNA Methylation Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Aberrant methylation
+  - Hypermethylation of protective genes
+  - Methylation imbalance
+  scope: Aberrant DNA methylation patterns silencing protective genes through hypermethylation while activating risk-associated genes through hypomethylation, creating persistent changes in gene expression that promote addiction vulnerability.
+  parent_scope_inheritance: Specifies the dysregulated DNA methylation component of epigenetic changes, focusing on substance-induced alterations in methylation patterns that persistently alter gene expression.
+  polarity_expression: Manifests as hypermethylation at protective gene promoters, hypomethylation at inflammatory and stress genes, and disrupted methylation maintenance leading to unstable epigenetic marks.
+  cross_domain_resonance: Resonates with psy-cog-exe-mal (maladaptive executive function), soc-fam-tra-fra (fragmented transgenerational patterns), and exi-mea-val-dir (directionless value systems).
+  academic_description: Chronic substance exposure induces widespread methylation changes, with cocaine causing hypomethylation at fosB promoter and alcohol inducing hypermethylation at OPRM1 and COMT genes. These changes persist into abstinence, with some studies showing altered methylation patterns months after cessation. Particularly affected are genes regulating synaptic plasticity, stress response, and inflammatory pathways.
+  clinical_description: Dysregulated methylation contributes to persistent craving, increased stress sensitivity, and relapse vulnerability. Methylation biomarkers may predict treatment response and relapse risk. DNMT inhibitors are being investigated as potential therapeutics. Recovery involves gradual normalization of methylation patterns, though some changes may be permanent. Nutritional interventions targeting methylation pathways show promise.
+  lay_description: When DNA methylation goes wrong, it's like the dimmer switches on your genes get stuck - protective genes that should be 'on' get turned off, while harmful genes that should be quiet become overactive. Drugs and alcohol can jam these switches in the wrong positions, creating lasting changes that make recovery more challenging.
+  key_mediators: Altered DNMT expression, reduced TET activity, disrupted SAM/SAH ratio, methyl-CpG binding domain proteins, altered folate metabolism
+  key_mechanisms: CpG island hypermethylation, global hypomethylation, disrupted methylation maintenance, impaired demethylation, aberrant methyl-binding protein recruitment
+  clinical_relevance: Increased addiction vulnerability, persistent craving, heightened stress response, inflammation, cognitive impairment, mood dysregulation
+  assessment_methods: Methylation-specific PCR for candidate genes, genome-wide methylation profiling, LINE-1 methylation as global marker, circulating cell-free DNA methylation
+  interventions: DNMT inhibitors (investigational), SAMe supplementation, folate/B12 therapy, exercise-induced methylation changes, dietary interventions
+  prominent_models: CpG island methylator phenotype, methylation-mediated gene silencing, epigenetic priming model of addiction
+- id: phy-gen-epi-hac-reg
+  label: Histone Acetylation Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Balanced histone acetylation
+  - Normal HAT/HDAC activity
+  - Appropriate chromatin accessibility
+  scope: Balanced histone acetylation maintaining appropriate chromatin structure through coordinated HAT and HDAC activity, enabling dynamic transcriptional responses while maintaining stable gene expression programs.
+  parent_scope_inheritance: Specifies the histone acetylation component of epigenetic regulation, focusing on the balanced addition and removal of acetyl groups that controls chromatin accessibility and gene expression.
+  polarity_expression: Manifests as appropriate H3 and H4 acetylation levels, dynamic acetylation changes in response to stimuli, and balanced HAT/HDAC enzyme activity maintaining chromatin homeostasis.
+  cross_domain_resonance: Resonates with phy-neu-pla-reg (regulated synaptic plasticity), psy-emo-reg-ada (adaptive emotional regulation), and psy-lea-ass-ada (adaptive associative learning).
+  academic_description: Normal histone acetylation involves balanced activity of histone acetyltransferases (HATs) like CBP/p300 and histone deacetylases (HDACs) class I-IV. Acetylation neutralizes positive charges on lysine residues, weakening histone-DNA interactions and promoting open chromatin. This creates transcriptionally permissive states at active genes while maintaining appropriate repression elsewhere.
+  clinical_description: Healthy acetylation patterns support normal learning, memory formation, and emotional regulation. Assessment typically requires tissue samples, limiting clinical utility. Exercise and environmental enrichment promote beneficial acetylation patterns. Some dietary compounds like butyrate act as natural HDAC inhibitors, supporting healthy acetylation balance.
+  lay_description: Histone acetylation works like loosening or tightening the spools that DNA wraps around. In a healthy state, this loosening and tightening is perfectly balanced - genes that need to be read are accessible, while others are properly packed away. This flexibility allows your cells to respond appropriately to different situations.
+  key_mediators: CBP/p300, GCN5, PCAF (HATs); HDAC1-11 (deacetylases); acetyl-CoA, NAD+, bromodomain proteins
+  key_mechanisms: Lysine acetylation on H3/H4 tails, bromodomain recognition of acetyl marks, HAT/HDAC recruitment by transcription factors, acetylation-mediated chromatin opening
+  clinical_relevance: Supports normal memory formation, enables stress adaptation, maintains metabolic homeostasis, facilitates appropriate gene expression changes
+  assessment_methods: ChIP-seq for acetylation marks, mass spectrometry of histones, HDAC activity assays, HAT activity assays
+  interventions: Exercise programs, environmental enrichment, dietary HDAC inhibitors (butyrate), stress management, cognitive stimulation
+  prominent_models: Histone code hypothesis, acetylation-mediated transcriptional activation, HAT/HDAC balance model
+- id: phy-gen-epi-hac-dys
+  label: Histone Acetylation Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Aberrant histone acetylation
+  - Hyperacetylation at addiction genes
+  - HDAC dysfunction
+  scope: Dysregulated histone acetylation with hyperacetylation at addiction-promoting genes and hypoacetylation at protective genes, creating persistent changes in chromatin accessibility that maintain addictive behaviors.
+  parent_scope_inheritance: Specifies the dysregulated histone acetylation component of epigenetic changes, focusing on substance-induced alterations in acetylation patterns that persistently affect gene transcription.
+  polarity_expression: Manifests as increased H3/H4 acetylation at BDNF and CDK5 promoters, reduced acetylation at protective genes, and imbalanced HAT/HDAC activity favoring open chromatin at addiction loci.
+  cross_domain_resonance: Resonates with phy-neu-pla-dys (dysregulated plasticity), psy-emo-reg-mal (maladaptive emotional regulation), and psy-lea-ass-mal (maladaptive associative learning).
+  academic_description: Cocaine increases CBP-mediated acetylation at fosB, BDNF, and CDK5 promoters, while reducing HDAC5 function. Alcohol alters HDAC2/4 expression and activity. These changes create permissive chromatin states at addiction genes, enhancing their expression. Particularly affected are genes in NAc and PFC regulating reward and executive function. Changes can persist weeks to months into abstinence.
+  clinical_description: Dysregulated acetylation contributes to enhanced drug memories, increased cue reactivity, and persistent craving. HDAC inhibitors show promise in preclinical models for reducing drug-seeking. Some medications like valproate have HDAC inhibitory properties. Recovery involves gradual rebalancing of acetylation patterns, though targeted interventions may accelerate this process.
+  lay_description: When histone acetylation goes wrong, it's like the DNA spools get stuck in the wrong position - addiction-related genes become too accessible and overactive, while protective genes get locked away. Drugs cause these spools to open up at the wrong places, making the brain more sensitive to addiction triggers.
+  key_mediators: Increased CBP/p300 activity, reduced HDAC2/5 function, altered acetyl-CoA levels, disrupted bromodomain protein binding
+  key_mechanisms: Hyperacetylation at addiction gene promoters, persistent chromatin opening, enhanced transcription factor binding, disrupted HDAC recruitment
+  clinical_relevance: Enhanced drug memories, increased cue sensitivity, persistent craving, cognitive inflexibility, mood instability
+  assessment_methods: ChIP-qPCR for specific genes, genome-wide acetylation profiling, HDAC expression analysis, histone mass spectrometry
+  interventions: HDAC inhibitors (sodium butyrate, valproate), HDAC activators (investigational), exercise-induced HDAC regulation, dietary interventions
+  prominent_models: Permissive chromatin model of addiction, acetylation-mediated memory enhancement, HDAC dysfunction hypothesis
+- id: phy-gen-epi-hme-reg
+  label: Histone Methylation Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal histone methylation
+  - Balanced methylation marks
+  - Appropriate H3K4/K9/K27 methylation
+  scope: Balanced histone methylation with appropriate activating marks (H3K4me3) at active promoters and repressive marks (H3K9me3, H3K27me3) at silenced regions, maintaining stable yet flexible gene expression programs.
+  parent_scope_inheritance: Specifies the histone methylation component of epigenetic regulation, focusing on the balanced methylation of specific lysine residues that creates stable transcriptional states.
+  polarity_expression: Manifests as appropriate H3K4me3 at active genes, H3K27me3 at developmentally regulated genes, H3K9me3 at heterochromatin, and balanced HMT/HDM enzyme activity.
+  cross_domain_resonance: Resonates with phy-neu-dev-reg (regulated neurodevelopment), psy-mem-con-ada (adaptive memory consolidation), and exi-gro-mat-pur (purposeful maturation).
+  academic_description: Normal histone methylation involves coordinated activity of histone methyltransferases (HMTs) like MLL, EZH2, and G9a with demethylases (HDMs) like LSD1 and JMJDs. H3K4me3 marks active promoters, H3K36me3 marks gene bodies, H3K27me3 provides reversible silencing, and H3K9me3 maintains heterochromatin. This creates a stable epigenetic landscape supporting cellular identity.
+  clinical_description: Healthy methylation patterns support normal development, memory formation, and cellular differentiation. Assessment requires specialized techniques limiting clinical application. Environmental factors and experiences can influence methylation patterns. Some psychiatric medications may affect histone methylation as part of their therapeutic mechanism.
+  lay_description: Histone methylation is like putting permanent or semi-permanent tags on the DNA spools - some tags say 'read this gene' while others say 'keep this locked away.' In a healthy state, these tags are placed correctly, helping cells remember what type of cell they are and how to function properly.
+  key_mediators: MLL1-4, SET1A/B, EZH2, G9a, SUV39H1/2 (HMTs); LSD1/2, JMJD2, UTX (HDMs); SAM, alpha-ketoglutarate
+  key_mechanisms: Mono/di/trimethylation of specific lysines, chromodomain recognition of methyl marks, polycomb/trithorax regulation, heterochromatin formation
+  clinical_relevance: Maintains cellular identity, supports memory consolidation, enables developmental programs, regulates stress response genes
+  assessment_methods: ChIP-seq for methylation marks, mass spectrometry, immunofluorescence, CUT&RUN sequencing
+  interventions: Environmental enrichment, cognitive training, stress reduction, adequate nutrition (methyl donors), sleep optimization
+  prominent_models: Bivalent chromatin model, polycomb silencing model, heterochromatin maintenance model
+- id: phy-gen-epi-hme-dys
+  label: Histone Methylation Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Aberrant histone methylation
+  - Disrupted H3K9/K27 marks
+  - Methylation imbalance
+  scope: Dysregulated histone methylation with aberrant repressive marks silencing protective genes and loss of repression at addiction genes, creating stable maladaptive transcriptional programs.
+  parent_scope_inheritance: Specifies the dysregulated histone methylation component of epigenetic changes, focusing on substance-induced alterations in methylation marks that create persistent transcriptional changes.
+  polarity_expression: Manifests as increased H3K9me3 at protective genes, reduced H3K27me3 at addiction genes, altered H3K4me3 distribution, and disrupted HMT/HDM balance.
+  cross_domain_resonance: Resonates with phy-neu-dev-dys (dysregulated neurodevelopment), psy-mem-con-mal (maladaptive memory consolidation), and exi-gro-mat-dir (directionless maturation).
+  academic_description: Chronic cocaine reduces H3K9me2 at specific gene promoters through decreased G9a expression, while increasing H3K4me3 at addiction genes. Alcohol alters H3K27me3 patterns affecting developmental genes. These changes create stable alterations in transcriptional potential, with some marks persisting long into abstinence. Particularly affected are genes regulating plasticity and stress response.
+  clinical_description: Dysregulated methylation contributes to persistent transcriptional changes underlying addiction. Some changes may be irreversible, creating lasting vulnerability. HMT/HDM modulators are being investigated as potential therapeutics. Recovery involves partial normalization, though some methylation changes may represent permanent 'scars' requiring ongoing management strategies.
+  lay_description: When histone methylation goes wrong, it's like putting the wrong permanent tags on DNA spools - genes that should be available get locked away with 'do not read' tags, while harmful genes lose their 'keep closed' tags. These changes can be very stable, making it harder for cells to return to normal function.
+  key_mediators: Reduced G9a/GLP activity, altered EZH2 function, disrupted LSD1 activity, imbalanced SAM availability
+  key_mechanisms: Aberrant H3K9me3 spreading, loss of H3K27me3 at regulatory regions, disrupted bivalent chromatin, altered heterochromatin boundaries
+  clinical_relevance: Persistent transcriptional dysregulation, impaired stress adaptation, cognitive deficits, emotional dysregulation, treatment resistance
+  assessment_methods: ChIP-qPCR for candidate genes, methylation-specific antibodies, genome-wide profiling, single-cell epigenomics
+  interventions: HMT inhibitors (investigational), HDM modulators (investigational), combination epigenetic therapies, long-term rehabilitation programs
+  prominent_models: Stable epigenetic scarring model, methylation-locked transcription model, heterochromatin disruption hypothesis
+- id: phy-gen-epi-chr-reg
+  label: Chromatin Remodeling Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal nucleosome positioning
+  - Balanced chromatin structure
+  - Appropriate chromatin accessibility
+  scope: Dynamic chromatin remodeling maintaining appropriate nucleosome positioning and chromatin accessibility through balanced ATP-dependent remodeling complex activity, enabling flexible yet stable gene expression.
+  parent_scope_inheritance: Specifies the chromatin remodeling component of epigenetic regulation, focusing on the structural organization of chromatin that determines gene accessibility.
+  polarity_expression: Manifests as appropriate nucleosome spacing, dynamic chromatin opening/closing in response to signals, and balanced activity of SWI/SNF, ISWI, and CHD remodeling complexes.
+  cross_domain_resonance: Resonates with phy-cel-dif-reg (regulated differentiation), psy-cog-fle-ada (adaptive cognitive flexibility), and exi-tra-gro-pur (purposeful transformational growth).
+  academic_description: Normal chromatin remodeling involves ATP-dependent complexes like SWI/SNF (BAF/PBAF), ISWI, CHD, and INO80 that slide, eject, or exchange nucleosomes. This creates accessible promoters and enhancers at active genes while maintaining compact chromatin at inactive regions. Pioneer transcription factors work with remodelers to establish and maintain cell-type-specific chromatin landscapes.
+  clinical_description: Healthy chromatin remodeling supports normal development, learning, and cellular adaptation. Mutations in remodeling complexes cause neurodevelopmental disorders. Exercise and cognitive stimulation promote beneficial remodeling. Assessment requires sophisticated molecular techniques. Understanding remodeling helps explain how experiences shape biology.
+  lay_description: Chromatin remodeling is like rearranging how DNA is packaged - imagine reorganizing a tightly packed storage room to make certain items more or less accessible. In a healthy state, this reorganization happens smoothly, making the right genetic information available when needed while keeping other information properly stored.
+  key_mediators: BRG1/BRM (SWI/SNF), SNF2H/SNF2L (ISWI), CHD1-9, INO80, ATP, actin, nuclear myosin
+  key_mechanisms: ATP-dependent nucleosome sliding, nucleosome ejection/insertion, histone variant exchange, enhancer-promoter looping
+  clinical_relevance: Enables cellular plasticity, supports memory formation, facilitates stress adaptation, maintains tissue homeostasis
+  assessment_methods: ATAC-seq, DNase-seq, MNase-seq, Hi-C chromatin conformation, FAIRE-seq
+  interventions: Physical exercise, cognitive training, environmental enrichment, stress management, adequate sleep
+  prominent_models: Dynamic chromatin model, nucleosome positioning code, chromatin accessibility landscape model
+- id: phy-gen-epi-chr-dys
+  label: Chromatin Remodeling Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Aberrant chromatin structure
+  - Persistent chromatin opening
+  - Disrupted nucleosome positioning
+  scope: Dysregulated chromatin remodeling with persistent open chromatin at addiction loci and closed chromatin at protective genes, creating stable maladaptive chromatin landscapes that maintain addiction vulnerability.
+  parent_scope_inheritance: Specifies the dysregulated chromatin remodeling component of epigenetic changes, focusing on substance-induced alterations in chromatin structure that persistently affect gene accessibility.
+  polarity_expression: Manifests as persistent nucleosome depletion at addiction genes, increased chromatin compaction at protective loci, and disrupted SWI/SNF complex composition and activity.
+  cross_domain_resonance: Resonates with phy-cel-dif-dys (dysregulated differentiation), psy-cog-fle-mal (maladaptive cognitive flexibility), and exi-tra-gro-dir (directionless transformational growth).
+  academic_description: Chronic substance use alters SWI/SNF complex composition, particularly affecting neuron-specific BAF (nBAF) complexes. Cocaine increases chromatin accessibility at thousands of genomic sites in NAc. These structural changes create persistent alterations in the regulatory landscape, with some regions remaining open months after drug cessation. Particularly affected are enhancers controlling addiction-related genes.
+  clinical_description: Dysregulated remodeling creates lasting changes in how genes can be accessed and expressed. These structural changes may underlie the persistent nature of addiction. Current treatments don't directly target chromatin structure, but understanding these changes helps explain why recovery is a gradual process requiring sustained effort to reshape the chromatin landscape.
+  lay_description: When chromatin remodeling goes wrong, it's like having a storage room where important protective items get buried and locked away, while harmful items are left out in the open and easily accessible. Drugs can cause this disorganization, making it harder for cells to access the genetic information they need for healthy function.
+  key_mediators: Altered BAF complex subunits, disrupted BRG1/BRM balance, abnormal pioneer factor activity, ATP depletion
+  key_mechanisms: Persistent nucleosome-free regions, disrupted enhancer accessibility, altered 3D chromatin architecture, impaired heterochromatin maintenance
+  clinical_relevance: Stable transcriptional dysregulation, impaired cellular plasticity, persistent drug memories, treatment resistance
+  assessment_methods: ATAC-seq profiling, chromatin accessibility QTL analysis, 3D chromatin conformation capture, single-nucleus ATAC-seq
+  interventions: Chromatin remodeling modulators (investigational), extended rehabilitation, combination therapies, lifestyle interventions
+  prominent_models: Chromatin landscape scarring model, persistent accessibility model, structural addiction memory hypothesis
+- id: phy-gen-epi-mir-reg
+  label: MicroRNA Regulation Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal miRNA expression
+  - Balanced miRNA networks
+  - Appropriate post-transcriptional control
+  scope: Balanced microRNA expression and function maintaining appropriate post-transcriptional gene regulation through normal miRNA biogenesis, RISC complex activity, and target mRNA regulation.
+  parent_scope_inheritance: Specifies the microRNA regulation component of epigenetic control, focusing on post-transcriptional mechanisms that fine-tune protein expression.
+  polarity_expression: Manifests as appropriate miRNA expression levels, normal Drosha/Dicer processing, functional RISC complex assembly, and balanced regulation of target mRNAs.
+  cross_domain_resonance: Resonates with phy-imm-inf-reg (regulated inflammation), psy-lea-ass-ada (adaptive associative learning), and phy-neu-tra-reg (regulated neurotransmission).
+  academic_description: Normal miRNA regulation involves transcription of pri-miRNAs, Drosha processing to pre-miRNAs, export and Dicer cleavage to mature miRNAs, and RISC-mediated target regulation. Brain-enriched miRNAs like miR-124, miR-9, and miR-132 regulate neuronal function. miRNA networks provide robustness and fine-tuning of gene expression, particularly important for synaptic plasticity and stress responses.
+  clinical_description: Healthy miRNA patterns support normal brain function, stress resilience, and emotional regulation. Circulating miRNAs show promise as biomarkers. Exercise and dietary factors can influence miRNA expression. Understanding miRNA networks helps explain how multiple genes are coordinately regulated and how disruption can have widespread effects.
+  lay_description: MicroRNAs are like quality control managers that fine-tune how much protein gets made from genes. In a healthy state, these managers keep protein levels balanced - not too much, not too little. They work in networks, with multiple microRNAs coordinating to maintain proper cellular function.
+  key_mediators: Drosha, DGCR8, Exportin-5, Dicer, TRBP, Argonaute proteins, miR-124, miR-132, miR-212, let-7 family
+  key_mechanisms: Pri-miRNA processing, pre-miRNA export, mature miRNA generation, RISC assembly, translational repression, mRNA degradation
+  clinical_relevance: Maintains protein homeostasis, enables synaptic plasticity, regulates inflammatory responses, supports stress adaptation
+  assessment_methods: miRNA microarrays, small RNA sequencing, qRT-PCR, in situ hybridization, circulating miRNA profiling
+  interventions: Exercise programs, dietary interventions, stress management, omega-3 fatty acids, mindfulness practices
+  prominent_models: miRNA network regulation model, competing endogenous RNA hypothesis, miRNA-mediated feedback loops
+- id: phy-gen-epi-mir-dys
+  label: MicroRNA Regulation Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Aberrant miRNA expression
+  - Disrupted miRNA networks
+  - miRNA dysregulation
+  scope: Dysregulated microRNA expression with upregulation of addiction-promoting miRNAs and downregulation of protective miRNAs, disrupting post-transcriptional control and creating widespread protein expression imbalances.
+  parent_scope_inheritance: Specifies the dysregulated microRNA component of epigenetic changes, focusing on substance-induced alterations in miRNA networks that affect protein expression.
+  polarity_expression: Manifests as increased miR-212/132 in striatum, altered let-7 family expression, disrupted miRNA processing, and imbalanced regulation of synaptic and inflammatory targets.
+  cross_domain_resonance: Resonates with phy-imm-inf-dys (dysregulated inflammation), psy-lea-ass-mal (maladaptive associative learning), and phy-neu-tra-dys (dysregulated neurotransmission).
+  academic_description: Cocaine upregulates miR-212/132 through CREB activation, amplifying its own effects. Alcohol alters miR-9, miR-21, and miR-153 affecting GABAA receptors and NMDA signaling. These changes create feedforward loops enhancing addiction. Extracellular vesicles carrying altered miRNAs may spread dysfunction. Some miRNA changes persist into abstinence, contributing to relapse vulnerability.
+  clinical_description: Dysregulated miRNAs contribute to tolerance, sensitization, and persistent craving. Circulating miRNAs may serve as biomarkers for addiction severity and treatment response. miRNA-based therapeutics (antagomirs, mimics) are in development. Understanding miRNA dysregulation helps explain why addiction affects multiple brain systems simultaneously.
+  lay_description: When microRNA regulation goes wrong, it's like having quality control managers who make mistakes - they allow too much of harmful proteins while blocking production of protective ones. Drugs can corrupt these managers, causing widespread imbalances in how cells make and control proteins, affecting many systems at once.
+  key_mediators: Upregulated miR-212/132, altered miR-9/21/153, disrupted let-7, impaired Dicer function, AGO2 dysregulation
+  key_mechanisms: CREB-driven miRNA transcription, altered miRNA processing, disrupted RISC function, aberrant target regulation, exosomal miRNA transfer
+  clinical_relevance: Enhanced drug sensitivity, persistent molecular changes, widespread protein dysregulation, inflammatory activation, cognitive impairment
+  assessment_methods: Small RNA-seq from brain regions, plasma miRNA profiling, exosomal miRNA analysis, functional target validation
+  interventions: AntagomiRs (investigational), miRNA mimics (investigational), exosome-targeted therapies, lifestyle modifications affecting miRNAs
+  prominent_models: miRNA addiction network model, feedforward miRNA loop hypothesis, exosomal spreading model
+- id: phy-gen-epi-trg-reg
+  label: Transgenerational Inheritance Regulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal epigenetic resetting
+  - Appropriate germline reprogramming
+  - Protective parental effects
+  scope: Normal transgenerational epigenetic processes with appropriate germline reprogramming, imprint maintenance, and protective parental effects that support healthy development across generations.
+  parent_scope_inheritance: Specifies the transgenerational inheritance component of epigenetic regulation, focusing on how epigenetic information is appropriately reset or maintained across generations.
+  polarity_expression: Manifests as proper erasure of most epigenetic marks during germline reprogramming, maintenance of essential imprints, and transmission of adaptive parental experiences.
+  cross_domain_resonance: Resonates with soc-fam-int-coh (cohesive intergenerational bonds), exi-leg-anc-pur (purposeful ancestral legacy), and phy-dev-pre-reg (regulated prenatal development).
+  academic_description: Normal transgenerational processes involve two waves of epigenetic reprogramming - in primordial germ cells and post-fertilization. Most epigenetic marks are erased, but some imprinted genes and specific loci escape reprogramming. Positive parental experiences can transmit beneficial epigenetic marks. Maternal care affects offspring stress response through epigenetic mechanisms. This system balances inheritance of adaptive information with fresh developmental potential.
+  clinical_description: Healthy transgenerational processes ensure each generation starts with appropriate epigenetic patterns while potentially benefiting from positive parental adaptations. Understanding normal inheritance helps identify risk factors and protective factors. Preconception health interventions may benefit future generations. This knowledge empowers individuals to make choices that could positively impact their descendants.
+  lay_description: Think of transgenerational inheritance like a family recipe book that gets passed down - most of the temporary notes get erased so each generation can write their own, but some important wisdom gets preserved. In a healthy state, harmful notes are removed while beneficial adaptations might be passed on to help the next generation.
+  key_mediators: TET enzymes, DNMT3A/3B, UHRF1, piRNAs, histone variants, imprinting control regions, PGC7/Stella
+  key_mechanisms: Germline demethylation, imprint maintenance, histone replacement, small RNA inheritance, maternal effect genes
+  clinical_relevance: Maintains developmental potential, prevents transgenerational dysfunction, enables adaptive inheritance, supports genomic stability
+  assessment_methods: Sperm methylation analysis, oocyte epigenetic profiling, imprinting analysis, transgenerational cohort studies
+  interventions: Preconception health optimization, stress reduction before conception, nutritional support, avoiding harmful exposures
+  prominent_models: Epigenetic reprogramming model, genomic imprinting theory, adaptive transgenerational plasticity hypothesis
+- id: phy-gen-epi-trg-dys
+  label: Transgenerational Inheritance Dysregulated
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Epigenetic Regulation
+  cluster_id: phy-gen-epi
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Aberrant epigenetic transmission
+  - Inherited addiction vulnerability
+  - Transgenerational trauma
+  scope: Dysregulated transgenerational inheritance with incomplete epigenetic reprogramming and transmission of addiction vulnerability marks through germline, creating inherited predisposition across generations.
+  parent_scope_inheritance: Specifies the dysregulated transgenerational inheritance component of epigenetic changes, focusing on how substance-induced alterations can be transmitted to offspring.
+  polarity_expression: Manifests as altered sperm methylation patterns, disrupted miRNA profiles in germline, incomplete erasure of stress marks, and transmission of addiction vulnerability to offspring.
+  cross_domain_resonance: Resonates with soc-fam-int-fra (fragmented intergenerational bonds), exi-leg-anc-dir (directionless ancestral legacy), and phy-dev-pre-dys (dysregulated prenatal development).
+  academic_description: Paternal substance exposure alters sperm DNA methylation, histone modifications, and small RNA content. These changes escape normal reprogramming, affecting offspring neurodevelopment and stress response. Studies show increased addiction vulnerability in offspring of exposed parents, even without direct exposure. Mechanisms include altered imprinting, retained histone marks, and sperm RNA-mediated inheritance. Effects can persist to F2 and sometimes F3 generations.
+  clinical_description: Parental substance use can increase addiction risk in children through epigenetic mechanisms, independent of genetic or environmental factors. This helps explain familial clustering of addiction beyond shared genes or upbringing. Understanding transgenerational effects emphasizes the importance of prevention and early intervention. Recovery before conception may partially reverse some germline changes.
+  lay_description: When addiction affects the biological instructions passed to children, it's like passing down a family recipe book with harmful alterations - future generations inherit a increased vulnerability to addiction written into their biological blueprint. This can happen even if children never see their parents use substances, as the changes are passed through sperm or egg cells.
+  key_mediators: Altered sperm methylation, disrupted piRNAs, aberrant histone retention, modified tsRNAs, altered miR-9/124/132
+  key_mechanisms: Incomplete germline demethylation, aberrant imprinting, RNA-mediated inheritance, retained histone modifications, altered chromatin in early embryo
+  clinical_relevance: Increased offspring addiction vulnerability, altered stress response, neurodevelopmental changes, metabolic dysfunction, psychiatric risk
+  assessment_methods: Paternal sperm epigenetic analysis, maternal oocyte assessment, offspring longitudinal studies, multi-generational cohort analysis
+  interventions: Preconception intervention programs, paternal recovery before conception, nutritional supplementation, stress reduction therapies
+  prominent_models: Germline epigenetic inheritance model, incomplete erasure hypothesis, RNA-mediated transgenerational inheritance theory

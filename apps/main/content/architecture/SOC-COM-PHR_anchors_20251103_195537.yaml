@@ -1,0 +1,382 @@
+# Generated anchors for cluster: SOC-COM-PHR
+# Timestamp: 20251103_195537
+
+anchors:
+- id: soc-com-phr-coa-coh
+  label: Coalition Mobilization
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Prevention coalitions
+  - Community partnerships
+  - Collective impact
+  scope: Active multi-sector coalitions with shared vision, coordinated strategies, sustained funding, and broad community engagement driving comprehensive prevention efforts.
+  parent_scope_inheritance: Specifies the community organizing and coalition infrastructure aspect of prevention and harm reduction systems.
+  polarity_expression: Manifests as unified community action with aligned stakeholders versus fragmented efforts with competing agendas and siloed initiatives.
+  cross_domain_resonance: Resonates with psy-cog-exe-pln-ada (planning), phy-neu-net-int-reg (integration), and exi-mea-val-sha-pur (shared values).
+  academic_description: Community coalition research demonstrates effectiveness of collective impact models in reducing youth substance use through environmental strategies. Studies show coalitions achieving 20-40% reductions in youth drinking through coordinated policy and program implementation.
+  clinical_description: Practitioners engage with coalitions to align clinical services with community prevention efforts. Involves participating in coalition meetings, contributing clinical expertise to planning, and ensuring service integration with broader prevention strategies.
+  lay_description: When communities come together through coalitions, different groups like schools, police, healthcare, and parents work as a team to prevent drug problems. Strong coalitions coordinate efforts and share resources, while weak ones work separately and miss opportunities.
+  structural_components: Multi-sector membership, governance structures, workgroups, backbone organizations, shared measurement systems
+  social_processes: Consensus building, strategic planning, resource mobilization, community organizing, stakeholder engagement
+  societal_relevance: Coalitions shape community norms, influence policy, and determine resource allocation for prevention
+  assessment_methods: Coalition effectiveness scales, network analysis, community readiness assessments, participation metrics
+  interventions: Coalition training, technical assistance, strategic planning facilitation, capacity building
+  prominent_models: Communities That Care, PROSPER, Drug-Free Communities, Collective Impact Framework
+- id: soc-com-phr-coa-fra
+  label: Coalition Fragmentation
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Siloed efforts
+  - Uncoordinated prevention
+  - Turf wars
+  scope: Absent or ineffective coalitions with isolated efforts, competing agendas, unstable participation, and lack of coordinated community prevention strategy.
+  parent_scope_inheritance: Specifies the disorganized and uncoordinated aspect of prevention and harm reduction systems lacking coalition infrastructure.
+  polarity_expression: Manifests as disconnected initiatives with duplication, gaps, territorial conflicts, and absence of collective vision or action.
+  cross_domain_resonance: Resonates with psy-cog-exe-pln-mal (planning deficits), phy-neu-net-int-dys (disconnection), and exi-mea-val-con-dir (value conflicts).
+  academic_description: Research shows communities without effective coalitions experience higher rates of youth substance use, inefficient resource utilization, and failure to implement evidence-based environmental strategies. Fragmentation leads to 30-50% higher prevention costs with poorer outcomes.
+  clinical_description: Clinicians in fragmented systems face challenges connecting clients to services, encounter service gaps, navigate competing programs, and lack community support for clinical interventions. Results in isolated practice without community reinforcement.
+  lay_description: Without strong coalitions, different groups work against each other or ignore each other's efforts. Schools, police, and health services might have conflicting approaches, waste resources on duplicate programs, and leave gaps where problems grow.
+  structural_components: Isolated organizations, absent coordinating bodies, competitive funding, territorial boundaries, communication barriers
+  social_processes: Competition for resources, blame shifting, territorial protection, communication breakdown, leadership conflicts
+  societal_relevance: Fragmentation perpetuates community problems, wastes resources, and prevents comprehensive approaches to prevention
+  assessment_methods: Service mapping revealing gaps/overlaps, stakeholder conflict assessments, coordination failure analysis
+  interventions: Community organizing, neutral facilitation, coalition startup support, trust-building initiatives
+  prominent_models: Fragmentation theory, Organizational silos research, Collective action failure models
+- id: soc-com-phr-sch-coh
+  label: School Prevention Excellence
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Evidence-based school programs
+  - Comprehensive school prevention
+  - Universal prevention curricula
+  scope: Comprehensive evidence-based prevention curricula implemented with fidelity across all grade levels, including trained facilitators, family engagement components, and positive school climate initiatives.
+  parent_scope_inheritance: Specifies the school-based prevention program component of community prevention and harm reduction systems.
+  polarity_expression: Manifests as systematic, evidence-based prevention education reaching all students versus absent or ineffective programs with punitive-only approaches.
+  cross_domain_resonance: Resonates with psy-dev-ado-ide-ada (identity formation), phy-neu-dev-pru-reg (adolescent brain development), and exi-gro-mat-aut-pur (autonomy development).
+  academic_description: Meta-analyses show evidence-based school programs reduce substance initiation by 25-30% when implemented with fidelity. Programs like LifeSkills Training and Positive Action demonstrate sustained effects through high school when started early with booster sessions.
+  clinical_description: School programs provide primary prevention complementing clinical services. Clinicians support through consultation, training school personnel in screening, and receiving referrals from school-identified at-risk youth. Programs build protective factors reducing future treatment needs.
+  lay_description: Good school prevention programs teach kids skills to resist peer pressure, make healthy choices, and understand drug risks using proven methods. These programs involve parents, create positive school environments, and help kids before problems start.
+  structural_components: Curriculum materials, teacher training systems, implementation coaches, fidelity monitoring, parent engagement programs
+  social_processes: Skill building, norm setting, peer support, teacher-student relationships, parent-school partnerships
+  societal_relevance: School programs shape generational attitudes toward substances and build community protective factors
+  assessment_methods: Implementation fidelity checklists, student pre/post assessments, school climate surveys, substance use monitoring
+  interventions: Program adoption, teacher training, booster sessions, parent programs, school policy development
+  prominent_models: LifeSkills Training, Positive Action, Good Behavior Game, Communities That Care curricula
+- id: soc-com-phr-sch-fra
+  label: School Prevention Failure
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Ineffective school programs
+  - Zero-tolerance only
+  - Prevention gaps
+  scope: Absent or ineffective school prevention with reliance on outdated approaches, punitive-only policies, sporadic implementation, and lack of evidence-based programming.
+  parent_scope_inheritance: Specifies the failed or absent school-based prevention component of community prevention and harm reduction systems.
+  polarity_expression: Manifests as exclusive reliance on punishment and scare tactics versus comprehensive skill-building and evidence-based prevention education.
+  cross_domain_resonance: Resonates with psy-dev-ado-ide-mal (identity confusion), phy-neu-dev-pru-dys (impaired development), and exi-gro-mat-aut-dir (autonomy struggles).
+  academic_description: Research shows ineffective programs like DARE and scared straight approaches can actually increase substance use. Schools without evidence-based prevention show 40-60% higher initiation rates and earlier onset of use compared to those with quality programs.
+  clinical_description: Absence of school prevention increases clinical burden through earlier onset, more severe presentations, and missed early intervention opportunities. Punitive approaches drive underground use and delay help-seeking, complicating treatment when youth finally present.
+  lay_description: When schools only punish drug use without teaching prevention skills, or use outdated scare tactics, kids don't learn how to handle real situations. Zero-tolerance policies push problems underground and miss chances to help kids early.
+  structural_components: Zero-tolerance policies, suspension protocols, police presence without prevention, outdated materials, untrained staff
+  social_processes: Punishment focus, fear-based messaging, exclusion practices, labeling, missed teachable moments
+  societal_relevance: Failed school prevention perpetuates intergenerational substance problems and school-to-prison pipeline
+  assessment_methods: Suspension/expulsion rates, program evaluation showing null/negative effects, student substance use rates
+  interventions: Program replacement advocacy, evidence-based program adoption, policy reform, restorative justice implementation
+  prominent_models: Zero-tolerance critique research, School-to-prison pipeline studies, Ineffective prevention program analyses
+- id: soc-com-phr-ssp-coh
+  label: Syringe Service Integration
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Needle exchange programs
+  - Comprehensive SSPs
+  - Harm reduction services
+  scope: Legal, accessible syringe service programs with multiple fixed and mobile sites, unlimited supplies, wraparound services, and strong community support reducing disease transmission.
+  parent_scope_inheritance: Specifies the syringe service program component of community harm reduction infrastructure.
+  polarity_expression: Manifests as embraced, well-funded programs with comprehensive services versus banned or restricted programs facing community resistance.
+  cross_domain_resonance: Resonates with phy-imm-inf-vir-reg (infection control), psy-soc-rel-tru-ada (trust building), and exi-mea-pur-ser-pur (service to others).
+  academic_description: Systematic reviews demonstrate SSPs reduce HIV transmission by 50-60% and HCV by 25-30% without increasing drug use or crime. Programs providing comprehensive services show enhanced linkage to treatment and 3-fold higher recovery initiation rates.
+  clinical_description: SSPs serve as healthcare entry points for marginalized populations, providing wound care, testing, vaccinations, and treatment linkage. Programs reduce injection-related infections requiring costly hospital treatment and create therapeutic relationships with hard-to-reach clients.
+  lay_description: Syringe service programs provide clean needles and safe disposal to prevent HIV and hepatitis spread among people who inject drugs. Good programs also offer medical care, counseling, and help getting into treatment when people are ready.
+  structural_components: Fixed sites, mobile units, peer outreach teams, supply distribution systems, sharps disposal, wraparound services
+  social_processes: Stigma reduction, peer support, trust building, community engagement, health promotion
+  societal_relevance: SSPs prevent disease outbreaks, reduce healthcare costs, and connect marginalized populations to services
+  assessment_methods: Coverage assessments, syringe return rates, disease surveillance, client satisfaction, service utilization data
+  interventions: Program expansion, peer workforce development, community education, police collaboration, policy advocacy
+  prominent_models: Comprehensive harm reduction model, Low-threshold service design, Peer delivery models
+- id: soc-com-phr-ssp-fra
+  label: Syringe Service Prohibition
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - SSP bans
+  - Needle exchange prohibition
+  - Harm reduction resistance
+  scope: Illegal or severely restricted syringe services with police harassment, limited access, community opposition, and resulting high rates of disease transmission.
+  parent_scope_inheritance: Specifies the absent or prohibited syringe service component reflecting harm reduction resistance.
+  polarity_expression: Manifests as legal prohibition, law enforcement interference, and community opposition preventing disease prevention services.
+  cross_domain_resonance: Resonates with phy-imm-inf-vir-dys (infection spread), psy-soc-rel-tru-mal (distrust), and exi-mea-pur-ali-dir (purpose alienation).
+  academic_description: Communities without SSPs experience HIV outbreaks costing millions in treatment. Scott County, Indiana's 2015 outbreak infected 235 people in a county of 24,000, demonstrating consequences of SSP prohibition. Areas without SSPs show 8-10 times higher HIV/HCV rates.
+  clinical_description: SSP absence forces clinicians to treat preventable infections including endocarditis, abscesses, and bloodborne diseases. Prohibition drives underground needle sharing, delays medical care, and results in advanced disease presentation requiring intensive intervention.
+  lay_description: When communities ban needle exchanges, people share needles spreading HIV and hepatitis. Police arrests at exchange sites drive people underground, and community fears about enabling use prevent life-saving services that actually help people get treatment.
+  structural_components: Legal prohibitions, paraphernalia laws, police enforcement, NIMBY opposition, funding restrictions
+  social_processes: Criminalization, stigmatization, marginalization, underground networks, fear-based avoidance
+  societal_relevance: Prohibition perpetuates disease outbreaks, increases healthcare costs, and marginalizes vulnerable populations
+  assessment_methods: Disease outbreak surveillance, injection equipment sharing surveys, police arrest data, treatment delay metrics
+  interventions: Legal reform advocacy, emergency declarations, underground support, litigation, community education
+  prominent_models: Prohibition impact studies, Outbreak investigation reports, Criminalization research
+- id: soc-com-phr-ovp-coh
+  label: Overdose Prevention Systems
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Naloxone saturation
+  - Overdose response networks
+  - Safe consumption spaces
+  scope: Comprehensive overdose prevention with widespread naloxone access, overdose prevention sites, rapid emergency response, and community-wide training reducing overdose mortality.
+  parent_scope_inheritance: Specifies the overdose prevention infrastructure component of community harm reduction systems.
+  polarity_expression: Manifests as saturated naloxone coverage and sanctioned overdose prevention versus limited access and punitive responses to overdose.
+  cross_domain_resonance: Resonates with phy-neu-opi-res-reg (respiratory function), psy-tra-cri-saf-ada (safety planning), and exi-mor-dea-acc-pur (death acceptance).
+  academic_description: Communities with naloxone saturation show 30-50% reductions in overdose mortality. Supervised consumption sites prevent overdose deaths with zero mortality in millions of supervised uses globally. Comprehensive approaches reduce deaths by up to 70%.
+  clinical_description: Overdose prevention systems save lives allowing future treatment opportunities. Clinicians prescribe naloxone, train patients and families, support safe consumption sites, and coordinate with emergency services to ensure rapid response and warm handoffs to treatment.
+  lay_description: Communities with good overdose prevention make sure the overdose reversal drug naloxone is everywhere - in pharmacies, with police, and with drug users. Some places have safe sites where medical staff can respond instantly to overdoses.
+  structural_components: Naloxone distribution networks, standing orders, overdose prevention sites, emergency response systems, peer response teams
+  social_processes: Bystander training, peer education, stigma reduction, community mobilization, first responder coordination
+  societal_relevance: Overdose prevention saves lives, preserves families, and maintains opportunity for recovery
+  assessment_methods: Naloxone distribution metrics, overdose reversal rates, mortality surveillance, response time analysis
+  interventions: Saturation strategies, standing order implementation, site establishment, Good Samaritan laws, training programs
+  prominent_models: Naloxone saturation model, Supervised consumption site research, Overdose response cascade
+- id: soc-com-phr-ovp-fra
+  label: Overdose Response Failure
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Naloxone deserts
+  - Overdose crisis
+  - Prevention gaps
+  scope: Limited overdose prevention with restricted naloxone access, no safe consumption spaces, punitive responses to overdose, and high mortality rates.
+  parent_scope_inheritance: Specifies the failed overdose prevention component reflecting inadequate harm reduction infrastructure.
+  polarity_expression: Manifests as naloxone scarcity, criminalized overdose response, and absence of overdose prevention services.
+  cross_domain_resonance: Resonates with phy-neu-opi-res-dys (respiratory failure), psy-tra-cri-saf-mal (safety absence), and exi-mor-dea-den-dir (death denial).
+  academic_description: Communities with limited naloxone access show 3-5 times higher overdose mortality. Absence of overdose prevention sites correlates with clustered deaths and delayed emergency response. Punitive approaches deter 911 calls in 40-60% of witnessed overdoses.
+  clinical_description: Limited overdose prevention results in preventable deaths eliminating treatment opportunities. Clinicians see delayed presentations with hypoxic brain injury, encounter families traumatized by preventable loss, and face community grief from mounting deaths.
+  lay_description: Without enough naloxone and safe places to use, people die from overdoses that could be reversed. Fear of arrest keeps people from calling 911, and communities watch death tolls rise from preventable overdoses.
+  structural_components: Prescription-only naloxone, absent prevention sites, criminalization policies, limited distribution, cost barriers
+  social_processes: Fear of prosecution, hiding use, delayed help-seeking, community trauma, grief accumulation
+  societal_relevance: Overdose deaths devastate families, overwhelm systems, and represent ultimate prevention failure
+  assessment_methods: Mortality rates, naloxone desert mapping, 911 call hesitancy surveys, coroner data analysis
+  interventions: Emergency naloxone access, Good Samaritan law passage, pilot site development, first responder naloxone
+  prominent_models: Overdose crisis response research, Naloxone access barrier studies, Criminalization impact analyses
+- id: soc-com-phr-edu-coh
+  label: Community Education Excellence
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Evidence-based messaging
+  - Anti-stigma campaigns
+  - Public awareness
+  scope: Comprehensive community education with evidence-based messaging, anti-stigma campaigns, trusted messengers, and broad reach building community readiness and support.
+  parent_scope_inheritance: Specifies the community education and awareness component of prevention and harm reduction systems.
+  polarity_expression: Manifests as accurate, destigmatizing education reaching all community segments versus misinformation and stigmatizing messages.
+  cross_domain_resonance: Resonates with psy-soc-sti-int-ada (stigma integration), psy-cog-bel-evi-ada (evidence-based beliefs), and exi-con-com-emp-pur (compassion).
+  academic_description: Research shows anti-stigma campaigns increase treatment seeking by 25-40% and improve community support for services. Evidence-based messaging reduces discrimination and increases acceptance of harm reduction by shifting from moral to health framing.
+  clinical_description: Community education creates supportive environments for clinical work by reducing stigma, increasing help-seeking, and building family support. Clinicians contribute through speaking engagements, media interviews, and myth-busting to shape accurate community understanding.
+  lay_description: Good community education teaches people facts about addiction as a treatable disease, not a moral failing. Campaigns feature real recovery stories, correct myths, and help communities understand how prevention and treatment work.
+  structural_components: Media campaigns, speaker bureaus, educational materials, social media presence, community forums
+  social_processes: Narrative change, contact strategies, myth busting, norm shifting, dialogue facilitation
+  societal_relevance: Education shapes community attitudes, influences policy support, and determines service acceptance
+  assessment_methods: Stigma surveys, message reach metrics, attitude change measurement, media analysis
+  interventions: Campaign development, spokesperson training, media partnerships, community dialogue forums
+  prominent_models: Contact theory, Narrative change strategy, Social marketing frameworks, Stigma reduction models
+- id: soc-com-phr-edu-fra
+  label: Community Misinformation
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Stigmatizing messages
+  - Moral panic
+  - Prevention myths
+  scope: Pervasive misinformation with stigmatizing messages, fear-based approaches, moral panic, and limited reach perpetuating discrimination and resistance to services.
+  parent_scope_inheritance: Specifies the failed community education component perpetuating stigma and preventing service acceptance.
+  polarity_expression: Manifests as myth proliferation, moral condemnation, and fear-mongering versus accurate health-focused education.
+  cross_domain_resonance: Resonates with psy-soc-sti-int-mal (stigma internalization), psy-cog-bel-dis-mal (distorted beliefs), and exi-con-com-ind-dir (indifference).
+  academic_description: Communities with high stigma show 50-70% lower treatment engagement and 3-fold higher mortality. Misinformation campaigns correlating with policy restrictions, NIMBY opposition, and reduced funding for evidence-based services.
+  clinical_description: Misinformation creates hostile practice environments where clients delay care, families resist treatment, and communities oppose services. Clinicians combat myths, face community resistance, and treat advanced cases due to stigma-driven delays.
+  lay_description: When communities spread myths about addiction being a choice or treatment enabling use, people hide problems and avoid help. Fear-based messages and moral judgments push people underground and prevent families from supporting loved ones.
+  structural_components: Moral panic media, fear-based campaigns, absent education, myth proliferation, limited channels
+  social_processes: Scapegoating, moral condemnation, fear spreading, discrimination, exclusion
+  societal_relevance: Misinformation perpetuates suffering, blocks services, and maintains discriminatory policies
+  assessment_methods: Myth prevalence surveys, stigma indices, discrimination reports, media content analysis
+  interventions: Myth-busting campaigns, fact-checking initiatives, trusted messenger engagement, counter-narrative development
+  prominent_models: Moral panic theory, Stigma power framework, Misinformation spread models
+- id: soc-com-phr-chk-coh
+  label: Drug Checking Access
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Drug testing services
+  - Adulterant detection
+  - Fentanyl testing
+  scope: Accessible drug checking services with rapid testing, fentanyl detection, adulterant identification, and real-time community alerts enabling informed decisions and preventing poisonings.
+  parent_scope_inheritance: Specifies the drug checking service component of harm reduction infrastructure.
+  polarity_expression: Manifests as available testing with rapid results and community alerts versus absence of testing leaving users uninformed about contents.
+  cross_domain_resonance: Resonates with phy-neu-tox-det-reg (toxin detection), psy-cog-dec-inf-ada (informed decisions), and exi-mea-val-aut-pur (autonomy).
+  academic_description: Drug checking services reduce overdose risk by 25-35% through behavior change after positive fentanyl results. Programs detect novel substances, prevent poisoning clusters, and provide market surveillance informing public health responses.
+  clinical_description: Drug checking provides crucial safety information preventing poisonings and overdoses. Services create engagement opportunities, build trust, and facilitate treatment discussions. Clinicians use results to inform medical responses and anticipate presentation patterns.
+  lay_description: Drug checking lets people test their drugs for dangerous substances like fentanyl before using. Services provide test strips or machines that identify what's really in drugs, helping people make safer choices and avoid deadly surprises.
+  structural_components: Testing equipment, fentanyl test strips, spectrometers, alert systems, distribution networks
+  social_processes: Information sharing, peer warnings, market monitoring, trust building, safety planning
+  societal_relevance: Drug checking prevents poisoning deaths and provides early warning of dangerous drug supply changes
+  assessment_methods: Service utilization rates, positive detection rates, behavior change surveys, alert effectiveness
+  interventions: Strip distribution programs, testing site establishment, technology deployment, alert system development
+  prominent_models: Drug checking service models, Fentanyl testing programs, Early warning systems
+- id: soc-com-phr-chk-fra
+  label: Drug Checking Absence
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Testing unavailable
+  - Unknown contents
+  - Poisoning risk
+  scope: Absent drug checking services with no testing availability, unknown drug contents, undetected adulterants, and resulting poisoning clusters and overdose deaths.
+  parent_scope_inheritance: Specifies the absent drug checking component leaving users vulnerable to contaminated supply.
+  polarity_expression: Manifests as complete absence of testing capacity leaving users blind to dangerous adulterants and potency.
+  cross_domain_resonance: Resonates with phy-neu-tox-det-dys (toxin exposure), psy-cog-dec-imp-mal (impaired decisions), and exi-mea-val-dep-dir (dependence).
+  academic_description: Communities without drug checking experience 40-60% higher rates of fentanyl overdose deaths. Absence of testing correlates with poisoning clusters, delayed outbreak detection, and inability to warn users of contaminated supply.
+  clinical_description: Without drug checking, clinicians treat unexpected poisonings, polysubstance overdoses, and novel substance exposures without warning. Absence eliminates prevention opportunity and results in emergency presentations that could be avoided.
+  lay_description: When people can't test their drugs, they have no idea if they contain deadly fentanyl or other dangerous chemicals. This Russian roulette situation leads to accidental overdoses and poisonings that testing could prevent.
+  structural_components: Paraphernalia laws prohibiting testing, no services available, cost barriers, equipment absence
+  social_processes: Blind consumption, rumor-based information, delayed warnings, cluster poisonings
+  societal_relevance: Testing absence perpetuates overdose crisis and prevents informed harm reduction
+  assessment_methods: Poisoning cluster analysis, overdose toxicology, contamination prevalence, death investigations
+  interventions: Legal exemptions for testing, pilot program development, strip distribution initiatives
+  prominent_models: Contaminated drug supply research, Poisoning outbreak investigations, Testing barrier studies
+- id: soc-com-phr-ear-coh
+  label: Early Intervention Systems
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - SBIRT programs
+  - Brief interventions
+  - Early detection
+  scope: Systematic screening and brief intervention programs with universal implementation, trained providers, warm handoffs to treatment, and follow-up systems catching problems early.
+  parent_scope_inheritance: Specifies the early intervention component bridging prevention and treatment in community systems.
+  polarity_expression: Manifests as proactive identification and intervention for at-risk individuals versus missed opportunities for early help.
+  cross_domain_resonance: Resonates with psy-dev-ris-ear-ada (early intervention), phy-neu-add-tol-reg (pre-tolerance), and exi-gro-dev-exp-pur (growth exploration).
+  academic_description: SBIRT reduces heavy drinking by 20-30% and prevents progression to severe disorders. Early intervention shows 3-fold cost-effectiveness compared to late-stage treatment, with brief interventions preventing 1 in 8 from developing disorders.
+  clinical_description: Early intervention through SBIRT identifies at-risk individuals before severe problems develop. Clinicians conduct brief motivational interventions, provide feedback, and facilitate treatment entry when indicated. Programs integrate into primary care, emergency departments, and community settings.
+  lay_description: Early intervention programs use quick questionnaires to identify people starting to have problems with alcohol or drugs. Counselors then have brief conversations that help many people change before addiction develops, like catching health problems early.
+  structural_components: Screening tools, training programs, referral networks, follow-up systems, electronic integration
+  social_processes: Routine screening, motivational conversations, feedback delivery, referral facilitation, follow-up support
+  societal_relevance: Early intervention prevents progression to severe disorders, reduces future treatment costs
+  assessment_methods: Screening rates, brief intervention delivery, referral completion, follow-up engagement, outcome tracking
+  interventions: SBIRT implementation, provider training, workflow integration, referral network development
+  prominent_models: SBIRT model, Screening and brief intervention research, Early intervention effectiveness studies
+- id: soc-com-phr-ear-fra
+  label: Early Intervention Gaps
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Prevention and Harm Reduction
+  cluster_id: soc-com-phr
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Missed opportunities
+  - Late detection
+  - No screening
+  scope: Absent screening and early intervention with no systematic detection, missed opportunities in healthcare settings, judgmental responses, and late-stage problem identification.
+  parent_scope_inheritance: Specifies the failed early intervention component allowing progression from early risk to severe disorders.
+  polarity_expression: Manifests as systematic failure to identify and intervene with at-risk individuals until crisis presentation.
+  cross_domain_resonance: Resonates with psy-dev-ris-ear-mal (missed windows), phy-neu-add-tol-dys (tolerance development), and exi-gro-dev-sta-dir (stagnation).
+  academic_description: Absence of early intervention results in 60-80% of at-risk individuals progressing to disorders. Missed opportunities in healthcare settings delay treatment by 5-10 years, with associated increases in severity, comorbidity, and treatment resistance.
+  clinical_description: Without early intervention, clinicians see advanced presentations requiring intensive treatment. Missed screening opportunities in primary care and emergency settings result in crisis-driven care, higher costs, and poorer outcomes compared to early intervention.
+  lay_description: Without early detection programs, people's drinking or drug use problems grow unnoticed until they're in crisis. Doctors miss chances to help when problems are small, and people don't get help until addiction has caused major damage.
+  structural_components: No screening protocols, untrained providers, absent referral systems, time barriers, stigmatizing attitudes
+  social_processes: Avoidance, denial enabling, missed conversations, judgment, crisis-only response
+  societal_relevance: Missed early intervention opportunities result in preventable progression to severe disorders
+  assessment_methods: Missed opportunity audits, late-stage presentation rates, screening absence documentation
+  interventions: SBIRT adoption initiatives, provider training programs, screening mandate implementation
+  prominent_models: Missed opportunity research, Late presentation studies, Early intervention gap analyses

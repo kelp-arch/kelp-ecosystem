@@ -1,0 +1,314 @@
+# Generated anchors for cluster: PSY-COG-MEM
+# Timestamp: 20251103_164041
+
+anchors:
+- id: psy-cog-mem-wkm-ada
+  label: Intact Working Memory
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Preserved working memory capacity
+  - Effective memory manipulation
+  - Intact executive memory
+  scope: Represents intact working memory capacity with effective maintenance and manipulation of recovery-relevant information, supporting conscious override of automatic drug-seeking tendencies through active goal maintenance.
+  parent_scope_inheritance: Specifies the working memory component of memory processing, focusing on the capacity to hold and manipulate multiple pieces of information simultaneously while maintaining recovery goals.
+  polarity_expression: Manifests as preserved capacity to maintain 7±2 items, successful dual-task performance, and sustained activation of recovery intentions during decision-making despite distractions.
+  cross_domain_resonance: Resonates with phy-neu-pfc-reg through prefrontal executive control, soc-rel-sup-coh through maintaining social commitments, and exi-age-wis-pur through holding complex perspectives.
+  academic_description: Intact working memory functioning per Baddeley's model shows preserved phonological loop (verbal rehearsal), visuospatial sketchpad (spatial processing), and central executive coordination. Complex span tasks reveal normal capacity (7±2 items) with effective updating, switching, and inhibition functions. N-back performance shows appropriate load-dependent activation in dorsolateral prefrontal cortex. Maintenance of recovery goals in working memory enables top-down regulation of subcortical craving responses.
+  clinical_description: Assessment through digit span, spatial span, and n-back tasks reveals normal working memory capacity. Patients successfully hold recovery intentions active while navigating challenging situations. Interventions include prophylactic working memory training using adaptive n-back protocols, dual-task exercises combining memory with inhibition, and mindfulness practices that strengthen sustained attention. Strategy training teaches chunking, rehearsal, and visualization techniques.
+  lay_description: Your mental workspace functions well - you can juggle multiple thoughts, remember phone numbers while dialing, and keep your recovery goals in mind even when stressed. This mental notepad helps you pause and think before acting on cravings.
+  core_components:
+  - Phonological loop for verbal information
+  - Visuospatial sketchpad for spatial data
+  - Central executive for coordination
+  - Episodic buffer for integration
+  associated_processes:
+  - Active maintenance of goals
+  - Resistance to interference
+  - Flexible updating of contents
+  - Dual-task coordination
+- id: psy-cog-mem-wkm-mal
+  label: Impaired Working Memory
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Working memory deficits
+  - Reduced memory span
+  - Executive memory impairment
+  scope: Represents impaired working memory capacity with reduced ability to maintain and manipulate information, leading to difficulty holding recovery goals in mind and increased vulnerability to automatic drug-seeking behaviors.
+  parent_scope_inheritance: Specifies the working memory component of memory processing, focusing on deficits in maintaining and manipulating information that compromise recovery-oriented decision-making.
+  polarity_expression: Manifests as reduced span (4-5 items), poor dual-task performance, rapid loss of recovery intentions under cognitive load, and inability to override prepotent drug-seeking responses.
+  cross_domain_resonance: Resonates with phy-neu-pfc-dys through prefrontal dysfunction, soc-rel-sup-fra through forgetting social obligations, and exi-age-wis-dir through inability to hold broader perspectives.
+  academic_description: Working memory impairments affect multiple components of Baddeley's model. Reduced phonological loop capacity limits verbal rehearsal to 4-5 items. Visuospatial sketchpad shows decreased precision. Central executive exhibits poor coordination, evidenced by disproportionate dual-task costs. N-back tasks reveal reduced accuracy at 2-back level with hypoactivation in dorsolateral prefrontal cortex. These deficits predict relapse risk independent of other cognitive factors.
+  clinical_description: Assessment reveals reduced digit span (forward <6, backward <4), poor spatial span, and rapid performance degradation on n-back tasks. Patients lose track of recovery goals when stressed or distracted. Interventions include computerized working memory training with adaptive difficulty, external memory aids (notebooks, apps), and environmental modifications to reduce cognitive load. Pharmacological augmentation with modafinil or methylphenidate may enhance training effects.
+  lay_description: Your mental workspace feels foggy and limited - like trying to juggle with too many balls. You forget what you were planning to do, lose track of conversations, and find your recovery goals slip from mind when you're stressed or tired, leaving you vulnerable to old habits.
+  core_components:
+  - Reduced phonological loop capacity
+  - Impaired visuospatial processing
+  - Compromised central executive
+  - Limited episodic buffer
+  associated_processes:
+  - Rapid forgetting under load
+  - High susceptibility to interference
+  - Poor updating abilities
+  - Dual-task impairments
+- id: psy-cog-mem-imp-ada
+  label: Weakened Drug Associations
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Reduced implicit drug memory
+  - Weakened automatic associations
+  - Diminished drug priming
+  scope: Represents weakened implicit drug-cue associations with development of new recovery-supportive automatic memories, reducing unconscious drug approach tendencies and supporting sustained abstinence.
+  parent_scope_inheritance: Specifies the implicit memory component of memory processing, focusing on the automatic, unconscious associations that have been modified from drug-promoting to recovery-supporting patterns.
+  polarity_expression: Manifests as reduced automatic approach to drug cues, positive implicit attitudes toward recovery activities, unconscious avoidance of risk situations, and automatic activation of coping responses.
+  cross_domain_resonance: Resonates with phy-neu-rew-reg through modified reward associations, exi-mea-val-pur through aligned implicit values, and soc-env-cue-coh through positive environmental associations.
+  academic_description: Implicit memory modification shows weakened drug-cue associations measured through Implicit Association Tests (IAT) and evaluative priming tasks. Approach-avoidance tasks reveal automatic avoidance of drug stimuli. Semantic priming effects for drug words are reduced. Counter-conditioning has created competing recovery associations that interfere with drug memory expression. These implicit changes predict maintained abstinence beyond explicit motivation measures.
+  clinical_description: Assessment via IAT shows faster association of drugs with negative concepts and recovery with positive concepts. Approach-avoidance tasks reveal automatic avoidance tendencies. Interventions include evaluative conditioning pairing drug cues with negative outcomes, approach-avoidance training pushing away drug images, and counter-conditioning creating incompatible associations. Mindfulness practices reduce automatic reactivity to residual associations.
+  lay_description: Your brain's automatic pilot has been reprogrammed - drug cues no longer trigger that instant pull, and you find yourself naturally drawn toward healthy activities. These unconscious associations now work for your recovery rather than against it.
+  core_components:
+  - Weakened drug-reward links
+  - Strengthened recovery associations
+  - Modified approach tendencies
+  - Altered implicit attitudes
+  associated_processes:
+  - Automatic coping activation
+  - Unconscious risk avoidance
+  - Implicit recovery motivation
+  - Reduced cue reactivity
+- id: psy-cog-mem-imp-mal
+  label: Strong Drug Associations
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Powerful implicit drug memory
+  - Automatic drug associations
+  - Strong drug priming
+  scope: Represents powerful implicit drug-cue associations that automatically trigger approach tendencies and drug-seeking behaviors outside conscious awareness, undermining recovery efforts despite explicit intentions.
+  parent_scope_inheritance: Specifies the implicit memory component of memory processing, focusing on the automatic, unconscious associations that persistently link drugs with reward and trigger drug-seeking behaviors.
+  polarity_expression: Manifests as rapid automatic approach to drug cues, positive implicit drug attitudes despite explicit knowledge of harm, unconscious drug-seeking behaviors, and automatic craving activation.
+  cross_domain_resonance: Resonates with phy-neu-rew-dys through hijacked reward associations, exi-mea-val-dir through misaligned implicit values, and soc-env-cue-fra through toxic environmental associations.
+  academic_description: Strong implicit drug memories evident in fast drug-positive associations on IAT, showing 200-300ms faster responses than drug-negative pairings. Evaluative priming reveals automatic positive valence activation. Approach-avoidance tasks show reflexive approach tendencies requiring conscious override. Semantic networks show spreading activation from neutral to drug concepts. These implicit biases predict relapse independent of explicit attitudes.
+  clinical_description: Assessment reveals strong automatic drug-positive associations on IAT, reflexive approach on joystick tasks, and attentional capture by drug cues in dot-probe paradigms. Patients report acting on autopilot toward drug use. Interventions include intensive cognitive bias modification (500+ trials), prolonged approach-avoidance retraining, and competing response training. Pharmacological dampening with propranolol during retrieval may weaken associations.
+  lay_description: Your brain has created powerful shortcuts linking drugs with relief, certain places with using, and specific feelings with craving. These associations operate like an autopilot you're not even aware of, pulling you toward drugs before your conscious mind can intervene.
+  core_components:
+  - Strong drug-reward associations
+  - Automatic approach programs
+  - Implicit positive drug attitudes
+  - Dense associative networks
+  associated_processes:
+  - Reflexive drug approach
+  - Automatic craving activation
+  - Unconscious drug-seeking
+  - Implicit memory intrusions
+- id: psy-cog-mem-pro-ada
+  label: Reliable Prospective Memory
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Intact intention memory
+  - Effective future memory
+  - Reliable implementation intentions
+  scope: Represents intact prospective memory with reliable execution of recovery-related intentions, supporting consistent engagement with treatment activities and implementation of coping strategies at appropriate times.
+  parent_scope_inheritance: Specifies the prospective memory component of memory processing, focusing on the ability to remember and execute future intentions critical for maintaining recovery activities and commitments.
+  polarity_expression: Manifests as consistent attendance at recovery activities, reliable medication adherence, successful implementation of if-then coping plans, and timely execution of self-care routines.
+  cross_domain_resonance: Resonates with psy-cog-exe-ada through planning and execution, soc-com-eng-coh through maintaining community commitments, and exi-gro-dev-pur through consistent growth practices.
+  academic_description: Intact prospective memory shows successful time-based (remembering when) and event-based (remembering given cues) intention execution. Implementation intention formation ('if situation X, then behavior Y') shows high completion rates (>80%). Neuroimaging reveals appropriate rostral prefrontal activation during intention maintenance. Diary studies confirm reliable spontaneous retrieval of intentions without external prompting.
+  clinical_description: Assessment through prospective memory questionnaires and diary methods shows >90% completion of intended recovery activities. Patients successfully use implementation intentions for high-risk situations. Interventions include mental contrasting to strengthen intention encoding, visualization of intention execution, and strategic use of environmental cues. Training in if-then planning improves automatic intention retrieval.
+  lay_description: You reliably remember to do what you planned - taking medications, attending meetings, calling your sponsor, and using coping strategies when needed. Your brain acts like a reliable alarm system, reminding you of recovery tasks at the right times.
+  core_components:
+  - Time-based prospective memory
+  - Event-based prospective memory
+  - Intention formation strength
+  - Spontaneous retrieval processes
+  associated_processes:
+  - Consistent medication adherence
+  - Meeting attendance reliability
+  - Coping strategy implementation
+  - Self-care routine execution
+- id: psy-cog-mem-pro-mal
+  label: Impaired Prospective Memory
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Prospective memory failures
+  - Intention forgetting
+  - Implementation deficits
+  scope: Represents impaired prospective memory with frequent forgetting of recovery-related intentions, leading to missed treatment activities, medication non-adherence, and failure to implement coping strategies.
+  parent_scope_inheritance: Specifies the prospective memory component of memory processing, focusing on deficits in remembering and executing future intentions that compromise recovery engagement and relapse prevention.
+  polarity_expression: Manifests as missed appointments, forgotten medications, failure to implement coping plans during high-risk situations, and inconsistent self-care routines despite good intentions.
+  cross_domain_resonance: Resonates with psy-cog-exe-mal through planning failures, soc-com-eng-fra through broken community commitments, and exi-gro-dev-dir through inconsistent growth efforts.
+  academic_description: Prospective memory impairments affect both time-based and event-based intentions, with completion rates <50% in naturalistic settings. Implementation intentions show weak encoding and poor cue-intention associations. Neuroimaging reveals reduced rostral prefrontal activation and poor intention maintenance. These deficits correlate with relapse risk and treatment dropout independent of motivation.
+  clinical_description: Assessment reveals <60% completion of intended recovery activities on diary measures, frequent missed appointments, and poor medication adherence (<80%). Patients report good intentions but consistent forgetting. Interventions include external reminders (alarms, apps), routine establishment to reduce memory load, and intensive implementation intention training with visualization. Environmental modifications create unavoidable cues.
+  lay_description: Despite your best intentions, you keep forgetting important recovery activities - missing medications, appointments, or forgetting to use coping skills when stressed. It's like your brain's reminder system is broken, leaving you vulnerable when you need support most.
+  core_components:
+  - Time-based memory failures
+  - Event-based memory lapses
+  - Weak intention encoding
+  - Poor spontaneous retrieval
+  associated_processes:
+  - Missed appointments
+  - Medication non-adherence
+  - Forgotten coping strategies
+  - Inconsistent self-care
+- id: psy-cog-mem-epi-ada
+  label: Balanced Episodic Recall
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Accurate consequence memory
+  - Realistic drug memories
+  - Balanced autobiographical recall
+  scope: Represents balanced episodic memory with accurate recall of both positive and negative drug-related experiences, supporting realistic appraisal of consequences and vivid construction of positive recovery futures.
+  parent_scope_inheritance: Specifies the episodic memory component of memory processing, focusing on balanced recall of personal experiences that maintains realistic perspectives on drug use and recovery.
+  polarity_expression: Manifests as accurate recall of negative consequences, realistic (non-romanticized) drug memories, vivid episodic future thinking about recovery, and integrated autobiographical narratives.
+  cross_domain_resonance: Resonates with psy-emo-reg-ada through emotional memory integration, exi-tem-pre-pur through temporal perspective, and soc-ide-sel-coh through coherent self-narrative.
+  academic_description: Balanced episodic memory shows equivalent recall for positive and negative drug-related experiences without euphoric recall bias. Episodic future thinking generates detailed, specific recovery scenarios with high phenomenological richness. Autobiographical memory specificity is preserved, avoiding overgeneral memory patterns. Memory narratives integrate both addiction and recovery experiences coherently.
+  clinical_description: Assessment shows balanced recall of consequences on structured interviews, specific (not overgeneral) autobiographical memories, and rich episodic future thinking about recovery. Interventions include episodic future thinking training to enhance recovery imagery, memory specificity training to combat overgeneralization, and narrative therapy to integrate addiction experiences. Video self-confrontation provides objective memory anchors.
+  lay_description: You remember your past drug use realistically - both what felt good and all the damage it caused. You can vividly imagine positive futures in recovery, and your life story makes sense as a journey through addiction toward healing.
+  core_components:
+  - Accurate consequence recall
+  - Realistic drug memories
+  - Vivid future episodes
+  - Integrated life narrative
+  associated_processes:
+  - Balanced memory valence
+  - Specific autobiographical recall
+  - Rich future simulation
+  - Coherent self-story
+- id: psy-cog-mem-epi-mal
+  label: Biased Episodic Recall
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Euphoric recall bias
+  - Romanticized drug memories
+  - Consequence minimization
+  scope: Represents biased episodic memory with preferential recall of positive drug experiences while minimizing negative consequences, maintaining unrealistic appraisals that increase relapse vulnerability.
+  parent_scope_inheritance: Specifies the episodic memory component of memory processing, focusing on recall biases that distort personal drug-related experiences and impair realistic decision-making about recovery.
+  polarity_expression: Manifests as romanticized drug memories, fading affect for negative consequences, poor episodic future thinking about recovery, and fragmented autobiographical narratives.
+  cross_domain_resonance: Resonates with psy-emo-reg-mal through emotional memory distortion, exi-tem-pre-dir through temporal myopia, and soc-ide-sel-fra through incoherent self-narrative.
+  academic_description: Euphoric recall bias shows 2-3x stronger recall for positive versus negative drug experiences. Fading affect bias accelerates forgetting of negative consequences while preserving euphoric memories. Episodic future thinking is impoverished, generating fewer and less detailed recovery scenarios. Overgeneral memory style prevents specific consequence recall. These biases predict craving intensity and relapse risk.
+  clinical_description: Assessment reveals disproportionate recall of positive drug memories, minimization of consequences, and vague overgeneral memories when prompted for specifics. Patients struggle to generate detailed recovery futures. Interventions include structured consequence review with photographic evidence, memory reconsolidation protocols to update euphoric memories, and intensive episodic future thinking training. Cognitive restructuring challenges romanticized narratives.
+  lay_description: Your memory plays tricks on you - the good times using seem vivid and appealing while the pain and consequences fade into a blur. You struggle to imagine a positive future without drugs, and your past use takes on a romanticized glow that doesn't match reality.
+  core_components:
+  - Euphoric recall dominance
+  - Consequence minimization
+  - Impoverished future thinking
+  - Fragmented narrative
+  associated_processes:
+  - Selective positive recall
+  - Overgeneral memory style
+  - Poor future simulation
+  - Narrative incoherence
+- id: psy-cog-mem-rec-ada
+  label: Flexible Memory Updating
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Successful reconsolidation
+  - Adaptive memory modification
+  - Memory flexibility
+  scope: Represents flexible memory reconsolidation with successful updating of drug-related memories to incorporate new learning, weakening maladaptive associations and strengthening recovery-supportive memory networks.
+  parent_scope_inheritance: Specifies the memory reconsolidation component of memory processing, focusing on the adaptive updating of existing memories when reactivated, allowing for modification of drug-related memory traces.
+  polarity_expression: Manifests as successful incorporation of new information into drug memories, updated cue-outcome expectations, integration of recovery successes into self-concept, and modified emotional tags on drug memories.
+  cross_domain_resonance: Resonates with phy-neu-pla-reg through synaptic plasticity, psy-cog-lea-ada through new learning integration, and exi-tra-res-pur through memory transformation.
+  academic_description: Flexible reconsolidation shows successful memory updating during the reconsolidation window (6 hours post-retrieval). Prediction error signals trigger memory destabilization, allowing incorporation of new information. Updated memories show reduced emotional intensity and modified cue-outcome associations. Behavioral and neural markers confirm successful reconsolidation with altered memory traces persisting long-term.
+  clinical_description: Assessment shows successful updating of drug expectations after prediction error experiences, reduced emotional intensity of drug memories after reconsolidation interventions. Treatments include retrieval-extinction protocols presenting drug cues followed by unexpected neutral outcomes, propranolol administration during memory retrieval, and cognitive interventions during reconsolidation windows. Success measured by reduced craving and altered memory content.
+  lay_description: Your drug-related memories aren't set in stone - when recalled, they become temporarily changeable, allowing new experiences to update old patterns. Recovery successes can literally rewrite your addiction story, weakening the pull of old memories.
+  core_components:
+  - Memory destabilization capacity
+  - Prediction error sensitivity
+  - Update incorporation
+  - Reconsolidation completion
+  associated_processes:
+  - Expectation updating
+  - Emotional memory modification
+  - Association weakening
+  - Memory trace revision
+- id: psy-cog-mem-rec-mal
+  label: Rigid Memory Persistence
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Memory Processing
+  cluster_id: psy-cog-mem
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Resistant reconsolidation
+  - Fixed memory traces
+  - Memory inflexibility
+  scope: Represents rigid memory reconsolidation with resistance to updating drug-related memories, maintaining fixed maladaptive associations and expectations despite contradictory experiences.
+  parent_scope_inheritance: Specifies the memory reconsolidation component of memory processing, focusing on the pathological persistence of drug-related memories that resist modification even when reactivated.
+  polarity_expression: Manifests as persistent drug-reward associations despite negative experiences, unchanged cue-outcome expectations after disconfirmation, resistance to memory-based interventions, and fixed emotional memory intensity.
+  cross_domain_resonance: Resonates with phy-neu-pla-dys through impaired plasticity, psy-cog-lea-mal through learning resistance, and exi-tra-res-dir through inability to transform experiences.
+  academic_description: Resistant reconsolidation shows failure to destabilize memories despite retrieval, with memories returning to original strength within hours. Reduced sensitivity to prediction error prevents updating. Overconsolidation creates resistant memory traces immune to modification. Strong memories (through repeated use) show boundary conditions preventing reconsolidation. These rigid memories maintain addiction despite accumulating negative evidence.
+  clinical_description: Assessment reveals unchanged drug expectations despite disconfirming experiences, persistent craving intensity after retrieval-extinction protocols, and failed response to reconsolidation-based interventions. Patients report feeling trapped by unchangeable memories. Interventions require intensive protocols - prolonged extinction training (20+ sessions), pharmacological augmentation with D-cycloserine, or novel approaches like optogenetic-inspired brain stimulation protocols.
+  lay_description: Your drug memories feel carved in stone - no matter what you learn or experience, those old associations and cravings remain just as strong. It's like your brain refuses to update its files, keeping you stuck in old patterns despite new evidence.
+  core_components:
+  - Reconsolidation resistance
+  - Prediction error insensitivity
+  - Update failure
+  - Memory overconsolidation
+  associated_processes:
+  - Fixed expectations
+  - Persistent emotional memories
+  - Unchanging associations
+  - Memory trace rigidity

@@ -1,0 +1,124 @@
+# Generated clusters for field: PSY-BEH
+# Timestamp: 20251102_194805
+
+clusters:
+- id: psy-beh-con
+  label: Conditioning Systems
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  synonyms:
+  - Associative learning
+  - Reinforcement learning
+  - Stimulus-response learning
+  - Classical conditioning
+  - Operant conditioning
+  scope: Classical and operant conditioning mechanisms establishing and maintaining drug-related behaviors through reinforcement, punishment, and stimulus-response associations. Includes conditioned cues, reinforcement schedules, extinction, and reconditioning processes.
+  parent_scope_inheritance: Specifies the behavioral field's conditioned responses and reinforcement learning to focus on associative learning mechanisms that establish and maintain drug-related behaviors.
+  polarity_dimension: Flexibility and appropriateness of learned associations - adaptive conditioning shows flexible learning from consequences versus maladaptive conditioning showing pathological associations resistant to extinction.
+  emergence: Complex reinforcement schedules emerge from simple contingencies. Conditioned tolerance and withdrawal develop through compensatory conditioning. Higher-order conditioning creates elaborate cue networks.
+  boundary_interfaces:
+  - Conditioning-habit interface where repeated conditioning establishes automatic habits
+  - Conditioning-approach interface where reinforcement shapes behavioral direction
+  - Conditioning-chain interface where individual conditioned responses link into sequences
+  child_generation_role: You are a conditioning specialist focusing on associative learning in addiction. You analyze classical conditioning of drug cues, operant reinforcement schedules, extinction learning, and reconditioning processes. You distinguish between adaptive conditioning showing flexible learning from consequences and appropriate extinction versus maladaptive conditioning showing resistance to extinction, incubation of craving, and pathological reinforcement sensitivity. You apply Pavlovian-instrumental transfer theory and analyze discriminative stimuli, conditioned reinforcers, and schedule-induced behaviors.
+  academic_description: Conditioning systems encompass classical and operant learning mechanisms fundamental to addiction. Classical conditioning creates powerful associations between environmental cues and drug responses, establishing conditioned craving and withdrawal. Operant conditioning maintains drug-taking through positive reinforcement (euphoria) and negative reinforcement (withdrawal relief), following variable ratio schedules that resist extinction. Pavlovian-instrumental transfer demonstrates how conditioned cues energize instrumental drug-seeking. Extinction learning is impaired in addiction, with spontaneous recovery and renewal effects maintaining conditioned responses. Reconditioning occurs rapidly after abstinence, showing savings in reacquisition.
+  clinical_description: Conditioning interventions target learned associations maintaining addiction. Contingency management applies operant principles, providing tangible reinforcers for verified abstinence to strengthen recovery behaviors. Cue exposure therapy promotes extinction of conditioned craving through repeated unreinforced exposure to drug cues. Counterconditioning pairs drug cues with aversive outcomes or incompatible responses. Discrimination training helps distinguish safe from risky contexts. Extinction enhancement techniques like retrieval-extinction procedures strengthen inhibitory learning. Understanding individual reinforcement histories guides personalized intervention selection.
+  lay_description: Conditioning is how your brain learns to connect drugs with specific triggers. Through repetition, you learn that certain places, people, or feelings predict drug availability, creating powerful cravings when you encounter these cues. Your brain also learns that using drugs brings immediate relief or pleasure, strengthening the urge to use again. Recovery involves unlearning these connections - repeatedly experiencing triggers without using weakens their power. New learning can override old patterns, like earning rewards for staying clean or associating triggers with recovery activities instead of use.
+- id: psy-beh-hab
+  label: Habit Formation
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  synonyms:
+  - Automatic behaviors
+  - Habitual responses
+  - Routine behaviors
+  - Overlearned actions
+  - Stimulus-driven behaviors
+  scope: Automatic behavioral sequences operating without conscious intention or outcome evaluation. Includes transition from goal-directed to habitual control, context-dependent automaticity, habit strength, and disruption of maladaptive habits.
+  parent_scope_inheritance: Specifies the behavioral field's habits and automatic patterns to focus on stimulus-driven behaviors that operate independently of their consequences.
+  polarity_dimension: Behavioral flexibility and goal-alignment - adaptive habits support recovery routines and healthy behaviors versus maladaptive habits driving automatic drug-seeking despite negative consequences.
+  emergence: Habit systems create behavioral efficiency through automaticity. Contextual control emerges where environments trigger entire behavioral sequences. Habit competition occurs between old drug habits and new recovery habits.
+  boundary_interfaces:
+  - Habit-conditioning interface where repeated reinforcement creates automatic responses
+  - Habit-compulsive interface where habits become inflexible and resistant to change
+  - Habit-chain interface where habitual units combine into longer sequences
+  child_generation_role: You are a habit formation specialist examining automatic behavioral routines in addiction. You analyze stimulus-response habits, context-dependent automaticity, habit strength, and the goal-directed to habitual transition. You distinguish between adaptive habits supporting recovery routines and healthy behaviors versus maladaptive habits driving automatic drug-seeking despite negative consequences. You apply dual-process theories of habitual versus goal-directed control and examine implementation intentions, habit reversal, and behavioral substitution strategies.
+  academic_description: Habit formation involves the transition from goal-directed to stimulus-response control, mediated by corticostriatal circuits shifting from ventral to dorsal dominance. Drug use becomes habitual through extensive training, operating automatically in response to contextual cues regardless of outcome devaluation. Habits show resistance to extinction and rapid reinstatement. Context-dependent automaticity means environmental cues directly trigger behavioral sequences without deliberation. Habit strength depends on repetition frequency, consistency, and reward history. Competition exists between habitual drug-seeking and newly forming recovery habits, with relapse often reflecting default to stronger drug habits under stress or cognitive load.
+  clinical_description: Habit interventions disrupt automatic drug behaviors while building recovery habits. Habit reversal training identifies habit triggers and warning signs, then implements competing responses. Implementation intentions create if-then plans linking specific cues to recovery behaviors. Environmental restructuring removes habit triggers or adds friction to automatic sequences. Mindfulness-based approaches increase awareness of automatic patterns. Behavioral substitution replaces drug habits with healthier automatic responses to the same cues. Habit stacking links new recovery behaviors to existing routines. Consistent repetition in stable contexts builds habit strength for recovery behaviors.
+  lay_description: Habits are behaviors you do automatically without thinking. In addiction, drug use becomes so routine that you find yourself using without consciously deciding to - your hand reaches for a drink, or you're buying drugs on autopilot. These habits are triggered by specific contexts like getting home from work or feeling stressed. Breaking habits requires conscious effort initially, like taking a different route home or immediately doing something else when triggers arise. Building new healthy habits means consistently repeating recovery behaviors in the same contexts until they become as automatic as the old drug habits were.
+- id: psy-beh-app
+  label: Approach-Avoidance
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  synonyms:
+  - Behavioral activation
+  - Behavioral inhibition
+  - Appetitive behavior
+  - Avoidance behavior
+  - Approach bias
+  scope: Behavioral activation toward rewards and inhibition/avoidance of aversive stimuli. Includes drug approach behaviors, natural reward pursuit, avoidance patterns, approach-avoidance conflicts, and behavioral activation interventions.
+  parent_scope_inheritance: Specifies the behavioral field's activation and inhibition patterns to focus on directional behaviors toward or away from stimuli.
+  polarity_dimension: Balance and appropriateness of behavioral activation - adaptive approach-avoidance shows balanced pursuit of healthy goals versus maladaptive patterns showing excessive drug approach and diminished natural reward pursuit.
+  emergence: Approach-avoidance conflicts create behavioral ambivalence. Behavioral momentum develops where approach tendencies override inhibition. Response competition emerges between drug and natural reward pursuit.
+  boundary_interfaces:
+  - Approach-conditioning interface where reinforcement shapes approach tendencies
+  - Approach-compulsive interface where approach becomes inflexible
+  - Approach-chain interface where approach behaviors initiate behavioral sequences
+  child_generation_role: You are an approach-avoidance specialist analyzing behavioral activation and inhibition systems. You examine drug approach behaviors, natural reward approach deficits, avoidance of withdrawal states, and approach-avoidance conflicts. You distinguish between adaptive approach-avoidance showing balanced pursuit of healthy goals and appropriate threat avoidance versus maladaptive patterns showing excessive drug approach, diminished natural reward pursuit, and pathological avoidance. You apply behavioral activation theory and analyze response competition, behavioral momentum, and approach bias modification.
+  academic_description: Approach-avoidance systems regulate behavioral direction based on motivational significance. The behavioral activation system (BAS) drives approach toward rewards, while the behavioral inhibition system (BIS) promotes avoidance of threats. In addiction, drug cues trigger excessive approach activation while natural rewards elicit diminished approach. Approach bias develops where drug stimuli automatically elicit approach tendencies measured by tasks like the approach-avoidance task. Behavioral momentum theory explains how approach behaviors become difficult to stop once initiated. Approach-avoidance conflicts arise when drugs simultaneously elicit approach (for effects) and avoidance (of consequences), creating ambivalence.
+  clinical_description: Approach-avoidance interventions rebalance behavioral activation patterns. Behavioral activation therapy schedules pleasant and meaningful activities to increase natural reward approach. Approach bias modification training uses computerized tasks to retrain automatic approach tendencies away from drug cues toward neutral or positive stimuli. Exposure exercises reduce avoidance of challenging but important situations. Values clarification guides approach toward personally meaningful goals. Activity monitoring identifies patterns of excessive drug approach and natural reward avoidance. Behavioral experiments test predictions about approach-avoidance outcomes.
+  lay_description: Approach and avoidance are about what you move toward or away from. In addiction, you're strongly drawn toward drugs while losing interest in other rewarding activities like hobbies or relationships. You might avoid situations that don't involve drugs or dodge responsibilities that interfere with using. Recovery means rebalancing - reducing the automatic pull toward drugs while rekindling interest in natural pleasures. This involves scheduling enjoyable sober activities, facing avoided situations gradually, and practicing moving toward healthy goals even when the pull toward drugs feels strong.
+- id: psy-beh-com
+  label: Compulsive Patterns
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  synonyms:
+  - Compulsive behaviors
+  - Perseverative responses
+  - Inflexible behaviors
+  - Repetitive actions
+  - Behavioral rigidity
+  scope: Repetitive, inflexible behaviors persisting despite negative consequences. Includes compulsive drug-seeking, behavioral perseveration, loss of voluntary control, and interventions targeting behavioral flexibility.
+  parent_scope_inheritance: Specifies the behavioral field's compulsive use patterns to focus on inflexible, repetitive behaviors resistant to negative feedback.
+  polarity_dimension: Behavioral flexibility and voluntary control - adaptive repetition supports consistent recovery behaviors versus maladaptive compulsion showing inflexible drug-seeking and loss of inhibitory control.
+  emergence: Compulsive systems show behavioral rigidity where actions become disconnected from outcomes. Perseveration emerges despite punishment. Behavioral inflexibility prevents adaptive responding to changing contingencies.
+  boundary_interfaces:
+  - Compulsive-habit interface where habits become inflexible and maladaptive
+  - Compulsive-approach interface where approach becomes compulsive
+  - Compulsive-chain interface where behavioral sequences become rigid
+  child_generation_role: You are a compulsivity specialist examining repetitive and inflexible behavioral patterns. You analyze perseverative drug-seeking, behavioral inflexibility, compulsive rituals, and loss of voluntary control. You distinguish between adaptive repetition supporting consistent recovery behaviors and healthy routines versus maladaptive compulsion showing inflexible drug-seeking despite negative consequences and inability to inhibit harmful behaviors. You apply compulsivity frameworks examining behavioral rigidity, cognitive inflexibility, and analyze response prevention and behavioral flexibility interventions.
+  academic_description: Compulsive patterns reflect loss of behavioral flexibility and voluntary control. Perseveration continues despite negative consequences, showing insensitivity to outcome devaluation and punishment. Behavioral rigidity prevents shifting between response strategies when contingencies change. Compulsivity involves imbalance between goal-directed and habitual systems, with excessive habitual control. Response inhibition deficits prevent stopping initiated behaviors. Compulsive behaviors show features of behavioral addiction including tolerance (need for escalation), withdrawal (distress when prevented), and continued engagement despite harm. Neural mechanisms involve orbitofrontal-striatal dysfunction affecting behavioral control.
+  clinical_description: Compulsivity interventions restore behavioral flexibility and voluntary control. Response prevention blocks compulsive behaviors at critical points, allowing urges to subside without action. Competing response training substitutes alternative behaviors when compulsive urges arise. Behavioral flexibility training uses set-shifting exercises and contingency reversal tasks. Exposure and response prevention combines cue exposure with prevention of compulsive responses. Mindful awareness of compulsive urges without action builds tolerance for discomfort. Stimulus control modifies environments to reduce compulsive behavior opportunities. Behavioral contracts specify limits on compulsive behaviors with accountability measures.
+  lay_description: Compulsive behaviors feel impossible to resist even when you know they're harmful. You might find yourself unable to stop once you start using, or engaging in elaborate rituals around drug use that must be completed. The behavior continues automatically despite negative consequences - lost jobs, damaged relationships, health problems don't stop the compulsion. Recovery involves learning to interrupt these compulsive patterns, sitting with the discomfort of not completing them, and gradually building flexibility to choose different responses. It's about regaining voluntary control over behaviors that have become involuntary.
+- id: psy-beh-cha
+  label: Behavioral Chains
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  synonyms:
+  - Action sequences
+  - Behavioral sequences
+  - Response chains
+  - Sequential behaviors
+  - Linked behaviors
+  scope: Sequential action patterns where behaviors link in predictable sequences. Includes drug-use behavioral chains, chain analysis, weak link identification, and development of alternative behavioral sequences.
+  parent_scope_inheritance: Specifies the behavioral field's behavioral chains to focus on sequential patterns where one action triggers the next in predictable progressions.
+  polarity_dimension: Chain functionality and outcome direction - adaptive chains support recovery activities and positive outcomes versus maladaptive chains leading inevitably to substance use.
+  emergence: Behavioral chains show momentum effects where early links make completion increasingly likely. Cascade effects occur where chain disruption affects multiple downstream behaviors. Chain flexibility allows adaptive modification of sequences.
+  boundary_interfaces:
+  - Chain-conditioning interface where individual links are conditioned responses
+  - Chain-habit interface where chains become automatic through repetition
+  - Chain-compulsive interface where chains become rigid and inflexible
+  child_generation_role: You are a behavioral chain analyst specializing in sequential action patterns. You examine drug-use behavioral sequences, chain links and triggers, momentum effects, and chain disruption points. You distinguish between adaptive chains supporting recovery activities and goal achievement versus maladaptive chains inevitably leading to substance use through predictable sequences. You apply functional analysis to identify chain components, weak links for intervention, and develop alternative behavioral sequences using chain analysis methodology.
+  academic_description: Behavioral chains consist of discriminative stimuli and responses linked sequentially where each response produces the discriminative stimulus for the next. Forward chaining builds sequences from beginning to end while backward chaining works from outcome backward. Chain momentum increases completion probability as sequences progress. Weak links represent vulnerable points for chain disruption. Chains show contextual control where specific environments trigger entire sequences. Behavioral cusp effects occur where mastering certain chain components enables multiple new behavioral possibilities. Chains become unitized through repetition, operating as single functional units. Interruption creates frustration effects motivating chain completion.
+  clinical_description: Chain analysis interventions map and modify behavioral sequences leading to use. Functional chain analysis identifies all links from trigger to use, examining thoughts, feelings, and actions at each step. Weak link intervention targets the earliest or most modifiable point for disruption. Alternative chain development creates new sequences leading to positive outcomes using the same initial triggers. Chain interruption techniques include urge surfing, distraction, and incompatible behaviors at critical points. Backward chaining helps build recovery sequences by starting with desired outcomes. Environmental modification removes early chain triggers or adds friction at key links.
+  lay_description: Behavioral chains are like dominoes - one action automatically triggers the next until you end up using. The chain might start with seeing a certain friend's name on your phone, leading to answering, making plans, going to their place, and inevitably using together. Each step makes the next more likely. Recovery involves mapping out these chains to identify where you can interrupt them - maybe by not answering that call, or having an automatic alternative plan. You can also build new positive chains, where the same trigger starts a sequence leading to recovery activities instead of use.

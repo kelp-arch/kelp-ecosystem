@@ -1,0 +1,284 @@
+# Generated anchors for cluster: PSY-EMO-TOL
+# Timestamp: 20251103_172122
+
+anchors:
+- id: psy-emo-tol-cap-ada
+  label: High Distress Tolerance Capacity
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Distress Tolerance
+  cluster_id: psy-emo-tol
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - High emotional endurance
+  - Strong affect tolerance
+  - Robust distress capacity
+  scope: Represents strong capacity to withstand both intense and prolonged emotional discomfort without breaking down or resorting to escape behaviors. Includes high tolerance thresholds for emotional intensity, ability to persist through extended periods of distress, and maintenance of cognitive-behavioral control despite strong negative affect.
+  parent_scope_inheritance: Specifies the raw capacity dimension of distress tolerance - the fundamental ability to withstand emotional intensity and duration before reaching breaking point, distinct from acceptance strategies or specific coping skills.
+  polarity_expression: Manifests as adaptive persistence through emotional discomfort with strong prefrontal inhibition of escape urges, wide window of tolerance for arousal, and ability to delay gratification despite distress.
+  cross_domain_resonance: Resonates with phy-neu-str-reg (effective stress response), soc-rel-att-coh (secure attachment providing co-regulation), and exi-gro-res-pur (resilient growth through adversity).
+  academic_description: High distress tolerance capacity reflects robust prefrontal cortical regulation of limbic escape drives, allowing sustained exposure to aversive internal states. Research shows strong inverse correlation with addiction severity, as individuals can withstand negative affect without immediate relief-seeking. Neuroimaging reveals enhanced anterior cingulate cortex activation during distress, indicating effective conflict monitoring between discomfort and goals. Window of tolerance theory suggests optimal arousal zones where emotional processing occurs without dysregulation. Simons and Gaher's model emphasizes tolerance as perceived ability to withstand distress, predicting lower substance use and better treatment outcomes.
+  clinical_description: Clients with high distress tolerance capacity can sit with intense cravings, anxiety, or sadness without immediately acting to escape. They demonstrate ability to use urge surfing techniques effectively, riding out waves of discomfort. Assessment through Distress Tolerance Scale shows high scores on tolerance and absorption subscales. These individuals benefit from advanced emotion exposure work and can engage in trauma processing without destabilization. They maintain therapeutic gains because they can tolerate the temporary increase in distress that comes with behavior change. Interventions focus on maintaining and generalizing this capacity across contexts.
+  lay_description: This is like having strong emotional muscles - you can handle intense feelings without falling apart or running away. When cravings hit or anxiety spikes, you're able to say 'this is uncomfortable but I can handle it' and wait for the feeling to pass. You don't panic at the first sign of emotional pain. It's similar to physical fitness - someone who's trained can run further without stopping, and you can endure emotional discomfort longer without needing immediate relief.
+  core_components:
+  - Prefrontal inhibitory control
+  - Wide window of tolerance
+  - Distress threshold capacity
+  - Temporal persistence ability
+  associated_processes:
+  - Delayed gratification
+  - Urge surfing
+  - Emotional endurance
+  - Craving tolerance
+  prominent_models:
+  - Simons & Gaher Distress Tolerance Model
+  - Window of Tolerance Theory
+  - Gross's Process Model (reappraisal capacity)
+- id: psy-emo-tol-cap-mal
+  label: Low Distress Tolerance Capacity
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Distress Tolerance
+  cluster_id: psy-emo-tol
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Distress intolerance
+  - Low frustration tolerance
+  - Emotional fragility
+  scope: Represents minimal capacity to withstand emotional discomfort, with low thresholds for both intensity and duration of negative affect. Includes immediate overwhelm at minor distress, inability to persist through emotional challenges, and rapid breakdown of cognitive-behavioral control when faced with negative emotions.
+  parent_scope_inheritance: Specifies the impaired capacity dimension of distress tolerance - the fundamental inability to withstand even mild emotional discomfort before resorting to escape behaviors, distinct from avoidance strategies or lack of skills.
+  polarity_expression: Manifests as maladaptive intolerance with weak prefrontal control, narrow window of tolerance, hyperactive escape circuits, and immediate need for relief from any emotional discomfort.
+  cross_domain_resonance: Resonates with phy-neu-str-dys (dysregulated stress response), soc-rel-att-fra (insecure attachment lacking co-regulation), and exi-gro-res-dir (stunted growth due to avoidance).
+  academic_description: Low distress tolerance capacity reflects insufficient prefrontal regulation of limbic urgency, creating hypersensitivity to aversive internal states. Strong predictor of substance use initiation, escalation, and relapse. Neuroimaging shows reduced anterior cingulate and increased amygdala activation during distress. Narrow window of tolerance means quick shifts to hyper- or hypoarousal. Zvolensky's work links distress intolerance to addiction maintenance through negative reinforcement cycles. Low tolerance creates vulnerability to any emotional trigger, as even mild discomfort exceeds capacity. This deficit often stems from developmental trauma or chronic stress exposure that prevented tolerance building.
+  clinical_description: Clients with low distress tolerance cannot sit with even mild discomfort without immediate escape attempts. Minimal frustration triggers substance use, self-harm, or dissociation. Distress Tolerance Scale shows low scores across all subscales. These individuals require extensive stabilization before any exposure work. Initial interventions focus on building basic capacity through graduated micro-exposures and heavy skill front-loading. Crisis planning essential as any emotional activation risks relapse. Pharmacological support often needed initially to widen window of tolerance. Progress measured in seconds of tolerance rather than minutes.
+  lay_description: This is like having no emotional strength at all - the slightest discomfort feels unbearable and you have to make it stop immediately. A minor worry feels like panic, small frustrations feel like rage, and any sadness feels like drowning. You're constantly putting out emotional fires because everything feels like an emergency. It's like someone who never exercised trying to run - they're gasping for air after a few steps while others can go for miles.
+  core_components:
+  - Prefrontal underactivation
+  - Narrow window of tolerance
+  - Minimal distress threshold
+  - Immediate escape urgency
+  associated_processes:
+  - Immediate gratification need
+  - Escape behaviors
+  - Emotional overwhelm
+  - Intolerance of uncertainty
+  prominent_models:
+  - Zvolensky's Distress Intolerance Model
+  - Negative Reinforcement Model of Addiction
+  - Developmental Trauma Impact Model
+- id: psy-emo-tol-acc-ada
+  label: Acceptance-Based Orientation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Distress Tolerance
+  cluster_id: psy-emo-tol
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Radical acceptance
+  - Emotional willingness
+  - Experiential openness
+  scope: Encompasses psychological flexibility and willingness to experience difficult emotions without resistance or avoidance. Includes radical acceptance of emotional reality, non-judgmental awareness of distress, and values-based action despite discomfort. Represents choosing to feel rather than flee.
+  parent_scope_inheritance: Specifies the acceptance-based coping aspect of distress tolerance - the willingness and psychological flexibility to experience emotions fully rather than avoiding or suppressing them.
+  polarity_expression: Manifests as adaptive openness through psychological flexibility, willingness to contact difficult emotions, radical acceptance practices, and reduced experiential avoidance leading to decreased suffering.
+  cross_domain_resonance: Resonates with exi-mea-acc-pur (existential acceptance of life conditions), psy-cog-fle-ada (cognitive flexibility), and soc-com-vul-coh (interpersonal vulnerability and authenticity).
+  academic_description: Acceptance orientation reflects psychological flexibility - the ability to contact present moment experience fully without needless defense. Hayes' ACT model emphasizes willingness as alternative to control agenda. Radical acceptance from DBT reduces suffering through acknowledging reality without approval. Research shows acceptance-based interventions reduce substance use by breaking avoidance patterns. Neurologically involves reduced default mode network activation and increased insula engagement, indicating present-moment awareness. Acceptance paradoxically reduces distress intensity through ceased resistance. Linehan distinguishes pain (unavoidable) from suffering (pain plus non-acceptance).
+  clinical_description: Clients with acceptance orientation practice radical acceptance of emotions without trying to change them. They demonstrate willingness to feel anxiety, sadness, or cravings as temporary experiences. Use mindfulness of current emotion to observe without judgment. These individuals can engage in values-based action despite discomfort. Interventions include ACT protocols for psychological flexibility, radical acceptance skills from DBT, and mindfulness practices. Assessment through Acceptance and Action Questionnaire shows high psychological flexibility. They understand emotions as weather passing through rather than permanent states.
+  lay_description: This is about making peace with difficult feelings instead of constantly fighting them. It's like learning to dance in the rain instead of always running for shelter. You recognize that emotions are temporary visitors, not permanent residents. When anxiety shows up, you say 'hello anxiety, you can stay but you can't drive.' This doesn't mean you like feeling bad, but you stop making it worse by fighting it. It's the difference between having pain versus suffering about having pain.
+  core_components:
+  - Psychological flexibility
+  - Radical acceptance
+  - Emotional willingness
+  - Present-moment contact
+  associated_processes:
+  - Mindful awareness
+  - Values-based action
+  - Non-judgmental stance
+  - Reduced resistance
+  prominent_models:
+  - Acceptance and Commitment Therapy (ACT)
+  - DBT Radical Acceptance Model
+  - Mindfulness-Based Relapse Prevention
+- id: psy-emo-tol-acc-mal
+  label: Avoidance-Based Orientation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Distress Tolerance
+  cluster_id: psy-emo-tol
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Experiential avoidance
+  - Emotional suppression
+  - Psychological inflexibility
+  scope: Encompasses rigid avoidance of emotional experience through suppression, distraction, or escape. Includes refusal to contact difficult emotions, constant attempts to control or eliminate distress, and fear-based avoidance of internal experience. Represents choosing numbness over feeling.
+  parent_scope_inheritance: Specifies the avoidance-based response to distress - the psychological inflexibility and experiential avoidance that prevents emotional contact and maintains suffering through resistance.
+  polarity_expression: Manifests as maladaptive avoidance through psychological rigidity, experiential avoidance patterns, emotional suppression strategies, and increased suffering through resistance to natural emotional flow.
+  cross_domain_resonance: Resonates with exi-mea-avo-dir (existential avoidance and meaninglessness), psy-cog-rig-mal (cognitive rigidity), and soc-com-gua-fra (interpersonal guardedness and isolation).
+  academic_description: Avoidance orientation reflects psychological inflexibility - rigid attempts to control or eliminate unwanted internal experiences. Hayes identifies experiential avoidance as core pathological process across disorders. Avoidance maintains addiction through negative reinforcement - substances provide escape from emotions. Suppression paradoxically increases distress intensity and frequency (Wegner's ironic process theory). Neurologically shows increased default mode network rumination and decreased insula awareness. Avoidance prevents habituation to emotional discomfort, maintaining fear. Creates vicious cycle where avoidance increases distress which increases avoidance need.
+  clinical_description: Clients with avoidance orientation refuse to feel emotions, using any means to escape or numb. Constant distraction, substance use, or dissociation when emotions arise. Acceptance and Action Questionnaire shows high experiential avoidance. These individuals fear emotions will overwhelm or destroy them. Initial interventions focus on psychoeducation about avoidance costs and gentle exposure. Creative hopelessness work shows control strategies haven't worked. Motivational interviewing explores ambivalence about feeling. Progress requires shifting from 'I can't feel this' to 'I choose not to feel this' to eventually 'I can feel this.'
+  lay_description: This is living life running from your own feelings, like being chased by your own shadow. You spend enormous energy trying not to feel - staying busy, using substances, or checking out mentally. Emotions feel like enemies to defeat rather than normal human experiences. It's like trying to hold beach balls underwater - exhausting and ultimately impossible. The more you push feelings away, the stronger they bounce back. You end up living a smaller and smaller life to avoid feeling bad.
+  core_components:
+  - Psychological rigidity
+  - Experiential avoidance
+  - Emotional suppression
+  - Control agenda
+  associated_processes:
+  - Emotional numbing
+  - Constant distraction
+  - Fear of feelings
+  - Resistance patterns
+  prominent_models:
+  - Experiential Avoidance Model
+  - Ironic Process Theory
+  - Emotional Avoidance in PTSD Model
+- id: psy-emo-tol-cri-ada
+  label: Effective Crisis Management
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Distress Tolerance
+  cluster_id: psy-emo-tol
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Crisis survival skills
+  - Acute distress management
+  - Emergency coping repertoire
+  scope: Represents effective management of acute emotional crises through skillful coping without harmful behaviors. Includes rapid deployment of crisis survival techniques, appropriate self-soothing, help-seeking when needed, and riding out intense distress without relapse or self-harm.
+  parent_scope_inheritance: Specifies the crisis survival skills component of distress tolerance - the ability to navigate acute emotional emergencies using effective coping strategies rather than destructive behaviors.
+  polarity_expression: Manifests as adaptive crisis response through effective skill deployment, self-soothing without avoidance, appropriate support utilization, and maintaining safety during emotional emergencies.
+  cross_domain_resonance: Resonates with phy-aut-reg-reg (autonomic regulation during crisis), psy-exe-inh-ada (behavioral inhibition of harmful impulses), and soc-sup-cri-coh (effective use of social support in crisis).
+  academic_description: Effective crisis management involves rapid implementation of evidence-based coping strategies during acute distress. DBT's TIPP skills (Temperature, Intense exercise, Paced breathing, Paired muscle relaxation) provide immediate physiological regulation. Self-soothing through five senses offers comfort without avoidance. Distraction techniques provide temporary relief while maintaining commitment to recovery. Research shows crisis skills prevent relapse and self-harm during high-risk periods. Neurologically involves rapid prefrontal override of limbic urgency. Crisis plans that specify concrete steps reduce cognitive load during overwhelm. Skills become automatic through repeated practice, creating new neural pathways for crisis response.
+  clinical_description: Clients with effective crisis management have well-rehearsed crisis survival plans they implement automatically. They use TIPP skills to rapidly reduce arousal, self-soothe appropriately, and reach out for support without shame. Crisis plans include specific steps, support contacts, and reasons for living. These individuals can identify early warning signs and implement skills before full crisis. They understand crisis as temporary and survivable. Interventions include crisis survival skill training, safety planning, distress tolerance modules, and crisis rehearsal. Regular skill practice during non-crisis times builds automaticity. Success measured by navigating high-risk situations without relapse or self-harm.
+  lay_description: This is having an emergency toolkit ready when emotional storms hit. Like knowing exactly what to do in a fire - you don't panic, you follow your practiced plan. You might splash cold water on your face, do jumping jacks, or call your sponsor. You have specific things that help you ride out the worst moments without doing something you'll regret. It's like being a skilled sailor who can navigate through a storm because they've prepared and practiced for rough weather.
+  core_components:
+  - TIPP skill proficiency
+  - Self-soothing repertoire
+  - Crisis plan activation
+  - Support utilization
+  associated_processes:
+  - Rapid arousal reduction
+  - Distress tolerance skills
+  - Safety maintenance
+  - Help-seeking behavior
+  prominent_models:
+  - DBT Crisis Survival Model
+  - Safety Planning Intervention
+  - Brief Crisis Intervention Model
+- id: psy-emo-tol-cri-mal
+  label: Ineffective Crisis Management
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Distress Tolerance
+  cluster_id: psy-emo-tol
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Crisis skill deficit
+  - Destructive crisis response
+  - Emergency coping failure
+  scope: Represents inability to manage acute emotional crises, resulting in harmful behaviors and escalation. Includes absence of crisis skills, immediate resort to substances or self-harm, panic responses, and inability to access support during emotional emergencies.
+  parent_scope_inheritance: Specifies the crisis skill deficit aspect of distress tolerance - the absence of effective emergency coping strategies, leading to destructive behaviors during acute distress.
+  polarity_expression: Manifests as maladaptive crisis response through lack of coping skills, immediate destructive behaviors, panic or dissociation, and crisis escalation rather than resolution.
+  cross_domain_resonance: Resonates with phy-aut-reg-dys (autonomic dysregulation in crisis), psy-exe-inh-mal (disinhibited harmful behaviors), and soc-sup-cri-fra (inability to access support in crisis).
+  academic_description: Ineffective crisis management reflects absence of adaptive coping repertoire during acute distress. Without skills, individuals default to maladaptive strategies - substance use provides fastest relief, self-harm regulates overwhelming emotions, dissociation offers escape. Panic response involves amygdala hijack with minimal prefrontal involvement. Lack of crisis planning means cognitive overload during distress, impairing problem-solving. Research shows crisis skill deficits predict relapse, self-harm, and suicide attempts. Destructive behaviors become reinforced through immediate relief. Crisis incompetence often stems from invalidating environments that didn't teach distress tolerance.
+  clinical_description: Clients with ineffective crisis management immediately use substances, self-harm, or dissociate when distressed. No crisis plan or skills to implement. Emotional crises lead to emergency room visits, relapses, or dangerous behaviors. These individuals require 24/7 support initially and intensive skill building. Interventions start with basic safety planning and harm reduction. Crisis coaching provides in-the-moment skill prompting. Gradual skill building during calm states prepares for future crises. Chain analysis of crisis behaviors identifies skill deficits. Progress involves lengthening time between crisis and destructive response, even by seconds initially.
+  lay_description: This is like being in an emotional emergency with no idea what to do - you panic and grab whatever stops the pain fastest, usually something harmful. Without a plan, you might drink, use drugs, hurt yourself, or completely shut down. It's like being in a burning building with no fire escape plan - you make desperate, dangerous choices. Every emotional crisis becomes a disaster because you don't have healthy ways to get through it.
+  core_components:
+  - Absent coping skills
+  - Destructive default behaviors
+  - Panic responses
+  - Support access failure
+  associated_processes:
+  - Immediate substance use
+  - Self-harm behaviors
+  - Dissociative responses
+  - Crisis escalation
+  prominent_models:
+  - Crisis Incompetence Model
+  - Maladaptive Coping Patterns
+  - Emergency Dysregulation Model
+- id: psy-emo-tol-fun-ada
+  label: Maintained Functioning Under Distress
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Distress Tolerance
+  cluster_id: psy-emo-tol
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Functional persistence
+  - Behavioral maintenance
+  - Distress compartmentalization
+  scope: Encompasses ability to maintain daily functioning and responsibilities despite ongoing emotional distress. Includes continuing work performance, fulfilling role obligations, maintaining self-care, and engaging in necessary activities even when experiencing significant negative emotions.
+  parent_scope_inheritance: Specifies the functional maintenance aspect of distress tolerance - the capacity to continue behavioral functioning and meet life demands despite emotional discomfort.
+  polarity_expression: Manifests as adaptive functioning through behavioral activation despite mood, values-driven action, effective compartmentalization, and maintained life structure during emotional challenges.
+  cross_domain_resonance: Resonates with soc-rol-exe-coh (maintained role performance), exi-age-mas-pur (life mastery despite challenges), and phy-hom-all-reg (maintained allostasis under stress).
+  academic_description: Maintained functioning reflects behavioral activation despite emotional distress - acting according to goals rather than feelings. Opposite action principle from DBT involves doing what emotions discourage. Values-based committed action from ACT means pursuing meaningful activities despite discomfort. Research shows behavioral activation as effective as medication for depression. Neurologically involves dorsolateral prefrontal override of limbic withdrawal impulses. Functioning maintenance prevents downward spirals where inactivity worsens mood. Builds mastery and self-efficacy through accomplishment despite distress. Creates positive feedback loops where activity improves mood.
+  clinical_description: Clients with maintained functioning continue work, relationships, and self-care despite depression, anxiety, or cravings. They shower when depressed, work when anxious, socialize when wanting isolation. Use opposite action skills and behavioral activation strategies. Activity scheduling ensures structure despite mood. These individuals understand feelings don't have to dictate behavior. Interventions include behavioral activation protocols, opposite action training, values clarification, and committed action plans. Pleasant events scheduling builds positive reinforcement. Mastery activities enhance self-efficacy. Success measured by maintained role functioning and activity levels despite distress ratings.
+  lay_description: This is showing up for life even when you don't feel like it - going to work with anxiety, maintaining friendships through depression, taking care of yourself when you'd rather give up. It's like a parent caring for children even when exhausted - feelings don't excuse responsibilities. You learn to function with discomfort rather than waiting to feel better first. It's the difference between 'I can't because I'm depressed' and 'I'm depressed and I'm still going to do what matters.'
+  core_components:
+  - Behavioral activation
+  - Opposite action
+  - Values-driven behavior
+  - Role maintenance
+  associated_processes:
+  - Activity scheduling
+  - Mastery building
+  - Self-care persistence
+  - Social engagement
+  prominent_models:
+  - Behavioral Activation Model
+  - DBT Opposite Action
+  - ACT Committed Action
+- id: psy-emo-tol-fun-mal
+  label: Functional Collapse Under Distress
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Distress Tolerance
+  cluster_id: psy-emo-tol
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Behavioral shutdown
+  - Functional paralysis
+  - Distress-induced dysfunction
+  scope: Represents complete breakdown of daily functioning when experiencing emotional distress. Includes abandonment of work responsibilities, social withdrawal, self-care neglect, and inability to maintain necessary activities when faced with negative emotions.
+  parent_scope_inheritance: Specifies the functional breakdown aspect of poor distress tolerance - the collapse of behavioral functioning and inability to meet life demands when experiencing emotional discomfort.
+  polarity_expression: Manifests as maladaptive dysfunction through behavioral paralysis, complete withdrawal, abandoned responsibilities, and deteriorating life structure during emotional challenges.
+  cross_domain_resonance: Resonates with soc-rol-exe-fra (role abandonment), exi-age-mas-dir (life chaos and helplessness), and phy-hom-all-dys (allostatic overload and shutdown).
+  academic_description: Functional collapse reflects behavioral shutdown in response to emotional distress - mood completely dictates behavior. Learned helplessness involves perceived inability to influence outcomes. Behavioral theories identify negative reinforcement cycles where withdrawal provides relief, strengthening avoidance. Depression's psychomotor retardation involves reduced behavioral initiation. Neurologically shows reduced dopamine and norepinephrine affecting motivation and energy. Functional collapse creates vicious cycles - inactivity worsens mood, increasing withdrawal. Social consequences compound distress. Loss spirals involve cascading failures across life domains. Invalidating environments that punished distress often underlie functional fragility.
+  clinical_description: Clients with functional collapse stop all activities when distressed - missing work, abandoning hygiene, isolating completely. Bed becomes refuge, responsibilities accumulate unmet. Minor distress triggers complete shutdown. These individuals require intensive support and environmental structuring initially. Interventions begin with tiny behavioral goals - getting out of bed, one shower weekly. Gradual behavioral activation with heavy reinforcement. Case management addresses practical consequences of dysfunction. Anti-depressants may provide initial energy for behavioral work. Progress measured in small functional gains - one task completed, one social contact made. Building from total collapse requires patience and micro-steps.
+  lay_description: This is when emotions completely derail your life - feeling sad means staying in bed for days, anxiety means calling in sick, anger means destroying relationships. Life falls apart because you can't function when you feel bad. It's like a car that stops working at the first sign of bad weather. Bills pile up, relationships suffer, and problems snowball because you shut down instead of pushing through. The worse you feel, the less you do, and the less you do, the worse everything gets.
+  core_components:
+  - Behavioral paralysis
+  - Complete withdrawal
+  - Role abandonment
+  - Self-care collapse
+  associated_processes:
+  - Social isolation
+  - Occupational dysfunction
+  - Hygiene neglect
+  - Responsibility avoidance
+  prominent_models:
+  - Learned Helplessness Model
+  - Behavioral Shutdown Model
+  - Depression-Dysfunction Spiral

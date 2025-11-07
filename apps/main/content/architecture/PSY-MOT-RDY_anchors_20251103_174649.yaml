@@ -1,0 +1,294 @@
+# Generated anchors for cluster: PSY-MOT-RDY
+# Timestamp: 20251103_174649
+
+anchors:
+- id: psy-mot-rdy-rec-ada
+  label: Adaptive Recognition
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Appropriate problem recognition
+  - Productive contemplation
+  - Openness to feedback
+  scope: Adaptive recognition of need for change and productive exploration of ambivalence in early stages. Includes appropriate consciousness raising, accurate problem recognition, and openness to considering change when warranted.
+  parent_scope_inheritance: Specifies the early stage processes (precontemplation and contemplation) within the temporal progression through motivational states, focusing on adaptive problem recognition and ambivalence exploration.
+  polarity_expression: Manifests as appropriate openness to feedback, accurate problem recognition, and productive exploration of ambivalence that facilitates forward movement through early change stages.
+  cross_domain_resonance: Resonates with executive recognition processes (phy-neu-exc-reg), family problem recognition (soc-fam-bnd-coh), and awareness cultivation (exi-awa-prs-pur).
+  academic_description: Adaptive recognition involves appropriate consciousness raising and environmental reevaluation processes characteristic of early TTM stages. Research shows that individuals who accurately recognize problems and productively explore ambivalence are more likely to progress to preparation. Decisional balance begins shifting as cons of current behavior become salient. Self-reevaluation processes activate as individuals consider how change aligns with personal values.
+  clinical_description: Assessment focuses on problem recognition scales and contemplation ladders. Interventions include motivational interviewing to develop discrepancy, personalized feedback about consequences, and values clarification exercises. Clinicians avoid pushing for action, instead facilitating exploration of ambivalence through decisional balance exercises. Psychoeducation provides information without prescribing change.
+  lay_description: This is when you start to see that something might need to change and begin thinking about it seriously. You're open to learning about the problem and considering whether change would be worthwhile, without feeling pressured to act before you're ready.
+  core_components:
+  - Consciousness raising processes
+  - Environmental reevaluation
+  - Accurate problem appraisal
+  associated_processes:
+  - Information seeking
+  - Ambivalence exploration
+  - Value clarification
+- id: psy-mot-rdy-rec-mal
+  label: Maladaptive Recognition
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Denial and resistance
+  - Chronic contemplation
+  - Recognition avoidance
+  scope: Maladaptive patterns of denial, minimization, or chronic contemplation without progression. Includes resistance to feedback, rationalization of problems, and getting stuck in endless ambivalence without movement toward change.
+  parent_scope_inheritance: Specifies the maladaptive early stage processes within temporal progression, focusing on patterns that prevent appropriate movement through precontemplation and contemplation stages.
+  polarity_expression: Manifests as denial of obvious problems, resistance to feedback, rationalization, or chronic contemplation that prevents progression to preparation and action stages.
+  cross_domain_resonance: Resonates with executive dysfunction (phy-neu-exc-dys), family denial patterns (soc-fam-bnd-fra), and existential avoidance (exi-awa-prs-dir).
+  academic_description: Maladaptive recognition involves either complete denial characteristic of resistant precontemplation or chronic contemplation without progression. Research identifies 'rebellious,' 'resigned,' and 'rationalizing' precontemplation subtypes. Chronic contemplators show behavioral procrastination and decisional balance that remains static. Defense mechanisms prevent consciousness raising, maintaining homeostatic problem behaviors.
+  clinical_description: Assessment reveals low problem recognition scores or extended time in contemplation (>6 months). Interventions address resistance through rolling with resistance techniques, exploring discrepancy gently, and addressing underlying fears about change. For chronic contemplators, interventions include setting contemplation deadlines, behavioral experiments, and addressing perfectionism or fear of failure.
+  lay_description: This is either refusing to see a problem that others clearly recognize, or getting stuck endlessly thinking about change without ever moving forward. You might make excuses, blame others, or spend months or years 'thinking about' change without taking steps.
+  core_components:
+  - Defense mechanism activation
+  - Rationalization processes
+  - Contemplation paralysis
+  associated_processes:
+  - Minimization
+  - Externalization of responsibility
+  - Ambivalence fixation
+- id: psy-mot-rdy-com-ada
+  label: Adaptive Commitment
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Effective preparation
+  - Strong commitment
+  - Change planning
+  scope: Adaptive commitment formation and preparation for change. Includes concrete planning, resource mobilization, public commitment, and self-liberation processes that establish readiness for action.
+  parent_scope_inheritance: Specifies the preparation stage within temporal progression, focusing on adaptive commitment formation and planning processes that bridge contemplation and action.
+  polarity_expression: Manifests as concrete goal-setting, effective planning, resource gathering, and strong commitment that facilitates successful transition to and maintenance of action.
+  cross_domain_resonance: Resonates with executive planning (psy-cog-pln-ada), goal formation (exi-mea-gol-pur), and social commitment (soc-rel-com-coh).
+  academic_description: Adaptive commitment involves self-liberation processes where individuals believe in their ability to change and make firm commitments. Research shows that public commitment, concrete planning, and identifying specific start dates predict successful action. Preparation stage individuals show decisional balance favoring change and increasing self-efficacy. Commitment strength correlates with action maintenance.
+  clinical_description: Assessment includes commitment strength scales and preparation checklists. Interventions focus on developing specific action plans, identifying and securing resources, establishing accountability, and making public commitments. Clinicians help identify potential barriers and develop contingency plans. Commitment enhancement techniques strengthen resolve.
+  lay_description: This is when you move from thinking about change to actively preparing for it. You make concrete plans, tell others about your intentions, set a start date, and gather the resources and support you'll need to succeed.
+  core_components:
+  - Self-liberation activation
+  - Action planning
+  - Resource mobilization
+  associated_processes:
+  - Goal specification
+  - Public commitment
+  - Barrier anticipation
+- id: psy-mot-rdy-com-mal
+  label: Maladaptive Commitment
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Commitment avoidance
+  - Inadequate preparation
+  - Ambivalent planning
+  scope: Maladaptive patterns of commitment avoidance, inadequate preparation, or ambivalent planning. Includes vague intentions, insufficient resource gathering, and private-only commitments that undermine action success.
+  parent_scope_inheritance: Specifies maladaptive preparation stage patterns within temporal progression, focusing on commitment problems that prevent successful action initiation.
+  polarity_expression: Manifests as vague intentions without concrete plans, avoidance of public commitment, inadequate preparation, or ambivalent commitment that predicts action failure.
+  cross_domain_resonance: Resonates with planning deficits (psy-cog-pln-mal), goal confusion (exi-mea-gol-dir), and commitment phobia (soc-rel-com-fra).
+  academic_description: Maladaptive commitment involves insufficient preparation or commitment ambivalence. Research shows that vague intentions, private-only commitments, and inadequate resource preparation predict early action failure. Some individuals skip preparation entirely, attempting action without planning. Others remain in pseudo-preparation, making repeated plans without implementation.
+  clinical_description: Assessment reveals vague goals, absent timelines, or repeated plan revisions without action. Interventions address commitment fears, perfectionism, and resource barriers. Clinicians may need to return to contemplation work if ambivalence remains high. For those skipping preparation, interventions emphasize the importance of planning before action.
+  lay_description: This is making half-hearted plans or avoiding real commitment to change. You might keep your plans secret, stay vague about when you'll start, or jump into action without proper preparation, setting yourself up for failure.
+  core_components:
+  - Commitment ambivalence
+  - Planning avoidance
+  - Resource neglect
+  associated_processes:
+  - Goal vagueness
+  - Private commitment only
+  - Preparation skipping
+- id: psy-mot-rdy-act-ada
+  label: Adaptive Action
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Sustained implementation
+  - Effective action
+  - Behavioral change
+  scope: Adaptive behavioral implementation and sustained action. Includes consistent behavior change, effective coping strategy use, counterconditioning, and stimulus control that maintains new patterns.
+  parent_scope_inheritance: Specifies the action stage within temporal progression, focusing on adaptive implementation of change behaviors and sustained effort through initial challenges.
+  polarity_expression: Manifests as consistent execution of new behaviors, effective use of coping strategies, environmental modification, and sustained effort that builds momentum toward maintenance.
+  cross_domain_resonance: Resonates with behavioral regulation (psy-beh-hbt-ada), stress coping (phy-str-cop-reg), and purposeful action (exi-age-act-pur).
+  academic_description: Adaptive action involves behavioral processes including counterconditioning, stimulus control, and reinforcement management. Research shows that consistent action for 3-6 months predicts long-term maintenance. Successful action stage individuals use multiple coping strategies, modify environments, and access social support. Self-efficacy increases through mastery experiences.
+  clinical_description: Assessment tracks behavior consistency and coping effectiveness. Interventions include skill training, contingency management, and behavioral activation. Clinicians help troubleshoot obstacles, reinforce successes, and prevent premature relaxation of effort. Coping skills training addresses high-risk situations.
+  lay_description: This is actively doing the work of change - consistently practicing new behaviors, using coping strategies when challenged, and modifying your environment to support success. The focus is on action, not just intention.
+  core_components:
+  - Behavioral execution
+  - Counterconditioning
+  - Stimulus control
+  associated_processes:
+  - Coping strategy use
+  - Environmental modification
+  - Reinforcement management
+- id: psy-mot-rdy-act-mal
+  label: Maladaptive Action
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Premature action
+  - Unsustained effort
+  - Failed implementation
+  scope: Maladaptive patterns of premature, inconsistent, or unsustained action attempts. Includes inadequate coping, failure to modify environment, and early discontinuation that reinforces failure beliefs.
+  parent_scope_inheritance: Specifies maladaptive action stage patterns within temporal progression, focusing on implementation problems that prevent successful behavior change.
+  polarity_expression: Manifests as inconsistent behavior attempts, poor coping with challenges, unchanged environmental triggers, and early discontinuation that depletes motivation and reinforces failure expectations.
+  cross_domain_resonance: Resonates with behavioral dysregulation (psy-beh-hbt-mal), coping failure (phy-str-cop-dys), and directionless action (exi-age-act-dir).
+  academic_description: Maladaptive action involves premature attempts without adequate preparation, inconsistent implementation, or early discontinuation. Research shows that action without prior contemplation and preparation has high failure rates. Insufficient coping strategies and unchanged environments predict relapse. Repeated action failures create learned helplessness.
+  clinical_description: Assessment reveals inconsistent behavior patterns and inadequate coping. Interventions may require returning to preparation stage for better planning. Clinicians address skill deficits, environmental barriers, and demoralization from failures. Harm reduction approaches may be appropriate for those unable to sustain full action.
+  lay_description: This is trying to change without being truly ready, or starting strong but quickly falling back into old patterns. You might lack the skills or support needed, or give up when things get difficult, reinforcing beliefs that change is impossible.
+  core_components:
+  - Premature attempts
+  - Inconsistent implementation
+  - Coping inadequacy
+  associated_processes:
+  - Early discontinuation
+  - Environmental neglect
+  - Failure reinforcement
+- id: psy-mot-rdy-mnt-ada
+  label: Adaptive Maintenance
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Stable maintenance
+  - Sustained recovery
+  - Change integration
+  scope: Adaptive maintenance of change with integrated new identity. Includes effective relapse prevention, lifestyle balance, continued growth, and flexible adaptation that sustains long-term change.
+  parent_scope_inheritance: Specifies the maintenance stage within temporal progression, focusing on adaptive patterns that sustain change and prevent relapse while maintaining flexibility.
+  polarity_expression: Manifests as stable new behavior patterns, effective relapse prevention strategies, balanced lifestyle, integrated identity as changed person, and continued growth.
+  cross_domain_resonance: Resonates with habit consolidation (psy-beh-hbt-ada), stress resilience (phy-str-res-reg), and purposeful growth (exi-gro-res-pur).
+  academic_description: Adaptive maintenance involves continued use of behavioral and cognitive processes to prevent relapse. Research shows that maintenance requires ongoing effort for 6 months to 5 years depending on the behavior. Successful maintainers develop new self-identity, maintain vigilance without obsession, and show lifestyle balance. Relapse prevention strategies become automatic.
+  clinical_description: Assessment monitors stability and relapse risk factors. Interventions include relapse prevention training, lifestyle balance counseling, and identity integration work. Clinicians help develop maintenance motivation beyond initial change goals. Booster sessions prevent complacency. Focus shifts to quality of life and continued growth.
+  lay_description: This is when new behaviors become your normal way of life. You've developed strategies to handle challenges, integrated changes into your identity, and maintain balance without obsessing. You stay aware without being rigid.
+  core_components:
+  - Relapse prevention
+  - Identity integration
+  - Lifestyle balance
+  associated_processes:
+  - Continued vigilance
+  - Flexible adaptation
+  - Growth orientation
+- id: psy-mot-rdy-mnt-mal
+  label: Maladaptive Maintenance
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Relapse vulnerability
+  - Rigid maintenance
+  - Maintenance failure
+  scope: Maladaptive maintenance patterns including high relapse vulnerability, rigid overcontrol, or complacency. Includes inadequate relapse prevention, lifestyle imbalance, and identity conflicts that threaten sustained change.
+  parent_scope_inheritance: Specifies maladaptive maintenance patterns within temporal progression, focusing on vulnerabilities and rigidities that undermine long-term change sustainability.
+  polarity_expression: Manifests as frequent lapses or relapses, rigid rule-following without flexibility, complacency about relapse risk, lifestyle imbalance, or unresolved identity conflicts.
+  cross_domain_resonance: Resonates with habit instability (psy-beh-hbt-mal), stress vulnerability (phy-str-res-dys), and directionless maintenance (exi-gro-res-dir).
+  academic_description: Maladaptive maintenance involves either high relapse vulnerability or rigid overcontrol. Research identifies complacency, lifestyle imbalance, and inadequate relapse prevention as risk factors. Some individuals maintain through white-knuckling without identity integration. Others show abstinence violation effect after minor lapses. Lack of continued growth motivation predicts eventual relapse.
+  clinical_description: Assessment reveals relapse warning signs or quality of life problems from rigidity. Interventions address specific vulnerabilities through enhanced relapse prevention, lifestyle rebalancing, or flexibility training. Clinicians help process lapses without catastrophizing. For rigid maintainers, focus on flexibility and life enjoyment.
+  lay_description: This is either being constantly at risk of falling back into old patterns, or maintaining change through rigid rules that make life joyless. You might become complacent about risks, or so controlling that you can't adapt to life's changes.
+  core_components:
+  - Relapse vulnerability
+  - Rigid overcontrol
+  - Maintenance complacency
+  associated_processes:
+  - Lapse frequency
+  - Lifestyle imbalance
+  - Identity conflict
+- id: psy-mot-rdy-prg-ada
+  label: Adaptive Progression
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Stage advancement
+  - Forward movement
+  - Progressive readiness
+  scope: Adaptive progression through change stages with appropriate timing and process engagement. Includes forward movement, stage-appropriate transitions, learning from setbacks, and maintained momentum.
+  parent_scope_inheritance: Specifies the overall progression patterns within temporal movement through stages, focusing on adaptive transitions and forward momentum through the change process.
+  polarity_expression: Manifests as timely movement through stages, appropriate process engagement at each stage, learning from temporary setbacks, and overall forward trajectory toward sustained change.
+  cross_domain_resonance: Resonates with developmental progression (psy-dev-mat-ada), recovery trajectory (phy-neu-rec-reg), and purposeful evolution (exi-gro-evo-pur).
+  academic_description: Adaptive progression involves forward movement through stages with appropriate timing and process utilization. Research shows spiral patterns where individuals learn from recycling. Stage-matched interventions facilitate progression. Successful progressors show increasing self-efficacy, shifting decisional balance, and cumulative learning. Time in stage varies by individual and behavior.
+  clinical_description: Assessment tracks stage movement and process engagement. Interventions are matched to current stage to facilitate next transition. Clinicians normalize non-linear progression while maintaining forward momentum. Progress monitoring identifies readiness for stage transitions. Motivational interviewing techniques are adjusted for stage.
+  lay_description: This is moving forward through the stages of change at a pace that works for you, using the right strategies at the right time. Even if you temporarily slip back, you learn from it and keep progressing overall.
+  core_components:
+  - Forward movement
+  - Process matching
+  - Transition timing
+  associated_processes:
+  - Stage assessment
+  - Learning integration
+  - Momentum maintenance
+- id: psy-mot-rdy-prg-mal
+  label: Maladaptive Progression
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Change Readiness
+  cluster_id: psy-mot-rdy
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Stage stagnation
+  - Chronic recycling
+  - Progression failure
+  scope: Maladaptive progression patterns including stagnation, regression, or chronic recycling without learning. Includes inappropriate pacing, process mismatching, and demoralization from repeated failures.
+  parent_scope_inheritance: Specifies maladaptive progression patterns within temporal movement, focusing on stagnation, regression, and recycling that prevent successful change completion.
+  polarity_expression: Manifests as getting stuck in stages for extended periods, moving backward without learning, chronic recycling through early stages, or premature stage jumping that ensures failure.
+  cross_domain_resonance: Resonates with developmental arrest (psy-dev-mat-mal), recovery stagnation (phy-neu-rec-dys), and directionless cycling (exi-gro-evo-dir).
+  academic_description: Maladaptive progression involves stagnation in stages, regression without learning, or chronic recycling. Research identifies 'revolving door' patterns where individuals repeatedly cycle through early stages. Premature stage jumping without readiness predicts failure. Demoralization from repeated failures creates learned helplessness. Process mismatching impedes natural progression.
+  clinical_description: Assessment reveals extended time in stages or repeated cycling patterns. Interventions address barriers to progression, process activation, and demoralization. Clinicians may need to adjust expectations and use harm reduction approaches for chronic recyclers. Focus on small steps and learning from attempts rather than demanding linear progression.
+  lay_description: This is getting stuck in one stage for months or years, constantly falling back to square one, or jumping ahead before you're ready. You might cycle through the same patterns repeatedly without learning, becoming increasingly discouraged.
+  core_components:
+  - Stage stagnation
+  - Regression patterns
+  - Chronic recycling
+  associated_processes:
+  - Process mismatching
+  - Learning failure
+  - Demoralization accumulation

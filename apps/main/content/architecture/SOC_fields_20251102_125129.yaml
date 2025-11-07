@@ -1,0 +1,181 @@
+# Generated fields for forest: SOC
+# Timestamp: 20251102_125129
+
+fields:
+- id: soc-fam
+  label: Family Systems
+  forest: Sociological
+  forest_id: soc
+  synonyms:
+  - Family dynamics
+  - Family relationships
+  - Family functioning
+  - Kinship systems
+  scope: Encompasses family structures, dynamics, communication patterns, boundaries, roles, and relational patterns that influence addiction and recovery. Includes nuclear and extended family relationships, parental and sibling influences, intergenerational transmission patterns, enabling behaviors, codependency, family rules and rituals, attachment relationships, family homeostasis and adaptation, and family-of-origin influences. Explicitly excludes peer relationships outside family context, community-level organizational factors, broader cultural norms beyond family-specific traditions, and macro-level structural or economic factors.
+  parent_scope_inheritance: Narrows the sociological forest's focus on social structures and relationships to specifically examine the family unit as the primary social system influencing addiction and recovery, emphasizing relational patterns and systemic dynamics within family boundaries.
+  emergence: At the field level, family systems exhibit emergent properties of multigenerational patterns, family identity and narrative, systemic homeostasis that resists change, triangulation dynamics that stabilize dysfunction, and collective family coping strategies that transcend individual member behaviors.
+  boundary_interfaces:
+  - Family-peer interface where adolescents transition from family to peer influence
+  - Family-community interface where families engage with treatment services
+  - Family-cultural interface where family traditions intersect with cultural norms
+  theoretical_foundations:
+  - Structural family therapy (Minuchin) examining family organization, boundaries, and hierarchies
+  - Bowenian family systems theory focusing on differentiation of self and multigenerational transmission
+  - Multisystemic therapy integrating family, peer, school, and community systems
+  child_generation_role: You are a family therapist specializing in addiction-related family dynamics. Your expertise includes family structure, communication patterns, boundaries, roles, enabling behaviors, codependency, and intergenerational transmission. You analyze specific family configurations, relational patterns, and systemic interactions that maintain or disrupt addiction cycles. You distinguish cohesive versus fragmented family functioning based on communication quality, boundary clarity, role flexibility, and emotional regulation.
+  academic_description: Family systems theory conceptualizes addiction as a symptom of family dysfunction maintained through homeostatic mechanisms. Structural family therapy (Minuchin) examines how rigid or diffuse boundaries, inverted hierarchies, and coalitions perpetuate substance use patterns. Bowenian theory emphasizes differentiation of self—poorly differentiated families show emotional fusion, triangulation, and multigenerational transmission of addiction. Attachment theory reveals how insecure attachment patterns create vulnerability while secure attachments protect. Family communication patterns including expressed emotion, criticism, and emotional overinvolvement predict relapse. Enabling behaviors and codependency maintain addiction through accommodation and protection from consequences. Family rituals and rules organize behavior around substance use. Research demonstrates family therapy effectiveness, particularly for adolescents, with multidimensional family therapy and brief
+    strategic family therapy showing robust outcomes.
+  clinical_description: Clinical work with families addresses relational patterns maintaining addiction. Structural interventions restructure boundaries, hierarchies, and subsystems—strengthening parental alliance, clarifying generational boundaries, and reducing triangulation. Communication training improves assertiveness, active listening, and conflict resolution. Behavioral contracting establishes clear expectations and consequences. Psychoeducation helps families understand addiction as disease while avoiding enabling. Genogram work explores multigenerational patterns. Community Reinforcement and Family Training (CRAFT) engages resistant users through family members. Multisystemic therapy coordinates family, school, and community interventions. Assessment examines family structure, communication patterns, problem-solving skills, emotional climate, and recovery support capacity. Interventions may include couples therapy for relationship repair, parent training for limit-setting, and sibling
+    sessions for mutual support.
+  lay_description: Family relationships powerfully influence addiction and recovery. Growing up in families with addiction increases risk through genetics, modeling, and family stress. Current family dynamics can maintain addiction—like when parents enable by making excuses or bailing out, when spouses take over responsibilities preventing natural consequences, or when family conflicts trigger use. Codependency develops when family members become overly focused on the addiction, neglecting their own needs. Family communication problems like criticism, yelling, or avoiding difficult topics create stress that fuels substance use. But families can also support recovery through clear boundaries, open communication, emotional support without enabling, and participating in family therapy or support groups like Al-Anon. Recovery often requires the whole family to change patterns, not just the person using substances.
+  connections:
+    within_forest:
+    - Peer Networks field through adolescent transition from family to peer influence and social learning within family context
+    - Cultural Dynamics field through transmission of cultural values and norms within families
+    - Community Resources field through family engagement with treatment services and support groups
+    cross_forest:
+    - Psychological attachment patterns shaped by early family relationships
+    - Physiological stress responses influenced by family conflict and support
+    - Existential identity formation through family roles and narratives
+- id: soc-per
+  label: Peer Networks
+  forest: Sociological
+  forest_id: soc
+  synonyms:
+  - Social networks
+  - Peer relationships
+  - Friendship groups
+  - Social circles
+  scope: Encompasses peer relationships, social networks, friendship groups, and interpersonal influences outside the family context affecting addiction and recovery. Includes network composition and structure, peer selection and influence processes, social learning from peers, peer pressure and conformity, network density and centrality, homophily effects, social contagion of substance use behaviors, and peer support relationships. Explicitly excludes family relationships, formal community organizations and services, broader cultural belief systems, and macro-level structural factors.
+  parent_scope_inheritance: Narrows the sociological forest's focus on social structures to specifically examine peer-level social relationships and network dynamics, emphasizing how non-family interpersonal connections influence substance use through selection, influence, and social learning mechanisms.
+  emergence: At the field level, peer networks exhibit emergent properties of network-wide norms and behaviors, cascading influence through network ties, collective peer culture distinct from individual friendships, network resilience or vulnerability to substance use spread, and group-level recovery support dynamics.
+  boundary_interfaces:
+  - Peer-family interface during developmental transitions and conflicting influences
+  - Peer-community interface where informal networks connect with formal services
+  - Peer-cultural interface where peer groups embody or resist cultural norms
+  theoretical_foundations:
+  - Social network analysis examining network topology, centrality, and influence pathways
+  - Peer cluster theory (Oetting & Beauvais) on peer groups as primary socialization source
+  - Differential association theory on learning deviant behavior through peer interaction
+  child_generation_role: You are a social network analyst specializing in peer influences on addiction. Your expertise includes network structure, composition, density, selection versus influence effects, peer pressure dynamics, and social learning processes. You analyze specific network configurations, relationship patterns, and peer group characteristics that facilitate or protect against substance use. You distinguish cohesive versus fragmented peer networks based on network integration, support quality, and prosocial versus antisocial norms.
+  academic_description: Peer network research reveals how social relationships shape substance use trajectories through selection and influence processes. Network analysis demonstrates that network composition (proportion using substances), structure (density, clustering, centrality), and position (core versus peripheral) predict individual behavior. Peer cluster theory identifies peer groups as primary socialization agents during adolescence, with shared norms and behaviors. Social learning occurs through modeling, reinforcement, and development of outcome expectancies. Homophily—similarity breeding connection—creates echo chambers reinforcing use or recovery. Influence operates through multiple mechanisms- direct peer pressure, descriptive norms (perceptions of peer use), injunctive norms (perceived approval), and social reinforcement. Selection effects occur as individuals choose similar friends. Longitudinal network studies using stochastic actor-oriented models disentangle selection
+    from influence. Recovery involves network transformation—transitioning from substance-using to recovery-oriented networks, with network support predicting sustained recovery.
+  clinical_description: Clinical interventions address peer influences through multiple strategies. Social skills training develops assertion, refusal skills, and communication abilities for navigating peer pressure. Network therapy mobilizes supportive network members in treatment. Peer support interventions including 12-step programs, SMART Recovery, and peer recovery coaching leverage positive peer influence. Adolescent group therapy addresses peer dynamics while building prosocial connections. Network mapping helps clients visualize relationships and plan network changes. Behavioral activation increases engagement with sober activities and communities. Assessment evaluates network composition (who uses substances), network support for recovery, peer pressure experiences, and social isolation. Interventions may involve gradually building sober friendships, addressing social anxiety, repairing damaged relationships, and connecting to recovery communities. The peer network perspective recognizes
+    that sustainable recovery typically requires significant social network transformation.
+  lay_description: The people you spend time with strongly influence your substance use and recovery. If most of your friends drink or use drugs, you're constantly exposed to substances and have fewer sober activities. Peer pressure can be direct ("Come on, just one drink") or indirect (feeling left out if you don't participate). People tend to become like their friends through social learning—watching what others do, seeing what's considered normal, and receiving approval or disapproval. But influence works both ways- you also choose friends similar to yourself. In recovery, you often need to change your social circle—distancing from friends who use, building new sober friendships, and connecting with others in recovery. Support groups provide peer support from people who understand the struggle. Recovery is easier when surrounded by people who support your sobriety rather than challenge it. Building a new social network takes time but is often essential for long-term recovery.
+  connections:
+    within_forest:
+    - Family Systems field through transition from family to peer influence during adolescence
+    - Community Resources field through peer support groups and recovery communities
+    - Cultural Dynamics field through peer group subcultures and norms
+    cross_forest:
+    - Psychological social learning and identity development through peer relationships
+    - Physiological stress buffering or amplification through peer support or conflict
+    - Existential belonging needs met through peer connections and group membership
+- id: soc-com
+  label: Community Resources
+  forest: Sociological
+  forest_id: soc
+  synonyms:
+  - Community services
+  - Recovery resources
+  - Community support
+  - Service systems
+  scope: Encompasses community-level services, organizations, and collective resources supporting addiction treatment and recovery. Includes treatment facilities, recovery community organizations, mutual aid groups, faith-based organizations, community coalitions, prevention programs, harm reduction services, recovery housing, employment programs, and community-based support systems. Explicitly excludes individual interpersonal relationships, cultural belief systems, and macro-level policy or economic structures.
+  parent_scope_inheritance: Narrows the sociological forest's focus to community-level resources and collective support systems, emphasizing formal and informal organizations, services, and community capacity for supporting recovery rather than individual relationships or structural factors.
+  emergence: At the field level, community resources exhibit emergent properties of service ecology and accessibility, community recovery capital, collective efficacy for addressing addiction, inter-organizational collaboration networks, and community readiness for change that transcends individual services.
+  boundary_interfaces:
+  - Community-peer interface where informal networks access formal services
+  - Community-structural interface where resource availability depends on funding and policy
+  - Community-cultural interface where services reflect community values and norms
+  theoretical_foundations:
+  - Community reinforcement approach systematically restructuring environmental contingencies
+  - Recovery capital theory on community resources supporting sustained recovery
+  - Collective efficacy theory on community capacity for social control and support
+  child_generation_role: You are a community psychologist specializing in recovery resources and service systems. Your expertise includes service availability, accessibility, quality, coordination, and community capacity for supporting recovery. You analyze specific community configurations, resource distributions, and organizational networks that facilitate or hinder recovery. You distinguish cohesive versus fragmented communities based on service integration, resource availability, collective efficacy, and community support for recovery.
+  academic_description: Community resources research examines how service ecology and community capacity influence recovery outcomes. Recovery capital theory distinguishes physical capital (tangible assets), human capital (skills, education), social capital (relationships), and community capital (resources, services). Community reinforcement approaches systematically increase non-substance reinforcement through community engagement. Collective efficacy—shared expectations for social control and mutual support—predicts community-level recovery outcomes. Service system research reveals how fragmentation, waitlists, and access barriers impede treatment engagement while integrated, accessible services improve outcomes. Recovery community organizations provide peer support, advocacy, and community education. Faith-based organizations offer spiritual support and practical resources. Community coalitions coordinate prevention and intervention efforts. Recovery-oriented systems of care emphasize
+    person-centered, strength-based approaches. Research demonstrates that communities with robust recovery resources show better aggregate outcomes, with recovery capital accumulation predicting sustained recovery.
+  clinical_description: Clinical practice involves mobilizing community resources to support recovery. Case management connects clients to housing, employment, healthcare, legal services, and benefits. Assertive community treatment provides intensive, team-based support in community settings. Recovery coaching helps navigate service systems and build recovery capital. Community reinforcement systematically increases pleasant sober activities and social reinforcement. Contingency management provides tangible rewards for recovery behaviors. Assessment evaluates service needs, barriers to access, current resource utilization, and community connections. Interventions include linkage to mutual aid groups (AA, NA, SMART Recovery), connection to recovery community centers, enrollment in vocational programs, placement in recovery housing, and engagement with faith communities. The community resource perspective emphasizes building recovery capital through systematic connection to community supports.
+  lay_description: Community resources make recovery possible by providing support beyond individual therapy. Treatment services offer medical care, counseling, and structured programs. Recovery support groups like AA or SMART Recovery provide peer support and practical guidance. Recovery community centers offer sober activities, volunteer opportunities, and connections. Faith communities provide spiritual support and practical help. Sober living houses offer safe, supportive housing during early recovery. Job training programs help rebuild careers. Some communities have extensive resources—multiple treatment options, active recovery communities, and supportive services. Others have limited options, long waitlists, or services that don't meet needs. Recovery is easier in communities with accessible, quality services and strong recovery communities. Building connections to community resources—finding the right support group, accessing services, participating in sober activities—creates a
+    foundation for long-term recovery. Recovery happens in community, not isolation.
+  connections:
+    within_forest:
+    - Peer Networks field through peer support groups and recovery communities
+    - Structural Factors field through funding and policy affecting resource availability
+    - Cultural Dynamics field through culturally specific services and community values
+    cross_forest:
+    - Psychological therapeutic services addressing mental health needs
+    - Physiological medical services for detox and medication treatment
+    - Existential faith-based organizations providing spiritual support
+- id: soc-cul
+  label: Cultural Dynamics
+  forest: Sociological
+  forest_id: soc
+  synonyms:
+  - Cultural factors
+  - Cultural norms
+  - Social attitudes
+  - Collective beliefs
+  scope: Encompasses cultural norms, values, beliefs, and collective meanings about substance use and recovery. Includes stigma and discrimination, cultural models of addiction and recovery, collective narratives and discourse, ethnic and racial factors, religious and spiritual influences, media representations, social attitudes, and cultural transmission of substance use patterns. Explicitly excludes individual relationships, service provision systems, and material or economic conditions.
+  parent_scope_inheritance: Narrows the sociological forest's focus to cultural and collective meaning systems, emphasizing shared beliefs, norms, values, and narratives that shape how addiction is understood and addressed at the societal level rather than through individual relationships or structural factors.
+  emergence: At the field level, cultural dynamics exhibit emergent properties of collective consciousness about addiction, cultural narratives that shape individual experiences, societal-level stigma that creates systemic barriers, cultural resilience and recovery traditions, and evolving social discourse that transforms understanding and responses.
+  boundary_interfaces:
+  - Cultural-family interface where cultural values are transmitted through families
+  - Cultural-community interface where cultural norms shape service provision
+  - Cultural-structural interface where cultural beliefs influence policy and discrimination
+  theoretical_foundations:
+  - Stigma theory (Goffman, Link & Phelan) on labeling, stereotyping, and discrimination
+  - Cultural models theory on shared cognitive schemas about illness and recovery
+  - Social representations theory on collective meaning-making about addiction
+  child_generation_role: You are a medical anthropologist specializing in cultural meanings of addiction. Your expertise includes stigma processes, cultural models, collective narratives, ethnic and religious influences, and social discourse about substance use. You analyze specific cultural configurations, belief systems, and meaning structures that shape experiences of addiction and recovery. You distinguish cohesive versus fragmented cultural contexts based on shared understanding, stigma levels, cultural support for recovery, and availability of culturally resonant recovery narratives.
+  academic_description: Cultural dynamics research examines how collective meanings and social attitudes shape addiction and recovery experiences. Stigma theory reveals how labeling, stereotyping, separation, status loss, and discrimination create barriers to treatment and recovery. Public stigma involves societal-level prejudice and discrimination, while self-stigma involves internalization of negative stereotypes. Cultural models of addiction—moral failing, disease, learning disorder—influence help-seeking, treatment approaches, and recovery pathways. Different cultures show varying substance use norms, from prohibition to integration. Religious and spiritual traditions offer both protective factors and recovery resources. Ethnic minorities face unique challenges including discrimination, acculturative stress, and culturally inappropriate services. Media representations shape public understanding and policy support. Recovery narratives provide cultural scripts for transformation. Research
+    demonstrates that stigma predicts treatment avoidance, reduced social support, and worse outcomes, while culturally adapted interventions show improved engagement and effectiveness.
+  clinical_description: Clinical practice addresses cultural factors through multiple approaches. Culturally responsive treatment adapts interventions to client cultural backgrounds, values, and preferences. Stigma reduction interventions include psychoeducation, contact-based strategies, and narrative approaches. Cultural assessment explores client cultural identity, explanatory models, and cultural factors affecting treatment. Motivational interviewing explores ambivalence considering cultural values. Narrative therapy helps reconstruct identity beyond stigmatized labels. Group interventions address internalized stigma and build positive recovery identity. Advocacy challenges discrimination and promotes recovery-friendly policies. Assessment evaluates experienced and anticipated stigma, cultural identity, religious/spiritual resources, and cultural barriers to treatment. Interventions may include connecting to culturally specific services, engaging cultural community supports, addressing
+    discrimination experiences, and developing culturally syntonic recovery practices.
+  lay_description: Cultural beliefs and social attitudes powerfully affect addiction and recovery. Stigma—negative attitudes and discrimination toward people with addiction—creates shame that prevents people from seeking help. Different cultures have different views- some see addiction as moral weakness requiring willpower, others as disease requiring treatment, others as spiritual crisis requiring faith. Your cultural background influences what substances are acceptable, how problems are understood, and what help is appropriate. Religious and spiritual traditions can provide both protection against addiction and support for recovery. Racial and ethnic minorities often face additional challenges including discrimination and services that don't understand their culture. Media portrayals shape how society views addiction. Recovery is easier in cultures that view addiction compassionately and support second chances. Overcoming stigma—both society's judgment and internalized shame—is often essential
+    for recovery. Finding culturally meaningful recovery paths and communities that share your values strengthens recovery.
+  connections:
+    within_forest:
+    - Family Systems field through cultural transmission within families
+    - Community Resources field through culturally specific services
+    - Structural Factors field through structural discrimination and policy
+    cross_forest:
+    - Psychological internalized stigma and cultural identity
+    - Physiological cultural factors affecting stress and health disparities
+    - Existential cultural frameworks for meaning-making and spiritual recovery
+- id: soc-str
+  label: Structural Factors
+  forest: Sociological
+  forest_id: soc
+  synonyms:
+  - Socioeconomic factors
+  - Social determinants
+  - Systemic factors
+  - Structural conditions
+  scope: Encompasses macro-level socioeconomic and institutional factors affecting addiction risk and recovery. Includes poverty and income inequality, housing and homelessness, employment and labor markets, education systems, criminal justice involvement, healthcare access and insurance, policy environments, environmental availability of substances, neighborhood disadvantage, and structural discrimination. Explicitly excludes interpersonal relationships, community-level services, and cultural beliefs or meanings.
+  parent_scope_inheritance: Narrows the sociological forest's focus to structural and systemic influences, emphasizing macro-level social determinants, institutional arrangements, and policy contexts that create differential risk and recovery opportunities rather than interpersonal or cultural factors.
+  emergence: At the field level, structural factors exhibit emergent properties of cumulative disadvantage, structural violence that systematically harms certain populations, policy feedback loops that perpetuate inequalities, environmental injustice in substance exposure and treatment access, and systemic barriers that transcend individual circumstances.
+  boundary_interfaces:
+  - Structural-community interface where policies determine resource availability
+  - Structural-cultural interface where structural discrimination reflects cultural biases
+  - Structural-family interface where economic stress affects family functioning
+  theoretical_foundations:
+  - Social determinants of health framework on upstream factors shaping health outcomes
+  - Fundamental cause theory on how social conditions persistently affect health
+  - Structural vulnerability theory on systematic disadvantage and health inequities
+  child_generation_role: You are a social epidemiologist specializing in structural determinants of addiction. Your expertise includes poverty, housing, employment, education, policy environments, and systemic inequalities affecting substance use and recovery. You analyze specific structural configurations, policy contexts, and institutional arrangements that create differential risk and opportunity. You distinguish cohesive versus fragmented structural contexts based on equality, opportunity, institutional support, and systemic barriers to recovery.
+  academic_description: Structural factors research examines how macro-level social conditions create differential vulnerability to addiction and shape recovery possibilities. Social determinants of health framework identifies upstream factors—poverty, education, employment, housing—that fundamentally influence health outcomes. Fundamental cause theory explains how socioeconomic status persistently affects health through multiple pathways- differential exposure to risk, differential access to resources, and differential ability to mobilize resources. Structural vulnerability reveals how poverty, homelessness, undocumented status, and criminal justice involvement create cascading disadvantages. Environmental justice research documents unequal distribution of alcohol outlets, targeting of minority communities by tobacco and alcohol marketing, and differential policing of drug offenses. Policy research demonstrates how drug policies, healthcare systems, and welfare policies shape addiction
+    trajectories. Housing First models show stable housing improves recovery outcomes. Employment provides structure, identity, and resources supporting recovery. Research reveals how structural factors create syndemic conditions where addiction, poverty, trauma, and discrimination mutually reinforce each other.
+  clinical_description: Clinical practice increasingly addresses structural factors through integrated approaches. Social determinants screening identifies housing, food, transportation, and financial needs. Case management connects clients to benefits, housing programs, and employment services. Harm reduction approaches meet people where they are, providing services regardless of abstinence. Trauma-informed care recognizes how structural violence creates trauma. Advocacy addresses systemic barriers through policy change and community organizing. Critical time intervention provides intensive support during transitions from institutions. Supportive employment helps clients find and maintain work. Assessment evaluates housing stability, income, employment, education, legal involvement, insurance, and discrimination experiences. Interventions may include housing placement, benefits enrollment, vocational rehabilitation, legal advocacy, and addressing basic needs. The structural perspective
+    emphasizes that individual change alone is insufficient without addressing systemic barriers.
+  lay_description: Your life circumstances powerfully affect addiction risk and recovery chances. Poverty creates chronic stress and limits options—living paycheck to paycheck, unable to afford treatment, or losing housing during recovery. Unemployment removes daily structure and purpose while creating financial strain. Poor education limits job opportunities and health literacy. Homelessness makes everything harder—no safe place to sleep, store medications, or receive mail. Criminal records create barriers to employment, housing, and benefits. Living in neighborhoods with many liquor stores and few resources increases exposure and reduces support. Lack of health insurance or transportation prevents accessing treatment. Drug policies that emphasize punishment over treatment create additional barriers. Discrimination based on race, class, or addiction history limits opportunities. Recovery is much harder when facing multiple structural barriers—it's not just about individual willpower but
+    about having basic needs met and opportunities available. Addressing these structural factors through policy change, resource provision, and systemic reform is essential for equitable recovery opportunities.
+  connections:
+    within_forest:
+    - Community Resources field through policy determining service availability
+    - Cultural Dynamics field through structural discrimination reflecting cultural biases
+    - Family Systems field through economic stress affecting family stability
+    cross_forest:
+    - Psychological chronic stress from poverty affecting mental health
+    - Physiological environmental toxins and stress affecting physical health
+    - Existential limited opportunities affecting sense of purpose and hope

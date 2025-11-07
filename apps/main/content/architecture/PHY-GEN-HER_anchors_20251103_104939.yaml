@@ -1,0 +1,220 @@
+# Generated anchors for cluster: PHY-GEN-HER
+# Timestamp: 20251103_104939
+
+anchors:
+- id: phy-gen-her-fam-reg
+  label: Low Familial Aggregation
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Heritability Systems
+  cluster_id: phy-gen-her
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Sporadic occurrence
+  - Low genetic loading
+  - Minimal family history
+  scope: Low familial aggregation of addiction with sporadic occurrence, minimal affected relatives, low sibling recurrence risk, and predominant environmental determination of vulnerability allowing effective prevention through environmental modification.
+  parent_scope_inheritance: Specifies the family studies and familial aggregation component of heritability systems, focusing on patterns of low genetic clustering within families.
+  polarity_expression: Manifests as isolated or absent cases within family pedigrees, with addiction occurring sporadically rather than clustering across generations, indicating low genetic transmission and greater environmental determination.
+  cross_domain_resonance: Resonates with adaptive family attachment patterns (psy-att-fam-ada), cohesive family structures (soc-fam-str-coh), and purposeful family legacy (exi-leg-fam-pur) where healthy family dynamics support resilience.
+  academic_description: Family studies show low lambda values (sibling recurrence risk ratio <2), minimal segregation within pedigrees, and heritability estimates at the lower bound (20-30%). Environmental factors account for the majority of variance in liability. Adoption studies demonstrate stronger correlation with adoptive rather than biological family environment.
+  clinical_description: Negative or minimal family history on structured assessment, with at most one affected second-degree relative. Standard prevention approaches are effective. Risk assessment focuses on environmental factors like peer influence, trauma exposure, and substance availability. Genetic counseling emphasizes modifiable risk factors.
+  lay_description: Addiction doesn't run in the family - if it occurs, it's usually an isolated case rather than a pattern across relatives. This means environmental factors like stress, peer pressure, or trauma are the main drivers, making prevention through lifestyle and environment changes highly effective.
+  key_mediators: Normal allele frequencies for addiction risk variants, balanced neurotransmitter synthesis genes, intact metabolic enzyme variants
+  key_mechanisms: Low genetic correlation between family members for addiction traits, predominant unique environmental variance, minimal additive genetic variance
+  clinical_relevance: Lower baseline risk allows standard prevention to be effective, environmental interventions show good efficacy, lower need for intensive monitoring
+  assessment_methods: Family history questionnaires, pedigree analysis, calculation of familial standardized incidence ratios
+  interventions: Standard prevention programs, environmental risk reduction, general substance education, community-based interventions
+  prominent_models: Multifactorial threshold model with low genetic loading, predominantly environmental liability distribution
+- id: phy-gen-her-fam-dys
+  label: High Familial Aggregation
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Heritability Systems
+  cluster_id: phy-gen-her
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Familial clustering
+  - High genetic loading
+  - Positive family history
+  scope: High familial aggregation of addiction with multiple affected relatives across generations, elevated sibling recurrence risk, strong genetic transmission patterns, and reduced efficacy of environmental interventions alone.
+  parent_scope_inheritance: Specifies the family studies and familial aggregation component of heritability systems, focusing on patterns of high genetic clustering and transmission within families.
+  polarity_expression: Manifests as multiple affected family members across generations, high concordance among siblings, early onset in offspring of affected parents, and persistence despite environmental interventions.
+  cross_domain_resonance: Resonates with maladaptive family attachment patterns (psy-att-fam-mal), fragmented family structures (soc-fam-str-fra), and directionless family legacy (exi-leg-fam-dir) where intergenerational transmission perpetuates vulnerability.
+  academic_description: Family studies demonstrate high lambda values (sibling recurrence risk ratio >8), clear segregation patterns, and heritability estimates at upper bounds (50-60%). Multiple affected first-degree relatives indicate oligogenic or polygenic transmission with high penetrance. Adoption studies show stronger correlation with biological family regardless of rearing environment.
+  clinical_description: Positive family history with multiple affected first-degree relatives, often showing anticipation (earlier onset in successive generations). Requires intensive prevention strategies, genetic counseling, and early intervention protocols. Risk remains elevated even in protective environments.
+  lay_description: Addiction runs strongly in the family, affecting multiple relatives across generations - parents, siblings, aunts, uncles, and grandparents. This creates a genetic vulnerability that persists even in good environments, requiring extra vigilance and early intervention to prevent problems.
+  key_mediators: Enrichment of risk alleles across multiple genes, compromised neurotransmitter synthesis variants, impaired metabolic enzyme alleles
+  key_mechanisms: High additive genetic variance, strong parent-offspring transmission, elevated sibling correlation, minimal unique environmental variance
+  clinical_relevance: Substantially elevated baseline risk requiring intensive prevention, early onset common, polysubstance vulnerability increased
+  assessment_methods: Detailed three-generation pedigrees, segregation analysis, familial risk scoring systems, genetic counseling protocols
+  interventions: Intensive family-based prevention programs, early screening and intervention, genetic counseling, enhanced monitoring protocols
+  prominent_models: Oligogenic model with major gene effects, high heritability liability threshold model, familial transmission frameworks
+- id: phy-gen-her-pol-reg
+  label: Low Polygenic Burden
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Heritability Systems
+  cluster_id: phy-gen-her
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Protective polygenic profile
+  - Low genetic risk score
+  - Resilience alleles
+  scope: Low polygenic risk characterized by protective variant enrichment, low cumulative genetic burden across thousands of SNPs, reduced SNP-based heritability contribution, and genetic architecture supporting addiction resilience.
+  parent_scope_inheritance: Specifies the polygenic risk score and SNP-based heritability components of heritability systems, focusing on protective polygenic architectures with low addiction liability.
+  polarity_expression: Manifests as polygenic risk scores in the lowest quintiles, enrichment of protective alleles, low SNP-based heritability estimates, and genetic variants that confer resilience rather than vulnerability.
+  cross_domain_resonance: Resonates with regulated neural plasticity (phy-neu-pla-reg), adaptive cognitive patterns (psy-cog-pat-ada), and purposeful meaning-making (exi-mea-con-pur) where genetic resilience supports healthy adaptation.
+  academic_description: Genome-wide association studies identify protective variant enrichment with polygenic risk scores below population mean. SNP-based heritability explains <20% of phenotypic variance. Protective alleles in neurotransmitter, metabolic, and stress response genes predominate. Mendelian randomization studies show causal protective effects.
+  clinical_description: Polygenic risk scores in bottom tertile indicate genetic resilience. Standard prevention approaches show good efficacy. Focus on environmental risk factors as genetics are protective. May benefit from understanding genetic resilience as a strength in treatment planning.
+  lay_description: Your genetic makeup includes many small protective factors that work together to reduce addiction risk - like having good genes for handling stress, processing rewards normally, and metabolizing substances efficiently. This genetic resilience provides a buffer against addiction.
+  key_mediators: Protective variants in COMT, BDNF, OPRM1, ADH1B, ALDH2, stress response genes
+  key_mechanisms: Efficient neurotransmitter metabolism, enhanced neural plasticity, robust stress response systems, effective substance metabolism
+  clinical_relevance: Lower genetic vulnerability allows environmental interventions to be highly effective, reduced need for pharmacological prevention
+  assessment_methods: Polygenic risk score calculation, SNP array analysis, protective variant screening, genomic resilience profiling
+  interventions: Standard prevention approaches, leverage genetic strengths in treatment, focus on environmental risk modification
+  prominent_models: Infinitesimal model with protective allele enrichment, liability threshold model with low genetic contribution
+- id: phy-gen-her-pol-dys
+  label: High Polygenic Burden
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Heritability Systems
+  cluster_id: phy-gen-her
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Risk polygenic profile
+  - High genetic risk score
+  - Vulnerability alleles
+  scope: High polygenic risk characterized by vulnerability variant accumulation, elevated cumulative genetic burden across thousands of SNPs, substantial SNP-based heritability contribution, and genetic architecture predisposing to addiction.
+  parent_scope_inheritance: Specifies the polygenic risk score and SNP-based heritability components of heritability systems, focusing on high-risk polygenic architectures with accumulated vulnerability.
+  polarity_expression: Manifests as polygenic risk scores in the highest quintiles, accumulation of risk alleles, high SNP-based heritability estimates, and convergent effects across multiple biological systems creating vulnerability.
+  cross_domain_resonance: Resonates with dysregulated neural plasticity (phy-neu-pla-dys), maladaptive cognitive patterns (psy-cog-pat-mal), and directionless meaning-making (exi-mea-con-dir) where genetic burden undermines adaptive capacity.
+  academic_description: GWAS meta-analyses identify risk variant accumulation with polygenic risk scores exceeding 80th percentile. SNP-based heritability accounts for 40-50% of phenotypic variance. Risk alleles affect dopamine signaling, stress response, impulse control, and metabolic pathways. Pathway analyses show convergent disruption.
+  clinical_description: Polygenic risk scores in top tertile indicate substantial genetic vulnerability requiring intensive prevention. Early intervention critical as genetic factors create vulnerability even in protective environments. Consider pharmacogenetic approaches and genetic counseling.
+  lay_description: Your genetic makeup includes many small risk factors that add up - affecting brain reward systems, stress responses, and impulse control. Like having many small weights on a scale, these genetic factors tip the balance toward addiction vulnerability, requiring extra prevention efforts.
+  key_mediators: Risk variants in DRD2, ANKK1, CHRNA5, GABRA2, CRHR1, multiple neurotransmitter genes
+  key_mechanisms: Disrupted reward processing, impaired impulse control, heightened stress reactivity, altered substance metabolism
+  clinical_relevance: High baseline genetic risk requires intensive prevention, increased vulnerability across substances, early onset common
+  assessment_methods: Comprehensive polygenic risk scoring, whole genome sequencing, pathway burden analysis, multi-gene panel testing
+  interventions: Intensive early prevention, pharmacogenetic medication selection, genetic counseling, family-based interventions
+  prominent_models: Omnigenic model with peripheral gene effects, burden threshold model, convergent pathway disruption framework
+- id: phy-gen-her-crs-reg
+  label: Substance-Specific Genetics
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Heritability Systems
+  cluster_id: phy-gen-her
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Low genetic correlation
+  - Specific vulnerability
+  - Distinct genetic factors
+  scope: Substance-specific genetic architecture with low cross-substance correlations, distinct vulnerability pathways for different substances, and genetic factors that confer risk for specific rather than general addiction phenotypes.
+  parent_scope_inheritance: Specifies the genetic correlation and shared factor components of heritability systems, focusing on substance-specific rather than general addiction liability.
+  polarity_expression: Manifests as low genetic correlations between different substance use disorders (<0.3), substance-specific risk alleles, and distinct biological pathways underlying vulnerability to different substances.
+  cross_domain_resonance: Resonates with specific behavioral patterns (psy-beh-pat-ada), targeted coping mechanisms (psy-cop-str-ada), and focused existential themes (exi-mea-foc-pur) where vulnerability is circumscribed rather than generalized.
+  academic_description: Genetic correlation studies show rg values <0.3 between different substances. Factor analyses identify substance-specific genetic factors with minimal common factor contribution. Distinct genes affect alcohol (ADH1B, ALDH2) versus nicotine (CHRNA5) versus opioid (OPRM1) use disorders.
+  clinical_description: Genetic risk confined to specific substances allows targeted prevention. Family history of alcohol problems doesn't strongly predict opioid risk. Substance-specific genetic testing and prevention strategies can be employed. Treatment can focus on particular vulnerability.
+  lay_description: Genetic risk for one substance doesn't necessarily mean risk for others - someone might have genes that make alcohol problematic but not affect their response to other drugs. This allows for targeted prevention based on specific genetic vulnerabilities.
+  key_mediators: Substance-specific metabolic enzymes, receptor variants unique to substance classes, targeted neurotransmitter genes
+  key_mechanisms: Independent genetic pathways, substance-specific metabolism, distinct receptor binding profiles, separate reward processing
+  clinical_relevance: Allows substance-specific prevention strategies, targeted risk assessment, focused intervention approaches
+  assessment_methods: Substance-specific polygenic scores, genetic correlation analysis, factor analysis of genetic risks
+  interventions: Targeted prevention for specific substances, substance-specific genetic counseling, focused treatment approaches
+  prominent_models: Independent pathway model, substance-specific liability model, distinct factor genetic architecture
+- id: phy-gen-her-crs-dys
+  label: Cross-Substance Genetics
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Heritability Systems
+  cluster_id: phy-gen-her
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - High genetic correlation
+  - General vulnerability
+  - Shared genetic factors
+  scope: Shared genetic architecture across substances with high cross-substance correlations, common vulnerability pathways affecting multiple substances, and genetic factors conferring general addiction liability regardless of specific substance.
+  parent_scope_inheritance: Specifies the genetic correlation and shared factor components of heritability systems, focusing on general addiction liability across substances.
+  polarity_expression: Manifests as high genetic correlations between substance use disorders (0.5-0.8), shared risk alleles affecting multiple substances, and common biological pathways underlying polysubstance vulnerability.
+  cross_domain_resonance: Resonates with generalized behavioral dysregulation (psy-beh-pat-mal), broad coping deficits (psy-cop-str-mal), and directionless existential searching (exi-mea-foc-dir) where vulnerability is generalized across domains.
+  academic_description: Large-scale genetic studies demonstrate rg values of 0.5-0.8 between alcohol, nicotine, cannabis, and other substances. Common factor analyses identify general addiction liability accounting for majority of genetic variance. Shared genes affect reward processing, impulse control, and stress response across substances.
+  clinical_description: High genetic correlation means vulnerability to one substance indicates risk for others. Family history of any addiction increases risk for all substances. Requires broad-spectrum prevention addressing general addiction liability. Polysubstance use common.
+  lay_description: Genetic risk for addiction is general rather than specific - the same genetic factors that make someone vulnerable to alcohol problems also increase risk for nicotine, cannabis, and other substances. It's like having a general sensitivity rather than a specific allergy.
+  key_mediators: Shared variants in dopamine system genes, common stress response alleles, general impulse control variants
+  key_mechanisms: Common reward pathway disruption, shared impulse control deficits, general stress vulnerability, cross-substance sensitization
+  clinical_relevance: Polysubstance vulnerability requires comprehensive prevention, increased risk for substance substitution, need for broad intervention
+  assessment_methods: General addiction polygenic scores, cross-substance genetic correlation matrices, common factor extraction
+  interventions: Comprehensive addiction prevention, broad-spectrum interventions, address general liability factors, polysubstance treatment approaches
+  prominent_models: Common liability model, general addiction factor framework, shared pathway disruption model
+- id: phy-gen-her-age-reg
+  label: Stable Genetic Influence
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Heritability Systems
+  cluster_id: phy-gen-her
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Consistent heritability
+  - Stable penetrance
+  - Age-invariant genetics
+  scope: Stable genetic influence across development with consistent heritability estimates from adolescence through adulthood, maintained environmental modulation, and genetic factors that remain equally penetrant across age groups.
+  parent_scope_inheritance: Specifies the gene-by-age interaction component of heritability systems, focusing on stable genetic influence across developmental stages.
+  polarity_expression: Manifests as consistent heritability estimates across ages (40-50%), stable genetic penetrance, maintained gene-environment interplay, and equal genetic influence in adolescence and adulthood.
+  cross_domain_resonance: Resonates with stable developmental trajectories (psy-dev-tra-ada), consistent life patterns (exi-tem-lif-pur), and maintained social roles (soc-rol-dev-coh) where genetic influence remains constant.
+  academic_description: Longitudinal twin studies show stable heritability from adolescence through adulthood. Age-stratified analyses demonstrate consistent genetic variance components. Gene-by-age interactions are minimal. Environmental factors maintain influence across development.
+  clinical_description: Genetic risk remains consistent across ages, allowing age-appropriate but similar prevention strategies throughout development. Environmental interventions remain effective at all ages. No critical periods for genetic vulnerability.
+  lay_description: Genetic influence on addiction risk stays about the same from teenage years through adulthood - genes don't become more or less important with age. This means prevention and treatment approaches can be consistent across different life stages.
+  key_mediators: Stable expression of neurotransmitter genes, consistent metabolic enzyme activity, maintained stress response genetics
+  key_mechanisms: Consistent genetic penetrance, stable gene expression patterns, maintained gene-environment correlation, uniform heritability
+  clinical_relevance: Consistent risk assessment across ages, environmental interventions effective throughout development, stable prevention strategies
+  assessment_methods: Age-stratified twin studies, longitudinal genetic analyses, developmental heritability modeling
+  interventions: Age-appropriate but consistent prevention, sustained environmental modification, continuous risk management
+  prominent_models: Stable heritability model, age-invariant genetic architecture, consistent penetrance framework
+- id: phy-gen-her-age-dys
+  label: Increasing Genetic Influence
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Heritability Systems
+  cluster_id: phy-gen-her
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Rising heritability
+  - Increasing penetrance
+  - Age-amplified genetics
+  scope: Increasing genetic influence across development with rising heritability from adolescence to adulthood, diminishing environmental modulation over time, and genetic factors becoming more deterministic with age.
+  parent_scope_inheritance: Specifies the gene-by-age interaction component of heritability systems, focusing on developmental amplification of genetic influence.
+  polarity_expression: Manifests as heritability increasing from 30% in adolescence to 60% in adulthood, strengthening genetic penetrance with age, diminishing environmental modulation, and genetic factors becoming increasingly deterministic.
+  cross_domain_resonance: Resonates with maladaptive developmental cascades (psy-dev-tra-mal), deteriorating life trajectories (exi-tem-lif-dir), and fragmenting social roles (soc-rol-dev-fra) where genetic vulnerability compounds over time.
+  academic_description: Longitudinal studies demonstrate heritability rising from 0.3 in adolescence to 0.6 by mid-adulthood. Gene-by-age interactions show increasing genetic variance with development. Environmental variance decreases proportionally. Genetic correlations strengthen across ages.
+  clinical_description: Genetic factors become more influential with age, making early intervention critical. Adolescence represents a window where environmental interventions are most effective before genetic factors consolidate. Adult-onset cases show stronger genetic determination.
+  lay_description: Genetic risk for addiction becomes stronger as people age - what starts as moderate genetic influence in teenage years becomes much stronger by adulthood. This means the window for prevention is especially important during adolescence before genetics become more set.
+  key_mediators: Age-dependent gene expression changes, developmental pruning of neural circuits, cumulative allostatic load on genetic systems
+  key_mechanisms: Gene-by-development interactions, increasing genetic canalization, diminishing plasticity, strengthening genetic penetrance
+  clinical_relevance: Critical importance of early intervention, diminishing efficacy of environmental interventions with age, need for age-stratified approaches
+  assessment_methods: Longitudinal twin studies, age-moderated genetic analyses, developmental trajectory modeling, gene-by-age interaction testing
+  interventions: Intensive early prevention in adolescence, age-stratified intervention protocols, genetic counseling emphasizing early intervention
+  prominent_models: Developmental amplification model, genetic canalization framework, age-moderated penetrance model

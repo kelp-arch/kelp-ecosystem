@@ -1,0 +1,125 @@
+clusters:
+  - id: psy-mot-drv
+    label: Drive Systems
+    forest: Psychological
+    forest_id: psy
+    field: Motivational
+    field_id: psy-mot
+    synonyms:
+      - Incentive salience
+      - Wanting
+      - Craving
+      - Motivational pull
+      - Appetitive motivation
+    scope: The energizing force and incentive salience that creates wanting and motivational pull toward substances or recovery activities. Includes craving intensity, cue-triggered wanting, motivational salience hierarchies, and the dissociation between wanting and liking. Excludes cognitive aspects of craving (cognitive field), emotional components (emotional field), and the source or quality of motivation (source cluster).
+    parent_scope_inheritance: Narrows the motivational field's drive states to focus specifically on incentive salience mechanisms and the intensity of motivational pull toward targets.
+    polarity_dimension: The appropriateness and balance of incentive attribution - from adaptive states with balanced motivation for natural rewards to maladaptive hypersensitization to drug cues.
+    emergence: Overall motivational intensity emerges from the integration of multiple incentive signals. The relative salience hierarchy between substance and natural rewards emerges from competing incentive attributions.
+    boundary_interfaces:
+      - Drive-conflict interface where competing incentives create ambivalence
+      - Drive-source interface where motivational quality affects incentive strength
+      - Drive-efficacy interface where confidence modulates motivational pull
+    child_generation_role: You are an incentive motivation specialist focusing on wanting, craving, and incentive salience in addiction. You analyze the motivational pull of drug cues versus natural rewards, distinguishing between adaptive states with balanced incentive attribution and maladaptive states showing incentive sensitization and pathological wanting. You examine urge intensity, cue-triggered wanting, motivational salience hierarchies, and the dissociation between wanting and liking. Your analysis draws on Robinson & Berridge's incentive sensitization theory and research on dopaminergic mechanisms of motivation.
+    academic_description: Drive systems encompass incentive salience mechanisms that attribute motivational value to stimuli. Incentive sensitization theory explains how repeated drug exposure sensitizes mesolimbic dopamine systems, causing drug cues to trigger excessive wanting independent of liking. This creates pathological motivation where substances acquire disproportionate incentive salience compared to natural rewards. The wanting system, mediated by dopamine, becomes dissociated from the liking system, mediated by opioids. Cue-reactivity research shows how drug-associated stimuli trigger motivational states through conditioned incentive processes. Natural reward deficiency in addiction reflects diminished incentive attribution to non-drug rewards.
+    clinical_description: Drive system interventions target the intensity and direction of motivational pull. Cue exposure therapy reduces cue-triggered wanting through extinction learning. Contingency management provides alternative incentives to compete with drug motivation. Mindfulness-based approaches help clients observe cravings without acting on them. Assessment includes craving scales, cue-reactivity measures, and motivational hierarchy evaluation. Pharmacological interventions may reduce incentive salience through dopaminergic modulation. Recovery involves rebalancing incentive attribution to favor natural rewards and recovery activities over substance use.
+    lay_description: This involves the pull or urge you feel toward using substances versus other activities. In addiction, drugs can hijack your brain's motivation system, making you intensely want them even when you don't actually enjoy them anymore. Drug cues like seeing paraphernalia or being in certain places can trigger powerful cravings. Meanwhile, normal pleasures like food, relationships, or hobbies may lose their motivational pull. Recovery involves reducing the magnetic pull of drugs while rebuilding motivation for healthy rewards.
+
+  - id: psy-mot-rdy
+    label: Change Readiness
+    forest: Psychological
+    forest_id: psy
+    field: Motivational
+    field_id: psy-mot
+    synonyms:
+      - Stages of change
+      - Readiness to change
+      - Motivational readiness
+      - Change motivation
+      - Stage progression
+    scope: Temporal progression through motivational states from precontemplation through maintenance. Includes stage assessment, readiness indicators, stage-specific motivational needs, and processes of change activation. Excludes the content of motivation (drive cluster), conflicting motivations (conflict cluster), and confidence to change (efficacy cluster).
+    parent_scope_inheritance: Narrows the motivational field's readiness to change components to focus on stage-based progression and temporal aspects of motivation.
+    polarity_dimension: The appropriateness of stage progression - from adaptive movement through stages to maladaptive stagnation, regression, or premature action attempts.
+    emergence: Overall readiness emerges from the integration of problem recognition, desire to change, and perceived ability. Stage transitions emerge from accumulation of stage-specific processes.
+    boundary_interfaces:
+      - Readiness-conflict interface where ambivalence determines contemplation stage
+      - Readiness-efficacy interface where confidence influences preparation and action
+      - Readiness-drive interface where motivational intensity affects stage progression
+    child_generation_role: You are a change readiness specialist focusing on stages of change and motivational progression in addiction recovery. You analyze precontemplation, contemplation, preparation, action, and maintenance stages, distinguishing between adaptive progression through stages and maladaptive patterns of stagnation or regression. You examine readiness indicators, stage-specific motivational needs, decisional balance shifts, and processes of change activation. Your analysis is grounded in the Transtheoretical Model and stage-matched intervention research.
+    academic_description: Change readiness reflects temporal progression through discrete motivational stages. The Transtheoretical Model identifies five stages, precontemplation (no intention to change), contemplation (considering change), preparation (planning change), action (implementing change), and maintenance (sustaining change). Each stage involves specific processes - consciousness raising and dramatic relief in early stages, self-liberation and reinforcement management in later stages. Decisional balance shifts from pros outweighing cons of use to cons outweighing pros. Readiness is multidimensional, encompassing problem recognition, desire for help, and treatment readiness. Stage-matched interventions show superior outcomes compared to action-oriented approaches for all stages.
+    clinical_description: Readiness assessment guides stage-appropriate interventions. Precontemplation requires consciousness-raising through feedback and education. Contemplation benefits from exploring ambivalence and decisional balance. Preparation involves concrete planning and commitment strategies. Action focuses on skill-building and coping strategies. Maintenance emphasizes relapse prevention and lifestyle balance. Assessment tools include the University of Rhode Island Change Assessment Scale and readiness rulers. Motivational interviewing techniques are tailored to stage - developing discrepancy in contemplation, strengthening commitment in preparation. Understanding stage regression as normal prevents demoralization during setbacks.
+    lay_description: Change readiness is like a journey with distinct stages. You might start not seeing any problem (precontemplation), then begin wondering if you should change (contemplation), start making plans (preparation), take action, and work to maintain changes. It's normal to move back and forth between stages rather than progressing in a straight line. What helps depends on where you are - if you're not ready to change, being pushed into action usually backfires. Each stage needs different support, from raising awareness early on to preventing relapse later.
+
+  - id: psy-mot-cnf
+    label: Motivational Conflict
+    forest: Psychological
+    forest_id: psy
+    field: Motivational
+    field_id: psy-mot
+    synonyms:
+      - Ambivalence
+      - Approach-avoidance
+      - Mixed motivation
+      - Conflicting drives
+      - Motivational discord
+    scope: Competing motivations and ambivalent states involving simultaneous desires for incompatible goals. Includes approach-avoidance conflicts, decisional balance dynamics, value conflicts, and ambivalence resolution processes. Excludes single-direction motivation (drive cluster), stage-based ambivalence (readiness cluster), and cognitive dissonance (cognitive field).
+    parent_scope_inheritance: Narrows the motivational field's ambivalence and conflict components to focus on the experience and resolution of competing motivational forces.
+    polarity_dimension: The productivity of ambivalence processing - from adaptive exploration leading to resolution to maladaptive paralysis maintaining status quo.
+    emergence: Motivational direction emerges from the resolution of competing forces. Commitment emerges from working through rather than avoiding ambivalence.
+    boundary_interfaces:
+      - Conflict-readiness interface where unresolved ambivalence maintains contemplation
+      - Conflict-source interface where different motivational sources create conflicts
+      - Conflict-drive interface where competing incentives generate ambivalence
+    child_generation_role: You are a motivational ambivalence specialist focusing on approach-avoidance conflicts and competing drives in addiction. You analyze simultaneous desires for incompatible goals, distinguishing between adaptive ambivalence that leads to resolution and maladaptive ambivalence that maintains status quo. You examine decisional balance, conflicting values, cognitive dissonance, and the push-pull of substance use motivations. Your analysis draws on approach-avoidance conflict theory and motivational interviewing research on ambivalence resolution.
+    academic_description: Motivational conflict arises from simultaneous activation of incompatible approach and avoidance tendencies. In addiction, substances generate approach motivation through positive reinforcement while simultaneously triggering avoidance through negative consequences. Miller and Rollnick's concept of ambivalence recognizes this as normal rather than pathological. Decisional balance theory examines how pros and cons are weighted. Approach-avoidance conflict theory predicts increased tension as one nears the goal. Double approach-avoidance conflicts involve multiple goals with mixed valences. Resolution occurs through exploring rather than suppressing ambivalence, developing discrepancy between behavior and values, and tipping decisional balance toward change.
+    clinical_description: Conflict resolution interventions normalize and explore ambivalence rather than confronting resistance. Motivational interviewing develops discrepancy between current behavior and important values. Decisional balance exercises explicitly compare pros and cons of use versus change. Values clarification helps identify core motivations that transcend immediate conflicts. Two-chair techniques allow dialogue between conflicting parts. Rolling with resistance prevents entrenchment of anti-change motivation. Assessment includes ambivalence scales, decisional balance questionnaires, and exploring the good things and not-so-good things about use. Resolution indicators include decreased ambivalence scores and increased change talk.
+    lay_description: Feeling torn between wanting to quit and wanting to continue using is completely normal - it's called ambivalence. You might simultaneously hate what addiction does to your life while fearing life without substances. This push-pull creates an exhausting internal battle. Rather than picking a side prematurely, exploring both sides of your ambivalence helps you understand what really matters to you. Change happens not when ambivalence disappears but when reasons for change outweigh reasons to continue. It's like having two voices in your head that need to have a conversation rather than a shouting match.
+
+  - id: psy-mot-eff
+    label: Self-Efficacy
+    forest: Psychological
+    forest_id: psy
+    field: Motivational
+    field_id: psy-mot
+    synonyms:
+      - Confidence
+      - Capability beliefs
+      - Mastery expectations
+      - Can-do beliefs
+      - Perceived competence
+    scope: Beliefs about capability to achieve change and resist substance use. Includes abstinence self-efficacy, coping self-efficacy, recovery self-efficacy, sources of efficacy information, and situation-specific confidence. Excludes actual skills (behavioral field), self-esteem (personality field), and outcome expectations (cognitive field).
+    parent_scope_inheritance: Narrows the motivational field's self-efficacy components to focus on confidence beliefs that energize and sustain change efforts.
+    polarity_dimension: The accuracy and functionality of efficacy beliefs - from adaptive realistic confidence to maladaptive learned helplessness or overconfidence.
+    emergence: Generalized recovery efficacy emerges from accumulation of specific situational confidences. Resilient efficacy emerges from successfully managing challenges.
+    boundary_interfaces:
+      - Efficacy-readiness interface where confidence influences stage progression
+      - Efficacy-drive interface where capability beliefs modulate motivational strength
+      - Efficacy-source interface where competence needs affect motivational quality
+    child_generation_role: You are a self-efficacy specialist focusing on capability beliefs and confidence in addiction recovery. You analyze abstinence self-efficacy, coping self-efficacy, and recovery self-efficacy, distinguishing between adaptive confidence that facilitates change and maladaptive patterns of learned helplessness or overconfidence. You examine sources of efficacy information, situation-specific confidence, efficacy-outcome relationships, and collective efficacy in recovery communities. Your analysis is grounded in Bandura's self-efficacy theory and addiction-specific efficacy research.
+    academic_description: "Self-efficacy represents beliefs about one's capability to execute behaviors required for specific outcomes. Bandura identified four sources mastery experiences (strongest source), vicarious experience, verbal persuasion, and physiological states. In addiction, abstinence self-efficacy predicts treatment outcomes better than motivation alone. Marlatt's relapse prevention model emphasizes coping self-efficacy for high-risk situations. Efficacy is situation-specific - confidence varies across different triggers and contexts. The abstinence violation effect demonstrates how efficacy collapse following a lapse predicts full relapse. Recovery self-efficacy encompasses broader capability beliefs about rebuilding life beyond mere abstinence. Collective efficacy in recovery communities provides additional motivational resources."
+    clinical_description: Efficacy building systematically enhances confidence through graduated challenges. Mastery experiences involve succeeding at progressively difficult tasks. Vicarious learning uses peer models who've overcome similar challenges. Verbal persuasion provides credible encouragement and reframes past successes. Managing physiological arousal reduces anxiety that undermines efficacy. Assessment includes the Drug Taking Confidence Questionnaire and situational confidence ratings. Interventions identify high-risk situations with low efficacy for targeted skill-building. Relapse prevention planning builds coping efficacy. Success experiences are highlighted to build efficacy momentum. Overconfidence is addressed through realistic appraisal of ongoing vulnerability.
+    lay_description: Self-efficacy is your belief in your ability to stay clean and build recovery. It's not about whether you want to change but whether you believe you can. This confidence is built through small successes, seeing others like you succeed, encouragement from people you trust, and learning to manage anxiety. Your confidence might be high for some situations (like refusing drugs from strangers) but low for others (like handling stress without using). Building real confidence means practicing skills, celebrating small wins, and learning from setbacks without giving up entirely. It's about developing a realistic "I can do this" attitude.
+
+  - id: psy-mot-src
+    label: Motivational Source
+    forest: Psychological
+    forest_id: psy
+    field: Motivational
+    field_id: psy-mot
+    synonyms:
+      - Intrinsic motivation
+      - Extrinsic motivation
+      - Autonomous regulation
+      - Controlled motivation
+      - Self-determination
+    scope: Origins and quality of motivation ranging from external pressure to integrated values. Includes the internalization continuum, basic psychological needs (autonomy, competence, relatedness), self-determination, and motivational quality. Excludes motivational strength (drive cluster), specific goals (cognitive field), and trait autonomy (personality field).
+    parent_scope_inheritance: Narrows the motivational field's intrinsic/extrinsic and self-determination components to focus on the source and quality of motivational regulation.
+    polarity_dimension: The degree of autonomous self-regulation - from adaptive intrinsic motivation and integrated regulation to maladaptive external control or amotivation.
+    emergence: Autonomous motivation emerges from satisfaction of basic psychological needs. Sustained change emerges from internalization of initially external motivations.
+    boundary_interfaces:
+      - Source-drive interface where motivational quality affects incentive strength
+      - Source-conflict interface where different sources create competing motivations
+      - Source-efficacy interface where competence needs influence confidence
+    child_generation_role: You are a motivational source specialist focusing on intrinsic and extrinsic motivation in addiction recovery. You analyze the continuum from external regulation through introjection and identification to integration, distinguishing between adaptive autonomous motivation and maladaptive controlled motivation or amotivation. You examine basic psychological needs, internalization processes, motivational quality, and the role of autonomy, competence, and relatedness. Your analysis draws on Self-Determination Theory and research on autonomous versus controlled motivation in addiction treatment.
+    academic_description: Self-Determination Theory distinguishes motivational quality along a continuum of internalization. External regulation involves compliance with external demands. Introjected regulation involves internal pressure and guilt. Identified regulation involves personal importance and conscious valuing. Integrated regulation aligns with other values and needs. Intrinsic motivation involves inherent satisfaction. Autonomous motivation (identified, integrated, intrinsic) predicts better treatment outcomes than controlled motivation (external, introjected). Basic psychological needs for autonomy (volition), competence (effectiveness), and relatedness (connection) foster autonomous motivation. Need thwarting produces controlled motivation or amotivation. Internalization transforms external reasons into personally endorsed values.
+    clinical_description: Source-focused interventions enhance autonomous motivation through need support. Autonomy support involves offering choices, acknowledging perspectives, and minimizing control. Competence support provides optimal challenges, clear structure, and positive feedback. Relatedness support creates genuine connection and unconditional regard. Assessment includes the Treatment Self-Regulation Questionnaire measuring motivational quality. Interventions help clients identify their own reasons for change rather than imposing external rationales. Values exploration connects recovery to intrinsic aspirations. Motivational interviewing's spirit of collaboration, evocation, and autonomy aligns with SDT principles. Coercion and confrontation undermine autonomous motivation.
+    lay_description: The source of your motivation matters as much as its strength. External pressure from family, courts, or employers might get you into treatment, but lasting change comes from finding your own reasons. There's a spectrum from doing it because you have to, to feeling guilty if you don't, to believing it's important, to it becoming part of who you are. The most powerful motivation comes from within - when recovery connects to what you truly value and who you want to be. This happens when you feel you're choosing freely, becoming more capable, and connecting with others who support the real you.

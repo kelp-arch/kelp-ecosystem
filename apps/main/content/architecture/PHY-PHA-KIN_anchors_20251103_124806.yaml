@@ -1,0 +1,220 @@
+# Generated anchors for cluster: PHY-PHA-KIN
+# Timestamp: 20251103_124806
+
+anchors:
+- id: phy-pha-kin-abs-reg
+  label: Regulated Absorption
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Pharmacokinetic Systems
+  cluster_id: phy-pha-kin
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal bioavailability
+  - Predictable absorption
+  - Stable GI uptake
+  scope: Normal drug absorption through intact gastrointestinal epithelium with predictable first-pass metabolism, consistent bioavailability, and stable absorption kinetics enabling reliable systemic drug exposure.
+  parent_scope_inheritance: Specifies the absorption component of ADME processes, focusing on predictable drug entry into systemic circulation through oral and other routes.
+  polarity_expression: Manifests as consistent bioavailability percentages, predictable time to peak concentration, stable absorption rate constants, and reliable dose-concentration relationships.
+  cross_domain_resonance: Resonates with psy-cog-att-ada (sustained attention for medication timing), soc-the-adh-coh (consistent medication-taking behaviors), and exi-mea-hop-pur (purposeful treatment engagement).
+  academic_description: Regulated absorption involves functional intestinal epithelial barriers, active and passive transport mechanisms, normal gastric emptying, and predictable first-pass metabolism through intestinal and hepatic enzymes, resulting in consistent fraction of administered dose reaching systemic circulation.
+  clinical_description: Patients with regulated absorption show predictable drug levels after oral dosing, consistent therapeutic responses, minimal need for dose adjustments, and reliable pharmacokinetic parameters that match population norms, facilitating straightforward dosing regimens.
+  lay_description: When your digestive system works normally, medications are absorbed predictably - like how a healthy sponge consistently soaks up the same amount of water each time, giving reliable effects from standard doses.
+  key_mediators: P-glycoprotein transporters, organic anion transporting polypeptides (OATP), intestinal CYP3A4, gastric pH regulators, bile salts
+  key_mechanisms: Passive diffusion across lipid membranes, carrier-mediated transport, paracellular absorption, intestinal blood flow regulation, gastric emptying control
+  clinical_relevance: Enables standard dosing regimens, predictable therapeutic outcomes, minimal titration requirements, consistent medication effectiveness
+  assessment_methods: Bioavailability studies, peak concentration timing, absorption rate constants, food effect studies, drug concentration curves
+  interventions: Consistent dosing schedules, appropriate formulation selection, food timing optimization, maintenance of GI health, avoidance of absorption inhibitors
+  prominent_models: First-order absorption kinetics, compartmental absorption models, physiologically-based pharmacokinetic (PBPK) modeling
+- id: phy-pha-kin-abs-dys
+  label: Dysregulated Absorption
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Pharmacokinetic Systems
+  cluster_id: phy-pha-kin
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Erratic bioavailability
+  - Variable absorption
+  - Unpredictable uptake
+  scope: Altered drug absorption due to gastrointestinal dysfunction, damaged epithelium, transporter saturation or inhibition, variable first-pass metabolism, or drug-drug interactions resulting in unpredictable systemic exposure.
+  parent_scope_inheritance: Specifies the absorption component of ADME processes when disrupted, focusing on variable and unpredictable drug entry into systemic circulation.
+  polarity_expression: Manifests as erratic bioavailability, unpredictable peak concentrations, variable absorption rates, dose-dumping phenomena, and inconsistent therapeutic responses.
+  cross_domain_resonance: Resonates with psy-cog-att-mal (inconsistent medication timing), soc-the-adh-fra (fragmented treatment adherence), and exi-mea-hop-dir (directionless treatment approach).
+  academic_description: Dysregulated absorption involves compromised intestinal barriers, altered transporter expression or function, gastroparesis or rapid transit, variable first-pass metabolism due to enzyme induction or inhibition, and pH-dependent solubility issues affecting drug dissolution and absorption.
+  clinical_description: Patients show highly variable drug levels despite consistent dosing, therapeutic failures alternating with toxicity, need for frequent dose adjustments, alternative routes of administration, or therapeutic drug monitoring to achieve stable effects.
+  lay_description: When your digestive system is disrupted, medications absorb unpredictably - like a damaged sponge that sometimes soaks up too much, sometimes too little, making it hard to get consistent effects from the same dose.
+  key_mediators: Inflammatory cytokines affecting transporters, altered P-glycoprotein expression, variable CYP3A4 activity, abnormal gastric pH, disrupted bile flow
+  key_mechanisms: Epithelial barrier dysfunction, transporter saturation or inhibition, altered gastric emptying, variable intestinal transit, drug-drug competition for absorption sites
+  clinical_relevance: Therapeutic failures, unexpected toxicity, need for dose individualization, consideration of alternative routes, increased monitoring requirements
+  assessment_methods: Therapeutic drug monitoring, pharmacokinetic profiling, absorption variability studies, drug interaction screening, GI function tests
+  interventions: Alternative administration routes, dose titration based on levels, separation of interacting drugs, GI motility agents, therapeutic drug monitoring protocols
+  prominent_models: Saturable absorption models, drug interaction prediction models, disease-drug interaction frameworks
+- id: phy-pha-kin-dis-reg
+  label: Regulated Distribution
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Pharmacokinetic Systems
+  cluster_id: phy-pha-kin
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal protein binding
+  - Predictable tissue distribution
+  - Stable partitioning
+  scope: Normal drug distribution throughout body compartments with stable protein binding, predictable volume of distribution, appropriate tissue penetration, and consistent free drug fractions at target sites.
+  parent_scope_inheritance: Specifies the distribution component of ADME processes, focusing on predictable drug movement from blood to tissues and target sites.
+  polarity_expression: Manifests as consistent volume of distribution values, stable free drug percentages, predictable tissue-to-plasma ratios, and reliable central nervous system penetration when appropriate.
+  cross_domain_resonance: Resonates with phy-car-per-reg (normal tissue perfusion), phy-ren-vol-reg (normal fluid balance), and phy-hem-pla-reg (normal plasma proteins).
+  academic_description: Regulated distribution involves normal albumin and alpha-1-acid glycoprotein levels maintaining consistent protein binding, intact blood-tissue barriers, appropriate tissue perfusion, and predictable partitioning based on drug lipophilicity and ionization.
+  clinical_description: Patients exhibit predictable drug distribution allowing standard weight-based dosing, consistent free drug levels, expected tissue penetration including CNS when needed, and reliable loading dose calculations for rapid therapeutic levels.
+  lay_description: Your blood carries medications throughout your body predictably, like a delivery system that reliably distributes packages to the right addresses in the right amounts, ensuring medicine reaches where it needs to go.
+  key_mediators: Albumin, alpha-1-acid glycoprotein, lipoproteins, tissue binding proteins, blood-brain barrier transporters
+  key_mechanisms: Reversible protein binding equilibrium, transcapillary exchange, tissue partitioning, blood-brain barrier transport, lymphatic distribution
+  clinical_relevance: Enables standard dosing calculations, predictable tissue concentrations, reliable CNS effects for centrally-acting drugs, consistent therapeutic outcomes
+  assessment_methods: Protein binding studies, volume of distribution calculations, tissue concentration measurements, CSF drug levels, imaging studies of drug distribution
+  interventions: Weight-based dosing, standard loading doses, routine therapeutic ranges, predictable dose adjustments for body composition
+  prominent_models: Two-compartment distribution models, physiological distribution models, protein binding equations, tissue partition coefficient models
+- id: phy-pha-kin-dis-dys
+  label: Dysregulated Distribution
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Pharmacokinetic Systems
+  cluster_id: phy-pha-kin
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Altered protein binding
+  - Variable tissue distribution
+  - Abnormal partitioning
+  scope: Altered drug distribution due to hypoalbuminemia, protein binding displacement, edema, ascites, altered tissue perfusion, or blood-brain barrier disruption resulting in unpredictable drug concentrations at target sites.
+  parent_scope_inheritance: Specifies the distribution component of ADME processes when disrupted, focusing on abnormal drug movement and accumulation patterns.
+  polarity_expression: Manifests as variable free drug fractions, unexpected tissue accumulation, altered CNS penetration, fluid shift effects, and inconsistent therapeutic responses despite appropriate dosing.
+  cross_domain_resonance: Resonates with phy-car-per-dys (impaired perfusion), phy-ren-vol-dys (fluid overload), and phy-hem-pla-dys (protein abnormalities).
+  academic_description: Dysregulated distribution involves hypoalbuminemia increasing free drug fractions, competitive protein binding displacement, third-space fluid accumulation altering volume of distribution, and compromised blood-tissue barriers affecting drug penetration and accumulation.
+  clinical_description: Patients show unexpected drug effects due to altered free drug levels, toxicity from protein binding displacement, need for free drug monitoring, dose adjustments for edema or ascites, and unpredictable CNS effects from barrier disruption.
+  lay_description: When your body's delivery system is disrupted - like low protein levels or excess fluid - medications distribute unpredictably, sometimes accumulating where they shouldn't or not reaching where they're needed.
+  key_mediators: Inflammatory mediators affecting barriers, uremic toxins displacing drugs, altered albumin glycation, abnormal lipoprotein levels
+  key_mechanisms: Competitive protein binding displacement, increased capillary permeability, third-space sequestration, blood-brain barrier disruption, altered tissue binding
+  clinical_relevance: Risk of toxicity from increased free drug, therapeutic failure from sequestration, need for free drug monitoring, complex dosing in edematous states
+  assessment_methods: Free drug level monitoring, ultrafiltration studies, imaging of drug accumulation, protein binding assays, assessment of fluid status
+  interventions: Free drug level-guided dosing, management of underlying protein loss, diuresis for fluid overload, avoidance of displacing drugs, adjusted loading doses
+  prominent_models: Protein binding displacement models, edema distribution models, disease-specific distribution alterations
+- id: phy-pha-kin-met-reg
+  label: Regulated Metabolism
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Pharmacokinetic Systems
+  cluster_id: phy-pha-kin
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Stable enzyme function
+  - Predictable biotransformation
+  - Normal metabolic capacity
+  scope: Normal drug metabolism through stable cytochrome P450 enzyme expression and phase II conjugation systems, typical metabolizer genotypes, and predictable metabolic clearance rates.
+  parent_scope_inheritance: Specifies the metabolism component of ADME processes, focusing on predictable enzymatic drug biotransformation in liver and other tissues.
+  polarity_expression: Manifests as consistent metabolic clearance rates, expected metabolite formation, predictable drug half-lives, minimal drug interactions, and stable dose-concentration relationships.
+  cross_domain_resonance: Resonates with phy-hep-det-reg (normal detoxification), phy-gen-exp-reg (stable gene expression), and phy-mit-ene-reg (normal cellular energy for metabolism).
+  academic_description: Regulated metabolism involves constitutive expression of phase I enzymes (CYP450 family) performing oxidation, reduction, and hydrolysis, coupled with phase II conjugation (glucuronidation, sulfation, acetylation) maintaining predictable drug clearance and metabolite patterns.
+  clinical_description: Patients demonstrate predictable drug half-lives allowing standard dosing intervals, minimal unexpected drug interactions, consistent therapeutic responses, and typical dose requirements matching population pharmacokinetics.
+  lay_description: Your liver processes medications like a well-functioning factory with consistent workers (enzymes) that break down drugs at predictable rates, ensuring medications last the expected time in your body.
+  key_mediators: CYP3A4, CYP2D6, CYP2C9, CYP2C19, UGT enzymes, sulfotransferases, N-acetyltransferases, glutathione S-transferases
+  key_mechanisms: Phase I oxidation/reduction, phase II conjugation, sequential metabolism, first-pass effect, extrahepatic metabolism
+  clinical_relevance: Enables standard dosing regimens, predictable drug interactions, consistent therapeutic duration, reliable steady-state achievement
+  assessment_methods: Metabolite ratio testing, pharmacokinetic profiling, enzyme activity assays, genotyping for major variants, drug interaction studies
+  interventions: Standard dosing schedules, routine drug selection, predictable interaction management, conventional therapeutic monitoring
+  prominent_models: Michaelis-Menten kinetics, well-stirred liver model, enzyme kinetic models, population pharmacokinetic models
+- id: phy-pha-kin-met-dys
+  label: Dysregulated Metabolism
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Pharmacokinetic Systems
+  cluster_id: phy-pha-kin
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Altered enzyme activity
+  - Variable biotransformation
+  - Abnormal metabolic capacity
+  scope: Altered drug metabolism due to enzyme induction, inhibition, genetic polymorphisms causing ultra-rapid or poor metabolizer phenotypes, or saturated conjugation pathways resulting in unpredictable drug clearance.
+  parent_scope_inheritance: Specifies the metabolism component of ADME processes when disrupted, focusing on abnormal enzymatic drug biotransformation patterns.
+  polarity_expression: Manifests as highly variable drug half-lives, unexpected metabolite accumulation, treatment resistance or toxicity, significant drug interactions, and need for individualized dosing.
+  cross_domain_resonance: Resonates with phy-hep-det-dys (impaired detoxification), phy-gen-exp-dys (altered gene expression), and phy-inf-cyt-dys (inflammatory effects on enzymes).
+  academic_description: Dysregulated metabolism involves enzyme induction accelerating clearance, competitive or mechanism-based inhibition slowing metabolism, genetic variants causing absent or overactive enzymes, and saturable metabolism leading to non-linear kinetics.
+  clinical_description: Patients exhibit treatment failure from ultra-rapid metabolism, toxicity from poor metabolism, major drug interactions requiring dose adjustments or drug changes, need for pharmacogenetic testing, and therapeutic drug monitoring for dose optimization.
+  lay_description: Your liver's drug-processing factory has workers (enzymes) that are either working overtime, on strike, or genetically different, causing medications to be broken down too quickly or too slowly, making standard doses ineffective or toxic.
+  key_mediators: Induced or inhibited CYP enzymes, variant alleles (CYP2D6*4, CYP2C19*2), drug interaction perpetrators, inflammatory cytokines
+  key_mechanisms: Enzyme induction via nuclear receptors, competitive inhibition, mechanism-based inactivation, genetic loss or gain of function, metabolic saturation
+  clinical_relevance: Treatment resistance, unexpected toxicity, complex drug interactions, need for genotype-guided dosing, therapeutic drug monitoring requirements
+  assessment_methods: Pharmacogenetic testing, phenotyping with probe drugs, therapeutic drug monitoring, metabolite profiling, drug interaction screening
+  interventions: Genotype-guided dosing, alternative drug selection, dose adjustments for interactions, therapeutic drug monitoring protocols, avoidance of inhibitors/inducers
+  prominent_models: Pharmacogenetic dosing algorithms, drug interaction prediction models, physiologically-based pharmacokinetic modeling for special populations
+- id: phy-pha-kin-eli-reg
+  label: Regulated Elimination
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Pharmacokinetic Systems
+  cluster_id: phy-pha-kin
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal clearance
+  - Predictable excretion
+  - Stable elimination
+  scope: Normal drug elimination through functional renal filtration, tubular secretion, and biliary excretion with predictable clearance rates and appropriate drug removal from the body.
+  parent_scope_inheritance: Specifies the elimination component of ADME processes, focusing on predictable drug removal through renal and hepatobiliary routes.
+  polarity_expression: Manifests as consistent clearance rates, predictable half-lives, normal accumulation to steady-state, expected dosing frequencies, and stable trough concentrations.
+  cross_domain_resonance: Resonates with phy-ren-fil-reg (normal kidney filtration), phy-hep-exc-reg (normal biliary function), and phy-car-per-reg (adequate organ perfusion).
+  academic_description: Regulated elimination involves glomerular filtration of unbound drug, active tubular secretion via organic anion and cation transporters, potential tubular reabsorption, and hepatic excretion through bile, maintaining predictable total body clearance.
+  clinical_description: Patients show predictable drug accumulation patterns, standard dosing intervals maintain therapeutic levels, normal renal function allows typical dose adjustments for age, and steady-state is achieved within expected timeframes.
+  lay_description: Your kidneys and liver work like efficient waste removal systems, filtering and eliminating medications at predictable rates, ensuring drugs don't build up to dangerous levels while maintaining therapeutic effects.
+  key_mediators: Organic anion transporters (OAT), organic cation transporters (OCT), P-glycoprotein, BCRP, MRP transporters
+  key_mechanisms: Glomerular filtration, proximal tubular secretion, distal tubular reabsorption, biliary excretion, enterohepatic recirculation
+  clinical_relevance: Enables standard dosing frequencies, predictable steady-state achievement, routine renal dose adjustments, consistent therapeutic levels
+  assessment_methods: Creatinine clearance, GFR estimation, drug clearance studies, urinary excretion measurements, biliary imaging
+  interventions: Standard dosing intervals, routine renal function monitoring, age-appropriate dose adjustments, conventional steady-state calculations
+  prominent_models: First-order elimination kinetics, renal clearance equations, compartmental elimination models, population clearance models
+- id: phy-pha-kin-eli-dys
+  label: Dysregulated Elimination
+  forest: Physiological
+  forest_id: phy
+  field: Pharmacological
+  field_id: phy-pha
+  cluster: Pharmacokinetic Systems
+  cluster_id: phy-pha-kin
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired clearance
+  - Reduced excretion
+  - Accumulation risk
+  scope: Impaired drug elimination due to reduced glomerular filtration, tubular dysfunction, cholestasis, or decreased organ perfusion resulting in drug accumulation and prolonged effects.
+  parent_scope_inheritance: Specifies the elimination component of ADME processes when disrupted, focusing on inadequate drug removal leading to accumulation.
+  polarity_expression: Manifests as prolonged half-lives, drug accumulation above therapeutic ranges, extended time to steady-state, toxicity from standard doses, and need for major dose reductions.
+  cross_domain_resonance: Resonates with phy-ren-fil-dys (kidney dysfunction), phy-hep-exc-dys (biliary obstruction), and phy-car-per-dys (reduced organ perfusion).
+  academic_description: Dysregulated elimination involves decreased GFR from acute or chronic kidney disease, competition for tubular transporters, cholestatic inhibition of biliary excretion, and reduced organ perfusion, leading to decreased total body clearance and drug accumulation.
+  clinical_description: Patients require significant dose reductions or extended intervals, show drug accumulation despite reduced doses, experience toxicity from normally safe doses, need careful monitoring during initiation, and may require alternative drugs eliminated by preserved pathways.
+  lay_description: When your kidneys or liver can't properly eliminate medications, drugs build up like a backed-up drain, causing toxic levels from normal doses and requiring careful dose adjustments to prevent dangerous accumulation.
+  key_mediators: Uremic toxins inhibiting transporters, inflammatory mediators, accumulated metabolites, competing endogenous substances
+  key_mechanisms: Reduced glomerular filtration, tubular transporter dysfunction, competitive inhibition, cholestatic impairment, decreased hepatic blood flow
+  clinical_relevance: High toxicity risk, need for dose adjustments, prolonged drug effects, accumulation of active metabolites, complex dosing in organ failure
+  assessment_methods: Serial drug level monitoring, GFR/creatinine clearance tracking, assessment of cholestasis markers, drug accumulation studies
+  interventions: Dose reduction protocols, extended dosing intervals, alternative elimination route drugs, dialysis considerations, careful titration strategies
+  prominent_models: Kidney disease dosing nomograms, hepatic impairment adjustment models, accumulation prediction equations

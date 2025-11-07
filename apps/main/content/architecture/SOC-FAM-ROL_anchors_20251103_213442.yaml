@@ -1,0 +1,388 @@
+# Generated anchors for cluster: SOC-FAM-ROL
+# Timestamp: 20251103_213442
+
+anchors:
+- id: soc-fam-rol-enb-coh
+  label: Supportive Boundaries
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Healthy support
+  - Appropriate boundaries
+  - Natural consequences
+  scope: Family members provide emotional support while maintaining clear boundaries that allow the addicted member to experience natural consequences of their behavior, fostering accountability and motivation for change.
+  parent_scope_inheritance: Specifies the enabling behavior aspect of role dynamics, focusing on how families can support recovery through appropriate boundary-setting rather than protective overinvolvement.
+  polarity_expression: Manifests as flexible, differentiated support that respects individual autonomy while maintaining connection, allowing both care and consequences to coexist.
+  cross_domain_resonance: Resonates with psy-cog-exe-bou-ada (psychological boundaries), phy-neu-pfc-inh-reg (behavioral inhibition), and exi-mea-res-acc-pur (accepting responsibility).
+  academic_description: Research demonstrates that allowing natural consequences while providing emotional support creates optimal conditions for change motivation. Studies show families trained in CRAFT (Community Reinforcement and Family Training) achieve better outcomes by reinforcing sobriety while permitting consequences for use.
+  clinical_description: Assessment identifies specific enabling behaviors through behavioral analysis and consequence mapping. Interventions include CRAFT training, boundary-setting exercises, and coaching families to step back from protective behaviors while maintaining emotional availability.
+  lay_description: Healthy family support means caring about someone without protecting them from every consequence. It's letting them face the results of their choices while still being there emotionally - like not calling in sick for them but offering to talk about their struggles.
+  structural_components: Clear role boundaries, consistent consequence enforcement, emotional availability without behavioral rescue
+  social_processes: Natural consequence allowance, emotional validation, autonomy support, accountability reinforcement
+  societal_relevance: Promotes recovery-supportive family environments that balance care with responsibility
+- id: soc-fam-rol-enb-fra
+  label: Enabling Protection
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Enabling behaviors
+  - Protective overinvolvement
+  - Consequence prevention
+  scope: Family members systematically shield the addicted person from experiencing consequences through protective behaviors like making excuses, covering responsibilities, and preventing natural outcomes that might motivate change.
+  parent_scope_inheritance: Specifies the enabling behavior aspect of role dynamics, showing how rigid protective patterns maintain addiction by preventing the natural consequences that could motivate recovery.
+  polarity_expression: Manifests as rigid, enmeshed protection that eliminates boundaries between family members' responsibilities, creating a system where consequences are absorbed by others.
+  cross_domain_resonance: Resonates with psy-cog-exe-bou-mal (boundary dissolution), phy-neu-pfc-inh-dys (disinhibition), and exi-mea-res-avo-dir (responsibility avoidance).
+  academic_description: Enabling behaviors prevent the natural consequences that create motivation for change. Research shows families who consistently shield members from consequences inadvertently reinforce addiction patterns. Studies demonstrate enabling correlates with longer addiction duration and poorer treatment outcomes.
+  clinical_description: Assessment identifies patterns of calling in sick, paying bills, making excuses, and cleaning up messes. Interventions focus on recognizing enabling, understanding its function, and developing alternatives through psychoeducation and behavioral experiments with allowing consequences.
+  lay_description: Enabling means protecting someone from the consequences of their addiction - calling their boss with excuses, paying their overdue bills, cleaning up their messes. While meant to help, it actually prevents them from feeling the need to change.
+  structural_components: Blurred responsibility boundaries, systematic consequence absorption, protective behavioral patterns
+  social_processes: Excuse-making, responsibility assumption, consequence prevention, reality distortion
+  societal_relevance: Perpetuates addiction cycles within families and communities by preventing natural recovery motivators
+- id: soc-fam-rol-cdp-coh
+  label: Differentiated Care
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Healthy differentiation
+  - Balanced caregiving
+  - Self-care with support
+  scope: Family members maintain their own identity and self-care practices while appropriately supporting the addicted member, preserving personal boundaries and individual development alongside family involvement.
+  parent_scope_inheritance: Addresses the codependency aspect of role dynamics, showing how healthy families maintain individual differentiation while providing support rather than losing identity in caretaking roles.
+  polarity_expression: Manifests as flexible, supportive engagement that maintains clear self-other boundaries, allowing both personal development and family connection.
+  cross_domain_resonance: Resonates with psy-dev-att-sec-ada (secure attachment), exi-aut-slf-dif-pur (self-differentiation), and phy-str-cor-bal-reg (stress regulation).
+  academic_description: Bowen's differentiation of self concept explains how maintaining individual identity while staying connected promotes family health. Research shows differentiated family members provide more effective support without burnout. Studies demonstrate correlation between caregiver self-care and positive recovery outcomes.
+  clinical_description: Assessment evaluates self-care practices, personal goals, and identity beyond caregiving role. Interventions include individual therapy for differentiation, self-care planning, boundary exercises, and practicing 'I' statements to maintain individual perspective within family context.
+  lay_description: Healthy family members keep their own identity while caring for someone with addiction. They have their own friends, hobbies, and goals. They help without losing themselves - like putting on your own oxygen mask first on an airplane.
+  structural_components: Individual identity maintenance, personal boundary clarity, balanced investment distribution
+  social_processes: Self-care practices, individual goal pursuit, differentiated emotional responses, autonomous decision-making
+  societal_relevance: Models healthy relationship patterns that prevent caregiver burnout and promote sustainable support systems
+- id: soc-fam-rol-cdp-fra
+  label: Codependent Enmeshment
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Codependency
+  - Identity fusion
+  - Caretaker preoccupation
+  scope: Family members lose their individual identity through obsessive focus on controlling or managing the addiction, becoming completely preoccupied with the addicted person's behavior at the expense of their own development.
+  parent_scope_inheritance: Addresses the codependency aspect of role dynamics, showing how rigid enmeshment patterns create identity fusion where family members lose themselves in attempts to control addiction.
+  polarity_expression: Manifests as rigid, enmeshed preoccupation that dissolves self-other boundaries, creating identity fusion with the caretaker role.
+  cross_domain_resonance: Resonates with psy-dev-att-anx-mal (anxious attachment), exi-aut-slf-fus-dir (self-fusion), and phy-str-cor-chr-dys (chronic stress activation).
+  academic_description: Codependency involves excessive emotional, social, and physical reliance on a relationship with an addicted person. Beattie's work identifies how codependents become obsessed with controlling others' behavior. Research shows codependency correlates with anxiety, depression, and loss of self-identity.
+  clinical_description: Assessment identifies obsessive monitoring, neglect of personal needs, and preoccupation with controlling addiction. Treatment includes Al-Anon participation, individual therapy for differentiation, codependency groups, and exercises in detachment with love.
+  lay_description: Codependency means becoming so focused on someone else's addiction that you lose yourself. Your whole life revolves around watching them, worrying about them, trying to control their drinking or drug use. You forget who you are outside of being their caretaker.
+  structural_components: Identity fusion with caretaker role, dissolved personal boundaries, obsessive relational focus
+  social_processes: Constant monitoring, control attempts, self-neglect, emotional fusion, rescue behaviors
+  societal_relevance: Creates unsustainable caregiving patterns that perpetuate dysfunction across generations
+- id: soc-fam-rol-her-coh
+  label: Balanced Achievement
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Age-appropriate responsibility
+  - Healthy achievement
+  - Balanced excellence
+  scope: Family members, particularly children, maintain age-appropriate levels of achievement and responsibility without feeling compelled to compensate for family dysfunction through perfectionism or overachievement.
+  parent_scope_inheritance: Specifies the hero role aspect of role dynamics, showing how flexible family systems allow members to achieve without the pressure to compensate for addiction-related dysfunction.
+  polarity_expression: Manifests as flexible, supportive achievement patterns that allow both success and failure without threatening family stability.
+  cross_domain_resonance: Resonates with psy-mot-ach-bal-ada (balanced achievement motivation), exi-gro-dev-opt-pur (optimal development), and phy-str-ana-ada-reg (adaptive stress response).
+  academic_description: Healthy achievement involves intrinsic motivation without compulsive need to compensate for family problems. Research shows balanced achievers maintain better mental health than compulsive overachievers. Studies demonstrate age-appropriate responsibility promotes resilience without parentification stress.
+  clinical_description: Assessment evaluates achievement patterns, responsibility levels, and perfectionism. Interventions include permission to fail, reducing excessive responsibilities, validating worth beyond achievement, and family therapy to redistribute age-inappropriate burdens.
+  lay_description: Kids in healthy families can do well in school and activities because they want to, not because they feel they have to be perfect to make up for family problems. They can make mistakes without feeling like the family will fall apart.
+  structural_components: Age-appropriate expectations, balanced responsibility distribution, achievement flexibility
+  social_processes: Intrinsic motivation support, failure tolerance, worth validation beyond performance
+  societal_relevance: Promotes healthy development patterns that prevent burnout and perfectionism
+- id: soc-fam-rol-her-fra
+  label: Hero Overcompensation
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Hero child
+  - Parentification
+  - Compulsive overachievement
+  scope: Family members, typically the oldest child, adopt excessive responsibility and perfectionist achievement patterns to compensate for family dysfunction, becoming parentified and losing childhood through premature adult roles.
+  parent_scope_inheritance: Specifies the hero role aspect of role dynamics, showing how rigid family systems create pressure for one member to overcompensate through excessive achievement and responsibility.
+  polarity_expression: Manifests as rigid, compulsive overachievement that cannot tolerate failure without threatening the family's fragile stability.
+  cross_domain_resonance: Resonates with psy-mot-ach-cmp-mal (compulsive achievement), exi-gro-dev-pre-dir (premature development), and phy-str-ana-chr-dys (chronic stress activation).
+  academic_description: The hero role involves compulsive overachievement to maintain family image and compensate for dysfunction. Wegscheider-Cruse identified this pattern in alcoholic families. Research shows hero children experience high anxiety, perfectionism, and burnout. Parentification correlates with adult mental health problems.
+  clinical_description: Assessment identifies perfect grades, excessive responsibilities, caretaking of parents or siblings, and inability to fail. Treatment includes role reversal exercises, permission for imperfection, grief work for lost childhood, and family therapy to redistribute responsibilities.
+  lay_description: The 'hero' child tries to be perfect to make up for family problems - getting straight A's, never causing trouble, taking care of younger siblings, even managing household tasks. They grow up too fast and miss out on just being a kid.
+  structural_components: Parentified role structure, excessive responsibility burden, perfectionist performance requirements
+  social_processes: Compulsive achievement, family image management, sibling caretaking, parental role reversal
+  societal_relevance: Creates patterns of overresponsibility and burnout that persist into adulthood
+- id: soc-fam-rol-scp-coh
+  label: Authentic Expression
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Healthy rebellion
+  - Appropriate individuation
+  - Constructive challenge
+  scope: Family members express authentic emotions, including anger and frustration, through healthy channels while maintaining connection, allowing for normal developmental rebellion without becoming the family problem.
+  parent_scope_inheritance: Addresses the scapegoat role aspect of role dynamics, showing how flexible families allow members to express difficult emotions without being labeled as the problem.
+  polarity_expression: Manifests as flexible emotional expression that allows both connection and individuation without threatening family cohesion.
+  cross_domain_resonance: Resonates with psy-emo-reg-exp-ada (adaptive expression), exi-aut-ind-dev-pur (healthy individuation), and soc-com-cnf-res-coh (constructive conflict).
+  academic_description: Healthy families tolerate emotional expression and developmental rebellion without scapegoating. Research shows families that allow anger expression have better outcomes. Studies demonstrate constructive conflict promotes individuation without relationship damage.
+  clinical_description: Assessment evaluates emotional expression patterns and family tolerance for conflict. Interventions include emotion coaching, family communication training, validating all feelings, and reframing rebellion as healthy individuation rather than pathology.
+  lay_description: In healthy families, kids can express anger or frustration without being labeled 'the problem child.' They can push boundaries and rebel in normal teenage ways without the family treating them like they're the reason for all the family's troubles.
+  structural_components: Emotional expression space, conflict tolerance, individuation support
+  social_processes: Feeling validation, constructive disagreement, boundary testing, identity exploration
+  societal_relevance: Models healthy emotional development and conflict resolution patterns
+- id: soc-fam-rol-scp-fra
+  label: Scapegoat Deflection
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Scapegoat child
+  - Identified patient
+  - Problem deflection
+  scope: One family member, often a child, becomes the identified problem through acting out behaviors, serving to deflect attention from the addiction and absorb family tension through their misbehavior.
+  parent_scope_inheritance: Addresses the scapegoat role aspect of role dynamics, showing how rigid families designate one member as 'the problem' to avoid addressing the actual addiction issue.
+  polarity_expression: Manifests as rigid problem attribution that locks one member into bearing responsibility for family dysfunction.
+  cross_domain_resonance: Resonates with psy-emo-reg-dys-mal (dysregulated expression), exi-aut-ind-reb-dir (destructive rebellion), and soc-com-cnf-esc-fra (conflict escalation).
+  academic_description: The scapegoat role involves one member bearing blame for family problems through acting out. Wegscheider-Cruse identified this pattern where the scapegoat's problems deflect from addiction. Research shows scapegoated children have higher rates of delinquency, substance use, and mental health problems.
+  clinical_description: Assessment identifies the 'problem child' through patterns of acting out, delinquency, or substance use that serve to deflect family attention. Treatment includes reframing behavior as systemic, individual therapy for the scapegoat, and family therapy to address actual dysfunction.
+  lay_description: The scapegoat becomes 'the problem child' who acts out - getting in trouble at school, using drugs, fighting. The family focuses on their bad behavior instead of dealing with the real problem of addiction. They become the lightning rod for all family tension.
+  structural_components: Problem attribution patterns, deflection mechanisms, tension absorption role
+  social_processes: Acting out behaviors, blame absorption, attention deflection, conflict magnetization
+  societal_relevance: Creates patterns of marginalization and problem behavior that can persist across generations
+- id: soc-fam-rol-lst-coh
+  label: Healthy Autonomy
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Appropriate independence
+  - Balanced solitude
+  - Healthy self-sufficiency
+  scope: Family members maintain healthy autonomy and self-sufficiency while remaining connected to the family, able to spend time alone without withdrawing from relationships or becoming invisible.
+  parent_scope_inheritance: Specifies the lost child role aspect of role dynamics, showing how flexible families support both autonomy and connection without members needing to disappear.
+  polarity_expression: Manifests as flexible engagement patterns that allow both solitude and connection based on individual needs.
+  cross_domain_resonance: Resonates with psy-dev-att-aut-ada (autonomous attachment), exi-aut-slf-ind-pur (healthy independence), and soc-rel-bnd-bal-coh (balanced bonding).
+  academic_description: Healthy autonomy involves self-sufficiency without isolation. Research shows balanced autonomy-connection promotes resilience. Studies demonstrate children who can be alone without withdrawing develop better self-regulation and relationships.
+  clinical_description: Assessment evaluates balance between alone time and family engagement. Interventions support healthy independence while maintaining connection through scheduled family time, respecting need for space, and validating both autonomy and belonging needs.
+  lay_description: Healthy family members can enjoy time alone - reading, pursuing hobbies, having their own space - without disappearing from family life. They're independent but still connected, self-sufficient but still part of the family.
+  structural_components: Personal space allowance, autonomy support, connection maintenance
+  social_processes: Independent activity pursuit, selective engagement, self-directed development
+  societal_relevance: Promotes healthy independence patterns that support both individual and collective wellbeing
+- id: soc-fam-rol-lst-fra
+  label: Lost Child Withdrawal
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Lost child
+  - Invisible child
+  - Chronic withdrawal
+  scope: Family members, often middle children, cope with family chaos by withdrawing and becoming invisible, avoiding conflict through isolation and failing to develop their own identity or get their needs met.
+  parent_scope_inheritance: Specifies the lost child role aspect of role dynamics, showing how rigid family chaos leads members to cope through withdrawal and invisibility.
+  polarity_expression: Manifests as rigid withdrawal patterns that sacrifice connection and visibility for safety from family chaos.
+  cross_domain_resonance: Resonates with psy-dev-att-avo-mal (avoidant attachment), exi-aut-slf-iso-dir (self-isolation), and soc-rel-bnd-dis-fra (disconnected relationships).
+  academic_description: The lost child role involves withdrawal as protection from family chaos. Wegscheider-Cruse identified this pattern of invisibility in alcoholic families. Research shows lost children experience higher rates of depression, anxiety, and social difficulties. Studies link childhood invisibility to adult relationship problems.
+  clinical_description: Assessment identifies patterns of withdrawal, minimal needs expression, and fantasy escape. Treatment includes drawing out participation, validating presence, social skills training, and family therapy to create space for the lost child's voice and needs.
+  lay_description: The 'lost child' becomes invisible in the family - staying in their room, never causing problems but never getting attention either. They escape into books, games, or fantasy worlds. Nobody notices them, and they learn not to have needs.
+  structural_components: Invisibility patterns, withdrawal mechanisms, need suppression
+  social_processes: Conflict avoidance, attention deflection, fantasy escape, social isolation
+  societal_relevance: Creates patterns of social withdrawal and invisibility that impact adult relationships
+- id: soc-fam-rol-msc-coh
+  label: Balanced Humor
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Appropriate humor
+  - Emotional range
+  - Flexible expression
+  scope: Family members use humor appropriately while maintaining access to their full emotional range, able to be both lighthearted and serious as situations require without compulsive need to reduce tension.
+  parent_scope_inheritance: Addresses the mascot role aspect of role dynamics, showing how flexible families allow humor without requiring one member to constantly defuse tension.
+  polarity_expression: Manifests as flexible emotional expression that includes both humor and seriousness based on contextual appropriateness.
+  cross_domain_resonance: Resonates with psy-emo-reg-bal-ada (emotional balance), exi-mea-aut-gen-pur (authentic expression), and soc-com-exp-ful-coh (full expression range).
+  academic_description: Healthy humor serves connection without avoiding difficult emotions. Research shows balanced humor use correlates with better coping. Studies demonstrate families that can be both playful and serious have better emotional regulation and intimacy.
+  clinical_description: Assessment evaluates humor patterns and access to serious emotions. Interventions include permission for full emotional range, validating serious concerns, practicing vulnerability, and family exercises alternating between playful and serious interaction.
+  lay_description: In healthy families, people can joke and have fun but also be serious when needed. They don't have to constantly make jokes to keep everyone from fighting. They can express real feelings - sadness, worry, anger - not just humor.
+  structural_components: Emotional flexibility, contextual appropriateness, tension tolerance
+  social_processes: Adaptive humor use, serious engagement capacity, emotional authenticity
+  societal_relevance: Models healthy emotional expression that balances levity with depth
+- id: soc-fam-rol-msc-fra
+  label: Mascot Deflection
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Family mascot
+  - Family clown
+  - Compulsive humor
+  scope: Family members, often youngest children, compulsively use humor and clowning to deflect from family tension, becoming unable to access serious emotions or address real problems through constant joking.
+  parent_scope_inheritance: Addresses the mascot role aspect of role dynamics, showing how rigid families rely on one member to constantly defuse tension through humor.
+  polarity_expression: Manifests as rigid reliance on humor that prevents access to serious emotions or genuine problem-solving.
+  cross_domain_resonance: Resonates with psy-emo-reg-avo-mal (emotional avoidance), exi-mea-aut-sup-dir (suppressed authenticity), and soc-com-exp-res-fra (restricted expression).
+  academic_description: The mascot role uses humor to reduce family tension and avoid addressing problems. Wegscheider-Cruse identified this pattern of compulsive clowning. Research shows mascots struggle with emotional intimacy and being taken seriously. Studies link this role to adult difficulties with vulnerability.
+  clinical_description: Assessment identifies compulsive joking, inability to be serious, and humor as primary coping. Treatment includes validating serious feelings, practicing vulnerability, grief work for suppressed emotions, and family therapy to address tension directly rather than through humor.
+  lay_description: The family mascot is always the clown, making jokes whenever things get tense. They learned early that being funny keeps people from fighting. But they can't turn it off - even when they're hurting, they make jokes instead of asking for help.
+  structural_components: Compulsive humor patterns, tension deflection role, emotional suppression
+  social_processes: Constant joking, attention diversion, conflict defusion, vulnerability avoidance
+  societal_relevance: Creates patterns of emotional avoidance and superficial relating that impact adult intimacy
+- id: soc-fam-rol-ovf-coh
+  label: Balanced Responsibility
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Shared responsibility
+  - Functional distribution
+  - Reciprocal support
+  scope: Family members maintain balanced distribution of responsibilities where each person carries appropriate load for their capacity, with flexible give-and-take based on circumstances rather than fixed imbalances.
+  parent_scope_inheritance: Specifies the overfunctioning-underfunctioning aspect of role dynamics, showing how flexible families maintain balanced responsibility without fixed complementary extremes.
+  polarity_expression: Manifests as flexible responsibility sharing that adjusts based on needs and capacities without creating permanent imbalances.
+  cross_domain_resonance: Resonates with psy-exe-pln-dis-ada (distributed planning), exi-res-sha-equ-pur (equitable sharing), and soc-str-pow-bal-coh (balanced power).
+  academic_description: Bowen's concept of functional balance involves appropriate responsibility distribution without overfunctioning-underfunctioning reciprocity. Research shows balanced families have better outcomes. Studies demonstrate flexible responsibility sharing promotes both individual and family resilience.
+  clinical_description: Assessment maps responsibility distribution and identifies imbalances. Interventions include responsibility redistribution exercises, coached stepping back for overfunctioners, stepping up for underfunctioners, and negotiating flexible arrangements based on capacity.
+  lay_description: In healthy families, everyone does their fair share based on what they can handle. Parents are parents, kids have age-appropriate chores. When someone needs extra help, others pitch in temporarily, but it doesn't become a permanent pattern of one person doing everything.
+  structural_components: Equitable task distribution, flexible role adjustment, capacity-based allocation
+  social_processes: Responsibility negotiation, mutual support, temporary assistance, burden sharing
+  societal_relevance: Promotes sustainable family functioning that prevents burnout and dependency
+- id: soc-fam-rol-ovf-fra
+  label: Overfunctioning Imbalance
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Overfunctioning-underfunctioning
+  - Responsibility imbalance
+  - Compensatory dynamics
+  scope: Family members lock into complementary extremes where one person's overfunctioning enables another's underfunctioning, creating rigid reciprocal patterns where increased responsibility by one facilitates decreased functioning by another.
+  parent_scope_inheritance: Specifies the overfunctioning-underfunctioning aspect of role dynamics, showing how rigid complementary patterns maintain addiction through imbalanced responsibility.
+  polarity_expression: Manifests as rigid complementary extremes that lock members into fixed overfunctioning or underfunctioning positions.
+  cross_domain_resonance: Resonates with psy-exe-pln-ove-mal (overcontrol), exi-res-sha-imb-dir (imbalanced burden), and soc-str-pow-dom-fra (dominance patterns).
+  academic_description: Bowen described overfunctioning-underfunctioning reciprocity where one person's increased functioning enables another's decreased functioning. Research shows this pattern maintains addiction by preventing natural consequences. Studies demonstrate rigid complementary patterns predict poorer treatment outcomes.
+  clinical_description: Assessment identifies who overfunctions (taking over tasks, making decisions) and who underfunctions (avoiding responsibility, learned helplessness). Treatment includes coached experiments with role reversal, stepping back for overfunctioners, and gradual responsibility increase for underfunctioners.
+  lay_description: One family member does everything - pays bills, makes decisions, handles problems - while another does less and less. The more one person takes over, the less the other person has to function. It becomes a dance where one person's over-responsibility enables another's under-responsibility.
+  structural_components: Complementary extremes, rigid reciprocity, functional polarization
+  social_processes: Task absorption, responsibility avoidance, compensatory overfunction, enabled underfunction
+  societal_relevance: Creates unsustainable patterns that perpetuate dependency and prevent growth
+- id: soc-fam-rol-rul-coh
+  label: Healthy Boundaries
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Clear expectations
+  - Healthy rules
+  - Recovery-supporting norms
+  scope: Families maintain clear, healthy rules and rituals around substance use that support recovery, including open communication about addiction, appropriate boundaries with substances, and rituals that don't revolve around use.
+  parent_scope_inheritance: Addresses the family rules aspect of role dynamics, showing how flexible, healthy boundaries and expectations support recovery rather than enabling addiction.
+  polarity_expression: Manifests as flexible, transparent rules that support both individual and family health without organizing life around substances.
+  cross_domain_resonance: Resonates with psy-cog-bel-hea-ada (healthy beliefs), exi-val-pri-cla-pur (clear priorities), and soc-nor-exp-sup-coh (supportive norms).
+  academic_description: Healthy family rules include open communication, clear boundaries, and rituals supporting recovery. Research shows families with transparent rules about substances have better outcomes. Studies demonstrate recovery-supporting rituals and expectations facilitate sustained sobriety.
+  clinical_description: Assessment identifies family rules through observation and discussion of implicit/explicit expectations. Interventions include rule identification, family meetings to establish healthy boundaries, developing new rituals not involving substances, and practicing open communication about addiction.
+  lay_description: Healthy families have clear rules about alcohol and drugs - what's acceptable, what's not. They can talk openly about addiction without shame or secrets. Family traditions and celebrations don't revolve around drinking. Everyone knows the boundaries and consequences.
+  structural_components: Transparent expectations, consistent boundaries, recovery-supporting rituals
+  social_processes: Open communication, boundary enforcement, healthy ritual creation, truth-telling
+  societal_relevance: Establishes family cultures that prevent addiction and support recovery
+- id: soc-fam-rol-rul-fra
+  label: Enabling Rules
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Role Dynamics
+  cluster_id: soc-fam-rol
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Dysfunctional rules
+  - Don't talk, don't trust, don't feel
+  - Addiction-maintaining norms
+  scope: Families operate under rigid, often unspoken rules that maintain addiction, including denial, secrecy, emotional suppression, and rituals organized around substance use, creating an environment where addiction thrives.
+  parent_scope_inheritance: Addresses the family rules aspect of role dynamics, showing how rigid, dysfunctional rules and rituals organize family life around addiction and prevent recovery.
+  polarity_expression: Manifests as rigid, covert rules that organize family life around substances while suppressing communication about the problem.
+  cross_domain_resonance: Resonates with psy-cog-bel-dis-mal (distorted beliefs), exi-val-pri-con-dir (confused priorities), and soc-nor-exp-dys-fra (dysfunctional norms).
+  academic_description: Claudia Black identified the rules 'don't talk, don't trust, don't feel' in alcoholic families. Research shows families with rigid rules maintaining secrecy and denial have worse outcomes. Studies demonstrate how rituals organized around drinking normalize and perpetuate addiction.
+  clinical_description: Assessment uncovers unspoken rules through family observation and individual interviews. Treatment includes making covert rules overt, challenging dysfunctional patterns, establishing new healthy rules, and creating recovery-supporting rituals to replace substance-centered ones.
+  lay_description: Dysfunctional families have unspoken rules like 'don't talk about dad's drinking,' 'don't trust outsiders,' 'don't show feelings.' Family gatherings always involve heavy drinking. Everyone pretends nothing's wrong. These secret rules keep the addiction going by preventing anyone from addressing it.
+  structural_components: Covert rule systems, denial structures, substance-centered rituals
+  social_processes: Secret-keeping, reality denial, emotional suppression, normalized substance use
+  societal_relevance: Perpetuates intergenerational addiction patterns through dysfunctional family cultures

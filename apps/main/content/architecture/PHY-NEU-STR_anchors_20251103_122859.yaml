@@ -1,0 +1,328 @@
+# Generated anchors for cluster: PHY-NEU-STR
+# Timestamp: 20251103_122859
+
+anchors:
+- id: phy-neu-str-amy-reg
+  label: Regulated Fear Response
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Appropriate fear conditioning
+  - Adaptive threat detection
+  - Normal amygdala reactivity
+  scope: Basolateral and central amygdala nuclei showing appropriate fear conditioning to actual threats, successful fear extinction when threats pass, and proportionate activation to danger cues. Maintains ability to discriminate between safety and threat signals.
+  parent_scope_inheritance: Specifies the amygdala fear processing component of stress-emotion systems, focusing on appropriate threat detection and fear learning rather than the hyperactive fear responses seen in addiction.
+  polarity_expression: Manifests as appropriate fear responses that match actual threat levels, with successful extinction learning and recovery after stress exposure.
+  cross_domain_resonance: Resonates with psy-cog-att-ada (adaptive attention to threats), soc-fam-bou-coh (cohesive safety boundaries), and exi-saf-thr-pur (purposeful threat assessment).
+  academic_description: Research demonstrates normal amygdala activation patterns with appropriate habituation to repeated stimuli. Fear conditioning shows good discrimination between CS+ and CS- stimuli. Extinction learning proceeds normally with vmPFC effectively inhibiting amygdala response when threats are no longer present. NMDA receptor function supports fear extinction. D-cycloserine augmentation of exposure therapy enhances extinction learning through NMDA partial agonism.
+  clinical_description: Patients show normal startle responses and can differentiate real threats from perceived ones. Fear extinction training and exposure therapy are effective. Assessment includes fear conditioning paradigms and psychophysiological monitoring of fear responses. Treatment focuses on maintaining healthy fear processing through stress management and occasional exposure exercises to prevent avoidance patterns from developing.
+  lay_description: Your brain's alarm system works properly - it goes off when there's real danger but quiets down when you're safe. You can learn which situations are actually threatening and which just feel scary but aren't dangerous. After something frightening happens, you're able to calm down and move on rather than staying stuck in fear mode.
+  key_mediators: NMDA receptors, GABA, glutamate, BDNF, endocannabinoids
+  key_mechanisms: Fear conditioning and extinction, amygdala-prefrontal connectivity, inhibitory tone from vmPFC, endocannabinoid-mediated extinction
+  clinical_relevance: Protective against PTSD development, supports resilience to trauma, enables effective exposure therapy
+  assessment_methods: Fear conditioning tasks, skin conductance response, fMRI amygdala reactivity, startle response measurement
+  interventions: Exposure therapy, fear extinction training, D-cycloserine augmentation, exercise to promote BDNF
+  prominent_models: LeDoux fear conditioning model, Pavlovian fear learning, extinction learning theory
+- id: phy-neu-str-amy-dys
+  label: Dysregulated Fear Response
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Hyperactive amygdala
+  - Impaired fear extinction
+  - Fear overgeneralization
+  scope: Hyperactive amygdala response to minor threats and drug cues, with impaired fear extinction and overgeneralization of fear to safe contexts. Shows persistent activation even after threat removal and poor discrimination between safety and danger signals.
+  parent_scope_inheritance: Specifies the pathological amygdala hyperactivity within stress-emotion systems that drives anxiety, hypervigilance, and stress-induced drug craving in addiction.
+  polarity_expression: Manifests as exaggerated fear responses to minimal threats, failure of fear extinction, and generalization of fear to non-threatening stimuli and contexts.
+  cross_domain_resonance: Resonates with psy-cog-att-mal (maladaptive threat bias), soc-fam-bou-fra (fragmented safety boundaries), and exi-saf-thr-dir (directionless threat assessment).
+  academic_description: Studies show amygdala hyperactivation to both threat and neutral stimuli, with reduced habituation over time. Fear conditioning demonstrates poor CS+/CS- discrimination and resistance to extinction. Reduced vmPFC control over amygdala creates disinhibited fear responses. Impaired endocannabinoid signaling disrupts extinction consolidation. Chronic stress and drug use lead to dendritic hypertrophy in basolateral amygdala, increasing excitability.
+  clinical_description: Patients exhibit exaggerated startle responses, generalized anxiety, and fear of non-threatening situations. Fear persists despite safety learning attempts. Assessment reveals elevated amygdala activity on neuroimaging and poor fear extinction in behavioral tasks. Treatment requires intensive prolonged exposure, EMDR for trauma processing, and propranolol to disrupt reconsolidation of fear memories. Pharmacological dampening with prazosin or propranolol may be necessary.
+  lay_description: Your brain's alarm system is stuck in overdrive, going off constantly even when you're safe. Small worries feel like major threats, and you can't seem to calm down even when the danger has passed. It's exhausting to feel on edge all the time, and drugs might be the only thing that turns down the volume on this constant state of alarm.
+  key_mediators: Excessive glutamate, reduced GABA, elevated CRF in amygdala, impaired endocannabinoids, high CREB
+  key_mechanisms: Amygdala hyperexcitability, impaired prefrontal inhibition, disrupted extinction consolidation, enhanced reconsolidation of fear memories
+  clinical_relevance: PTSD comorbidity, panic attacks, generalized anxiety, stress-induced relapse vulnerability
+  assessment_methods: Elevated amygdala activity on fMRI, poor fear extinction in conditioning paradigms, high startle potentiation, elevated skin conductance
+  interventions: Prolonged exposure therapy, EMDR, propranolol for reconsolidation blockade, prazosin for nightmares, ketamine for rapid anxiolysis
+  prominent_models: Amygdala kindling model, fear incubation theory, stress sensitization model
+- id: phy-neu-str-bns-reg
+  label: Regulated Sustained Anxiety
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Appropriate vigilance
+  - Managed uncertainty response
+  - Normal BNST activity
+  scope: Bed nucleus of stria terminalis maintaining appropriate vigilance to uncertain threats without excessive anxiety. Shows normal anticipatory anxiety that motivates preparation without paralysis, and ability to tolerate uncertainty without hypervigilance.
+  parent_scope_inheritance: Specifies the extended amygdala component of stress-emotion systems, focusing on sustained anxiety regulation and uncertainty processing that remains adaptive rather than pathological.
+  polarity_expression: Manifests as manageable levels of anticipatory anxiety that enhance preparation for challenges without creating persistent worry or hypervigilance.
+  cross_domain_resonance: Resonates with psy-emo-anx-ada (adaptive anxiety), exi-mea-unc-pur (purposeful uncertainty navigation), and soc-env-pre-coh (cohesive environmental monitoring).
+  academic_description: The BNST shows appropriate activation to unpredictable threats while maintaining normal baseline activity during safe periods. CRF and orexin signaling remain balanced, supporting vigilance without hyperarousal. Connections with prefrontal cortex allow cognitive appraisal to modulate BNST activity. Research shows normal habituation to repeated uncertain threats and preserved safety signal processing.
+  clinical_description: Patients maintain appropriate concern about future challenges without excessive worry. They can tolerate uncertainty and ambiguity in daily life. Assessment shows normal anxiety scores and ability to engage in approach behaviors despite uncertainty. Interventions focus on maintaining this balance through mindfulness practices and cognitive flexibility training to prevent escalation to pathological anxiety.
+  lay_description: You have a healthy level of caution about uncertain situations - enough to keep you prepared but not so much that it stops you from living your life. You can handle not knowing what's going to happen without constantly worrying about worst-case scenarios. Your anxiety serves as a helpful signal rather than a constant burden.
+  key_mediators: Balanced CRF, orexin, GABA, neuropeptide Y, serotonin
+  key_mechanisms: Appropriate BNST activation to uncertainty, effective prefrontal regulation, balanced excitatory/inhibitory tone
+  clinical_relevance: Resilience to anxiety disorders, appropriate risk assessment, maintained quality of life
+  assessment_methods: Anxiety questionnaires, uncertainty tolerance scales, approach-avoidance tasks, heart rate variability
+  interventions: Mindfulness meditation, uncertainty tolerance training, cognitive flexibility exercises, maintaining social connections
+  prominent_models: Uncertainty and anticipation model, adaptive anxiety framework, vigilance regulation theory
+- id: phy-neu-str-bns-dys
+  label: Dysregulated Sustained Anxiety
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - BNST hyperactivity
+  - Chronic hypervigilance
+  - Pathological anticipatory anxiety
+  scope: Hyperactive bed nucleus of stria terminalis creating persistent anxiety and hypervigilance even in safe contexts. Shows excessive anticipatory anxiety that creates avoidance, inability to tolerate uncertainty, and constant scanning for potential threats.
+  parent_scope_inheritance: Specifies the pathological extended amygdala hyperactivity within stress-emotion systems that maintains chronic anxiety states and drives negative reinforcement patterns in addiction.
+  polarity_expression: Manifests as persistent background anxiety, excessive worry about potential threats, and inability to feel safe even in secure environments.
+  cross_domain_resonance: Resonates with psy-emo-anx-mal (maladaptive anxiety), exi-mea-unc-dir (directionless in uncertainty), and soc-env-pre-fra (fragmented environmental assessment).
+  academic_description: BNST shows tonically elevated activity with excessive CRF and reduced neuropeptide Y signaling. Heightened responses to unpredictability with failure to habituate to uncertain threats. Disrupted prefrontal regulation allows unchecked BNST activation. Chronic drug use and withdrawal states further sensitize BNST circuits, creating persistent negative affective states that drive drug seeking through negative reinforcement.
+  clinical_description: Patients experience chronic worry, inability to relax, and constant feeling of impending doom. They cannot tolerate uncertainty and engage in excessive checking or avoidance behaviors. Assessment reveals elevated trait anxiety, poor uncertainty tolerance, and BNST hyperactivity on imaging. Treatment includes anxiolytics like buspirone, CBT for worry, and intensive uncertainty exposure exercises. Long-acting benzodiazepines may be needed initially.
+  lay_description: You feel constantly on edge, like something bad is about to happen even when everything seems fine. Not knowing what's coming next feels unbearable, and you find yourself always preparing for the worst. This background anxiety is exhausting, and substances might be the only thing that provides temporary relief from this constant state of worry.
+  key_mediators: Excessive CRF, reduced NPY, elevated orexin, glutamate excess, GABA deficit
+  key_mechanisms: BNST hyperexcitability, impaired prefrontal inhibition, sensitized stress circuits, disrupted habituation to uncertainty
+  clinical_relevance: Generalized anxiety disorder, withdrawal anxiety, anticipatory anxiety before drug use, avoidance behaviors
+  assessment_methods: Elevated BNST activity on fMRI, high trait anxiety scores, poor uncertainty tolerance, elevated cortisol
+  interventions: Buspirone, gabapentin, CBT for worry, uncertainty tolerance training, benzodiazepines for severe cases
+  prominent_models: Extended amygdala model of addiction, negative reinforcement theory, allostatic load model
+- id: phy-neu-str-hpa-reg
+  label: Regulated HPA Axis
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal cortisol rhythm
+  - Appropriate stress response
+  - Healthy HPA function
+  scope: Hypothalamic-pituitary-adrenal axis maintaining normal diurnal cortisol rhythm with appropriate acute stress response and rapid recovery. Shows healthy cortisol awakening response, evening nadir, and proportionate activation to stressors.
+  parent_scope_inheritance: Specifies the neuroendocrine stress hormone component of stress-emotion systems, focusing on maintaining adaptive cortisol patterns that support resilience rather than vulnerability.
+  polarity_expression: Manifests as appropriate cortisol peaks in the morning for alertness, gradual decline through the day, and proportionate acute responses to stressors with quick recovery.
+  cross_domain_resonance: Resonates with phy-cir-sle-reg (regulated sleep-wake cycles), psy-tem-str-ada (adaptive stress tolerance), and phy-imm-inf-reg (regulated inflammation).
+  academic_description: Research shows robust cortisol awakening response (CAR) with 50-75% increase within 30 minutes of waking. Clear diurnal rhythm with evening levels 75% lower than morning peak. Acute stressors produce 2-3 fold increase with return to baseline within 60-90 minutes. Negative feedback through hippocampal and prefrontal glucocorticoid receptors remains intact. FKBP5 and other stress-related genes show normal expression patterns.
+  clinical_description: Patients show healthy energy in the morning and natural fatigue in the evening. They respond appropriately to acute stressors and recover quickly. Assessment via salivary cortisol shows normal CAR and diurnal slope. Sleep quality is good with natural circadian alignment. Interventions focus on maintaining these patterns through regular sleep schedules, exercise, and stress management techniques.
+  lay_description: Your body's stress hormone system works like a well-tuned thermostat - it kicks in when you need energy or face challenges, then turns off so you can rest and recover. You feel alert in the morning and naturally tired at night. When stressful things happen, you respond appropriately and then return to feeling calm once the situation passes.
+  key_mediators: Cortisol, ACTH, CRH, glucocorticoid receptors, FKBP5, mineralocorticoid receptors
+  key_mechanisms: Circadian CLOCK gene regulation, negative feedback loops, appropriate receptor sensitivity, balanced MR/GR activation
+  clinical_relevance: Stress resilience, good energy regulation, healthy immune function, protection against metabolic dysfunction
+  assessment_methods: Salivary cortisol curve, dexamethasone suppression test, ACTH stimulation test, cortisol awakening response
+  interventions: Regular sleep schedule, morning light exposure, aerobic exercise, stress management, maintaining social rhythms
+  prominent_models: Allostatic load model, circadian regulation theory, glucocorticoid cascade hypothesis
+- id: phy-neu-str-hpa-dys
+  label: Dysregulated HPA Axis
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - HPA axis dysfunction
+  - Cortisol dysregulation
+  - Allostatic overload
+  scope: Dysregulated hypothalamic-pituitary-adrenal axis with flattened diurnal rhythm, blunted acute stress response, and elevated baseline cortisol. Shows absent or reduced cortisol awakening response, elevated evening cortisol, and slow recovery from stressors.
+  parent_scope_inheritance: Specifies the pathological neuroendocrine dysfunction within stress-emotion systems that creates allostatic load and maintains stress vulnerability in addiction.
+  polarity_expression: Manifests as chronically elevated baseline cortisol with paradoxically blunted responses to acute stressors, creating a state of persistent biological stress without adaptive responsiveness.
+  cross_domain_resonance: Resonates with phy-cir-sle-dys (dysregulated sleep), psy-tem-str-mal (maladaptive stress response), and phy-imm-inf-dys (dysregulated inflammation).
+  academic_description: Studies demonstrate flattened cortisol diurnal rhythm with CAR reduced by 30-50% or absent entirely. Evening cortisol remains elevated, reducing the diurnal variation to less than 50%. Acute stress produces minimal cortisol increase despite subjective distress. Glucocorticoid receptor resistance develops from chronic elevation, with altered FKBP5 expression. Hippocampal volume reduction impairs negative feedback. This creates allostatic load contributing to metabolic, immune, and cognitive dysfunction.
+  clinical_description: Patients report feeling 'tired but wired' with poor morning energy despite insomnia. They feel overwhelmed by minor stressors yet show blunted cortisol response to acute challenges. Assessment reveals flattened cortisol curve and may show metabolic syndrome markers. Treatment includes circadian rhythm restoration, mifepristone for GR antagonism in severe cases, and intensive stress reduction. Addressing sleep disturbance is critical.
+  lay_description: Your stress system is like a smoke alarm with dying batteries - it's constantly making noise in the background (high baseline stress) but doesn't respond properly when there's actual smoke (real stressors). You feel exhausted but can't rest properly, and minor problems feel overwhelming while your body doesn't give you the energy boost needed for real challenges.
+  key_mediators: Chronically elevated cortisol, reduced ACTH response, GR resistance, altered FKBP5, inflammatory cytokines
+  key_mechanisms: Impaired negative feedback, glucocorticoid receptor desensitization, hippocampal atrophy, disrupted circadian regulation
+  clinical_relevance: Metabolic syndrome, depression, cognitive impairment, immune dysfunction, relapse vulnerability
+  assessment_methods: Flattened salivary cortisol curve, hair cortisol concentration, poor dexamethasone suppression, elevated evening cortisol
+  interventions: Mifepristone (GR antagonist), metyrapone (cortisol synthesis inhibitor), circadian rhythm therapy, intensive stress reduction
+  prominent_models: Allostatic overload model, glucocorticoid resistance hypothesis, stress sensitization theory
+- id: phy-neu-str-nor-reg
+  label: Regulated Noradrenergic Tone
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal sympathetic tone
+  - Appropriate arousal
+  - Balanced norepinephrine
+  scope: Locus coeruleus-norepinephrine system maintaining appropriate arousal and alerting responses. Shows normal sympathetic tone with ability to increase alertness when needed and return to calm baseline. Appropriate noradrenergic modulation of attention and arousal.
+  parent_scope_inheritance: Specifies the noradrenergic arousal component of stress-emotion systems, maintaining adaptive alerting and stress responses rather than hyperarousal states.
+  polarity_expression: Manifests as appropriate alertness during the day, ability to focus when needed, and capacity to relax and achieve restful states when safe.
+  cross_domain_resonance: Resonates with phy-aut-sym-reg (regulated sympathetic activity), psy-att-foc-ada (adaptive focus), and phy-car-rat-reg (regulated heart rate).
+  academic_description: The locus coeruleus shows phasic firing patterns with appropriate tonic baseline. Alpha-2 autoreceptors provide effective negative feedback preventing excessive norepinephrine release. Normal coupling between LC activity and pupil diameter indicates intact arousal regulation. Heart rate variability remains high, indicating good parasympathetic-sympathetic balance. Norepinephrine appropriately enhances signal-to-noise ratio in cortical processing.
+  clinical_description: Patients maintain calm alertness with ability to respond to challenges without excessive arousal. Sleep onset occurs naturally without hyperarousal. Heart rate variability is normal with good parasympathetic tone. Assessment shows normal startle response and pupillometry. Interventions focus on maintaining balance through regular exercise, adequate sleep, and stress management practices.
+  lay_description: Your body's alertness system works like a good cup of coffee - it wakes you up when you need to focus but doesn't leave you jittery or unable to relax. You can pay attention when necessary and calm down when it's time to rest. Your heart rate speeds up during exercise or excitement but returns to normal quickly afterward.
+  key_mediators: Norepinephrine, alpha-2 receptors, beta receptors, neuropeptide Y, galanin
+  key_mechanisms: Phasic LC firing, effective autoreceptor feedback, balanced sympathetic-parasympathetic tone, appropriate receptor sensitivity
+  clinical_relevance: Good stress resilience, normal attention regulation, healthy sleep, appropriate threat response
+  assessment_methods: Heart rate variability, pupillometry, startle response, plasma/urinary catecholamines, sleep studies
+  interventions: Regular aerobic exercise, breathing exercises, adequate sleep, limiting caffeine, maintaining regular routines
+  prominent_models: LC-NE arousal model, adaptive gain theory, network reset theory
+- id: phy-neu-str-nor-dys
+  label: Dysregulated Noradrenergic Tone
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Noradrenergic hyperactivity
+  - Sympathetic overdrive
+  - Hyperarousal state
+  scope: Hyperactive locus coeruleus-norepinephrine system creating persistent sympathetic arousal and hypervigilance. Shows elevated baseline noradrenergic tone with exaggerated responses to minor stimuli and inability to achieve calm states. Disrupted arousal regulation affecting sleep and attention.
+  parent_scope_inheritance: Specifies the pathological noradrenergic hyperactivity within stress-emotion systems that drives hyperarousal, anxiety, and stress sensitivity in addiction.
+  polarity_expression: Manifests as persistent hyperarousal with inability to relax, exaggerated startle responses, and chronic sympathetic activation even in safe environments.
+  cross_domain_resonance: Resonates with phy-aut-sym-dys (sympathetic overdrive), psy-att-hyp-mal (maladaptive hypervigilance), and phy-car-rat-dys (dysregulated heart rate).
+  academic_description: Research shows tonically elevated LC firing with loss of phasic signaling specificity. Alpha-2 autoreceptor desensitization fails to control norepinephrine release. Chronic elevation leads to beta-receptor downregulation yet paradoxical hypersensitivity to arousal. Reduced heart rate variability indicates sympathetic dominance. During withdrawal, noradrenergic storm occurs with massive NE release. This hyperactivity drives anxiety, insomnia, and stress-induced reinstatement.
+  clinical_description: Patients experience persistent restlessness, exaggerated startle, sweating, and tremor. Insomnia with difficulty falling asleep and frequent awakening is common. They report feeling constantly 'on edge' with inability to relax. Assessment shows reduced HRV, elevated catecholamines, and dilated pupils. Treatment includes alpha-2 agonists (clonidine, guanfacine), beta-blockers for peripheral symptoms, and prazosin for nightmares and sleep.
+  lay_description: Your body's alarm system is stuck in the 'on' position, making you feel constantly wired and unable to relax. Your heart races, you startle easily, and you can't seem to calm down even when trying to sleep. It's like having too much caffeine all the time, even when you haven't had any. This exhausting state of constant alertness makes drugs appealing as they temporarily turn down this overwhelming activation.
+  key_mediators: Excessive norepinephrine, desensitized alpha-2 receptors, elevated epinephrine, reduced NPY
+  key_mechanisms: Tonic LC hyperactivity, impaired autoreceptor feedback, sympathetic dominance, disrupted arousal regulation
+  clinical_relevance: Panic attacks, insomnia, hypertension, anxiety, withdrawal symptoms, stress-induced relapse
+  assessment_methods: Reduced heart rate variability, elevated plasma/urinary catecholamines, dilated pupils, elevated blood pressure
+  interventions: Clonidine, guanfacine, propranolol, prazosin for nightmares, dexmedetomidine for severe withdrawal
+  prominent_models: Noradrenergic hyperactivity model, sympathetic overdrive theory, withdrawal kindling hypothesis
+- id: phy-neu-str-crf-reg
+  label: Regulated CRF Signaling
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal stress peptides
+  - Appropriate CRF release
+  - Balanced stress signaling
+  scope: Corticotropin-releasing factor and stress neuropeptide systems maintaining appropriate central stress responses. Shows proportionate CRF release during challenges with effective negative feedback and maintained hedonic tone between stressors.
+  parent_scope_inheritance: Specifies the central stress peptide component of stress-emotion systems, maintaining adaptive stress signaling that coordinates appropriate responses without driving negative affect.
+  polarity_expression: Manifests as appropriate stress mobilization when needed while maintaining positive mood and motivation during non-stress periods.
+  cross_domain_resonance: Resonates with psy-emo-hed-ada (adaptive hedonic tone), phy-neu-rew-reg (regulated reward), and psy-mot-dri-ada (adaptive drive).
+  academic_description: CRF neurons in paraventricular nucleus and central amygdala show appropriate stress-induced activation with rapid return to baseline. CRF1 receptors maintain normal sensitivity without desensitization. Balance between CRF and anti-stress peptides like NPY and oxytocin is maintained. CRF appropriately coordinates HPA axis, sympathetic, and behavioral stress responses without excessive activation. Normal CRF-dopamine interactions preserve hedonic capacity.
+  clinical_description: Patients maintain emotional resilience with ability to experience pleasure between stressors. They show appropriate concern during challenges without persistent dysphoria. Mood remains stable with normal hedonic capacity. Assessment shows normal responses to stress with preserved positive affect. Interventions focus on maintaining this balance through stress management and positive activities.
+  lay_description: Your brain's stress coordination system works properly - it mobilizes your resources when facing challenges but doesn't keep you in a constant state of distress. You can still enjoy life's pleasures and maintain a generally positive mood even when dealing with normal life stressors. The system turns on when needed and off when the challenge passes.
+  key_mediators: CRF, urocortins, CRF1/CRF2 receptors, NPY, oxytocin, dynorphin balance
+  key_mechanisms: Appropriate CRF release and clearance, receptor sensitivity maintenance, balanced peptide interactions
+  clinical_relevance: Emotional resilience, maintained hedonic capacity, appropriate stress response, protection against depression
+  assessment_methods: CSF CRF levels, dexamethasone-CRF test, mood assessments, hedonic capacity scales
+  interventions: Stress management, social support, positive activity scheduling, maintaining work-life balance
+  prominent_models: CRF stress coordination model, peptide balance theory, stress resilience framework
+- id: phy-neu-str-crf-dys
+  label: Dysregulated CRF Signaling
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - CRF hyperactivity
+  - Stress peptide excess
+  - Dysphoric stress state
+  scope: Excessive corticotropin-releasing factor signaling driving persistent negative affective states and stress sensitivity. Shows chronically elevated CRF with receptor desensitization, creating dysphoria, anhedonia, and stress-induced drug craving. Loss of hedonic capacity between stressors.
+  parent_scope_inheritance: Specifies the pathological stress peptide hyperactivity within stress-emotion systems that creates the negative emotional states driving compulsive drug use through negative reinforcement.
+  polarity_expression: Manifests as persistent dysphoria and anhedonia with excessive stress reactivity and use of substances to escape negative emotional states.
+  cross_domain_resonance: Resonates with psy-emo-anh-mal (maladaptive anhedonia), phy-neu-rew-dys (reward deficit), and psy-mot-apa-mal (maladaptive apathy).
+  academic_description: Studies show chronically elevated CRF in CSF and amygdala with CRF1 receptor upregulation in some regions and desensitization in others. Excessive CRF drives HPA dysregulation, noradrenergic hyperactivity, and dopamine hypofunction. Loss of NPY and oxytocin buffering capacity. CRF-induced reduction in dopamine creates anhedonia while CRF-enhanced stress memory consolidation strengthens drug-cue associations. This creates allostatic state where drug use temporarily normalizes CRF and restores hedonic tone.
+  clinical_description: Patients experience persistent dysphoria, inability to enjoy previously pleasurable activities, and overwhelming stress sensitivity. Minor stressors trigger intense craving and emotional distress. Assessment reveals elevated anxiety and depression scores with marked anhedonia. Treatment includes antidepressants targeting multiple systems, ketamine for rapid relief, and experimental CRF1 antagonists. Behavioral activation and pleasant event scheduling are essential.
+  lay_description: Your brain's stress system is constantly sending distress signals, making you feel emotionally terrible even when nothing bad is happening. Things that used to bring joy feel empty, and small problems trigger overwhelming negative emotions. Drugs become the only escape from this constant emotional pain, temporarily making you feel normal rather than high. It's like living under a dark cloud that only substances can temporarily lift.
+  key_mediators: Excessive CRF, elevated urocortins, altered CRF1/CRF2 balance, reduced NPY, reduced oxytocin
+  key_mechanisms: Chronic CRF elevation, receptor dysregulation, loss of peptide balance, CRF-dopamine disruption
+  clinical_relevance: Major depression comorbidity, anhedonia, dysphoria, stress-induced relapse, negative reinforcement
+  assessment_methods: Elevated CSF CRF, blunted ACTH response to CRF, severe anhedonia scales, high depression scores
+  interventions: CRF1 antagonists (experimental), ketamine, buprenorphine for dysphoria, behavioral activation therapy
+  prominent_models: Opponent process theory, allostatic dysphoria model, negative reinforcement framework
+- id: phy-neu-str-emo-reg
+  label: Regulated Emotional Memory
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Adaptive memory consolidation
+  - Appropriate emotional tagging
+  - Flexible memory updating
+  scope: Amygdala-hippocampal circuits appropriately consolidating emotional memories with accurate emotional tagging and flexible updating. Forms adaptive emotional associations that guide future behavior while maintaining ability to update memories based on new information.
+  parent_scope_inheritance: Specifies the emotional memory component of stress-emotion systems, focusing on adaptive memory formation that supports learning from emotional experiences without creating intrusive or maladaptive associations.
+  polarity_expression: Manifests as forming helpful emotional memories that guide adaptive behavior while remaining flexible enough to update when circumstances change.
+  cross_domain_resonance: Resonates with psy-mem-epi-ada (adaptive episodic memory), psy-cog-fle-ada (cognitive flexibility), and exi-gro-wis-pur (purposeful wisdom from experience).
+  academic_description: Research shows balanced amygdala-hippocampal connectivity during memory consolidation with appropriate emotional enhancement of memory without overgeneralization. Reconsolidation processes allow memory updating when retrieved. Normal protein synthesis and CREB activation support long-term memory formation. Sleep-dependent memory consolidation proceeds normally with appropriate REM sleep emotional processing. Extinction memories are successfully formed and maintained.
+  clinical_description: Patients learn appropriately from emotional experiences, forming memories that help avoid future harm while not creating excessive fear or avoidance. They can update beliefs when receiving new information. Assessment shows normal emotional enhancement of memory without intrusive recollections. Interventions focus on narrative therapy and positive memory rehearsal to maintain healthy emotional memory processing.
+  lay_description: Your emotional memory system works like a good teacher - it helps you remember important emotional experiences to guide future decisions but doesn't trap you in the past. You learn from both positive and negative experiences without getting stuck replaying them. Memories feel like helpful lessons rather than haunting intrusions.
+  key_mediators: CREB, BDNF, Arc, PKA, protein synthesis machinery, endocannabinoids for extinction
+  key_mechanisms: Balanced consolidation and reconsolidation, appropriate synaptic plasticity, successful extinction learning
+  clinical_relevance: Resilience to trauma, appropriate learning from experience, maintained cognitive flexibility
+  assessment_methods: Emotional memory tasks, fear extinction paradigms, autobiographical memory assessment
+  interventions: Narrative therapy, positive memory training, sleep hygiene for consolidation, mindfulness for present-focus
+  prominent_models: Synaptic consolidation theory, reconsolidation update mechanism, emotional memory modulation model
+- id: phy-neu-str-emo-dys
+  label: Dysregulated Emotional Memory
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  cluster: Stress-Emotion
+  cluster_id: phy-neu-str
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Intrusive traumatic memories
+  - Pathological drug-cue associations
+  - Maladaptive emotional conditioning
+  scope: Disrupted amygdala-hippocampal circuits creating intrusive emotional memories, strong drug-cue associations, and resistance to memory updating. Shows overgeneralization of emotional memories with persistent traumatic recollections and powerful conditioned drug responses.
+  parent_scope_inheritance: Specifies the pathological emotional memory formation within stress-emotion systems that creates persistent traumatic memories and powerful drug-cue associations driving craving and relapse.
+  polarity_expression: Manifests as intrusive emotional memories that trigger distress and craving, with inflexible associations that resist updating despite changed circumstances.
+  cross_domain_resonance: Resonates with psy-mem-tra-mal (traumatic memories), psy-cog-rum-mal (maladaptive rumination), and exi-gro-sta-dir (directionless due to being stuck in past).
+  academic_description: Studies show hyperactive amygdala-hippocampal coupling during emotional memory formation with excessive CREB activation and protein synthesis. Reconsolidation becomes resistant to disruption, preventing memory updating. Overgeneralization occurs with emotional memories triggered by peripheral cues. Drug-cue memories show incubation, becoming stronger over time. Extinction memories fail to form or are rapidly forgotten. Stress enhances reconsolidation of drug memories while impairing extinction.
+  clinical_description: Patients experience intrusive memories, flashbacks, and powerful cue-triggered cravings. Traumatic memories feel as vivid as when they occurred. Drug-associated places, people, and emotions trigger overwhelming urges to use. Assessment reveals PTSD symptoms and strong cue reactivity. Treatment includes propranolol during memory retrieval, EMDR, and intensive cue exposure therapy. Ketamine may help disrupt pathological memory circuits.
+  lay_description: Your emotional memories are like broken records that keep playing the worst moments over and over. Past traumas feel fresh and raw, while every reminder of drug use triggers powerful cravings. These memories are stuck and won't update even when you know things are different now. It's exhausting to be haunted by the past while trying to move forward.
+  key_mediators: Excessive CREB, elevated BDNF in pathological circuits, reduced endocannabinoids, high norepinephrine during consolidation
+  key_mechanisms: Enhanced reconsolidation, impaired extinction, memory overgeneralization, incubation of drug memories
+  clinical_relevance: PTSD comorbidity, cue-induced craving, relapse triggers, rumination, treatment resistance
+  assessment_methods: Intrusive memory frequency, cue reactivity testing, PTSD assessments, memory specificity tasks
+  interventions: Propranolol-assisted memory reconsolidation, EMDR, prolonged exposure, ketamine for circuit disruption
+  prominent_models: Memory reconsolidation theory, incubation of craving model, trauma memory dysregulation framework

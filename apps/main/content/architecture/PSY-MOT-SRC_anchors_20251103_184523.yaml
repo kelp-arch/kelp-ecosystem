@@ -1,0 +1,314 @@
+# Generated anchors for cluster: PSY-MOT-SRC
+# Timestamp: 20251103_184523
+
+anchors:
+- id: psy-mot-src-aut-ada
+  label: Autonomy Need Satisfied
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Volitional motivation
+  - Autonomous regulation
+  - Self-determined
+  scope: Adaptive satisfaction of the basic psychological need for autonomy, characterized by volitional engagement, psychological freedom, and self-endorsement of recovery activities. The individual experiences genuine choice and acts from personal values rather than external pressure.
+  parent_scope_inheritance: Specifies the autonomy component of basic psychological needs within motivational source, focusing on the volitional quality of motivation.
+  polarity_expression: Manifests as psychological freedom and ownership of recovery decisions, with minimal internal pressure and authentic self-direction.
+  cross_domain_resonance: Resonates with social autonomy support (soc-sup-aut-coh), existential autonomy (exi-age-aut-pur), and cognitive self-efficacy (psy-cog-eff-ada).
+  academic_description: Autonomy need satisfaction represents volitional engagement and psychological freedom in Self-Determination Theory. Research shows autonomy support predicts better treatment outcomes through enhanced intrinsic motivation and internalization. Autonomy involves acting from one's authentic self rather than from external or internal pressures. Studies demonstrate that autonomy-supportive environments facilitate lasting behavior change through genuine self-endorsement.
+  clinical_description: Assessment includes measures of perceived choice and volition in treatment. Interventions focus on offering meaningful choices, acknowledging client perspectives, and minimizing controlling language. Clinicians provide rationales for suggestions, explore client values, and support self-initiated changes. Autonomy support involves collaborative treatment planning and respecting client decisions even when disagreeing.
+  lay_description: You feel like recovery is your choice, not something forced on you. You make decisions based on what matters to you personally, not just to please others or avoid consequences. There's a sense of freedom in your recovery journey - you're doing it because you want to, not because you have to.
+  core_components:
+  - Volitional engagement
+  - Psychological freedom
+  - Self-endorsement
+  - Personal choice
+  associated_processes:
+  - Value-based decision making
+  - Authentic self-expression
+  - Intrinsic goal pursuit
+  - Self-initiated behavior
+- id: psy-mot-src-aut-mal
+  label: Autonomy Need Thwarted
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Controlled motivation
+  - Coerced engagement
+  - External regulation
+  scope: Maladaptive thwarting of the autonomy need through coercion, external pressure, and lack of choice. The individual feels forced into recovery, experiences psychological reactance, and shows compliance without genuine engagement.
+  parent_scope_inheritance: Specifies the autonomy thwarting aspect of basic psychological needs, representing controlled or pressured motivational sources.
+  polarity_expression: Manifests as feeling forced, resentful, and rebellious toward recovery efforts, with behavior driven by external pressure rather than personal choice.
+  cross_domain_resonance: Resonates with social coercion (soc-sup-aut-fra), existential constraint (exi-age-aut-dir), and cognitive resistance (psy-cog-res-mal).
+  academic_description: Autonomy thwarting occurs through controlling environments, coercion, and pressure. Research shows controlled motivation predicts poorer treatment outcomes, increased dropout, and relapse. External regulation involves compliance with demands to avoid punishment or gain rewards. Psychological reactance emerges when freedom is threatened, leading to oppositional behavior and treatment resistance.
+  clinical_description: Assessment reveals external locus of control and resentment toward treatment. Clients show superficial compliance, passive resistance, or active rebellion. Interventions focus on reducing coercive elements, exploring ambivalence without pressure, and finding any areas of genuine choice. Motivational interviewing techniques help navigate resistance without confrontation.
+  lay_description: You feel forced into recovery by family, courts, or circumstances. There's resentment about having to be in treatment, and you might go through the motions without really engaging. It feels like everyone else is making decisions for you, and you're just complying to avoid consequences.
+  core_components:
+  - External pressure
+  - Coercion
+  - Psychological reactance
+  - Forced compliance
+  associated_processes:
+  - Resistance behaviors
+  - Surface compliance
+  - Oppositional responses
+  - Motivational ambivalence
+- id: psy-mot-src-com-ada
+  label: Competence Need Satisfied
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Mastery motivation
+  - Efficacy satisfaction
+  - Capability fulfillment
+  scope: Adaptive satisfaction of the competence need through mastery experiences, optimal challenges, and skill development. The individual feels capable of managing recovery challenges and experiences progressive growth.
+  parent_scope_inheritance: Specifies the competence component of basic psychological needs, focusing on effectiveness as a motivational source.
+  polarity_expression: Manifests as confidence in recovery abilities, successful milestone achievement, and maintained effort despite challenges.
+  cross_domain_resonance: Resonates with cognitive self-efficacy (psy-cog-eff-ada), stress resilience (phy-str-res-reg), and social mastery (soc-rol-mas-coh).
+  academic_description: Competence need satisfaction involves experiencing effectiveness and mastery. Research shows competence support through optimal challenges and positive feedback enhances autonomous motivation. Progressive skill development and success experiences build self-efficacy. Studies demonstrate that competence satisfaction predicts sustained behavior change through increased confidence and persistence.
+  clinical_description: Assessment includes self-efficacy measures and skill evaluations. Interventions provide structured skill-building with appropriate challenge levels. Clinicians offer clear structure, positive feedback, and recognition of progress. Treatment includes breaking down complex goals, celebrating small victories, and building from success experiences.
+  lay_description: You feel capable of handling recovery challenges and see yourself making real progress. Each milestone builds confidence, and you know you have the skills to manage difficult situations. There's a sense of growing stronger and more capable over time.
+  core_components:
+  - Mastery experiences
+  - Skill development
+  - Optimal challenge
+  - Progressive growth
+  associated_processes:
+  - Self-efficacy building
+  - Goal achievement
+  - Skill acquisition
+  - Confidence development
+- id: psy-mot-src-com-mal
+  label: Competence Need Thwarted
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Incompetence feelings
+  - Efficacy deficits
+  - Learned helplessness
+  scope: Maladaptive thwarting of the competence need through overwhelming challenges, repeated failures, and skill deficits. The individual feels incapable of managing recovery and develops learned helplessness.
+  parent_scope_inheritance: Specifies competence thwarting within basic psychological needs, representing ineffectiveness as a demotivating source.
+  polarity_expression: Manifests as feeling overwhelmed, experiencing repeated failures, avoiding challenges, and developing helplessness beliefs.
+  cross_domain_resonance: Resonates with cognitive inefficacy (psy-cog-eff-mal), stress vulnerability (phy-str-vul-dys), and social inadequacy (soc-rol-mas-fra).
+  academic_description: Competence thwarting occurs through excessive challenges, lack of structure, or repeated failures. Research shows competence frustration leads to amotivation and dropout. Learned helplessness develops when individuals perceive no connection between efforts and outcomes. Studies demonstrate that overwhelming demands without support undermine motivation and lead to disengagement.
+  clinical_description: Assessment reveals low self-efficacy and avoidance patterns. Clients feel overwhelmed by recovery demands and show signs of demoralization. Interventions focus on adjusting challenge levels, breaking down overwhelming goals, and building from small successes. Treatment addresses learned helplessness through mastery experiences and cognitive restructuring.
+  lay_description: Recovery feels impossibly hard, and you doubt your ability to succeed. Past failures make you feel like nothing you do makes a difference. The challenges seem overwhelming, and you might avoid trying because failure feels inevitable.
+  core_components:
+  - Overwhelming challenges
+  - Repeated failures
+  - Skill deficits
+  - Helplessness beliefs
+  associated_processes:
+  - Avoidance behaviors
+  - Demoralization
+  - Effort withdrawal
+  - Capability doubts
+- id: psy-mot-src-rel-ada
+  label: Relatedness Need Satisfied
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Connection satisfaction
+  - Belonging fulfillment
+  - Relational support
+  scope: Adaptive satisfaction of the relatedness need through authentic connection, unconditional positive regard, and genuine belonging. The individual feels understood, supported, and part of a recovery community.
+  parent_scope_inheritance: Specifies the relatedness component of basic psychological needs, focusing on connection as a motivational source.
+  polarity_expression: Manifests as feeling genuinely understood, experiencing unconditional support, and maintaining authentic relationships in recovery.
+  cross_domain_resonance: Resonates with social support (soc-sup-emo-coh), therapeutic alliance (soc-the-all-coh), and existential connection (exi-con-int-pur).
+  academic_description: Relatedness need satisfaction involves experiencing genuine connection and belonging. Research shows relatedness support through unconditional positive regard enhances autonomous motivation. Authentic relationships and community connection predict better treatment outcomes. Studies demonstrate that feeling understood and accepted facilitates internalization of recovery values.
+  clinical_description: Assessment includes relationship quality and social support measures. Interventions focus on building therapeutic alliance, facilitating peer connections, and involving supportive family. Clinicians provide unconditional positive regard while maintaining boundaries. Treatment includes group therapy, peer support, and family involvement when appropriate.
+  lay_description: You feel genuinely understood and accepted by people who support your recovery. There's a sense of belonging in your recovery community, and you know people care about you regardless of setbacks. These connections feel real and unconditional.
+  core_components:
+  - Authentic connection
+  - Unconditional regard
+  - Genuine belonging
+  - Mutual understanding
+  associated_processes:
+  - Trust building
+  - Vulnerability sharing
+  - Community integration
+  - Relationship deepening
+- id: psy-mot-src-rel-mal
+  label: Relatedness Need Thwarted
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Relational disconnection
+  - Social alienation
+  - Belonging deficits
+  scope: Maladaptive thwarting of the relatedness need through isolation, conditional acceptance, and interpersonal alienation. The individual feels judged, misunderstood, and disconnected from others in recovery.
+  parent_scope_inheritance: Specifies relatedness thwarting within basic psychological needs, representing disconnection as a demotivating source.
+  polarity_expression: Manifests as feeling judged, experiencing conditional support, maintaining superficial compliance, and feeling alienated from recovery community.
+  cross_domain_resonance: Resonates with social isolation (soc-sup-emo-fra), therapeutic rupture (soc-the-all-fra), and existential alienation (exi-con-int-dir).
+  academic_description: Relatedness thwarting occurs through rejection, judgment, and conditional acceptance. Research shows relational frustration undermines motivation and increases dropout. Interpersonal alienation and shame prevent value internalization. Studies demonstrate that feeling misunderstood or judged leads to defensive responses and treatment disengagement.
+  clinical_description: Assessment reveals interpersonal difficulties and isolation patterns. Clients feel judged or misunderstood in treatment settings. Interventions address therapeutic ruptures, explore shame, and find accepting communities. Treatment focuses on building trust gradually and addressing relational trauma that impedes connection.
+  lay_description: You feel like nobody really understands what you're going through. Support feels conditional - like people only care if you're doing well. There's a sense of being judged or not fitting in, even in recovery settings.
+  core_components:
+  - Interpersonal judgment
+  - Conditional acceptance
+  - Social isolation
+  - Relational mistrust
+  associated_processes:
+  - Defensive withdrawal
+  - Shame responses
+  - Surface compliance
+  - Trust difficulties
+- id: psy-mot-src-int-ada
+  label: Internalization Progressing
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Value integration
+  - Motivation internalization
+  - Autonomous development
+  scope: Adaptive progression along the internalization continuum from external regulation through introjection and identification to integration. The individual increasingly owns their recovery motivation and aligns it with personal values.
+  parent_scope_inheritance: Specifies the internalization process within motivational source, focusing on the transformation of external motivations into autonomous regulation.
+  polarity_expression: Manifests as movement from compliance to identification, progressive value alignment, increasing ownership, and development of intrinsic reasons for recovery.
+  cross_domain_resonance: Resonates with identity development (psy-ide-rec-ada), value clarification (exi-mea-val-pur), and social role integration (soc-rol-rec-coh).
+  academic_description: Internalization represents the process through which external regulations become self-determined. Research shows progression from external regulation (compliance) through introjection (guilt/shame driven) to identification (personal importance) and integration (value congruence). Studies demonstrate that facilitating internalization through autonomy support leads to more stable and lasting behavior change than maintaining external control.
+  clinical_description: Assessment tracks movement along the regulatory continuum using measures like the Treatment Self-Regulation Questionnaire. Interventions facilitate internalization through values exploration, connecting recovery to personal goals, and supporting autonomous reasons for change. Clinicians help clients identify their own motivations rather than imposing external rationales. Treatment includes values clarification exercises and meaning-making activities.
+  lay_description: Your reasons for recovery are becoming more personal and meaningful. What started as doing it for others or to avoid consequences is transforming into something you genuinely want for yourself. Recovery is becoming part of who you are, not just something you have to do.
+  core_components:
+  - Progressive integration
+  - Value alignment
+  - Identity incorporation
+  - Ownership development
+  associated_processes:
+  - Values clarification
+  - Personal meaning-making
+  - Identity formation
+  - Goal personalization
+- id: psy-mot-src-int-mal
+  label: Internalization Blocked
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - External regulation stuck
+  - Introjection fixation
+  - Integration failure
+  scope: Maladaptive blocking of the internalization process, remaining stuck in external or introjected regulation. The individual maintains compliance-based or guilt-driven motivation without developing genuine ownership or value integration.
+  parent_scope_inheritance: Specifies blocked internalization within motivational source, representing failure to develop autonomous regulation from external motivations.
+  polarity_expression: Manifests as persistent external compliance, guilt or shame-driven behavior, absence of value integration, and maintained external locus of control.
+  cross_domain_resonance: Resonates with identity confusion (psy-ide-rec-mal), value conflicts (exi-mea-val-dir), and role compliance (soc-rol-rec-fra).
+  academic_description: Blocked internalization occurs when individuals remain in external or introjected regulation without progressing toward integration. Research shows that controlling environments, unresolved ambivalence, and value conflicts prevent internalization. Persistent external regulation leads to unstable motivation dependent on continued external contingencies. Introjection creates internal pressure without genuine self-endorsement, maintaining vulnerability to relapse.
+  clinical_description: Assessment reveals external locus of control and absence of personal investment. Clients show compliance without ownership or are driven by guilt and shame. Interventions explore resistance, address shame-based motivations, and search for personal relevance. Treatment focuses on resolving ambivalence and finding authentic reasons for change beyond external pressure.
+  lay_description: You're going through the motions of recovery because you have to, not because you want to. It might be to avoid consequences, please others, or because you feel guilty when you don't. The motivation never feels like it's really coming from you - it's always about external pressure or internal guilt.
+  core_components:
+  - External compliance
+  - Guilt/shame driving
+  - Value disconnection
+  - Ownership absence
+  associated_processes:
+  - Compliance patterns
+  - Shame cycles
+  - Resistance maintenance
+  - External dependence
+- id: psy-mot-src-itr-ada
+  label: Intrinsic Motivation Present
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Inherent interest
+  - Natural motivation
+  - Spontaneous engagement
+  scope: Adaptive presence of intrinsic motivation characterized by inherent satisfaction, natural interest, and enjoyment in recovery activities. The individual finds growth and self-discovery inherently rewarding without need for external reinforcement.
+  parent_scope_inheritance: Specifies intrinsic motivation within motivational source, representing the highest quality autonomous motivation arising from inherent satisfaction.
+  polarity_expression: Manifests as finding recovery activities interesting and enjoyable, experiencing curiosity about self-discovery, entering flow states, and maintaining engagement without external rewards.
+  cross_domain_resonance: Resonates with hedonic functioning (phy-rew-hed-reg), positive emotions (psy-emo-pos-ada), and purposeful engagement (exi-eng-act-pur).
+  academic_description: Intrinsic motivation involves engaging in activities for their inherent satisfaction rather than separable consequences. Research shows intrinsically motivated behaviors are associated with enhanced performance, persistence, and well-being. Flow states and curiosity indicate intrinsic motivation. Studies demonstrate that intrinsic motivation in recovery predicts better outcomes and sustained engagement without need for external reinforcement.
+  clinical_description: Assessment identifies naturally interesting aspects of recovery and flow experiences. Interventions foster intrinsic motivation by highlighting inherently satisfying elements, encouraging curiosity, and creating opportunities for enjoyment. Clinicians help clients discover what aspects of growth feel naturally rewarding. Treatment includes identifying and building on intrinsically motivating activities.
+  lay_description: You genuinely find aspects of recovery interesting and even enjoyable. There's curiosity about understanding yourself better and excitement about growth. Some recovery activities feel naturally rewarding - you'd do them even without external pressure or rewards because they're satisfying in themselves.
+  core_components:
+  - Natural interest
+  - Inherent satisfaction
+  - Curiosity drive
+  - Flow experiences
+  associated_processes:
+  - Spontaneous engagement
+  - Self-directed exploration
+  - Enjoyment experiences
+  - Natural persistence
+- id: psy-mot-src-itr-mal
+  label: Intrinsic Motivation Absent
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Source
+  cluster_id: psy-mot-src
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Motivational anhedonia
+  - Interest absence
+  - Amotivation
+  scope: Maladaptive absence of intrinsic motivation characterized by lack of inherent interest, anhedonia toward growth activities, and dependence on external motivators. The individual finds no natural satisfaction in recovery and requires constant external reinforcement.
+  parent_scope_inheritance: Specifies absence of intrinsic motivation within motivational source, representing lack of inherent satisfaction as a motivational deficit.
+  polarity_expression: Manifests as finding no inherent interest in recovery, experiencing it as burden, showing no curiosity about growth, and requiring constant external motivation to maintain engagement.
+  cross_domain_resonance: Resonates with anhedonia (phy-rew-hed-dys), emotional numbing (psy-emo-pos-mal), and meaninglessness (exi-eng-act-dir).
+  academic_description: Absence of intrinsic motivation reflects anhedonia toward potentially satisfying activities. Research shows lack of intrinsic motivation predicts poor treatment engagement and increased dropout. Amotivation represents the absence of both intrinsic and well-internalized extrinsic motivation. Studies demonstrate that purely extrinsically motivated recovery is less stable and more vulnerable to disruption when external contingencies change.
+  clinical_description: Assessment reveals absence of natural interest and dependence on external motivators. Clients experience recovery as burden and show no curiosity about growth. Interventions include behavioral activation, exploring anhedonia, and searching for 'spark' activities. Treatment addresses underlying depression and helps identify any potentially interesting aspects of recovery.
+  lay_description: Nothing about recovery feels naturally interesting or rewarding. It all feels like work or obligation, with no sense of curiosity or enjoyment. You need constant external pressure or rewards to stay engaged because there's no internal drive or natural interest pulling you forward.
+  core_components:
+  - Interest absence
+  - Anhedonic responses
+  - Curiosity deficits
+  - External dependence
+  associated_processes:
+  - Motivational emptiness
+  - Effort aversion
+  - Engagement struggles
+  - Reward dependence

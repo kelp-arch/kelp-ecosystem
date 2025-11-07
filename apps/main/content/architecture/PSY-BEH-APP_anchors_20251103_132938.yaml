@@ -1,0 +1,424 @@
+# Generated anchors for cluster: PSY-BEH-APP
+# Timestamp: 20251103_132938
+
+anchors:
+- id: psy-beh-app-drg-ada
+  label: Controlled Drug Approach
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Conscious drug resistance
+  - Controlled approach behavior
+  - Cue resistance
+  scope: Conscious control over approach behaviors toward drug-related cues and contexts, with ability to resist automatic pull and make deliberate choices about exposure.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on controlled, conscious approach behaviors specifically toward drug stimuli.
+  polarity_expression: Adaptive drug approach manifests as conscious awareness and control over approach tendencies, allowing resistance to drug cues despite their salience.
+  cross_domain_resonance: Resonates with phy-neu-dop-reg (regulated dopamine signaling), soc-env-cue-coh (cohesive cue management), and exi-mea-val-pur (purposeful values alignment).
+  academic_description: Controlled drug approach involves top-down regulation of automatic approach tendencies through prefrontal inhibitory control. Research shows successful recovery correlates with reduced approach bias on implicit tasks and increased cognitive control over drug-related approach behaviors.
+  clinical_description: Assessment uses approach-avoidance tasks and self-report measures of cue reactivity. Treatment includes approach bias modification training, cue exposure with response prevention, and cognitive strategies to increase conscious control over automatic approach tendencies.
+  lay_description: Having control over the pull toward drugs - being able to see drug cues without automatically moving toward them, making conscious choices about whether to approach or avoid drug-related situations.
+  core_components:
+  - Inhibitory control over approach
+  - Conscious decision-making
+  - Cue resistance capacity
+  associated_processes:
+  - Executive control
+  - Response inhibition
+  - Deliberate choice
+  clinical_relevance: Predicts successful abstinence maintenance and reduced relapse risk. Critical target for early recovery interventions.
+  assessment_methods:
+  - Approach-avoidance task
+  - Stimulus-response compatibility task
+  - Cue reactivity assessment
+  interventions:
+  - Approach bias modification
+  - Cue exposure therapy
+  - Cognitive control training
+  prominent_models:
+  - Dual-process model of addiction
+  - Incentive sensitization theory
+  - Cognitive control model
+- id: psy-beh-app-drg-mal
+  label: Automatic Drug Approach
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Drug approach bias
+  - Automatic drug seeking
+  - Compulsive approach
+  scope: Automatic, involuntary approach behaviors toward drug cues that override conscious control, creating strong behavioral pull toward drug-related stimuli.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on automatic, uncontrolled approach behaviors specifically toward drug stimuli.
+  polarity_expression: Maladaptive drug approach manifests as automatic activation of approach behaviors by drug cues, overriding inhibitory control and conscious intentions.
+  cross_domain_resonance: Resonates with phy-neu-dop-dys (dysregulated dopamine signaling), soc-env-cue-fra (fragmented cue exposure), and exi-mea-val-dir (directionless values).
+  academic_description: Automatic drug approach reflects sensitized motivational systems where drug cues trigger approach behaviors through subcortical pathways faster than cortical control can intervene. Approach bias develops through repeated pairing of cues with drug reward, creating automatic stimulus-response associations.
+  clinical_description: Presents as involuntary movement toward drugs, strong cue-triggered craving, and difficulty avoiding drug contexts. Assessment reveals approach bias on implicit tasks. Treatment targets automatic associations through bias modification and strengthens inhibitory control.
+  lay_description: Being automatically pulled toward drugs without thinking - your body moving toward drug cues before your mind can stop it, feeling magnetically drawn to drugs despite wanting to quit.
+  core_components:
+  - Sensitized approach system
+  - Automatic cue reactivity
+  - Overridden inhibition
+  associated_processes:
+  - Incentive salience
+  - Habitual responding
+  - Cue-triggered wanting
+  clinical_relevance: Primary driver of relapse, especially in early recovery. Predicts treatment dropout and continued use despite negative consequences.
+  assessment_methods:
+  - Implicit approach-avoidance task
+  - Cue-induced craving measures
+  - Behavioral approach observations
+  interventions:
+  - Approach bias modification training
+  - Cue avoidance strategies
+  - Response prevention techniques
+  prominent_models:
+  - Incentive sensitization theory
+  - Habit theory of addiction
+  - Automatic action schema model
+- id: psy-beh-app-nat-ada
+  label: Natural Reward Engagement
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Behavioral activation
+  - Natural reward approach
+  - Non-drug reward pursuit
+  scope: Robust approach behaviors toward natural rewards including social connections, activities, achievements, and non-drug pleasures, maintaining diverse sources of reinforcement.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on approach behaviors toward natural, non-drug rewards and reinforcers.
+  polarity_expression: Adaptive natural reward approach manifests as maintained interest and engagement with diverse non-drug rewards, supporting balanced behavioral activation.
+  cross_domain_resonance: Resonates with phy-neu-rew-reg (regulated reward processing), soc-rel-con-coh (cohesive social connection), and exi-mea-eng-pur (purposeful engagement).
+  academic_description: Natural reward engagement reflects preserved reward sensitivity to non-drug reinforcers. Behavioral activation maintains approach toward diverse rewards through scheduling, environmental enrichment, and values-based activity selection. Research shows natural reward engagement protects against relapse.
+  clinical_description: Characterized by maintained interests, social engagement, and goal pursuit. Assessment includes behavioral activation scales and activity monitoring. Treatment uses pleasant activity scheduling, behavioral activation therapy, and values clarification to increase natural reward approach.
+  lay_description: Staying interested and engaged in normal life pleasures - maintaining hobbies, relationships, and goals that bring satisfaction without drugs.
+  core_components:
+  - Diverse reward sensitivity
+  - Behavioral activation
+  - Goal-directed behavior
+  associated_processes:
+  - Motivation for natural rewards
+  - Social approach
+  - Achievement striving
+  clinical_relevance: Protects against relapse by providing alternative reinforcement. Essential for sustained recovery and life satisfaction.
+  assessment_methods:
+  - Behavioral activation scale
+  - Pleasant events schedule
+  - Activity monitoring logs
+  interventions:
+  - Behavioral activation therapy
+  - Activity scheduling
+  - Values clarification exercises
+  prominent_models:
+  - Behavioral activation model
+  - Behavioral economics of choice
+  - Self-determination theory
+- id: psy-beh-app-nat-mal
+  label: Natural Reward Anhedonia
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Behavioral deactivation
+  - Reward deficit
+  - Motivational anhedonia
+  scope: Diminished approach toward natural rewards with loss of interest in previously enjoyable activities, social withdrawal, and reduced goal-directed behavior.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on deficient approach behaviors toward natural, non-drug rewards.
+  polarity_expression: Maladaptive natural reward approach manifests as anhedonia and behavioral deactivation, with diminished pursuit of non-drug rewards.
+  cross_domain_resonance: Resonates with phy-neu-rew-dys (dysregulated reward processing), soc-rel-con-fra (fragmented social connection), and exi-mea-eng-dir (directionless engagement).
+  academic_description: Natural reward anhedonia involves reduced sensitivity to non-drug reinforcers through neuroadaptive changes in reward circuits. Chronic drug use downregulates natural reward processing, creating motivational narrowing where only drugs maintain approach behavior. This reward deficit drives continued use.
+  clinical_description: Presents as loss of interest, social withdrawal, abandoned hobbies, and lack of goal pursuit. Assessment reveals reduced behavioral activation and anhedonia. Treatment targets reward exposure, activity scheduling, and gradual re-engagement with natural reinforcers.
+  lay_description: Losing interest in everything except drugs - hobbies feel pointless, relationships seem unimportant, and nothing brings pleasure like it used to.
+  core_components:
+  - Reward insensitivity
+  - Behavioral deactivation
+  - Motivational deficit
+  associated_processes:
+  - Anhedonia
+  - Social withdrawal
+  - Goal abandonment
+  clinical_relevance: Creates reward deficit that maintains addiction. Major barrier to recovery engagement and predictor of relapse.
+  assessment_methods:
+  - Snaith-Hamilton pleasure scale
+  - Behavioral activation depression scale
+  - Temporal experience of pleasure scale
+  interventions:
+  - Behavioral activation interventions
+  - Reward exposure therapy
+  - Activity monitoring and feedback
+  prominent_models:
+  - Reward deficiency syndrome
+  - Allostatic model of addiction
+  - Motivational toxicity theory
+- id: psy-beh-app-avd-ada
+  label: Appropriate Avoidance
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Selective avoidance
+  - Protective withdrawal
+  - Adaptive inhibition
+  scope: Appropriate avoidance of genuine threats while maintaining ability to face manageable challenges, tolerate discomfort, and engage with difficult but important situations.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on appropriate, flexible avoidance behaviors that protect while allowing growth.
+  polarity_expression: Adaptive avoidance manifests as selective withdrawal from actual dangers while maintaining engagement with manageable challenges and necessary discomforts.
+  cross_domain_resonance: Resonates with phy-str-reg-reg (regulated stress response), soc-env-saf-coh (cohesive safety behaviors), and exi-suf-acc-pur (purposeful acceptance).
+  academic_description: Appropriate avoidance involves discriminative threat detection and flexible behavioral inhibition. The behavioral inhibition system activates proportionally to actual threat while allowing approach to important goals despite anxiety. This balance supports both safety and growth.
+  clinical_description: Characterized by avoiding genuine dangers while facing fears, tolerating withdrawal, and engaging despite discomfort. Assessment evaluates avoidance patterns and distress tolerance. Treatment uses exposure therapy and acceptance-based approaches to reduce excessive avoidance.
+  lay_description: Knowing what to avoid and what to face - staying away from real dangers while pushing through manageable discomfort to reach important goals.
+  core_components:
+  - Threat discrimination
+  - Flexible inhibition
+  - Distress tolerance
+  associated_processes:
+  - Risk assessment
+  - Selective withdrawal
+  - Approach despite anxiety
+  clinical_relevance: Enables engagement with recovery despite discomfort. Prevents both reckless exposure and excessive avoidance.
+  assessment_methods:
+  - Behavioral avoidance test
+  - Distress tolerance scale
+  - Avoidance hierarchy assessment
+  interventions:
+  - Graded exposure therapy
+  - Distress tolerance training
+  - Acceptance and commitment therapy
+  prominent_models:
+  - Behavioral inhibition system model
+  - Two-factor theory of avoidance
+  - Acceptance-based behavior therapy
+- id: psy-beh-app-avd-mal
+  label: Pathological Avoidance
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Excessive avoidance
+  - Withdrawal-driven escape
+  - Maladaptive inhibition
+  scope: Excessive avoidance of discomfort including withdrawal states, emotions, and responsibilities, using drugs as primary avoidance strategy.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on excessive, inflexible avoidance behaviors that maintain addiction.
+  polarity_expression: Maladaptive avoidance manifests as pervasive escape from discomfort, particularly withdrawal states, driving continued drug use.
+  cross_domain_resonance: Resonates with phy-str-reg-dys (dysregulated stress response), soc-env-saf-fra (fragmented safety behaviors), and exi-suf-acc-dir (directionless suffering).
+  academic_description: Pathological avoidance involves generalized escape from aversive internal states. Negative reinforcement through drug use strengthens avoidance patterns. Withdrawal avoidance becomes primary motivator, creating avoidance-maintained addiction cycles where drug use prevents confronting emotions, responsibilities, and withdrawal.
+  clinical_description: Presents as using drugs to escape emotions, avoiding sober situations, fleeing responsibilities, and inability to tolerate withdrawal. Assessment reveals extensive avoidance patterns. Treatment targets exposure to avoided experiences and building distress tolerance.
+  lay_description: Using drugs to escape from everything uncomfortable - avoiding withdrawal symptoms, difficult emotions, responsibilities, and any situation that feels challenging without drugs.
+  core_components:
+  - Withdrawal avoidance
+  - Emotional escape
+  - Responsibility avoidance
+  associated_processes:
+  - Negative reinforcement
+  - Experiential avoidance
+  - Safety behaviors
+  clinical_relevance: Maintains addiction through negative reinforcement. Prevents engagement with recovery and perpetuates use cycles.
+  assessment_methods:
+  - Avoidance and inflexibility scale
+  - Withdrawal avoidance assessment
+  - Experiential avoidance questionnaire
+  interventions:
+  - Exposure and response prevention
+  - Acceptance-based interventions
+  - Behavioral experiments
+  prominent_models:
+  - Negative reinforcement model
+  - Experiential avoidance model
+  - Self-medication hypothesis
+- id: psy-beh-app-cnf-ada
+  label: Resolved Ambivalence
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Motivational resolution
+  - Decisional clarity
+  - Integrated motivation
+  scope: Effective resolution of approach-avoidance conflicts through values-based decision making, maintaining behavioral consistency despite competing motivations.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on successful resolution of conflicting approach and avoidance tendencies.
+  polarity_expression: Adaptive conflict resolution manifests as ability to make clear decisions and maintain consistent behavior despite ambivalent feelings.
+  cross_domain_resonance: Resonates with psy-cog-dec-ada (adaptive decision making), soc-rel-bou-coh (cohesive boundaries), and exi-aut-cho-pur (purposeful choice).
+  academic_description: Resolved ambivalence involves integration of competing motivations through higher-order processing. Values clarification and commitment processes enable consistent behavior despite conflicting impulses. Research shows motivational coherence predicts successful behavior change.
+  clinical_description: Characterized by clear decisions, consistent actions, and values-aligned behavior despite mixed feelings. Assessment evaluates motivational consistency and values clarity. Treatment uses motivational interviewing and values work to resolve ambivalence.
+  lay_description: Making clear choices even when torn - acting on what matters most to you even when part of you wants something else, staying consistent with recovery despite mixed feelings.
+  core_components:
+  - Values clarity
+  - Decisional commitment
+  - Behavioral consistency
+  associated_processes:
+  - Motivational integration
+  - Conflict resolution
+  - Commitment processes
+  clinical_relevance: Enables sustained recovery behavior despite ongoing ambivalence. Predicts treatment engagement and long-term success.
+  assessment_methods:
+  - Stages of change assessment
+  - Values card sort
+  - Decisional balance worksheet
+  interventions:
+  - Motivational interviewing
+  - Values clarification exercises
+  - Commitment strategies
+  prominent_models:
+  - Transtheoretical model
+  - Self-determination theory
+  - Motivational interviewing model
+- id: psy-beh-app-cnf-mal
+  label: Unresolved Ambivalence
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Motivational conflict
+  - Behavioral ambivalence
+  - Approach-avoidance paralysis
+  scope: Persistent unresolved conflicts between approach and avoidance tendencies, creating behavioral inconsistency, decisional paralysis, and oscillating patterns.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on unresolved conflicts between competing approach and avoidance motivations.
+  polarity_expression: Maladaptive conflict manifests as paralysis from competing motivations, creating inconsistent behavior and failed change attempts.
+  cross_domain_resonance: Resonates with psy-cog-dec-mal (maladaptive decision making), soc-rel-bou-fra (fragmented boundaries), and exi-aut-cho-dir (directionless choice).
+  academic_description: Unresolved ambivalence reflects failure to integrate competing motivational states. Simultaneous activation of approach (wanting drug effects) and avoidance (fearing consequences) creates behavioral oscillation. This ambivalence predicts poor treatment outcomes and relapse.
+  clinical_description: Presents as indecision, inconsistent behavior, repeated quit attempts, and motivational paralysis. Assessment reveals high ambivalence and low commitment. Treatment focuses on exploring and resolving ambivalence through motivational enhancement.
+  lay_description: Being stuck between wanting to quit and wanting to use - constantly torn between approaching drugs and avoiding them, unable to commit fully to either path.
+  core_components:
+  - Motivational conflict
+  - Decisional paralysis
+  - Behavioral oscillation
+  associated_processes:
+  - Ambivalence
+  - Approach-avoidance conflict
+  - Motivational inconsistency
+  clinical_relevance: Predicts treatment dropout, relapse, and chronic cycling between use and abstinence attempts.
+  assessment_methods:
+  - Ambivalence scale
+  - Motivational assessment
+  - Behavioral consistency tracking
+  interventions:
+  - Motivational enhancement therapy
+  - Ambivalence exploration
+  - Double-sided reflection techniques
+  prominent_models:
+  - Approach-avoidance conflict model
+  - Motivational ambivalence theory
+  - Decisional conflict theory
+- id: psy-beh-app-mom-ada
+  label: Flexible Behavioral Sequences
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Behavioral flexibility
+  - Controlled sequences
+  - Interruptible chains
+  scope: Ability to flexibly start, modify, and stop behavioral sequences based on changing contexts and consequences, maintaining control over behavioral momentum.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on flexible control over the momentum and persistence of approach behaviors.
+  polarity_expression: Adaptive momentum manifests as ability to interrupt behavioral chains when appropriate while maintaining persistence for beneficial goals.
+  cross_domain_resonance: Resonates with phy-neu-inh-reg (regulated inhibition), psy-cog-cfl-ada (cognitive flexibility), and soc-beh-pat-coh (cohesive patterns).
+  academic_description: Flexible sequences involve maintained cognitive control over behavioral momentum. Executive functions allow interruption of automated chains when contingencies change. This flexibility enables adaptive responding to environmental demands while maintaining goal persistence when appropriate.
+  clinical_description: Characterized by ability to stop behaviors mid-sequence, adjust to feedback, and maintain control over actions. Assessment evaluates behavioral flexibility and chain interruption. Treatment teaches pause techniques and chain analysis to increase flexibility.
+  lay_description: Being able to stop yourself once you've started something - having the flexibility to change course mid-action when you realize it's not working, rather than being carried along by momentum.
+  core_components:
+  - Sequence interruption
+  - Behavioral adjustment
+  - Controlled persistence
+  associated_processes:
+  - Response flexibility
+  - Goal monitoring
+  - Adaptive persistence
+  clinical_relevance: Enables stopping drug use after initial lapse. Prevents full relapse and supports harm reduction.
+  assessment_methods:
+  - Stop-signal task
+  - Behavioral flexibility assessment
+  - Chain analysis interview
+  interventions:
+  - Chain analysis and interruption
+  - Pause and plan techniques
+  - Flexibility training exercises
+  prominent_models:
+  - Behavioral momentum theory
+  - Response interruption model
+  - Cognitive flexibility framework
+- id: psy-beh-app-mom-mal
+  label: Rigid Behavioral Momentum
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Approach-Avoidance
+  cluster_id: psy-beh-app
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Behavioral rigidity
+  - Unstoppable sequences
+  - Compulsive completion
+  scope: Inability to interrupt behavioral sequences once initiated, with momentum overriding conscious control and driving completion of drug use chains despite intentions to stop.
+  parent_scope_inheritance: Specifies approach-avoidance patterns to focus on rigid, uncontrollable momentum in approach behavior sequences.
+  polarity_expression: Maladaptive momentum manifests as inability to stop behavioral chains once started, with momentum carrying behavior to completion regardless of consequences.
+  cross_domain_resonance: Resonates with phy-neu-inh-dys (dysregulated inhibition), psy-cog-cfl-mal (cognitive inflexibility), and soc-beh-pat-fra (fragmented patterns).
+  academic_description: Rigid momentum reflects loss of top-down control over initiated behavioral sequences. Once drug-seeking chains begin, subcortical momentum overrides prefrontal inhibition. This 'one leads to many' pattern reflects compromised stopping mechanisms and explains binge patterns.
+  clinical_description: Presents as inability to stop after first use, automatic completion of drug sequences, and momentum-driven binges. Assessment reveals poor response inhibition and chain rigidity. Treatment targets early chain interruption and momentum awareness.
+  lay_description: Once you start, you can't stop - taking one drink or hit inevitably leads to many more, like being on autopilot where the momentum carries you through the whole sequence despite wanting to stop.
+  core_components:
+  - Uninterruptible chains
+  - Momentum override
+  - Compulsive completion
+  associated_processes:
+  - Response perseveration
+  - Behavioral inflexibility
+  - Automatic sequences
+  clinical_relevance: Drives binge patterns and loss of control use. Major factor in lapse-to-relapse transitions.
+  assessment_methods:
+  - Behavioral chain assessment
+  - Response perseveration tasks
+  - Binge pattern analysis
+  interventions:
+  - Early interruption strategies
+  - Behavioral chain disruption
+  - Momentum awareness training
+  prominent_models:
+  - Behavioral momentum theory
+  - Perseveration model
+  - Automatic action schema theory

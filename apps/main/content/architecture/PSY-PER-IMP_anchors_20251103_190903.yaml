@@ -1,0 +1,294 @@
+# Generated anchors for cluster: PSY-PER-IMP
+# Timestamp: 20251103_190903
+
+anchors:
+- id: psy-per-imp-neg-ada
+  label: Distress Tolerance
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Emotional impulse control
+  - Negative affect regulation
+  - Distress-driven restraint
+  scope: Represents adaptive capacity to tolerate negative emotions without engaging in rash or impulsive actions, maintaining behavioral control during distress through effective emotion regulation and coping strategies.
+  parent_scope_inheritance: Specifies the negative urgency facet of impulsivity as the ability to experience negative emotions while maintaining thoughtful responses rather than emotion-driven impulsive actions.
+  polarity_expression: Manifests as effective distress tolerance with maintained behavioral control during negative emotional states versus impulsive action driven by inability to tolerate negative affect.
+  cross_domain_resonance: Resonates with stress regulation (phy-neu-str-reg), emotional coping (psy-cop-emo-ada), and social support utilization (soc-sup-emo-coh) in managing negative emotional triggers.
+  academic_description: Adaptive negative urgency regulation involves intact prefrontal-limbic connectivity during negative affect, enabling top-down control over emotion-driven impulses. Research shows strong inverse correlations with substance use disorders, self-harm behaviors, and interpersonal aggression. Distress tolerance capacity predicts better treatment outcomes and reduced relapse risk.
+  clinical_description: Assess through Distress Tolerance Scale and behavioral tasks measuring persistence under frustration. High distress tolerance presents as ability to remain goal-directed despite negative emotions. Interventions include DBT distress tolerance modules, emotion regulation skills training, and mindfulness-based approaches targeting present-moment awareness during difficult emotions.
+  lay_description: This is your ability to handle tough emotions without doing something you'll regret. When you're upset, anxious, or frustrated, you can sit with those feelings and still make good choices rather than acting on impulse to escape the discomfort.
+  core_components:
+  - Emotion awareness and acceptance
+  - Cognitive reappraisal abilities
+  - Behavioral inhibition during distress
+  associated_processes:
+  - Prefrontal regulation of amygdala
+  - Distress tolerance skills application
+  - Adaptive coping strategy selection
+- id: psy-per-imp-neg-mal
+  label: Negative Urgency
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Distress-driven impulsivity
+  - Negative emotional reactivity
+  - Affect-driven disinhibition
+  scope: Represents maladaptive tendency to act rashly and without consideration when experiencing negative emotions, leading to impulsive behaviors aimed at escaping or alleviating distress regardless of consequences.
+  parent_scope_inheritance: Specifies the negative urgency facet of impulsivity as problematic rash action during negative emotional states that increases addiction vulnerability and relapse risk.
+  polarity_expression: Manifests as impulsive action driven by inability to tolerate negative affect versus effective distress tolerance with maintained behavioral control during negative emotional states.
+  cross_domain_resonance: Resonates with stress dysregulation (phy-neu-str-dys), maladaptive coping (psy-cop-emo-mal), and social isolation patterns (soc-sup-emo-fra) in perpetuating emotion-driven impulsive cycles.
+  academic_description: Negative urgency represents strongest predictor of problematic substance use among impulsivity facets. Characterized by heightened limbic reactivity and reduced prefrontal control during negative affect. Meta-analyses show robust associations with alcohol problems, eating pathology, and self-injurious behaviors. Mediates relationship between emotional disorders and addictive behaviors.
+  clinical_description: Assess using UPPS-P Negative Urgency subscale and ecological momentary assessment of emotion-behavior contingencies. Presents as substance use during distress, self-harm behaviors, aggressive outbursts when upset. Requires intensive emotion regulation interventions including DBT skills, distress tolerance training, and crisis planning. Consider mood stabilization for severe cases.
+  lay_description: This is when negative emotions like anger, sadness, or anxiety trigger impulsive actions you later regret. You might drink, use drugs, lash out at others, or harm yourself when upset because you can't tolerate the difficult feelings and need immediate relief.
+  core_components:
+  - Emotional dysregulation
+  - Impaired distress tolerance
+  - Escape-motivated behavior
+  associated_processes:
+  - Limbic hyperactivation during distress
+  - Reduced prefrontal control
+  - Negative reinforcement learning
+- id: psy-per-imp-pos-ada
+  label: Positive Emotional Control
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Excitement regulation
+  - Positive affect modulation
+  - Celebratory restraint
+  scope: Represents adaptive capacity to experience positive emotions and excitement while maintaining appropriate behavioral control, channeling enthusiasm productively without losing sight of boundaries or consequences.
+  parent_scope_inheritance: Specifies the positive urgency facet of impulsivity as the ability to enjoy positive emotional states while maintaining thoughtful decision-making and appropriate behavioral boundaries.
+  polarity_expression: Manifests as maintained cognitive control and appropriate behavior during positive emotional states versus rash action and loss of control when experiencing excitement or elation.
+  cross_domain_resonance: Resonates with reward regulation (phy-neu-rew-reg), adaptive celebration (soc-rit-cel-coh), and purposeful joy (exi-mea-joy-pur) in maintaining balanced positive experiences.
+  academic_description: Adaptive positive emotional control involves maintained prefrontal governance during rewarding states, enabling sustained goal pursuit without impulsive deviation. Associated with better social functioning, stable mood patterns, and reduced risk of manic-like episodes. Predicts successful navigation of recovery milestones and celebrations without relapse.
+  clinical_description: Assess through positive mood induction paradigms and real-world celebration behaviors. Adaptive control shows as ability to enjoy success without excess, maintain routines during good times. Strengthen through structured celebration planning, reward substitution strategies, and mindful savoring practices that enhance positive experiences without behavioral dyscontrol.
+  lay_description: This is your ability to feel excited, happy, or elated without going overboard. You can celebrate successes, enjoy good times, and feel enthusiasm while still making wise choices and respecting your boundaries and commitments.
+  core_components:
+  - Balanced reward processing
+  - Maintained executive control
+  - Appropriate enthusiasm expression
+  associated_processes:
+  - Prefrontal modulation of reward circuits
+  - Contextual behavior regulation
+  - Positive emotion savoring
+- id: psy-per-imp-pos-mal
+  label: Positive Urgency
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Excitement-driven impulsivity
+  - Elation-triggered recklessness
+  - Positive mood dyscontrol
+  scope: Represents maladaptive tendency to act rashly when experiencing positive emotions, losing behavioral control during excitement or elation and engaging in risky behaviors without considering consequences.
+  parent_scope_inheritance: Specifies the positive urgency facet of impulsivity as problematic loss of control during positive emotional states that contributes to celebratory relapse and risky reward-seeking behaviors.
+  polarity_expression: Manifests as rash action and loss of control when experiencing excitement or elation versus maintained cognitive control and appropriate behavior during positive emotional states.
+  cross_domain_resonance: Resonates with reward dysregulation (phy-neu-rew-dys), manic-like states (psy-moo-man-mal), and social boundary violations (soc-bou-per-fra) in creating vulnerability during positive experiences.
+  academic_description: Positive urgency independently predicts risky behaviors during positive mood states including binge drinking, risky sexual behavior, and gambling problems. Associated with bipolar spectrum traits and reward hypersensitivity. Neuroimaging shows reduced prefrontal activation during reward anticipation. Contributes to celebratory relapse and difficulty maintaining recovery during positive life events.
+  clinical_description: Assess using UPPS-P Positive Urgency subscale and monitoring behavior during positive events. Presents as excessive celebration, impulsive decisions when happy, risky behaviors during excitement. Requires excitement management strategies, environmental structuring during celebrations, and contingency management approaches. Consider mood stabilization for bipolar features.
+  lay_description: This is when feeling really good leads to poor decisions. When excited or celebrating, you might drink too much, spend recklessly, engage in risky sexual behavior, or make impulsive choices you wouldn't normally make, as if the good feelings override your judgment.
+  core_components:
+  - Reward system hyperactivation
+  - Diminished cognitive control
+  - Excitement-driven disinhibition
+  associated_processes:
+  - Dopamine surge overwhelming control
+  - Reduced risk perception when elated
+  - Positive mood-behavior contingencies
+- id: psy-per-imp-sen-ada
+  label: Adaptive Novelty-Seeking
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Healthy adventure-seeking
+  - Balanced exploration drive
+  - Constructive sensation-seeking
+  scope: Represents adaptive pursuit of novel and exciting experiences with appropriate risk assessment, channeling curiosity and adventure-seeking into growth-promoting activities while maintaining safety awareness.
+  parent_scope_inheritance: Specifies the sensation-seeking facet of impulsivity as healthy novelty-seeking that enriches life experience while maintaining appropriate boundaries and risk assessment.
+  polarity_expression: Manifests as balanced pursuit of excitement and novelty with intact risk assessment versus compulsive thrill-seeking without regard for danger or consequences.
+  cross_domain_resonance: Resonates with exploratory drive (phy-neu-dop-reg), openness to experience (psy-per-ope-ada), and cultural exploration (soc-cul-exp-coh) in promoting healthy growth and development.
+  academic_description: Adaptive sensation-seeking correlates with creativity, openness to experience, and psychological flexibility. Associated with approach motivation balanced by intact risk assessment. Predicts engagement in prosocial adventures, skill development, and healthy lifestyle activities. Serves protective function when channeled into structured novel experiences.
+  clinical_description: Assess through Sensation-Seeking Scale and behavioral variety indices. Adaptive patterns show pursuit of novel experiences within safe parameters. Channel through adventure therapy, skill-building programs, travel opportunities, and creative pursuits. Utilize as strength in treatment by incorporating variety and stimulation into recovery activities.
+  lay_description: This is healthy excitement-seeking where you pursue new experiences and adventures while staying safe. You might try new sports, travel to new places, learn new skills, or seek variety in life, but you assess risks and make informed choices about your adventures.
+  core_components:
+  - Curiosity and exploration drive
+  - Balanced risk assessment
+  - Growth-oriented novelty pursuit
+  associated_processes:
+  - Dopamine-mediated exploration
+  - Prefrontal risk evaluation
+  - Approach-avoidance balance
+- id: psy-per-imp-sen-mal
+  label: Reckless Sensation-Seeking
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Compulsive thrill-seeking
+  - Dangerous novelty pursuit
+  - Risk-blind excitement-seeking
+  scope: Represents maladaptive compulsive pursuit of intense sensations and novel experiences without appropriate risk assessment, leading to dangerous thrill-seeking behaviors and substance experimentation.
+  parent_scope_inheritance: Specifies the sensation-seeking facet of impulsivity as reckless pursuit of excitement that increases vulnerability to substance experimentation and dangerous behaviors.
+  polarity_expression: Manifests as compulsive thrill-seeking without regard for danger or consequences versus balanced pursuit of excitement and novelty with intact risk assessment.
+  cross_domain_resonance: Resonates with dopamine dysregulation (phy-neu-dop-dys), risk-taking pathology (psy-beh-ris-mal), and antisocial thrill-seeking (soc-beh-ant-fra) in driving dangerous novelty pursuit.
+  academic_description: Reckless sensation-seeking predicts stimulant preference, polysubstance use, and engagement in extreme sports without safety precautions. Associated with reduced risk perception and heightened dopamine response to novelty. Correlates with conduct problems, accidents, and premature mortality. Peaks during adolescence coinciding with substance initiation.
+  clinical_description: Assess using UPPS-P Sensation-Seeking subscale and risk-taking behavioral tasks. Presents as substance experimentation, dangerous driving, unprotected sex with multiple partners, extreme sports without preparation. Requires harm reduction education, supervised adventure programs, and alternative stimulation sources. Channel into safer novel activities.
+  lay_description: This is when the need for excitement overrides safety concerns. You might experiment with drugs to feel new sensations, engage in dangerous activities for the thrill, drive recklessly for excitement, or constantly seek increasingly intense experiences regardless of risks.
+  core_components:
+  - Compulsive novelty-seeking
+  - Diminished risk perception
+  - Tolerance to stimulation
+  associated_processes:
+  - Dopamine-driven compulsion
+  - Habituation requiring escalation
+  - Reward deficiency compensation
+- id: psy-per-imp-pre-ada
+  label: Thoughtful Decision-Making
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Deliberate action
+  - Reflective planning
+  - Consequence consideration
+  scope: Represents adaptive capacity to think through decisions before acting, considering potential consequences and alternatives while maintaining appropriate spontaneity when beneficial.
+  parent_scope_inheritance: Specifies the premeditation aspect of impulsivity as the ability to engage in thoughtful planning and consequence evaluation before taking action.
+  polarity_expression: Manifests as deliberate decision-making with consideration of consequences versus acting without forethought or evaluation of potential outcomes.
+  cross_domain_resonance: Resonates with executive planning (phy-neu-exe-reg), problem-solving skills (psy-cog-pro-ada), and future orientation (exi-tem-fut-pur) in supporting thoughtful action.
+  academic_description: Adaptive premeditation involves intact prefrontal executive networks enabling consequence evaluation, alternative generation, and implementation planning. Predicts better academic and occupational outcomes, reduced accident rates, and successful long-term goal achievement. Protects against substance use initiation through consideration of long-term consequences.
+  clinical_description: Assess through decision-making tasks and planning assessments like Tower of London. Shows as systematic approach to choices, consideration of pros and cons, and learning from past decisions. Strengthen through decision-making training, implementation intention formation, and cognitive rehearsal of choice points.
+  lay_description: This is your ability to think before you act. You consider what might happen as a result of your choices, weigh different options, and make decisions based on likely outcomes rather than just going with your first impulse.
+  core_components:
+  - Consequence evaluation
+  - Alternative consideration
+  - Implementation planning
+  associated_processes:
+  - Prefrontal executive function
+  - Prospective thinking
+  - Response inhibition
+- id: psy-per-imp-pre-mal
+  label: Lack of Premeditation
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Acting without thinking
+  - Absent forethought
+  - Impulsive decision-making
+  scope: Represents maladaptive tendency to act on immediate impulses without considering consequences, failing to think through decisions or plan actions before engaging in them.
+  parent_scope_inheritance: Specifies the lack of premeditation facet of impulsivity as problematic absence of forethought and planning that leads to repeated poor decisions and negative consequences.
+  polarity_expression: Manifests as acting without forethought or evaluation of potential outcomes versus deliberate decision-making with consideration of consequences.
+  cross_domain_resonance: Resonates with executive dysfunction (phy-neu-exe-dys), cognitive impulsivity (psy-cog-imp-mal), and chaotic life patterns (soc-lif-cha-fra) in perpetuating thoughtless action cycles.
+  academic_description: Lack of premeditation reflects deficient prefrontal activation during decision-making, resulting in failure to generate alternatives or evaluate consequences. Predicts accidental injuries, financial problems, and vocational instability. Associated with ADHD and frontal lobe dysfunction. Contributes to substance use through failure to consider long-term costs.
+  clinical_description: Assess using UPPS-P Lack of Premeditation subscale and go/no-go tasks. Presents as surprise at own actions, repeated similar mistakes, and decisions made without deliberation. Requires environmental structuring, decision-making training, forced delay strategies, and external accountability systems. Implement choice architecture interventions.
+  lay_description: This is when you act first and think later, often surprising yourself with your own choices. You might make impulsive purchases, agree to things without considering implications, or find yourself in situations without knowing how you got there because you didn't think it through.
+  core_components:
+  - Absent consequence consideration
+  - Immediate action tendency
+  - Planning deficits
+  associated_processes:
+  - Reduced prefrontal activation
+  - Impaired response inhibition
+  - Present-moment bias
+- id: psy-per-imp-per-ada
+  label: Task Persistence
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Sustained focus
+  - Goal persistence
+  - Attention maintenance
+  scope: Represents adaptive capacity to maintain focus and effort on tasks despite challenges or boredom, persisting through difficulties to achieve goals and complete commitments.
+  parent_scope_inheritance: Specifies the perseverance aspect of impulsivity as the ability to sustain attention and effort over time despite distractions or difficulties.
+  polarity_expression: Manifests as sustained attention and persistent effort toward goals versus inability to maintain focus or complete tasks when they become challenging or boring.
+  cross_domain_resonance: Resonates with sustained attention networks (phy-neu-att-reg), achievement motivation (psy-mot-ach-ada), and commitment fulfillment (soc-com-ful-coh) in supporting goal achievement.
+  academic_description: Task persistence involves intact sustained attention networks and motivation systems enabling continued effort despite challenges. Predicts academic achievement, treatment completion, and occupational success. Associated with conscientiousness and grit. Protects against addiction through ability to maintain recovery efforts during difficult periods.
+  clinical_description: Assess through continuous performance tasks and treatment adherence measures. Shows as task completion, maintained effort through challenges, and consistent follow-through. Strengthen through attention training, behavioral momentum strategies, and graduated task complexity with reinforcement for persistence.
+  lay_description: This is your ability to stick with things even when they get difficult or boring. You can maintain focus on tasks, work through challenges without giving up, and follow through on commitments even when motivation wanes.
+  core_components:
+  - Sustained attention capacity
+  - Effort maintenance
+  - Frustration tolerance
+  associated_processes:
+  - Sustained attention networks
+  - Motivation maintenance
+  - Goal-directed persistence
+- id: psy-per-imp-per-mal
+  label: Lack of Perseverance
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Impulsivity Systems
+  cluster_id: psy-per-imp
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Attention deficits
+  - Task abandonment
+  - Focus inability
+  scope: Represents maladaptive inability to maintain focus and effort on tasks, abandoning activities when they become challenging or boring and failing to complete started projects.
+  parent_scope_inheritance: Specifies the lack of perseverance facet of impulsivity as problematic inability to sustain effort that interferes with goal achievement and treatment completion.
+  polarity_expression: Manifests as inability to maintain focus or complete tasks when they become challenging or boring versus sustained attention and persistent effort toward goals.
+  cross_domain_resonance: Resonates with attention dysregulation (phy-neu-att-dys), achievement difficulties (psy-mot-ach-mal), and commitment failures (soc-com-bre-fra) in undermining goal achievement.
+  academic_description: Lack of perseverance reflects deficient sustained attention and effort regulation, resulting in incomplete tasks and abandoned goals. Predicts treatment dropout, vocational problems, and academic underachievement. Associated with ADHD-inattentive presentation. Contributes to addiction maintenance through inability to sustain recovery efforts.
+  clinical_description: Assess using UPPS-P Lack of Perseverance subscale and task persistence measures. Presents as unfinished projects, jumping between activities, and poor treatment adherence. Requires external structure, task chunking, immediate reinforcement systems, and accountability partnerships. Consider stimulant medication for severe attention deficits.
+  lay_description: This is when you have trouble finishing what you start. Tasks feel overwhelming when they get difficult, your attention jumps to other things, and you have many unfinished projects because you lose focus or motivation before completing them.
+  core_components:
+  - Attention regulation deficits
+  - Effort discontinuation
+  - Low frustration tolerance
+  associated_processes:
+  - Attention network dysfunction
+  - Motivation depletion
+  - Task-switching tendency

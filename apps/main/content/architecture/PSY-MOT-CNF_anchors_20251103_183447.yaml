@@ -1,0 +1,314 @@
+# Generated anchors for cluster: PSY-MOT-CNF
+# Timestamp: 20251103_183447
+
+anchors:
+- id: psy-mot-cnf-aac-ada
+  label: Productive Approach-Avoidance Tension
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Productive ambivalence
+  - Exploratory conflict
+  - Motivational tension
+  scope: Adaptive processing of simultaneous approach and avoidance motivations that generates productive exploration of both sides of the conflict, maintaining forward movement despite tension.
+  parent_scope_inheritance: Specifies the approach-avoidance conflict component of motivational conflict, focusing on productive tension that motivates thorough exploration rather than paralysis.
+  polarity_expression: Manifests as ability to acknowledge and explore both attraction to and repulsion from goals, using the tension as motivation for deeper understanding rather than becoming stuck.
+  cross_domain_resonance: Resonates with phy-str-ans-reg (regulated stress response to conflict), soc-sup-per-coh (cohesive peer support for ambivalence), and exi-mea-aut-pur (purposeful authenticity in facing conflicts).
+  academic_description: Miller and Rollnick conceptualize ambivalence as normal rather than pathological, with productive exploration leading to resolution. Approach-avoidance conflict theory shows that tension increases with proximity to goals but can motivate careful consideration. Research indicates that acknowledging both sides of ambivalence, rather than suppressing one side, leads to more sustainable behavior change. The productive tension generates what MI terms 'change talk' as individuals work through their conflicting motivations.
+  clinical_description: Assessment involves exploring both the 'good things' and 'not-so-good things' about substance use, measuring the strength of approach versus avoidance motivations. Interventions include developing discrepancy between current behavior and desired outcomes, amplifying ambivalence to increase productive tension, and eliciting change talk while acknowledging sustain talk. Clinicians use reflective listening to highlight both sides of the ambivalence, helping clients fully explore their conflict without pushing toward premature resolution.
+  lay_description: When you feel torn between wanting to use and wanting to quit, that tension can actually be helpful if you let yourself explore both sides. Instead of getting stuck in the push-pull, you can use that uncomfortable feeling as motivation to really think through what matters most to you. It's like standing at a crossroads and taking time to look down both paths before choosing, rather than being frozen in place.
+  core_components:
+  - Approach motivation strength
+  - Avoidance motivation strength
+  - Tension tolerance
+  - Exploratory capacity
+  associated_processes:
+  - Change talk generation
+  - Sustain talk acknowledgment
+  - Discrepancy development
+  - Ambivalence amplification
+- id: psy-mot-cnf-aac-mal
+  label: Paralyzing Approach-Avoidance Conflict
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Motivational paralysis
+  - Ambivalence gridlock
+  - Approach-avoidance stuckness
+  scope: Maladaptive processing of simultaneous approach and avoidance motivations that creates overwhelming paralysis, preventing movement in either direction and maintaining problematic status quo.
+  parent_scope_inheritance: Specifies the approach-avoidance conflict component of motivational conflict, focusing on paralyzing tension that prevents exploration and maintains stuckness.
+  polarity_expression: Manifests as overwhelming conflict between wanting and not wanting, creating avoidance of the entire decision and oscillation without progress.
+  cross_domain_resonance: Resonates with phy-str-ans-dys (dysregulated stress from unresolved conflict), soc-sup-per-fra (fragmented peer influence increasing conflict), and exi-mea-aut-dir (directionless authenticity avoiding real choices).
+  academic_description: Research shows that excessive approach-avoidance conflict creates a state of behavioral inhibition and decisional paralysis. The dual-process model suggests that when both systems are equally activated, neither can guide behavior effectively. Studies indicate that individuals may engage in experiential avoidance to escape the discomfort of ambivalence, paradoxically maintaining the problem behavior. Chronic unresolved ambivalence is associated with increased psychological distress and reduced quality of life.
+  clinical_description: Assessment reveals high levels of both approach and avoidance with inability to integrate or prioritize. Clients report feeling 'stuck,' 'torn apart,' or 'going in circles.' Interventions focus on reducing the overwhelming nature of the conflict through breaking down decisions into smaller steps, addressing catastrophic thinking about choices, and building tolerance for ambivalence. Therapists may need to first stabilize the paralysis before attempting to explore the conflict, using grounding techniques and anxiety management.
+  lay_description: You might feel completely stuck between desperately wanting to use and desperately wanting to stop, like being pulled apart by two equally strong forces. This paralysis keeps you frozen, unable to move toward recovery but also unable to fully commit to using. You might avoid thinking about it altogether because the conflict feels too overwhelming, or find yourself constantly flip-flopping without ever making real progress in either direction.
+  core_components:
+  - Excessive conflict intensity
+  - Behavioral inhibition
+  - Decisional paralysis
+  - Avoidance patterns
+  associated_processes:
+  - Rumination without resolution
+  - Oscillation between extremes
+  - Experiential avoidance
+  - Decisional procrastination
+- id: psy-mot-cnf-dbl-ada
+  label: Balanced Decisional Weighing
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Accurate cost-benefit analysis
+  - Realistic decisional balance
+  - Unbiased weighing
+  scope: Adaptive evaluation of pros and cons with realistic assessment of both immediate and long-term consequences, leading to decisional balance that tips toward healthy choices aligned with values.
+  parent_scope_inheritance: Specifies the decisional balance component of motivational conflict, focusing on accurate weighing processes that facilitate resolution rather than maintain equilibrium.
+  polarity_expression: Manifests as ability to realistically assess costs and benefits of both change and status quo, with appropriate weighting of short-term versus long-term consequences.
+  cross_domain_resonance: Resonates with psy-cog-exe-ada (adaptive executive function in decision-making), soc-env-fam-coh (cohesive family supporting realistic assessment), and exi-gro-wis-pur (purposeful wisdom in life decisions).
+  academic_description: Decisional balance theory from the Transtheoretical Model shows that behavior change occurs when perceived pros of change outweigh cons. Research indicates that accurate decisional balance involves temporal discounting awareness, consideration of probabilistic outcomes, and integration of value-based preferences. Studies show that individuals who engage in systematic decisional balance with realistic assessment are more likely to make sustainable changes. The process involves both cognitive evaluation and affective forecasting accuracy.
+  clinical_description: Assessment uses decisional balance worksheets, importance-confidence rulers, and structured interviews exploring pros and cons of use versus change. Interventions include guided decisional balance exercises, perspective-taking to reduce temporal discounting, visualization of future consequences, and challenging cognitive distortions that bias weighing. Clinicians help clients assign appropriate weight to different factors, considering both probability and magnitude of outcomes. Progress shows as increasing differentiation between options and movement toward value-consistent choices.
+  lay_description: When you can honestly look at both the good and bad of using, as well as the pros and cons of quitting, you're able to make a real decision. This means not minimizing the consequences or exaggerating the benefits, but seeing things as they really are. You consider not just how you'll feel tomorrow but also next year, and your decision starts to tip toward what's truly best for your life.
+  core_components:
+  - Accurate consequence assessment
+  - Appropriate temporal weighting
+  - Value-aligned prioritization
+  - Probabilistic thinking
+  associated_processes:
+  - Systematic evaluation
+  - Perspective-taking
+  - Future self-consideration
+  - Cognitive debiasing
+- id: psy-mot-cnf-dbl-mal
+  label: Distorted Decisional Balance
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Biased weighing
+  - Skewed cost-benefit analysis
+  - Decisional distortion
+  scope: Maladaptive evaluation of pros and cons with cognitive biases that minimize negative consequences and overvalue immediate rewards, maintaining decisional balance in favor of continued problematic behavior.
+  parent_scope_inheritance: Specifies the decisional balance component of motivational conflict, focusing on distorted weighing processes that prevent resolution and maintain problematic equilibrium.
+  polarity_expression: Manifests as systematic biases in evaluating options, with minimization of negative consequences, excessive temporal discounting, and overvaluation of immediate rewards.
+  cross_domain_resonance: Resonates with psy-cog-exe-mal (maladaptive executive function biasing decisions), soc-env-fam-fra (fragmented family reinforcing distorted thinking), and exi-gro-wis-dir (directionless wisdom avoiding hard truths).
+  academic_description: 'Research identifies multiple cognitive biases that distort decisional balance in addiction: hyperbolic temporal discounting devalues future consequences, optimism bias minimizes personal risk, confirmation bias selectively attends to pro-use information, and affective forecasting errors overestimate use pleasure while underestimating negative affect. Studies show these biases maintain equilibrium favoring continued use despite mounting negative consequences. The distortion is often ego-syntonic, with individuals unaware of their biased processing.'
+  clinical_description: Assessment reveals minimization of consequences ('it's not that bad'), overvaluation of benefits ('I can't function without it'), and excessive discounting of future outcomes. Clients show poor insight into their biased weighing. Interventions include cognitive restructuring to challenge distortions, increasing salience of minimized consequences through experiential techniques, perspective-taking exercises to reduce discounting, and motivational interviewing to gently highlight discrepancies in reasoning. Progress requires first developing awareness of biases before correcting them.
+  lay_description: Your internal scale for weighing decisions might be seriously off-balance, making using seem much better than it really is while making quitting seem much worse. You might think 'the consequences aren't that bad' while ignoring mounting problems, or believe 'I need it to cope' while forgetting you once managed without it. This distorted thinking keeps you stuck because your decision always tips toward using, no matter how many problems pile up.
+  core_components:
+  - Consequence minimization
+  - Benefit overvaluation
+  - Excessive temporal discounting
+  - Selective attention biases
+  associated_processes:
+  - Rationalization patterns
+  - Denial mechanisms
+  - Confirmatory thinking
+  - Risk minimization
+- id: psy-mot-cnf-vbd-ada
+  label: Value-Behavior Alignment
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Value congruence
+  - Authentic alignment
+  - Integrated motivation
+  scope: Adaptive recognition and resolution of discrepancies between personal values and behavior, generating intrinsic motivation for change through awareness of misalignment and commitment to value-consistent action.
+  parent_scope_inheritance: Specifies the value-behavior discrepancy component of motivational conflict, focusing on productive recognition and resolution of inconsistencies between values and actions.
+  polarity_expression: Manifests as clear awareness of how behavior conflicts with important values, experiencing productive guilt that motivates change, and taking concrete steps toward alignment.
+  cross_domain_resonance: Resonates with psy-ide-sel-ada (adaptive self-concept aligned with values), soc-cul-spi-coh (cohesive spiritual values guiding behavior), and exi-mea-pur-pur (purposeful life purpose directing actions).
+  academic_description: Self-Determination Theory emphasizes the importance of integrated regulation where behavior aligns with personal values and identity. Research shows that value-behavior discrepancy awareness creates cognitive dissonance that motivates change when values are salient and personally meaningful. Studies indicate that interventions targeting value clarification and discrepancy development produce more sustainable change than external pressure. The process involves both identifying core values and recognizing specific behavioral inconsistencies.
+  clinical_description: Assessment includes values card sorts, importance ratings of life domains, and exploring specific ways behavior conflicts with stated values. Interventions involve values clarification exercises, developing discrepancy through Socratic questioning, connecting current problems to value violations, and setting value-based goals. Clinicians help clients identify their deepest values beyond superficial wants, explore how addiction interferes with living those values, and develop commitment to value-consistent behavior. Success shows as increased value-behavior congruence scores and intrinsically motivated change talk.
+  lay_description: When you clearly see how your using goes against what really matters to you - like being a good parent, trustworthy friend, or reliable worker - that recognition can become powerful motivation for change. Instead of feeling vaguely bad, you understand specifically how your behavior betrays your values. This clarity helps you make choices that match who you really want to be, not just avoid consequences.
+  core_components:
+  - Value clarity
+  - Discrepancy awareness
+  - Productive guilt
+  - Alignment motivation
+  associated_processes:
+  - Values clarification
+  - Discrepancy development
+  - Identity integration
+  - Authentic commitment
+- id: psy-mot-cnf-vbd-mal
+  label: Value-Behavior Disconnection
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Value suppression
+  - Behavioral rationalization
+  - Value-action splitting
+  scope: Maladaptive suppression or rationalization of discrepancies between personal values and behavior, maintaining addiction through disconnection from guiding values and justification of value-inconsistent actions.
+  parent_scope_inheritance: Specifies the value-behavior discrepancy component of motivational conflict, focusing on defensive processes that prevent recognition or justify inconsistencies between values and actions.
+  polarity_expression: Manifests as denial of inconsistency, rationalization of value violations, devaluation of conflicting values, or complete disconnection from value awareness.
+  cross_domain_resonance: Resonates with psy-ide-sel-mal (maladaptive self-concept disconnected from values), soc-cul-spi-fra (fragmented spiritual connection), and exi-mea-pur-dir (directionless purpose without value guidance).
+  academic_description: 'Research identifies multiple defense mechanisms that prevent value-behavior discrepancy awareness: rationalization justifies behavior as consistent with values through distorted logic, reaction formation leads to devaluing previously important values, compartmentalization separates values from behavior contexts, and dissociation creates disconnection from value awareness. Studies show these defenses maintain addiction by preventing the cognitive dissonance that would motivate change. Chronic disconnection from values is associated with reduced well-being and meaning in life.'
+  clinical_description: Assessment reveals rationalization ('family is important but they understand'), value devaluation ('that doesn't matter anymore'), or complete value disconnection ('I don't know what I care about'). Clients show defensive responses when inconsistencies are highlighted. Interventions must carefully work with defenses rather than confronting them directly, using motivational interviewing to explore values without triggering defensiveness, reconnecting with suppressed values through experiential exercises, and gently highlighting inconsistencies through reflective listening. Progress requires safe therapeutic relationship to lower defenses.
+  lay_description: You might have built walls between your values and your behavior, telling yourself stories about why using doesn't really conflict with what matters to you. Maybe you've convinced yourself that your family understands, your work isn't affected, or those values don't matter anymore. This disconnection protects you from feeling guilty but also removes one of the most powerful motivations for change - the desire to live according to what you truly value.
+  core_components:
+  - Value suppression
+  - Rationalization patterns
+  - Defensive disconnection
+  - Value devaluation
+  associated_processes:
+  - Justification mechanisms
+  - Compartmentalization
+  - Moral disengagement
+  - Identity fragmentation
+- id: psy-mot-cnf-amt-ada
+  label: Ambivalence Tolerance
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Uncertainty tolerance
+  - Conflicted feeling acceptance
+  - Ambivalence capacity
+  scope: Adaptive capacity to hold and work with conflicting motivations without premature resolution, allowing thorough exploration of both sides while maintaining psychological stability.
+  parent_scope_inheritance: Specifies the ambivalence tolerance component of motivational conflict, focusing on the capacity to sit with uncertainty while productively exploring conflicting motivations.
+  polarity_expression: Manifests as ability to tolerate the discomfort of mixed feelings, remain open to both perspectives without rushing to resolve, and use the time to deeply understand both sides.
+  cross_domain_resonance: Resonates with psy-emo-reg-ada (adaptive emotion regulation managing ambivalent feelings), soc-sup-the-coh (cohesive therapeutic support for ambivalence), and exi-gro-unc-pur (purposeful uncertainty tolerance in growth).
+  academic_description: Research on ambivalence tolerance shows it involves both distress tolerance and cognitive flexibility. Studies indicate that individuals with higher ambivalence tolerance make more thoughtful decisions and show better long-term outcomes. The capacity relates to mindfulness, emotional regulation, and tolerance for cognitive dissonance. Neuroimaging reveals that ambivalence tolerance involves prefrontal regulation of limbic activation during conflicted states. Development of this capacity is associated with psychological maturity and improved decision-making.
+  clinical_description: Assessment measures distress tolerance specific to ambivalent states, tendency toward premature closure, and capacity for dialectical thinking. Interventions include mindfulness of ambivalent feelings, normalizing mixed emotions, two-chair dialogues between conflicting parts, and building general distress tolerance. Clinicians help clients recognize ambivalence as information rather than emergency, develop curiosity about both sides, and resist pressure for immediate resolution. Progress shows as increased ability to discuss both sides without distress or urgency.
+  lay_description: Being able to sit with mixed feelings about using - wanting it and not wanting it at the same time - without having to immediately decide or escape the discomfort. It's like being okay with not knowing the answer right away, giving yourself time to really understand what both parts of you are trying to say. This patience with your own confusion allows you to make better decisions when you're ready.
+  core_components:
+  - Distress tolerance
+  - Cognitive flexibility
+  - Emotional regulation
+  - Patience with uncertainty
+  associated_processes:
+  - Mindful awareness
+  - Dialectical thinking
+  - Emotional acceptance
+  - Exploratory curiosity
+- id: psy-mot-cnf-amt-mal
+  label: Ambivalence Intolerance
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Uncertainty avoidance
+  - Premature resolution
+  - Conflict intolerance
+  scope: Maladaptive intolerance of conflicting motivations leading to premature resolution, impulsive decisions, or avoidance of ambivalent feelings, preventing thorough exploration and authentic resolution.
+  parent_scope_inheritance: Specifies the ambivalence tolerance component of motivational conflict, focusing on inability to tolerate uncertainty leading to avoidance or premature closure.
+  polarity_expression: Manifests as urgent need to escape ambivalent feelings through quick decisions, flip-flopping between extremes, or avoiding the conflict entirely.
+  cross_domain_resonance: Resonates with psy-emo-reg-mal (maladaptive emotion regulation avoiding difficult feelings), soc-sup-the-fra (fragmented therapeutic support increasing urgency), and exi-gro-unc-dir (directionless uncertainty creating panic).
+  academic_description: Research shows ambivalence intolerance involves both high distress from conflicted states and poor emotion regulation strategies. Studies indicate these individuals show premature commitment, decision regret, and cycling between extremes. The intolerance relates to anxiety sensitivity, need for closure, and black-and-white thinking. Neuroimaging reveals heightened amygdala activation during ambivalent states with poor prefrontal regulation. This pattern is associated with impulsive decision-making and poor treatment outcomes.
+  clinical_description: Assessment reveals high distress from mixed feelings, urgency to resolve conflicts, history of impulsive decisions, and flip-flopping patterns. Clients report ambivalence as unbearable, making quick decisions to escape discomfort. Interventions focus on building distress tolerance before exploring ambivalence, anxiety management techniques, gradual exposure to uncertainty, and developing capacity for dialectical thinking. Clinicians must titrate ambivalence exploration to avoid overwhelming the client. Progress shows as increased ability to tolerate mixed feelings without immediate action.
+  lay_description: Mixed feelings about using might feel so uncomfortable that you have to immediately decide one way or another, even if you're not ready. You might flip-flop between 'I'm definitely quitting' and 'I'm definitely using' just to escape the tension of not knowing. Or you might avoid thinking about it at all because the confusion feels unbearable. This rush to resolve or avoid the conflict often leads to poor decisions you later regret.
+  core_components:
+  - Distress from uncertainty
+  - Urgency for resolution
+  - Black-and-white thinking
+  - Avoidance patterns
+  associated_processes:
+  - Impulsive decision-making
+  - Flip-flopping extremes
+  - Experiential avoidance
+  - Premature commitment
+- id: psy-mot-cnf-res-ada
+  label: Progressive Conflict Resolution
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Systematic resolution
+  - Integrated decision-making
+  - Commitment development
+  scope: Adaptive processes that systematically work through motivational conflicts toward integrated resolution, transforming ambivalence into committed action through progressive exploration and integration.
+  parent_scope_inheritance: Specifies the resolution process component of motivational conflict, focusing on systematic progression from ambivalence through exploration to committed decision.
+  polarity_expression: Manifests as increasing change talk, development of commitment language, taking preparatory steps, and moving from ambivalence to integrated decision.
+  cross_domain_resonance: Resonates with psy-cog-pla-ada (adaptive planning for change), soc-rol-occ-coh (cohesive occupational identity supporting change), and exi-tra-gro-pur (purposeful growth through transformation).
+  academic_description: 'Research on resolution processes shows systematic progression through stages: exploration of both sides, increasing differentiation between options, integration of competing motivations, and commitment consolidation. Studies indicate that sustainable resolution involves not eliminating ambivalence but integrating it into a higher-order decision. The process is marked by increasing change talk to sustain talk ratios, development of commitment language, and behavioral activation toward change. Successful resolution predicts better long-term outcomes than forced or premature decisions.'
+  clinical_description: Assessment tracks change talk frequency and strength, commitment language development, and preparatory change behaviors. Interventions include consolidating change talk through summaries, evoking commitment through scaling questions, strengthening commitment through implementation planning, and supporting early change steps. Clinicians help clients recognize resolution as process not event, celebrate small movements toward decision, and maintain momentum through obstacles. Progress shows as movement through stages of change with increasing commitment strength.
+  lay_description: Working through mixed feelings is like untangling a knot - it takes patience and systematic work, but gradually the threads separate and you can see clearly. You might notice yourself talking more about reasons to change and less about reasons to keep using. Your 'maybes' turn into 'probably' and then 'definitely.' You start taking small steps like researching treatment options or telling someone about your decision. The conflict doesn't disappear suddenly but gradually transforms into clear direction.
+  core_components:
+  - Progressive exploration
+  - Change talk development
+  - Commitment language
+  - Preparatory behavior
+  associated_processes:
+  - Integration of perspectives
+  - Decision consolidation
+  - Momentum building
+  - Implementation planning
+- id: psy-mot-cnf-res-mal
+  label: Circular Conflict Maintenance
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Motivational Conflict
+  cluster_id: psy-mot-cnf
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Resolution avoidance
+  - Perpetual ambivalence
+  - Decisional cycling
+  scope: Maladaptive patterns of circular processing that prevent resolution of motivational conflicts, maintaining ambivalence through repetitive exploration without progression toward decision or commitment.
+  parent_scope_inheritance: Specifies the resolution process component of motivational conflict, focusing on circular patterns that prevent progression from ambivalence to committed decision.
+  polarity_expression: Manifests as repeating the same conflicts without progress, sustain talk dominating change talk, absence of commitment development, and perpetual ambivalence.
+  cross_domain_resonance: Resonates with psy-cog-pla-mal (maladaptive planning failures), soc-rol-occ-fra (fragmented occupational identity preventing commitment), and exi-tra-gro-dir (directionless transformation attempts).
+  academic_description: 'Research identifies patterns that prevent resolution: rumination without new information processing, approach-avoidance cycling at equal strength, secondary gain from remaining undecided, and fear of commitment consequences. Studies show these individuals engage in pseudo-exploration that appears productive but avoids genuine progress. The pattern involves high sustain talk to change talk ratios, absence of commitment language, and behavioral maintenance of status quo. Chronic unresolved ambivalence is associated with learned helplessness and decisional fatigue.'
+  clinical_description: Assessment reveals repetitive discussion of same conflicts, no progression in change talk, absence of commitment language, and continued problem behavior. Clients appear to work on ambivalence but make no progress. Interventions include identifying and addressing stuck points, exploring secondary gains from indecision, addressing fears about commitment, and breaking circular patterns through behavioral experiments. Clinicians must recognize and interrupt pseudo-exploration, challenge the illusion of progress, and address underlying resistance. Progress requires shifting from circular to linear processing.
+  lay_description: You might find yourself having the same internal debate over and over - weighing the same pros and cons, feeling the same conflicts, but never moving closer to a decision. It's like being stuck in a revolving door, lots of motion but no progress. You might even convince yourself you're 'working on it' when really you're just repeating the same thoughts. This circular pattern keeps you safely in limbo, avoiding both the risks of change and full commitment to using.
+  core_components:
+  - Repetitive processing
+  - Sustain talk dominance
+  - Commitment avoidance
+  - Pseudo-exploration
+  associated_processes:
+  - Rumination patterns
+  - Approach-avoidance cycling
+  - Secondary gain maintenance
+  - Decisional fatigue

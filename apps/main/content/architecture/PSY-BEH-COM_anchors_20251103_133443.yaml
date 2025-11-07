@@ -1,0 +1,352 @@
+# Generated anchors for cluster: PSY-BEH-COM
+# Timestamp: 20251103_133443
+
+anchors:
+- id: psy-beh-com-inh-ada
+  label: Adaptive Inhibitory Control
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Intact response inhibition
+  - Voluntary behavioral control
+  - Effective stopping ability
+  scope: Maintained capacity to interrupt and override initiated behaviors, preserving voluntary control over actions despite urges or habitual tendencies.
+  parent_scope_inheritance: Specifies the voluntary control aspect of behavioral flexibility by focusing on the ability to stop or redirect behaviors once initiated.
+  polarity_expression: Adaptive inhibitory control enables interruption of drug-seeking behaviors mid-sequence, maintaining agency and choice in behavioral responses.
+  cross_domain_resonance: Resonates with phy-neu-inh (neural inhibition mechanisms), soc-fam-bou (interpersonal boundary setting), and exi-age-sel (self-determination and agency).
+  academic_description: Intact prefrontal inhibitory control mediated by functional orbitofrontal-striatal circuits. Stop-signal reaction times remain within normal ranges. Successful response inhibition correlates with right inferior frontal gyrus activation. Maintains balance between excitatory and inhibitory neurotransmission enabling behavioral interruption.
+  clinical_description: Assessment through stop-signal tasks, go/no-go paradigms, and behavioral observation of interruption capacity. Interventions include stop-signal training, response interruption practice, implementation intentions for behavioral stopping, and mindful pause techniques. Supports recovery through maintained ability to halt drug-seeking when recognized.
+  lay_description: You maintain the ability to stop yourself mid-action, even when strongly motivated to continue. If you start reaching for a substance, you can catch yourself and choose differently. This 'mental brake' remains functional, giving you crucial moments to reconsider actions.
+  core_components:
+  - Prefrontal inhibitory circuits
+  - Response suppression mechanisms
+  - Behavioral interruption capacity
+  associated_processes:
+  - Executive control
+  - Action cancellation
+  - Impulse regulation
+- id: psy-beh-com-inh-mal
+  label: Maladaptive Inhibitory Failure
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Response inhibition deficit
+  - Loss of voluntary control
+  - Behavioral disinhibition
+  scope: Impaired ability to stop or override initiated behaviors, resulting in loss of voluntary control and automatic continuation of actions despite intention to stop.
+  parent_scope_inheritance: Specifies the loss of voluntary control in compulsive patterns through failed inhibitory mechanisms that prevent behavioral interruption.
+  polarity_expression: Maladaptive inhibitory failure manifests as inability to stop drug-seeking once initiated, with behaviors continuing automatically despite conscious desire to stop.
+  cross_domain_resonance: Resonates with phy-neu-inh (neural disinhibition), soc-fam-bou (boundary violations), and exi-age-sel (loss of self-determination).
+  academic_description: Impaired prefrontal inhibitory control with orbitofrontal-striatal dysfunction. Prolonged stop-signal reaction times and high commission errors on go/no-go tasks. Reduced right inferior frontal gyrus activation during inhibition attempts. Imbalanced excitatory-inhibitory neurotransmission favoring behavioral expression over suppression.
+  clinical_description: Assessment reveals inhibitory deficits on neuropsychological testing and observed inability to interrupt behaviors. Interventions include external interruption strategies, environmental controls limiting behavioral initiation, medication targeting impulse control, and structured stopping protocols with external cues.
+  lay_description: Once you start using, you cannot stop yourself even when you desperately want to. The behavior continues on autopilot, as if your mental brakes have failed. You watch yourself continue actions you're trying to stop, feeling out of control of your own behavior.
+  core_components:
+  - Prefrontal dysfunction
+  - Failed response suppression
+  - Automatic behavioral continuation
+  associated_processes:
+  - Impulsivity
+  - Disinhibition
+  - Loss of control
+- id: psy-beh-com-flx-ada
+  label: Adaptive Behavioral Flexibility
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Cognitive flexibility
+  - Adaptive set-shifting
+  - Behavioral adaptability
+  scope: Maintained capacity to shift between behavioral strategies based on changing contexts and contingencies, enabling adaptive responses to new situations.
+  parent_scope_inheritance: Specifies the flexibility component of behavioral patterns by focusing on ability to modify and adapt behavioral strategies when circumstances change.
+  polarity_expression: Adaptive flexibility allows shifting away from drug-seeking behaviors when they become ineffective or harmful, enabling exploration of alternative recovery strategies.
+  cross_domain_resonance: Resonates with psy-cog-flx (cognitive flexibility), phy-neu-pla (neural plasticity), and exi-gro-ada (existential adaptability).
+  academic_description: Intact cognitive flexibility mediated by functional frontostriatal circuits and anterior cingulate cortex. Normal performance on set-shifting tasks like Wisconsin Card Sorting Test. Preserved ability to update behavioral rules based on feedback. Balanced dopaminergic modulation supporting flexible responding.
+  clinical_description: Assessment through set-shifting tasks, trail-making tests, and behavioral adaptation observations. Interventions include cognitive flexibility training, set-shifting exercises, contingency reversal practice, and behavioral experimentation encouraging trying new responses. Supports recovery through ability to adopt new coping strategies.
+  lay_description: You can change your approach when something isn't working. If one recovery strategy fails, you naturally shift to trying something different. Your behavior adapts to new situations rather than getting stuck in the same patterns regardless of results.
+  core_components:
+  - Set-shifting ability
+  - Strategy switching
+  - Response adaptation
+  associated_processes:
+  - Cognitive control
+  - Behavioral updating
+  - Mental flexibility
+- id: psy-beh-com-flx-mal
+  label: Maladaptive Behavioral Rigidity
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Cognitive rigidity
+  - Behavioral perseveration
+  - Inflexible responding
+  scope: Inability to shift behavioral strategies despite changing contingencies, resulting in rigid adherence to ineffective patterns and perseverative responses.
+  parent_scope_inheritance: Specifies the inflexibility in compulsive patterns through rigid behavioral repertoires that cannot adapt to changing circumstances or feedback.
+  polarity_expression: Maladaptive rigidity manifests as continued drug-seeking through the same failed strategies, unable to shift approaches despite repeated negative outcomes.
+  cross_domain_resonance: Resonates with psy-cog-rig (cognitive rigidity), phy-neu-pla (reduced plasticity), and exi-gro-sta (existential stagnation).
+  academic_description: Impaired cognitive flexibility with frontostriatal and anterior cingulate dysfunction. Perseverative errors on Wisconsin Card Sorting Test and poor set-shifting performance. Inability to update behavioral rules from feedback. Dysregulated dopaminergic modulation creating response perseveration.
+  clinical_description: Assessment reveals set-shifting deficits and observed behavioral perseveration. Interventions include structured flexibility training with gradual complexity increase, forced alternative response practice, external cueing for strategy shifts, and systematic pattern disruption protocols.
+  lay_description: You're stuck doing the same things over and over even though they don't work anymore. Despite negative consequences, you cannot seem to try a different approach. Your behavior feels locked in rigid patterns that repeat regardless of the situation.
+  core_components:
+  - Set-shifting failure
+  - Strategy perseveration
+  - Response inflexibility
+  associated_processes:
+  - Cognitive perseveration
+  - Behavioral stereotypy
+  - Mental rigidity
+- id: psy-beh-com-out-ada
+  label: Adaptive Outcome Sensitivity
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Consequence awareness
+  - Reinforcement sensitivity
+  - Outcome-based learning
+  scope: Maintained responsiveness to behavioral consequences, enabling appropriate modification of actions based on rewards and punishments.
+  parent_scope_inheritance: Specifies the outcome sensitivity aspect of behavioral patterns by focusing on preserved ability to learn from and respond to consequences.
+  polarity_expression: Adaptive outcome sensitivity enables behavior modification based on negative consequences of drug use, supporting learning from mistakes and consequence-based decision making.
+  cross_domain_resonance: Resonates with psy-cog-lea (learning processes), phy-rew-val (reward valuation), and exi-mea-con (consequence awareness).
+  academic_description: Intact reinforcement learning with functional orbitofrontal cortex and ventral striatum. Normal outcome devaluation sensitivity and punishment-based behavioral suppression. Preserved prediction error signaling and value updating. Appropriate cost-benefit integration in decision-making.
+  clinical_description: Assessment through reinforcement learning tasks and consequence sensitivity measures. Interventions include consequence awareness training, contingency management with clear outcome tracking, reinforcement scheduling optimization, and decisional balance exercises highlighting outcomes.
+  lay_description: You remain aware of and responsive to the results of your actions. When something leads to negative consequences, you naturally adjust your behavior. The costs and benefits of drug use stay clear in your mind, influencing your choices.
+  core_components:
+  - Reinforcement learning
+  - Consequence processing
+  - Outcome evaluation
+  associated_processes:
+  - Value updating
+  - Cost-benefit analysis
+  - Behavioral adjustment
+- id: psy-beh-com-out-mal
+  label: Maladaptive Outcome Insensitivity
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Consequence blindness
+  - Punishment insensitivity
+  - Outcome devaluation
+  scope: Diminished responsiveness to behavioral consequences, resulting in continued actions despite negative outcomes and inability to learn from punishment.
+  parent_scope_inheritance: Specifies the consequence insensitivity in compulsive patterns through impaired ability to modify behavior based on negative feedback.
+  polarity_expression: Maladaptive outcome insensitivity manifests as continued drug-seeking despite severe negative consequences, with punishment failing to suppress harmful behaviors.
+  cross_domain_resonance: Resonates with psy-cog-lea (learning impairment), phy-rew-val (value dysfunction), and exi-mea-dis (disconnection from consequences).
+  academic_description: Impaired reinforcement learning with orbitofrontal and ventral striatal dysfunction. Insensitivity to outcome devaluation and reduced punishment-based suppression. Blunted prediction error signaling and impaired value updating. Disrupted cost-benefit integration favoring immediate rewards over long-term consequences.
+  clinical_description: Assessment reveals poor performance on reinforcement learning tasks and observed consequence insensitivity. Interventions include enhanced consequence salience through immediate feedback, structured contingency management with amplified outcomes, motivational interviewing focusing on consequence recognition, and external consequence systems.
+  lay_description: The negative consequences of drug use don't seem to register or change your behavior. Lost jobs, damaged relationships, and health problems don't stop the compulsion. You continue using despite mounting costs, as if disconnected from the results of your actions.
+  core_components:
+  - Reinforcement learning deficit
+  - Consequence disconnection
+  - Outcome blindness
+  associated_processes:
+  - Value insensitivity
+  - Punishment resistance
+  - Behavioral persistence
+- id: psy-beh-com-hab-ada
+  label: Adaptive Habit-Goal Balance
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Balanced behavioral control
+  - Goal-directed dominance
+  - Intentional action capacity
+  scope: Maintained balance between automatic habitual responses and deliberate goal-directed actions, preserving intentional control over behavior.
+  parent_scope_inheritance: Specifies the control balance in behavioral patterns by focusing on appropriate engagement of goal-directed versus habitual systems.
+  polarity_expression: Adaptive balance maintains goal-directed control over drug-related behaviors, with habits serving intentional recovery goals rather than driving compulsive use.
+  cross_domain_resonance: Resonates with psy-beh-hab (habit formation), phy-neu-aut (automatic processes), and exi-age-int (intentional living).
+  academic_description: Balanced engagement of goal-directed (dorsomedial striatum) and habitual (dorsolateral striatum) systems. Preserved model-based decision-making and outcome-action associations. Appropriate arbitration between systems based on context. Maintained prefrontal oversight of habitual responses.
+  clinical_description: Assessment through habit-goal conflict tasks and behavioral intention measures. Interventions include goal-directed training emphasizing outcome-action links, implementation intention formation, habit interruption with goal activation, and mindful action planning. Supports intentional recovery behaviors.
+  lay_description: Your actions remain connected to your intentions and goals. While you have helpful automatic habits, you can override them when needed. Your behavior feels purposeful rather than running on autopilot, maintaining conscious choice in your actions.
+  core_components:
+  - Goal-directed system
+  - Habitual system balance
+  - Intentional control
+  associated_processes:
+  - Action planning
+  - Outcome prediction
+  - Behavioral intention
+- id: psy-beh-com-hab-mal
+  label: Maladaptive Habitual Dominance
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Excessive habitual control
+  - Goal-directed failure
+  - Automatic behavioral dominance
+  scope: Excessive reliance on habitual responses with diminished goal-directed control, resulting in automatic drug-seeking behaviors disconnected from intentions.
+  parent_scope_inheritance: Specifies the habitual dominance in compulsive patterns through imbalanced behavioral control systems favoring automatic over intentional actions.
+  polarity_expression: Maladaptive habitual dominance drives automatic drug-seeking independent of goals or intentions, with behavior proceeding through overlearned habits resistant to conscious control.
+  cross_domain_resonance: Resonates with psy-beh-hab (pathological habits), phy-neu-aut (automatic dysfunction), and exi-age-aut (loss of intentionality).
+  academic_description: Imbalanced system engagement with dorsolateral striatal dominance over dorsomedial circuits. Impaired model-based decision-making and weakened outcome-action associations. Habitual system dominates regardless of context. Reduced prefrontal oversight enabling unchecked habitual responses.
+  clinical_description: Assessment reveals habitual dominance on conflict tasks and loss of intentional control. Interventions include habit reversal training, goal-directed system rehabilitation through outcome-focused tasks, competing response training for habitual triggers, and systematic habit disruption protocols.
+  lay_description: Your drug use happens automatically without conscious decision-making. You find yourself using through pure habit, disconnected from any actual desire or goal. Actions proceed on autopilot, as if your intentional self is just watching helplessly.
+  core_components:
+  - Habitual system overdrive
+  - Goal-directed suppression
+  - Automatic responding
+  associated_processes:
+  - Stimulus-response habits
+  - Action chunking
+  - Behavioral automaticity
+- id: psy-beh-com-rit-ada
+  label: Adaptive Ritual Flexibility
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Flexible routines
+  - Modifiable sequences
+  - Adaptive behavioral chains
+  scope: Maintained flexibility in behavioral sequences and routines, allowing modification or interruption of ritualistic patterns without distress.
+  parent_scope_inheritance: Specifies the ritual flexibility aspect of behavioral patterns by focusing on ability to vary or interrupt behavioral sequences.
+  polarity_expression: Adaptive ritual flexibility enables modification of drug-related behavioral sequences, breaking rigid patterns and allowing varied approaches to situations.
+  cross_domain_resonance: Resonates with psy-beh-rou (routine flexibility), soc-cul-rit (ritual adaptation), and exi-pra-var (practice variation).
+  academic_description: Flexible behavioral sequencing with intact supplementary motor area and basal ganglia circuits. Normal action chunking without rigid coupling. Preserved ability to interrupt or modify behavioral chains. Appropriate balance between efficiency and flexibility in routine behaviors.
+  clinical_description: Assessment through ritual interruption tolerance and sequence modification tasks. Interventions include ritual variation practice, sequence flexibility training, gradual routine modification, and behavioral chain analysis with planned variations. Supports breaking rigid use patterns.
+  lay_description: You can change your routines and habits without feeling distressed. If interrupted mid-routine, you adapt without needing to start over. Your behavioral patterns remain flexible, allowing you to do things differently when situations call for it.
+  core_components:
+  - Sequence flexibility
+  - Ritual modification
+  - Chain interruption tolerance
+  associated_processes:
+  - Behavioral chunking
+  - Routine variation
+  - Pattern flexibility
+- id: psy-beh-com-rit-mal
+  label: Maladaptive Ritual Rigidity
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Compulsive rituals
+  - Rigid sequences
+  - Inflexible behavioral chains
+  scope: Rigid adherence to specific behavioral sequences and ritualistic patterns that must be completed in exact ways, with distress upon interruption.
+  parent_scope_inheritance: Specifies the ritual rigidity in compulsive patterns through inflexible behavioral sequences that resist modification or interruption.
+  polarity_expression: Maladaptive ritual rigidity manifests as elaborate, fixed drug-use rituals that must be completed exactly, with any deviation causing distress and restart.
+  cross_domain_resonance: Resonates with psy-beh-rou (routine rigidity), soc-cul-rit (ritual compulsion), and exi-pra-rig (practice rigidity).
+  academic_description: Rigid behavioral sequencing with supplementary motor area and basal ganglia hyperactivity. Excessive action chunking with inflexible coupling. Inability to interrupt behavioral chains once initiated. Overlearned sequences dominate behavioral expression.
+  clinical_description: Assessment reveals distress with ritual interruption and inflexible sequencing. Interventions include response prevention at ritual initiation, gradual ritual fading protocols, competing behavior substitution at key points, and systematic desensitization to incomplete rituals.
+  lay_description: You must complete drug-use rituals in exact, specific ways. If interrupted, you feel compelled to start over from the beginning. These elaborate routines control your behavior, and any deviation causes significant distress or anxiety.
+  core_components:
+  - Sequence rigidity
+  - Ritual compulsion
+  - Chain inflexibility
+  associated_processes:
+  - Behavioral stereotypy
+  - Routine fixation
+  - Pattern compulsion
+- id: psy-beh-com-urg-ada
+  label: Adaptive Urge Tolerance
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Distress tolerance
+  - Urge surfing
+  - Non-reactive awareness
+  scope: Capacity to experience compulsive urges without immediate behavioral response, maintaining awareness and choice despite urge intensity.
+  parent_scope_inheritance: Specifies the urge management aspect of behavioral patterns by focusing on ability to tolerate urges without compulsive action.
+  polarity_expression: Adaptive urge tolerance allows experiencing drug cravings without automatic action, creating space between urge and response for conscious choice.
+  cross_domain_resonance: Resonates with psy-emo-reg (emotion regulation), phy-str-tol (stress tolerance), and exi-suf-acc (discomfort acceptance).
+  academic_description: Intact distress tolerance mediated by anterior cingulate and insular cortex. Preserved interoceptive awareness without reactive responding. Maintained prefrontal regulation of urge-driven subcortical activation. Effective top-down modulation of craving responses.
+  clinical_description: Assessment through urge tolerance tasks and distress tolerance measures. Interventions include urge surfing training, mindfulness-based urge management, distress tolerance skills from DBT, and graduated exposure to urges without response. Builds capacity to experience cravings without use.
+  lay_description: You can feel strong urges to use without immediately acting on them. The craving comes like a wave - you observe it, feel it fully, and let it pass without being swept away. This creates a moment of choice between feeling and action.
+  core_components:
+  - Urge awareness
+  - Distress tolerance
+  - Response delay
+  associated_processes:
+  - Mindful observation
+  - Craving acceptance
+  - Non-reactivity
+- id: psy-beh-com-urg-mal
+  label: Maladaptive Urge Intolerance
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Compulsive Patterns
+  cluster_id: psy-beh-com
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Distress intolerance
+  - Urge-action fusion
+  - Reactive responding
+  scope: Inability to tolerate compulsive urges without immediate action, with automatic behavioral response to urge experiences and craving states.
+  parent_scope_inheritance: Specifies the urge intolerance in compulsive patterns through immediate urge-action coupling that bypasses conscious choice.
+  polarity_expression: Maladaptive urge intolerance drives immediate drug-seeking upon experiencing cravings, with urges automatically triggering behavioral responses without pause.
+  cross_domain_resonance: Resonates with psy-emo-dys (emotion dysregulation), phy-str-int (stress intolerance), and exi-suf-avo (discomfort avoidance).
+  academic_description: Impaired distress tolerance with anterior cingulate and insular dysfunction. Heightened interoceptive reactivity triggering immediate responses. Failed prefrontal regulation of subcortical urge signals. Ineffective top-down modulation leading to urge-driven behavior.
+  clinical_description: Assessment reveals poor distress tolerance and immediate urge responding. Interventions include gradual urge exposure with response prevention, distress tolerance skill building, urge delay training with increasing intervals, and external support during high-urge periods.
+  lay_description: When you feel an urge to use, you must act on it immediately. The discomfort of an unfulfilled craving feels unbearable. There's no space between feeling the urge and acting on it - they're fused into one automatic sequence.
+  core_components:
+  - Urge reactivity
+  - Distress avoidance
+  - Immediate responding
+  associated_processes:
+  - Craving intolerance
+  - Automatic action
+  - Reactive behavior

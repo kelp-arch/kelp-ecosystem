@@ -1,0 +1,388 @@
+# Generated anchors for cluster: SOC-FAM-GEN
+# Timestamp: 20251104_050947
+
+anchors:
+- id: soc-fam-gen-scr-coh
+  label: Conscious Script Revision
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - narrative transformation
+  - myth revision
+  - story reauthoring
+  scope: Conscious awareness and active revision of family scripts and myths, creating new empowering narratives that break destructive cycles while honoring family history through integration rather than repetition.
+  parent_scope_inheritance: Specifies the narrative and mythological aspect of intergenerational transmission, focusing on how family stories and scripts either perpetuate addiction through unconscious enactment or support recovery through conscious revision.
+  polarity_expression: Manifests as conscious integration where families actively examine and revise their narratives, creating new stories that acknowledge the past while enabling different futures.
+  cross_domain_resonance: Resonates with psy-cog-sch-ada (adaptive schemas), exi-mea-nar-pur (purposeful narrative), and psy-dev-nar-ada (adaptive narrative identity).
+  academic_description: Research on family scripts shows how unconscious behavioral blueprints guide role adoption and relationship patterns across generations. McGoldrick's work demonstrates how family myths maintain homeostasis even when dysfunctional. Narrative therapy research reveals that externalizing problems and reauthoring family stories breaks cycles of addiction. Studies show families who consciously revise destructive narratives have better treatment outcomes and reduced intergenerational transmission.
+  clinical_description: Assessment explores family stories, myths, and rules through genogram work and family storytelling. Treatment uses narrative therapy techniques to externalize addiction, identify unique outcomes, and reauthor family stories. Families create new rituals to replace destructive traditions. Letter writing to past and future generations helps integrate history while choosing change. Goals include making unconscious scripts conscious, challenging destructive myths, and creating empowering family narratives.
+  lay_description: Every family has stories about 'who we are' and 'how we do things' that get passed down. Healthy families can look at these stories, keep what works, and change what doesn't. They might say 'Yes, addiction has been in our family, but we're writing a new chapter.' They create new traditions and openly discuss family history, learning from it rather than repeating it blindly.
+  structural_components:
+  - family mythology system
+  - narrative frameworks
+  - ritual structures
+  - storytelling practices
+  social_processes:
+  - myth revision
+  - narrative co-creation
+  - ritual transformation
+  - collective reauthoring
+  societal_relevance: Breaking cycles of addiction at the narrative level prevents transmission to future generations and transforms family legacy from pathology to resilience.
+- id: soc-fam-gen-scr-fra
+  label: Unconscious Script Enactment
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - script repetition
+  - myth perpetuation
+  - narrative stagnation
+  scope: Unconscious repetition of destructive family scripts and myths, where unexamined narratives guide behavior across generations, maintaining addiction patterns through unquestioned adherence to family rules and stories.
+  parent_scope_inheritance: Specifies the narrative and mythological aspect of intergenerational transmission, focusing on how unconscious enactment of family scripts perpetuates addiction cycles through unexamined repetition.
+  polarity_expression: Manifests as fragmented transmission where families unconsciously repeat destructive narratives, with family myths and scripts operating outside awareness to maintain dysfunction across generations.
+  cross_domain_resonance: Resonates with psy-cog-sch-mal (maladaptive schemas), exi-mea-nar-dir (directionless narrative), and psy-dev-nar-mal (maladaptive narrative identity).
+  academic_description: Research demonstrates how unconscious family scripts operate as behavioral templates transmitted across generations without awareness. Byng-Hall's concept of family scripts reveals how improvised patterns become rigid blueprints. Studies show families with unexamined myths have higher rates of addiction transmission. Family legends that romanticize substance use or normalize dysfunction predict increased vulnerability in subsequent generations.
+  clinical_description: Assessment reveals rigid adherence to family rules, unquestioned myths about 'how our family is,' and repetitive patterns across generations. Families show inability to discuss certain topics, maintain family secrets, and demonstrate script-driven behavior. Treatment focuses on making unconscious scripts conscious through genogram exploration, identifying repetitive themes, and examining family rules. Interventions challenge family myths and help families recognize choice points.
+  lay_description: Families stuck in old patterns keep repeating the same destructive stories without realizing it. They say things like 'All the men in our family drink' or 'We don't talk about feelings' as if these are unchangeable facts. Family secrets stay buried, and everyone plays their assigned role without question. The same problems keep happening generation after generation because no one examines or challenges the family playbook.
+  structural_components:
+  - rigid myth systems
+  - secret-keeping structures
+  - rule enforcement mechanisms
+  - tradition preservation systems
+  social_processes:
+  - myth enforcement
+  - secret maintenance
+  - script transmission
+  - tradition repetition
+  societal_relevance: Unconscious script enactment perpetuates addiction across generations, maintaining cycles of dysfunction and preventing families from accessing their potential for change.
+- id: soc-fam-gen-loy-coh
+  label: Balanced Family Loyalty
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - healthy loyalty
+  - differentiated connection
+  - autonomous belonging
+  scope: Healthy balance between family loyalty and individual autonomy, where connection to family of origin coexists with personal growth and the ability to break destructive patterns while maintaining relationships.
+  parent_scope_inheritance: Specifies the loyalty and obligation aspect of intergenerational transmission, focusing on how balanced loyalty allows for both connection and change, supporting recovery while preserving family bonds.
+  polarity_expression: Manifests as cohesive connection where individuals maintain family relationships while exercising autonomy, honoring family without sacrificing self, and breaking destructive patterns without severing bonds.
+  cross_domain_resonance: Resonates with psy-rel-bnd-ada (adaptive boundaries), psy-dev-ind-ada (healthy individuation), and exi-aut-slf-pur (purposeful self-determination).
+  academic_description: Boszormenyi-Nagy's contextual therapy framework reveals how balanced loyalty involves fairness in giving and receiving across generations. Research shows individuals who achieve loyalty balance have better recovery outcomes while maintaining family connections. Studies demonstrate that acknowledging family contributions while setting appropriate boundaries predicts successful cycle-breaking. Differentiated loyalty allows for disagreement without disconnection.
+  clinical_description: Assessment examines loyalty conflicts, invisible ledgers of give-and-take, and capacity for maintaining connection with boundaries. Treatment uses contextual therapy to address multigenerational loyalty binds, helping individuals honor family while choosing health. Interventions include loyalty mapping, exploring entitlements and obligations, and developing balanced giving and receiving. Goals include resolving loyalty conflicts and achieving differentiated connection.
+  lay_description: Healthy family loyalty means you can love and respect your family while still making different choices. You can say 'I understand why you did things that way, but I'm choosing differently' without guilt or cutting people off. You stay connected to family but don't sacrifice your recovery to keep them comfortable. You honor where you came from while creating your own path.
+  structural_components:
+  - flexible loyalty systems
+  - boundary structures
+  - connection networks
+  - autonomy spaces
+  social_processes:
+  - loyalty negotiation
+  - boundary setting
+  - connection maintenance
+  - differentiation development
+  societal_relevance: Balanced loyalty enables individuals to break addiction cycles while preserving family relationships, creating healthier patterns for future generations without destroying family bonds.
+- id: soc-fam-gen-loy-fra
+  label: Destructive Loyalty Binds
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - invisible loyalties
+  - loyalty traps
+  - binding obligations
+  scope: Destructive invisible loyalties that trap individuals in family patterns, where unconscious obligations prevent breaking cycles and loyalty conflicts create self-sabotage to maintain family homeostasis.
+  parent_scope_inheritance: Specifies the loyalty and obligation aspect of intergenerational transmission, focusing on how destructive loyalty binds perpetuate addiction through unconscious obligations that prevent individuation and change.
+  polarity_expression: Manifests as fragmented binding where invisible loyalties create impossible conflicts, forcing individuals to choose between personal health and family belonging, often resulting in self-sabotage to remain loyal.
+  cross_domain_resonance: Resonates with psy-rel-bnd-mal (boundary violations), psy-dev-ind-mal (individuation failure), and exi-aut-slf-dir (directionless self).
+  academic_description: Research on invisible loyalties reveals how unconscious family obligations perpetuate dysfunction across generations. Boszormenyi-Nagy's work shows how loyalty conflicts create symptoms when individuals cannot reconcile competing obligations. Studies demonstrate that unresolved loyalty binds predict relapse and treatment resistance. Split loyalties between family of origin and recovery create paralyzing conflicts.
+  clinical_description: Assessment reveals guilt when breaking family patterns, self-sabotage to maintain loyalty, and inability to choose personal health over family dysfunction. Families show punishment for differentiation and rewards for maintaining dysfunction. Treatment addresses invisible ledgers, explores loyalty conflicts, and works toward loyalty redistribution. Interventions include permission-giving from family members and loyalty conflict resolution.
+  lay_description: Destructive loyalty means feeling trapped by what you 'owe' your family, even when it hurts you. You might sabotage your recovery because success feels like betrayal. There's guilt for getting better when family members are still struggling. You feel you must suffer like they did or stay sick to belong. Breaking family patterns feels like abandoning or betraying them.
+  structural_components:
+  - rigid loyalty demands
+  - obligation systems
+  - guilt structures
+  - betrayal sanctions
+  social_processes:
+  - loyalty enforcement
+  - guilt induction
+  - differentiation punishment
+  - obligation perpetuation
+  societal_relevance: Destructive loyalty binds maintain addiction across generations by preventing individuals from choosing health, perpetuating cycles of dysfunction through unconscious obligation.
+- id: soc-fam-gen-trm-coh
+  label: Trauma Integration
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - trauma resolution
+  - healing transmission
+  - resilience legacy
+  scope: Successful processing and integration of intergenerational trauma, where families acknowledge, heal, and transform traumatic experiences into sources of resilience and wisdom for future generations.
+  parent_scope_inheritance: Specifies the trauma transmission aspect of intergenerational patterns, focusing on how resolved trauma becomes a source of strength and protective factors rather than vulnerability.
+  polarity_expression: Manifests as cohesive healing where trauma is acknowledged, processed, and integrated, creating post-traumatic growth that transmits resilience rather than vulnerability to subsequent generations.
+  cross_domain_resonance: Resonates with psy-tra-int-ada (trauma integration), phy-str-hpa-reg (regulated stress response), and exi-suf-mea-pur (purposeful meaning from suffering).
+  academic_description: Research demonstrates that trauma resolution in one generation provides protective factors for the next. Studies on post-traumatic growth show how integrated trauma becomes a source of wisdom and resilience. Epigenetic research reveals that healing practices can modify gene expression, transmitting protective rather than vulnerability factors. Families who process trauma together show reduced addiction transmission rates.
+  clinical_description: Assessment explores family trauma history with attention to both wounds and resilience. Treatment uses trauma-informed family therapy, EMDR for inherited trauma patterns, and somatic approaches for body-held intergenerational trauma. Families engage in healing rituals, trauma narrative integration, and building resilience stories. Goals include breaking trauma silence, processing collective wounds, and creating healing legacies.
+  lay_description: Families that heal from trauma together stop passing pain to the next generation. They talk openly about what happened, get help to process old wounds, and turn their painful history into wisdom. Instead of pretending trauma didn't happen or staying stuck in it, they work through it together. Children learn that bad things can happen but families can heal.
+  structural_components:
+  - trauma acknowledgment systems
+  - healing structures
+  - resilience networks
+  - support systems
+  social_processes:
+  - collective healing
+  - trauma witnessing
+  - resilience building
+  - story integration
+  societal_relevance: Trauma integration transforms intergenerational vulnerability into resilience, breaking cycles of addiction by healing root causes and transmitting protective factors.
+- id: soc-fam-gen-trm-fra
+  label: Trauma Perpetuation
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - unresolved trauma
+  - trauma transmission
+  - wound repetition
+  scope: Unmetabolized trauma transmitted across generations through disrupted attachment, dysregulated stress responses, and repetition of traumatic dynamics, creating vulnerability to addiction as self-medication.
+  parent_scope_inheritance: Specifies the trauma transmission aspect of intergenerational patterns, focusing on how unresolved trauma perpetuates vulnerability and dysfunction across generations.
+  polarity_expression: Manifests as fragmented transmission where unprocessed trauma creates cascading effects through attachment disruption, emotional dysregulation, and unconscious repetition of traumatic patterns.
+  cross_domain_resonance: Resonates with psy-tra-int-mal (unintegrated trauma), phy-str-hpa-dys (dysregulated stress response), and exi-suf-mea-dir (meaningless suffering).
+  academic_description: Research reveals how unresolved trauma in one generation affects attachment and stress regulation in the next. Epigenetic studies show trauma alters gene expression, transmitting vulnerability across generations. Van der Kolk's work demonstrates how trauma lives in the body and family system. Studies show unprocessed intergenerational trauma significantly increases addiction risk through self-medication patterns.
+  clinical_description: Assessment reveals trauma symptoms across generations, including hypervigilance, emotional numbing, and repetitive traumatic dynamics. Families show trauma reenactment, silence around traumatic events, and somatic symptoms. Treatment requires careful trauma processing while maintaining family stability. Interventions address both historical trauma and current reenactments. Safety and stabilization precede trauma processing.
+  lay_description: Unhealed trauma gets passed down like a family curse. A grandmother's loss becomes a mother's anxiety becomes a daughter's addiction. Families don't talk about the trauma but everyone feels its effects - the fear, the numbness, the need to escape. The same painful patterns keep repeating because the original wound never healed. Everyone carries pain they don't understand.
+  structural_components:
+  - trauma silence structures
+  - symptom systems
+  - reenactment patterns
+  - avoidance mechanisms
+  social_processes:
+  - trauma reenactment
+  - silence maintenance
+  - symptom transmission
+  - avoidance perpetuation
+  societal_relevance: Unresolved trauma perpetuates addiction across generations as families self-medicate rather than heal, maintaining cycles of pain and dysfunction.
+- id: soc-fam-gen-dif-coh
+  label: Differentiated Connection
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - emotional autonomy
+  - self-differentiation
+  - connected independence
+  scope: High differentiation of self from family emotional system while maintaining connection, allowing individuals to think and choose independently without losing family relationships.
+  parent_scope_inheritance: Specifies the differentiation aspect of intergenerational transmission, focusing on how emotional autonomy within connection enables breaking destructive patterns while preserving relationships.
+  polarity_expression: Manifests as cohesive autonomy where individuals maintain clear self-definition within family relationships, responding thoughtfully rather than reacting automatically to family emotional processes.
+  cross_domain_resonance: Resonates with psy-dev-ind-ada (healthy individuation), psy-rel-bnd-ada (adaptive boundaries), and exi-aut-slf-pur (authentic self-determination).
+  academic_description: Bowen's differentiation of self concept describes the ability to maintain autonomous functioning while staying emotionally connected to family. Research shows higher differentiation predicts better recovery outcomes and reduced intergenerational transmission. Studies demonstrate differentiated individuals can maintain beliefs under family pressure without cutting off. Well-differentiated parents raise more differentiated children, breaking cycles of dysfunction.
+  clinical_description: Assessment measures ability to maintain thinking under emotional pressure, tolerance for family anxiety without reaction, and capacity for I-positions. Treatment uses Bowen family systems therapy to increase differentiation through reducing reactivity, developing I-positions, and maintaining connection without fusion. Interventions include family-of-origin work, coaching through family interactions, and differentiation exercises.
+  lay_description: Being differentiated means you can be yourself around family without losing yourself or cutting them off. You can disagree without fighting, make your own choices without guilt, and stay connected without getting pulled into drama. You respond thoughtfully instead of reacting automatically. You love your family but aren't controlled by their emotions or expectations.
+  structural_components:
+  - self-boundary systems
+  - autonomy structures
+  - connection networks
+  - choice mechanisms
+  social_processes:
+  - self-definition
+  - thoughtful responding
+  - connection maintenance
+  - anxiety regulation
+  societal_relevance: Differentiation enables individuals to break addiction cycles while maintaining family connections, creating healthier patterns without destroying relationships.
+- id: soc-fam-gen-dif-fra
+  label: Fusion or Cutoff
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - emotional fusion
+  - reactive cutoff
+  - undifferentiation
+  scope: Low differentiation manifesting as either emotional fusion with family system or reactive cutoff, where individuals cannot maintain autonomous functioning within family relationships.
+  parent_scope_inheritance: Specifies the differentiation aspect of intergenerational transmission, focusing on how poor differentiation perpetuates dysfunction through either enmeshment or disconnection.
+  polarity_expression: Manifests as fragmented functioning where individuals either lose themselves in family emotional processes or cut off entirely, unable to maintain both autonomy and connection.
+  cross_domain_resonance: Resonates with psy-dev-ind-mal (individuation failure), psy-rel-bnd-mal (boundary problems), and exi-aut-slf-dir (lost self).
+  academic_description: Bowen theory describes how undifferentiation manifests as either fusion or emotional cutoff, both representing inability to maintain self within relationships. Research shows low differentiation predicts addiction vulnerability and treatment resistance. Studies demonstrate undifferentiated individuals transmit increasing dysfunction across generations. Emotional cutoff appears as independence but represents reactive distance.
+  clinical_description: Assessment reveals emotional reactivity to family, inability to maintain positions under pressure, and either enmeshment or complete cutoff. Families show high anxiety transmission, triangulation patterns, and symptom development. Treatment focuses on increasing differentiation through reducing reactivity, reconnecting cutoffs carefully, and developing self-definition. Progress is slow and requires sustained effort.
+  lay_description: Poor differentiation means you either lose yourself completely in family drama or cut everyone off to protect yourself. When enmeshed, family emotions control you - their anxiety becomes your anxiety. When cut off, you've disconnected but aren't free - you're still reacting, just with distance. Either way, you can't be yourself and stay connected.
+  structural_components:
+  - fusion mechanisms
+  - cutoff systems
+  - reactivity patterns
+  - anxiety networks
+  social_processes:
+  - emotional contagion
+  - reactive distancing
+  - triangulation
+  - anxiety transmission
+  societal_relevance: Undifferentiation perpetuates addiction across generations as individuals cannot develop autonomous functioning, remaining trapped in reactive patterns.
+- id: soc-fam-gen-rol-coh
+  label: Flexible Role Evolution
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - role flexibility
+  - adaptive roles
+  - role choice
+  scope: Conscious flexibility in family roles across generations, where individuals can choose and modify roles based on current needs rather than historical patterns, breaking rigid role assignments.
+  parent_scope_inheritance: Specifies the role transmission aspect of intergenerational patterns, focusing on how flexible role evolution enables families to adapt and grow rather than repeat rigid patterns.
+  polarity_expression: Manifests as cohesive adaptation where family members consciously choose roles, shift positions as needed, and avoid locking anyone into dysfunctional patterns across generations.
+  cross_domain_resonance: Resonates with soc-fam-rol-coh (family roles), psy-rel-rol-ada (relational roles), and psy-dev-ide-ada (identity flexibility).
+  academic_description: Research shows rigid role transmission across generations maintains family dysfunction. Studies demonstrate families with role flexibility have better adaptation and lower addiction rates. Minuchin's structural family therapy reveals how role flexibility enables healthy family functioning. Families who consciously examine and modify roles break cycles of dysfunction more effectively.
+  clinical_description: Assessment maps role patterns across generations, identifying rigid assignments and repetitive patterns. Treatment uses family sculpting, role reversal exercises, and experimentation with new roles. Families practice shifting roles consciously, breaking assignments like 'family hero' or 'scapegoat.' Interventions include role flexibility training and creating space for role evolution. Goals include breaking rigid patterns and enabling choice.
+  lay_description: Healthy families let people grow and change roles. The 'responsible one' can learn to relax, the 'baby' can become independent, and the 'problem child' can become successful. Families consciously avoid statements like 'you're just like your father' that lock people into old patterns. Everyone gets to write their own story rather than playing an assigned part.
+  structural_components:
+  - flexible role systems
+  - choice structures
+  - adaptation mechanisms
+  - growth spaces
+  social_processes:
+  - role negotiation
+  - position shifting
+  - pattern breaking
+  - identity evolution
+  societal_relevance: Role flexibility enables families to break cycles of dysfunction by allowing members to develop beyond historical limitations and create new possibilities.
+- id: soc-fam-gen-rol-fra
+  label: Rigid Role Repetition
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - role rigidity
+  - role inheritance
+  - fixed positions
+  scope: Rigid repetition of family roles across generations, where individuals are locked into predetermined positions that repeat historical patterns, maintaining dysfunction through inflexible role assignments.
+  parent_scope_inheritance: Specifies the role transmission aspect of intergenerational patterns, focusing on how rigid role repetition perpetuates dysfunction by locking individuals into predetermined positions.
+  polarity_expression: Manifests as fragmented rigidity where family members cannot escape assigned roles, with positions like scapegoat, hero, or addict repeating across generations regardless of individual characteristics.
+  cross_domain_resonance: Resonates with soc-fam-rol-fra (dysfunctional roles), psy-rel-rol-mal (maladaptive roles), and psy-dev-ide-mal (identity rigidity).
+  academic_description: Research demonstrates how rigid role assignments transmit across generations, maintaining family homeostasis through dysfunction. Studies show families with rigid roles have higher addiction rates and treatment resistance. Role theory reveals how assigned positions become self-fulfilling prophecies. The 'identified patient' role often passes through generations, maintaining family dysfunction.
+  clinical_description: Assessment reveals statements like 'just like your mother,' rigid role assignments, and punishment for role deviation. Families show intense anxiety when members attempt role change. Treatment challenges role rigidity through mapping patterns, identifying costs of rigid roles, and supporting role experimentation. Interventions must address family anxiety about change. Resistance is common as roles maintain homeostasis.
+  lay_description: 'Rigid roles mean everyone has an assigned part that never changes - there''s always a ''black sheep,'' a ''perfect child,'' a ''caretaker.'' These roles get passed down: ''All the oldest daughters become caretakers'' or ''The men in our family are drinkers.'' People feel trapped in roles they didn''t choose and can''t escape, playing parts written generations ago.'
+  structural_components:
+  - rigid role assignments
+  - enforcement mechanisms
+  - deviation sanctions
+  - repetition patterns
+  social_processes:
+  - role enforcement
+  - deviation punishment
+  - pattern repetition
+  - identity restriction
+  societal_relevance: Rigid role repetition maintains addiction and dysfunction across generations by preventing individuals from developing beyond assigned positions.
+- id: soc-fam-gen-att-coh
+  label: Secure Attachment Transmission
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - earned security
+  - attachment repair
+  - bonding restoration
+  scope: Transmission of secure attachment patterns across generations, where parents provide consistent emotional availability and responsive caregiving, creating secure templates for relationships and emotional regulation.
+  parent_scope_inheritance: Specifies the attachment transmission aspect of intergenerational patterns, focusing on how secure attachment provides protective factors against addiction through healthy relationship templates.
+  polarity_expression: Manifests as cohesive bonding where secure attachment patterns transmit through consistent caregiving, creating capacity for trust, intimacy, and emotional regulation across generations.
+  cross_domain_resonance: Resonates with psy-rel-att-ada (secure attachment), phy-neu-att-reg (regulated attachment system), and psy-dev-att-ada (healthy attachment development).
+  academic_description: Attachment research demonstrates secure attachment transmission across generations through sensitive caregiving. Main and Goldwyn's work on earned security shows how individuals can break insecure cycles. Studies reveal secure attachment protects against addiction through better stress regulation and relationship capacity. Adult Attachment Interview predicts infant attachment with 75% accuracy, showing intergenerational transmission.
+  clinical_description: Assessment uses Adult Attachment Interview and observes parent-child interactions for attachment quality. Treatment includes attachment-based family therapy, Circle of Security parenting, and adult attachment repair work. Interventions focus on increasing reflective functioning, improving emotional availability, and healing attachment wounds. Goals include earning security and transmitting secure patterns to children.
+  lay_description: Secure attachment means children grow up feeling safe, loved, and able to trust others. Parents who are emotionally available and responsive raise children who can form healthy relationships and handle emotions well. Even parents who didn't have secure childhoods can 'earn' security through healing work, breaking the cycle and giving their children what they didn't receive.
+  structural_components:
+  - secure base systems
+  - trust networks
+  - emotional availability
+  - responsive caregiving
+  social_processes:
+  - attunement
+  - co-regulation
+  - repair processes
+  - trust building
+  societal_relevance: Secure attachment transmission provides protective factors against addiction, creating resilient individuals capable of healthy relationships and emotional regulation.
+- id: soc-fam-gen-att-fra
+  label: Insecure Attachment Perpetuation
+  forest: Sociological
+  forest_id: soc
+  field: Family Systems
+  field_id: soc-fam
+  cluster: Intergenerational Transmission
+  cluster_id: soc-fam-gen
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - attachment disruption
+  - bonding failure
+  - insecure transmission
+  scope: Perpetuation of insecure attachment patterns across generations through inconsistent, unavailable, or frightening caregiving, creating vulnerability to addiction through impaired relationships and emotional dysregulation.
+  parent_scope_inheritance: Specifies the attachment transmission aspect of intergenerational patterns, focusing on how insecure attachment creates vulnerability to addiction through relationship difficulties and poor emotional regulation.
+  polarity_expression: Manifests as fragmented bonding where insecure patterns repeat through generations, creating difficulties with trust, intimacy, and emotional regulation that increase addiction vulnerability.
+  cross_domain_resonance: Resonates with psy-rel-att-mal (insecure attachment), phy-neu-att-dys (dysregulated attachment system), and psy-dev-att-mal (attachment pathology).
+  academic_description: Research shows insecure attachment patterns transmit across generations through caregiving behavior. Dismissive parents raise avoidant children; preoccupied parents create anxious attachment. Disorganized attachment, often from trauma, strongly predicts addiction vulnerability. Studies reveal insecure attachment increases substance use through self-medication of attachment-related distress and relationship difficulties.
+  clinical_description: Assessment reveals avoidant, anxious, or disorganized attachment patterns repeating across generations. Families show emotional unavailability, inconsistent caregiving, or frightening parental behavior. Treatment requires long-term attachment repair work, addressing both adult attachment and parenting capacity. Interventions include video feedback, mentalization-based treatment, and trauma-informed attachment work.
+  lay_description: Insecure attachment gets passed down when parents can't provide consistent emotional safety. Children of emotionally unavailable parents become distant themselves. Those with anxious, unpredictable parents become clingy and fearful. The most damaging pattern occurs when parents are frightening, creating chaos and confusion that repeats through generations. These patterns make people vulnerable to using substances to manage relationship pain.
+  structural_components:
+  - insecure templates
+  - disrupted bonding
+  - inconsistent caregiving
+  - attachment defenses
+  social_processes:
+  - misattunement
+  - emotional unavailability
+  - attachment disruption
+  - defense transmission
+  societal_relevance: Insecure attachment perpetuation creates vulnerability to addiction across generations through impaired relationships and emotional dysregulation requiring substances for coping.

@@ -1,0 +1,292 @@
+# Generated anchors for cluster: EXI-VAL-AGE
+# Timestamp: 20251104_154607
+
+anchors:
+- id: exi-val-age-loc-pur
+  label: Internal Locus of Control
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Internal attribution
+  - Personal causation
+  - Self-determination
+  scope: Represents the attribution of life outcomes to personal actions, choices, and efforts. Individuals experience themselves as primary causal agents in their lives, believing their behaviors significantly influence results.
+  parent_scope_inheritance: Specifies the locus of control dimension of volitional agency, focusing on the fundamental attribution style that underlies the sense of personal agency.
+  polarity_expression: Manifests as strong internal attribution where individuals see clear connections between their actions and outcomes, taking ownership of both successes and failures as products of personal agency.
+  cross_domain_resonance: Resonates with adaptive attribution patterns (psy-cog-att-ada) in psychological functioning and self-efficacy beliefs (psy-mot-sef-ada) in motivational systems.
+  academic_description: Internal locus of control, as defined by Rotter's social learning theory, represents the belief that reinforcements are contingent upon one's own behavior. Research consistently shows internal locus correlates with better mental health outcomes, higher achievement motivation, and more effective coping strategies. In addiction recovery, developing internal locus predicts treatment retention, reduced relapse rates, and sustained behavior change. Studies demonstrate that individuals with internal locus engage more actively in treatment, take greater responsibility for recovery, and show better long-term outcomes.
+  clinical_description: Clinicians assess locus of control through standardized measures and behavioral observations of attribution patterns. Clients with internal locus take credit for positive changes and acknowledge their role in setbacks without excessive self-blame. Treatment involves attribution retraining, helping clients recognize their sphere of influence while accepting genuine limitations. Therapists use success experience reviews to highlight personal agency in positive outcomes and behavioral chain analysis to identify choice points in negative patterns. The goal is balanced internal attribution that empowers without overwhelming.
+  lay_description: Internal locus of control means believing that you have real influence over what happens in your life. You understand that while you can't control everything, your choices and actions significantly shape your outcomes. When things go well, you recognize your role in creating that success. When things go poorly, you can identify what you might do differently next time without drowning in self-blame. You see yourself as the primary driver of your life rather than a passenger.
+  foundational_themes: Personal causation, self-determination, ownership of outcomes
+  experiential_processes: Recognizing personal influence, connecting actions to results, experiencing agency in daily life
+  personal_relevance: Empowers individuals to take active roles in shaping their lives and recovery
+- id: exi-val-age-loc-dir
+  label: External Locus of Control
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - External attribution
+  - Learned helplessness
+  - Victim mentality
+  scope: Represents the attribution of life outcomes to external forces such as luck, fate, powerful others, or uncontrollable circumstances. Individuals experience themselves as pawns moved by forces beyond their control.
+  parent_scope_inheritance: Specifies the locus of control dimension of volitional agency, focusing on the external attribution style that undermines personal agency.
+  polarity_expression: Manifests as pervasive external attribution where individuals see little connection between their actions and outcomes, viewing themselves as victims of circumstance or controlled by external forces.
+  cross_domain_resonance: Resonates with maladaptive attribution patterns (psy-cog-att-mal) in psychological functioning and learned helplessness (psy-mot-sef-mal) in motivational systems.
+  academic_description: External locus of control represents the belief that reinforcements are controlled by forces outside oneself. Research shows external locus correlates with depression, anxiety, and poorer treatment outcomes. In addiction, external locus manifests as attributing use to circumstances, cravings as uncontrollable, and recovery as dependent on external factors. Studies demonstrate that strong external locus predicts treatment dropout, relapse, and continued substance use. The external attribution style maintains addiction by removing personal responsibility and agency from the recovery process.
+  clinical_description: Clients with external locus present with victim narratives, blaming circumstances, other people, or their addiction for all negative outcomes. They often say things like 'I had no choice,' 'It's not my fault,' or 'What's the point of trying?' Assessment reveals minimal ownership of decisions and outcomes. Treatment challenges these narratives through motivational interviewing, identifying spheres of influence, and gradual responsibility exercises. Therapists help clients recognize choice points they previously overlooked and build evidence of personal influence through small, successful exercises of agency.
+  lay_description: External locus of control means believing that your life is controlled by forces outside yourself - luck, other people, circumstances, or fate. You feel like things just happen to you rather than because of your choices. When things go wrong, it's always someone else's fault or bad luck. When things go right, you got lucky or someone helped you. This mindset keeps you stuck because if you don't have control, why try to change? You become a victim of your circumstances rather than an active participant in your life.
+  foundational_themes: Powerlessness, victimization, fatalism
+  experiential_processes: Feeling controlled by external forces, experiencing helplessness, attributing outcomes to luck or others
+  personal_relevance: Maintains addiction by removing personal responsibility and undermining motivation for change
+- id: exi-val-age-cho-pur
+  label: Choice Awareness
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Decision consciousness
+  - Option recognition
+  - Choice point awareness
+  scope: Encompasses the conscious recognition of decision points throughout daily life and the awareness of available alternatives at each juncture. Includes the ability to pause, recognize options, and make deliberate choices.
+  parent_scope_inheritance: Specifies the choice awareness component of volitional agency, focusing on the cognitive recognition of decision points and alternatives.
+  polarity_expression: Manifests as heightened awareness of choice points, conscious recognition of alternatives, and deliberate decision-making rather than automatic responding.
+  cross_domain_resonance: Resonates with metacognitive awareness (psy-cog-awa-ada) in psychological functioning and cognitive flexibility (phy-exe-cfl-reg) in executive systems.
+  academic_description: Choice awareness represents the metacognitive capacity to recognize decision points and available options. Research in decision science shows that awareness of choice points is prerequisite to autonomous decision-making. Studies demonstrate that individuals who recognize more choice points report greater autonomy and life satisfaction. In addiction treatment, choice awareness training improves treatment outcomes by helping individuals recognize previously automatic decision sequences. Mindfulness-based interventions enhance choice awareness by creating space between stimulus and response.
+  clinical_description: Choice awareness involves helping clients recognize the numerous decision points throughout their day that they typically navigate on autopilot. Clinicians use 'choice point' exercises where clients identify moments of decision in behavioral chains. The approach involves slowing down automatic sequences to reveal embedded choices. Clients learn to pause before acting, articulate available options, and make conscious decisions. Common tools include decision journaling, mindfulness practices, and behavioral chain analysis that highlights previously unrecognized choice points.
+  lay_description: Choice awareness means recognizing that you're making choices all day long, even when it doesn't feel like it. Instead of operating on autopilot where one thing automatically leads to another, you start noticing the moments where you could go different directions. It's like seeing the fork in the road that was always there but you never noticed because you always went the same way. When you're aware of choices, you can pause and actually decide rather than just reacting out of habit.
+  foundational_themes: Freedom of choice, conscious decision-making, alternative possibilities
+  experiential_processes: Pausing before action, recognizing options, experiencing the moment of choice
+  personal_relevance: Transforms automatic addiction behaviors into conscious choices that can be changed
+- id: exi-val-age-cho-dir
+  label: Choice Blindness
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Automatic responding
+  - Choice unawareness
+  - Decisional blindness
+  scope: Represents the absence of conscious awareness of decision points and alternatives, resulting in automatic, habitual responding without recognition that choices exist.
+  parent_scope_inheritance: Specifies the choice awareness component of volitional agency, focusing on the absence of conscious recognition of decision points.
+  polarity_expression: Manifests as automatic behavioral sequences without awareness of embedded choice points, creating the subjective experience of having no choice.
+  cross_domain_resonance: Resonates with metacognitive deficits (psy-cog-awa-mal) in psychological functioning and cognitive inflexibility (phy-exe-cfl-dys) in executive systems.
+  academic_description: Choice blindness represents the failure to recognize decision points and available alternatives in behavioral sequences. Research shows that habitual behaviors become increasingly automatic, bypassing conscious decision-making processes. In addiction, choice blindness maintains use patterns by obscuring the numerous micro-decisions involved in substance use. Studies demonstrate that individuals with low choice awareness report feeling controlled by their habits and circumstances. The automaticity of addiction behaviors creates the subjective experience of compulsion.
+  clinical_description: Clients with choice blindness present with narratives of inevitability - 'I just found myself using,' 'It just happened,' 'I had no choice.' They cannot identify decision points in their behavioral chains and experience their actions as automatic or compelled. Assessment reveals inability to articulate moments where different choices were possible. Treatment involves slowing down behavioral sequences to reveal embedded choices, using chain analysis to identify overlooked decision points, and building awareness through mindfulness practices. The goal is to transform automatic sequences into conscious choice points.
+  lay_description: Choice blindness means you don't even realize you're making choices - everything feels automatic or inevitable. You might say 'I had no choice' or 'It just happened' because you genuinely don't see the moments where you could have done something different. It's like being on autopilot where one thing automatically leads to another without any conscious decision. Your habits run you rather than you running them, and you feel like you're just along for the ride.
+  foundational_themes: Automaticity, inevitability, unconscious patterns
+  experiential_processes: Operating on autopilot, experiencing inevitability, missing choice points
+  personal_relevance: Maintains addiction by obscuring the choices involved in substance use
+- id: exi-val-age-res-pur
+  label: Responsibility Acceptance
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Ownership acceptance
+  - Accountability embrace
+  - Responsible agency
+  scope: Encompasses balanced acceptance of responsibility for one's actions and their consequences, including past decisions and future choices, without excessive guilt or self-blame.
+  parent_scope_inheritance: Specifies the responsibility dimension of volitional agency, focusing on ownership of decisions and their outcomes.
+  polarity_expression: Manifests as appropriate ownership of personal role in outcomes, ability to acknowledge mistakes without paralysis, and acceptance of responsibility for future direction.
+  cross_domain_resonance: Resonates with moral agency (soc-mor-age-coh) in sociological functioning and self-compassion (psy-emo-com-ada) in psychological systems.
+  academic_description: Responsibility acceptance involves acknowledging one's causal role in outcomes while maintaining psychological wellbeing. Research shows that balanced responsibility-taking correlates with better mental health, improved relationships, and successful behavior change. In addiction recovery, accepting responsibility without excessive shame predicts better treatment outcomes. Studies demonstrate that individuals who own their role in addiction while maintaining self-compassion show greater motivation for change and reduced relapse rates. The key is achieving responsibility without destructive guilt.
+  clinical_description: Healthy responsibility acceptance involves clients acknowledging their role in past and present circumstances without drowning in shame or self-attack. Clinicians help clients use 'responsibility pie' exercises to fairly distribute causation, recognizing their part while acknowledging other factors. Treatment balances validation of real constraints with empowerment through ownership. Clients learn to say 'I made those choices' while adding 'and I can make different ones.' The approach involves processing past actions through a lens of learning rather than condemnation, and focusing on responsibility for future choices.
+  lay_description: Responsibility acceptance means owning your part in what's happened without beating yourself up endlessly about it. You can say 'Yes, I made those choices' without adding 'and I'm a terrible person.' It's about being honest about your role - not minimizing it, but not exaggerating it either. You acknowledge what you've done, learn from it, and focus on what you're responsible for going forward. It's taking ownership without taking on crushing guilt.
+  foundational_themes: Personal ownership, accountability, learning from consequences
+  experiential_processes: Acknowledging personal role, accepting consequences, embracing future responsibility
+  personal_relevance: Enables genuine change by accepting ownership while maintaining motivation
+- id: exi-val-age-res-dir
+  label: Responsibility Avoidance
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Blame externalization
+  - Accountability avoidance
+  - Responsibility denial
+  scope: Represents the avoidance or denial of personal responsibility through blame, rationalization, minimization, or victim narratives that place causation entirely outside oneself.
+  parent_scope_inheritance: Specifies the responsibility dimension of volitional agency, focusing on the avoidance of ownership for decisions and outcomes.
+  polarity_expression: Manifests as persistent externalization of blame, denial of personal role in negative outcomes, and refusal to accept responsibility for choices and consequences.
+  cross_domain_resonance: Resonates with moral disengagement (soc-mor-age-fra) in sociological functioning and defensive denial (psy-def-den-mal) in psychological systems.
+  academic_description: Responsibility avoidance involves defensive strategies to deny or minimize personal causation in negative outcomes. Research shows that external blame correlates with poorer treatment outcomes, continued problematic behaviors, and relationship difficulties. In addiction, responsibility avoidance maintains use through rationalization, minimization, and victim narratives. Studies demonstrate that individuals who avoid responsibility show less motivation for change, higher dropout rates, and increased relapse. The avoidance serves a protective function against shame but prevents genuine change.
+  clinical_description: Clients avoiding responsibility present with extensive blame narratives - everything is someone else's fault or due to circumstances beyond their control. They minimize their role ('I only...'), rationalize choices ('I had to because...'), or adopt victim stances ('It's not fair'). Assessment reveals inability to acknowledge personal contribution to problems. Treatment uses motivational interviewing to gently challenge these narratives, helping clients recognize their role without triggering defensive shame. Therapists start with small, safe acknowledgments of responsibility before addressing larger patterns.
+  lay_description: Responsibility avoidance means never accepting that you played a part in what happened. It's always someone else's fault - your parents, your partner, your boss, your addiction, your circumstances. You have a story for why nothing is really your responsibility. While this protects you from feeling guilty or ashamed, it also keeps you stuck because if nothing is your fault, then you have no power to change anything. You remain a victim of everyone and everything else.
+  foundational_themes: Blame, victimhood, denial of agency
+  experiential_processes: Externalizing fault, creating victim narratives, avoiding ownership
+  personal_relevance: Prevents recovery by maintaining the illusion of powerlessness
+- id: exi-val-age-vol-pur
+  label: Volitional Control
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Willpower experience
+  - Voluntary control
+  - Intentional action
+  scope: Represents the subjective experience of having volitional control over one's actions, the felt capacity to execute intended behaviors and resist unwanted impulses.
+  parent_scope_inheritance: Specifies the volitional control aspect of agency, focusing on the experiential sense of voluntary command over behavior.
+  polarity_expression: Manifests as the subjective experience of being in control of one's actions, successfully executing intentions, and effectively resisting impulses.
+  cross_domain_resonance: Resonates with inhibitory control (phy-exe-inh-reg) in physiological functioning and self-regulation (psy-beh-reg-ada) in psychological systems.
+  academic_description: Volitional control represents the phenomenological experience of voluntary command over behavior. Research in volition science shows that the subjective sense of control predicts actual behavioral control beyond objective measures. Studies demonstrate that individuals with strong volitional experience show better self-regulation, goal achievement, and impulse resistance. In addiction recovery, rebuilding the sense of volitional control after experiencing powerlessness is crucial for sustained abstinence. The experience of 'I can choose not to' becomes foundational for recovery.
+  clinical_description: Volitional control work focuses on rebuilding clients' experience of voluntary command over their behavior. Clients practice small acts of intentional control - delaying gratification, following through on minor commitments, resisting small temptations. Success experiences build the phenomenological sense of 'I can control myself.' Clinicians use implementation intentions, urge surfing, and competing response training to strengthen volitional experience. The goal is for clients to feel genuinely in control of their actions rather than driven by impulses or circumstances.
+  lay_description: Volitional control is the feeling that you're in charge of what you do - that you can decide to do something and then actually do it, or decide not to do something and successfully resist. It's experiencing yourself as the driver rather than being driven. When you have volitional control, you feel like you can follow through on your intentions and resist impulses that don't serve you. You experience genuine choice in your actions rather than feeling compelled or out of control.
+  foundational_themes: Voluntary action, intentional control, willpower
+  experiential_processes: Experiencing control, executing intentions, resisting impulses
+  personal_relevance: Restores the sense of being in command of one's own behavior
+- id: exi-val-age-vol-dir
+  label: Volitional Helplessness
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Loss of control
+  - Compelled behavior
+  - Involuntary action
+  scope: Represents the subjective experience of lacking volitional control, feeling driven by forces beyond conscious command, and experiencing behavior as involuntary or compelled.
+  parent_scope_inheritance: Specifies the volitional control aspect of agency, focusing on the experiential absence of voluntary command over behavior.
+  polarity_expression: Manifests as feeling controlled by impulses, experiencing behavior as involuntary, and the subjective sense of being driven rather than choosing.
+  cross_domain_resonance: Resonates with disinhibition (phy-exe-inh-dys) in physiological functioning and dysregulation (psy-beh-reg-mal) in psychological systems.
+  academic_description: Volitional helplessness represents the phenomenological experience of lacking voluntary control over behavior. Research shows that the subjective experience of compulsion, regardless of objective capacity, predicts continued problematic behavior. In addiction, individuals report feeling 'taken over' by cravings, experiencing use as involuntary despite intact motor function. Studies demonstrate that this experienced loss of control maintains addiction through learned helplessness and self-fulfilling prophecies. The phenomenology of compulsion becomes more significant than actual capacity.
+  clinical_description: Clients experiencing volitional helplessness describe their behavior as involuntary - 'My body just moved,' 'I couldn't stop myself,' 'Something took over.' They experience cravings as irresistible commands and report watching themselves act against their intentions. Assessment reveals a profound sense of being controlled rather than controlling. Treatment begins with tiny exercises of volitional control in safe domains, building evidence that voluntary action is possible. Clinicians help clients distinguish between strong urges and true compulsion, developing skills to tolerate discomfort while maintaining control.
+  lay_description: Volitional helplessness feels like you're not in control of your own actions - like something else is driving while you're just a passenger. You might watch yourself do things you don't want to do, feeling powerless to stop. Cravings feel like commands you must obey. Your body seems to move on its own. You experience yourself as compelled or driven rather than choosing. It's the terrifying feeling that you've lost command over your own behavior.
+  foundational_themes: Compulsion, powerlessness, involuntary action
+  experiential_processes: Feeling driven, experiencing compulsion, losing voluntary control
+  personal_relevance: Maintains addiction through the subjective experience of powerlessness
+- id: exi-val-age-aut-pur
+  label: Life Authorship
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Self-authorship
+  - Life direction
+  - Narrative agency
+  scope: Encompasses the existential sense of actively authoring one's life story, creating personal meaning, and directing one's future path with intentionality and purpose.
+  parent_scope_inheritance: Specifies the self-authorship dimension of volitional agency, focusing on the existential freedom to create one's life narrative.
+  polarity_expression: Manifests as active creation of life meaning, clear sense of personal direction, and the experience of writing one's own story rather than having it written.
+  cross_domain_resonance: Resonates with identity coherence (psy-ide-coh-ada) in psychological functioning and meaning-making (exi-mea-mak-pur) in existential systems.
+  academic_description: Life authorship represents the existential capacity to create personal narrative and meaning. Research in narrative psychology shows that individuals who experience themselves as authors of their life stories report greater wellbeing, clearer identity, and stronger sense of purpose. In recovery, developing authorship involves reclaiming narrative control from addiction's script. Studies demonstrate that interventions focusing on life story reconstruction and future authoring improve treatment outcomes and life satisfaction. The shift from 'addiction's story' to 'my story' marks crucial recovery transition.
+  clinical_description: Life authorship work helps clients recognize themselves as active creators of their life narrative rather than passive characters. Clinicians use life story exercises, exploring how clients can rewrite their narrative going forward. Treatment involves identifying values-based life direction, creating coherent narrative from fragmented experiences, and developing future chapters aligned with personal meaning. Clients learn to see past events as plot points in their story rather than deterministic forces. The approach emphasizes that while they cannot change what's been written, they hold the pen for future chapters.
+  lay_description: Life authorship means recognizing that you're writing your own life story, not just living out a script written by others or circumstances. You're the author who decides what your story means and where it goes next. Your past becomes chapters you've written rather than chains that bind you. You actively create meaning from your experiences and consciously direct your future path. Instead of feeling like life is happening to you, you experience yourself as actively creating your life.
+  foundational_themes: Self-creation, narrative control, meaning authorship
+  experiential_processes: Creating life narrative, directing future path, making meaning from experience
+  personal_relevance: Transforms recovery from escaping addiction to actively creating meaningful life
+- id: exi-val-age-aut-dir
+  label: Narrative Drift
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Life passivity
+  - Existential drift
+  - Narrative fragmentation
+  scope: Represents the absence of life authorship, experiencing oneself as a passive character in a story written by external forces, lacking coherent narrative or intentional direction.
+  parent_scope_inheritance: Specifies the self-authorship dimension of volitional agency, focusing on the absence of narrative control and life direction.
+  polarity_expression: Manifests as passive drift through life without clear direction, fragmented or incoherent life narrative, and experiencing life as happening to rather than created by oneself.
+  cross_domain_resonance: Resonates with identity diffusion (psy-ide-coh-mal) in psychological functioning and meaninglessness (exi-mea-mak-dir) in existential systems.
+  academic_description: Narrative drift represents the absence of authorial stance toward one's life story. Research shows that individuals without coherent life narratives experience greater distress, identity confusion, and purposelessness. In addiction, narrative drift manifests as life becoming entirely organized around substance use, losing personal story to addiction's narrative. Studies demonstrate that lack of future orientation and narrative fragmentation predict poorer recovery outcomes. Without authorship, individuals remain reactive to circumstances rather than proactive in creating their lives.
+  clinical_description: Clients experiencing narrative drift cannot articulate coherent life stories or future directions. They describe life as 'just happening' without plan or purpose. Their narratives are fragmented, dominated by external events rather than personal agency. Assessment reveals absence of future goals, values-based direction, or sense of creating their life. Treatment begins with small narrative exercises - identifying moments of choice, exploring personal values, imagining possible futures. Clinicians help clients recognize that even in drift, they're still writing their story - the question becomes what story they want to write.
+  lay_description: Narrative drift means floating through life without direction or purpose, feeling like you're just along for the ride in someone else's story. You don't have clear goals or sense of where you're going. Your life feels like random events happening to you rather than a coherent story you're creating. You're passive, reactive, just getting through days without intention or meaning. Life happens to you rather than being created by you, and you feel more like an extra in your own life than the main character.
+  foundational_themes: Passivity, purposelessness, narrative absence
+  experiential_processes: Drifting without direction, experiencing fragmentation, lacking authorial stance
+  personal_relevance: Maintains addiction by preventing creation of meaningful alternative life narrative
+- id: exi-val-age-pbc-pur
+  label: Behavioral Self-Efficacy
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Capability confidence
+  - Performance efficacy
+  - Behavioral confidence
+  scope: Represents confidence in one's ability to successfully execute specific behaviors and overcome obstacles, the belief that effort will produce intended results.
+  parent_scope_inheritance: Specifies the perceived behavioral control component of volitional agency, focusing on efficacy beliefs about behavioral execution.
+  polarity_expression: Manifests as confidence in ability to perform intended behaviors, persistence in face of obstacles, and belief that personal effort produces results.
+  cross_domain_resonance: Resonates with self-efficacy (psy-mot-sef-ada) in psychological functioning and task persistence (psy-beh-per-ada) in behavioral systems.
+  academic_description: Behavioral self-efficacy represents beliefs about capability to execute specific behaviors successfully. Bandura's research demonstrates that efficacy beliefs predict actual performance beyond objective ability. In addiction recovery, behavioral self-efficacy specifically regarding resistance to substance use strongly predicts abstinence. Studies show that individuals with high efficacy attempt more challenging behaviors, persist longer, and achieve better outcomes. Efficacy develops through mastery experiences, vicarious learning, verbal persuasion, and physiological feedback.
+  clinical_description: 'Behavioral self-efficacy assessment examines clients'' confidence in performing specific recovery behaviors - refusing offers, managing cravings, engaging in alternative activities. Clients with strong efficacy express confidence: ''I can handle this situation,'' ''I know what to do.'' Treatment builds efficacy through graded task assignments, starting with highly achievable goals and progressively increasing difficulty. Success experiences are processed to highlight personal capability. Clinicians help clients prepare for challenging situations through behavioral rehearsal, building confidence before real-world tests.'
+  lay_description: Behavioral self-efficacy is believing you can actually do what you intend to do. It's the confidence that if you decide to refuse a drink, you can actually refuse it. If you plan to go to a meeting, you'll actually get there. It's knowing that your efforts will work - that if you use your coping skills, they'll actually help. When you have this confidence, you attempt harder things and keep trying even when it's difficult because you believe you can succeed.
+  foundational_themes: Capability belief, performance confidence, effort-outcome connection
+  experiential_processes: Feeling capable, attempting challenges, persisting through difficulty
+  personal_relevance: Enables recovery by building confidence in ability to execute recovery behaviors
+- id: exi-val-age-pbc-dir
+  label: Learned Helplessness
+  forest: Existential
+  forest_id: exi
+  field: Values and Agency
+  field_id: exi-val
+  cluster: Volitional Agency
+  cluster_id: exi-val-age
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Behavioral futility
+  - Performance helplessness
+  - Efficacy deficit
+  scope: Represents the belief that one lacks ability to successfully execute behaviors or that efforts won't produce intended results, leading to behavioral paralysis and avoidance.
+  parent_scope_inheritance: Specifies the perceived behavioral control component of volitional agency, focusing on helplessness beliefs about behavioral execution.
+  polarity_expression: Manifests as conviction of inability, rapid surrender to obstacles, and belief that personal effort is futile regardless of actual capability.
+  cross_domain_resonance: Resonates with low self-efficacy (psy-mot-sef-mal) in psychological functioning and behavioral avoidance (psy-beh-per-mal) in behavioral systems.
+  academic_description: Learned helplessness develops when individuals perceive no contingency between actions and outcomes. Seligman's research shows that experiencing uncontrollable events leads to expectation of future helplessness, reducing attempts at control even when it becomes possible. In addiction, repeated failed quit attempts create generalized helplessness beliefs. Studies demonstrate that learned helplessness predicts treatment dropout, reduced effort in recovery activities, and relapse. The helplessness becomes self-fulfilling as reduced efforts confirm inability beliefs.
+  clinical_description: 'Clients with learned helplessness express futility: ''Why try?'', ''Nothing works,'' ''I always fail.'' They avoid challenges, give up quickly, and don''t attempt recovery behaviors believing they''ll fail. Assessment reveals history of failed attempts leading to generalized inability beliefs. Treatment begins with highly structured, almost guaranteed success experiences to challenge helplessness. Behavioral activation gets clients acting despite futility beliefs. Clinicians help reframe past failures as learning experiences rather than evidence of inability. Small wins are processed extensively to build evidence of capability.'
+  lay_description: Learned helplessness means you've tried and failed so many times that you've given up believing you can succeed. You don't even try anymore because you 'know' it won't work. When someone suggests something that might help, you immediately think of why it won't work for you. You've learned from experience that your efforts don't matter, so why bother? This becomes a trap because not trying guarantees failure, confirming your belief that you can't succeed.
+  foundational_themes: Futility, inability belief, effort-failure expectation
+  experiential_processes: Expecting failure, avoiding attempts, surrendering quickly
+  personal_relevance: Prevents recovery by eliminating attempts at change before they begin

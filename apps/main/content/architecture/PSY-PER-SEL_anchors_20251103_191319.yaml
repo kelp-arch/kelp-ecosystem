@@ -1,0 +1,352 @@
+# Generated anchors for cluster: PSY-PER-SEL
+# Timestamp: 20251103_191319
+
+anchors:
+- id: psy-per-sel-idn-ada
+  label: Coherent Identity
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Integrated self-concept
+  - Identity synthesis
+  - Unified self
+  scope: Represents an integrated, coherent sense of self with clear self-definition across multiple life domains and roles, maintaining identity continuity while incorporating recovery into a multifaceted self-concept.
+  parent_scope_inheritance: Specifies the identity formation component of self-concept as the structural integration and coherence of self-representation that enables stable self-definition beyond addiction.
+  polarity_expression: Manifests as clear sense of who one is across contexts with multiple positive identity facets versus identity diffusion where self is solely defined by addiction with lack of coherent self-structure.
+  cross_domain_resonance: Resonates with neural integration patterns (phy-neu-int), social role identity (soc-fam-rol), and existential identity formation (exi-mea-ide).
+  academic_description: Identity formation in recovery involves Marcia's identity statuses moving from diffusion toward achievement. Erikson's identity synthesis creates coherent self-representation. Recovery identity development (Buckingham et al.) shows identity reconstruction as central to sustained change. Identity complexity theory demonstrates how multiple self-aspects provide resilience against threats to any single identity domain.
+  clinical_description: Identity mapping exercises explore multiple self-facets beyond addiction. Identity reconstruction therapy helps integrate past, present, and future selves. Group therapy provides identity validation and alternative identity models. Exploring values, interests, and roles builds identity capital. Addressing identity confusion through structured self-exploration and life review.
+  lay_description: Having a clear, stable sense of who you are as a whole person, not just as someone with addiction. This means knowing your various roles, interests, and qualities that make you unique, and feeling these parts of yourself fit together coherently.
+  core_components:
+  - Self-continuity across time
+  - Role integration
+  - Identity commitment
+  associated_processes:
+  - Identity exploration
+  - Self-categorization
+  - Identity synthesis
+- id: psy-per-sel-idn-mal
+  label: Identity Confusion
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Identity diffusion
+  - Fragmented self
+  - Identity crisis
+  scope: Represents fragmented, incoherent self-concept with identity diffusion, lack of clear self-definition, and over-identification with addiction as sole identity marker.
+  parent_scope_inheritance: Specifies the identity formation component of self-concept as fragmented self-representation and identity confusion that perpetuates addiction through lack of alternative self-definition.
+  polarity_expression: Manifests as persistent uncertainty about who one is, inability to integrate different self-aspects, and reduction of entire identity to 'addict' label with loss of other identity domains.
+  cross_domain_resonance: Resonates with neural fragmentation (phy-neu-int), social role confusion (soc-fam-rol), and existential identity crisis (exi-mea-ide).
+  academic_description: Identity diffusion (Marcia) characterized by lack of exploration and commitment. Identity disturbance in personality disorders shows fragmentation and instability. Spoiled identity (Goffman) occurs when addiction becomes master status. Identity foreclosure on addict role prevents exploration of alternatives. Narrative incoherence reflects inability to integrate life experiences.
+  clinical_description: Presenting with chronic uncertainty about self, values, and life direction. Extreme reactions to identity threats. Over-identification with addiction making recovery seem like loss of self. Treatment involves gentle identity exploration, building identity alternatives, and gradual integration work. Addressing underlying trauma that fragmented identity.
+  lay_description: Feeling lost about who you are, as if your whole identity has become wrapped up in addiction. You might feel like different parts of yourself don't fit together, or that without substances you don't know who you are anymore.
+  core_components:
+  - Self-discontinuity
+  - Role confusion
+  - Identity void
+  associated_processes:
+  - Identity foreclosure
+  - Self-fragmentation
+  - Identity crisis
+- id: psy-per-sel-est-ada
+  label: Positive Self-Regard
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Healthy self-esteem
+  - Self-worth
+  - Self-acceptance
+  scope: Represents stable positive self-evaluation with realistic self-appraisal, self-acceptance despite imperfections, and maintained sense of inherent worth throughout recovery challenges.
+  parent_scope_inheritance: Specifies the self-esteem component of self-concept as adaptive self-evaluation that supports recovery through maintained self-worth and self-compassion.
+  polarity_expression: Manifests as stable sense of personal worth with self-acceptance and self-compassion versus chronic self-derogation with self-hatred and persistent negative self-evaluation.
+  cross_domain_resonance: Resonates with reward system regulation (phy-neu-rew), secure attachment patterns (soc-rel-att), and existential self-worth (exi-mea-wor).
+  academic_description: Optimal self-esteem (Kernis) shows stability and authenticity. Self-compassion (Neff) provides resilience through self-kindness, common humanity, and mindfulness. Contingent versus true self-esteem affects vulnerability. Self-esteem as sociometer (Leary) reflects perceived relational value. Recovery involves rebuilding self-worth independent of substance use.
+  clinical_description: Building self-esteem through identifying strengths, challenging negative self-talk, and developing self-compassion. Addressing shame through self-forgiveness work. Group therapy provides external validation while building internal self-worth. Behavioral activation increases mastery experiences. Mindfulness reduces self-criticism.
+  lay_description: Feeling fundamentally okay about yourself as a person, even while acknowledging mistakes and areas for growth. This means treating yourself with the same kindness you'd show a good friend and recognizing your inherent worth isn't defined by addiction.
+  core_components:
+  - Global self-worth
+  - Self-acceptance
+  - Self-respect
+  associated_processes:
+  - Self-evaluation
+  - Self-compassion
+  - Self-validation
+- id: psy-per-sel-est-mal
+  label: Self-Derogation
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Low self-esteem
+  - Self-hatred
+  - Self-contempt
+  scope: Represents persistent negative self-evaluation with self-hatred, chronic feelings of worthlessness, and self-attacking that perpetuates addiction through self-punishment.
+  parent_scope_inheritance: Specifies the self-esteem component of self-concept as maladaptive self-derogation that maintains addiction through self-destructive patterns and belief in unworthiness of recovery.
+  polarity_expression: Manifests as pervasive self-hatred with active self-attack and belief in fundamental defectiveness versus self-acceptance with maintained sense of worth.
+  cross_domain_resonance: Resonates with reward system dysfunction (phy-neu-rew), insecure attachment (soc-rel-att), and existential worthlessness (exi-mea-wor).
+  academic_description: Low self-esteem predicts substance use initiation and relapse. Self-criticism (Gilbert) activates threat system creating vulnerability. Shame-based identity involves global self-condemnation. Self-punishment through substance use reflects self-hatred. Negative self-concept maintains addiction through self-fulfilling prophecy.
+  clinical_description: Presenting with intense self-criticism, shame, and self-attacking. Using substances for self-punishment or to escape self-hatred. Treatment involves compassion-focused therapy, challenging core beliefs about worthlessness, and building behavioral evidence of worth. Addressing trauma underlying shame.
+  lay_description: Feeling fundamentally flawed or worthless as a person, constantly putting yourself down, and believing you don't deserve recovery or happiness. This self-hatred often fuels continued substance use as a form of self-punishment.
+  core_components:
+  - Global worthlessness
+  - Self-rejection
+  - Self-attack
+  associated_processes:
+  - Self-criticism
+  - Self-punishment
+  - Shame spirals
+- id: psy-per-sel-eff-ada
+  label: Recovery Self-Efficacy
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Change confidence
+  - Capability beliefs
+  - Mastery orientation
+  scope: Represents strong belief in one's ability to achieve and maintain recovery, confidence in coping with challenges, and sense of personal agency in change process.
+  parent_scope_inheritance: Specifies the self-efficacy component of self-concept as adaptive capability beliefs that enable sustained recovery through confidence in ability to change.
+  polarity_expression: Manifests as confidence in ability to cope with cravings and maintain change versus learned helplessness with belief in inability to recover or control use.
+  cross_domain_resonance: Resonates with executive function (phy-neu-exe), social empowerment (soc-sup-emp), and existential autonomy (exi-age-aut).
+  academic_description: Self-efficacy (Bandura) predicts treatment engagement and outcomes. Recovery self-efficacy specifically involves confidence in resisting use and maintaining change. Mastery experiences build efficacy through success. Vicarious learning through peer models enhances beliefs. Outcome expectancies shape motivation for change.
+  clinical_description: Building self-efficacy through graded exposure, skills training, and mastery experiences. Identifying past successes and transferable skills. Using peer mentors as efficacy models. Breaking down goals into achievable steps. Addressing learned helplessness through behavioral activation and cognitive restructuring.
+  lay_description: Believing in your ability to make and maintain positive changes, feeling confident you can handle challenges without using substances, and knowing you have the skills and strength to recover.
+  core_components:
+  - Capability beliefs
+  - Mastery expectations
+  - Coping confidence
+  associated_processes:
+  - Goal setting
+  - Skills application
+  - Success attribution
+- id: psy-per-sel-eff-mal
+  label: Learned Helplessness
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Powerlessness
+  - Incapability beliefs
+  - Defeatist attitude
+  scope: Represents pervasive belief in inability to change or control substance use, sense of powerlessness over addiction, and conviction that recovery efforts are futile.
+  parent_scope_inheritance: Specifies the self-efficacy component of self-concept as maladaptive helplessness beliefs that prevent recovery through conviction of inability to change.
+  polarity_expression: Manifests as deep conviction of powerlessness with belief that change is impossible versus confidence in personal capability and agency in recovery.
+  cross_domain_resonance: Resonates with executive dysfunction (phy-neu-exe), social disempowerment (soc-sup-emp), and existential helplessness (exi-age-aut).
+  academic_description: Learned helplessness (Seligman) from repeated failure creates expectation of non-contingency. Attributional style explains failures as internal, stable, and global. Low self-efficacy predicts poor treatment retention. Powerlessness beliefs become self-fulfilling through reduced effort and premature termination.
+  clinical_description: Presenting with conviction that 'nothing works,' history of multiple failed attempts, and premature treatment dropout. Passive stance toward recovery with external locus of control. Treatment involves identifying areas of control, building small successes, and challenging helplessness cognitions.
+  lay_description: Feeling completely powerless over your addiction, believing you're incapable of change no matter what you try, and feeling defeated before even attempting recovery.
+  core_components:
+  - Powerlessness beliefs
+  - Futility expectations
+  - Capability doubts
+  associated_processes:
+  - Giving up
+  - Passive coping
+  - Failure attribution
+- id: psy-per-sel-stg-ada
+  label: Stigma Resilience
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Stigma resistance
+  - Dignity maintenance
+  - Label rejection
+  scope: Represents ability to maintain positive self-concept despite societal stigma, rejecting stigmatizing labels while acknowledging addiction history without shame.
+  parent_scope_inheritance: Specifies the self-stigma component of self-concept as adaptive resistance to stigmatization that protects recovery through maintained dignity and self-respect.
+  polarity_expression: Manifests as rejection of stigmatizing labels with maintained sense of dignity versus deep internalization of stigma with self-stigmatization and shame-based identity.
+  cross_domain_resonance: Resonates with social stigma processes (soc-cul-sti), shame processing (exi-suf-sha), and identity protection (psy-per-sel-idn).
+  academic_description: Stigma resistance (Thoits) involves rejecting stigmatizing labels through counter-narratives. Empowerment theory shows how challenging stigma builds agency. Recovery capital includes stigma resilience as protective factor. Positive identity resources buffer against stigma internalization.
+  clinical_description: Developing stigma resistance through psychoeducation about addiction as medical condition. Challenging internalized stereotypes through cognitive restructuring. Building empowerment through advocacy and peer support. Creating counter-narratives that maintain dignity. Addressing shame through self-compassion work.
+  lay_description: Being able to see yourself as a whole person worthy of respect despite having struggled with addiction, not letting society's judgments define your worth, and maintaining dignity in recovery.
+  core_components:
+  - Label rejection
+  - Dignity preservation
+  - Stigma resistance
+  associated_processes:
+  - Counter-stereotyping
+  - Empowerment
+  - Identity protection
+- id: psy-per-sel-stg-mal
+  label: Internalized Stigma
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Self-stigma
+  - Shame identity
+  - Stigma internalization
+  scope: Represents deep internalization of addiction stigma with self-application of negative stereotypes, shame-based identity, and self-exclusion from opportunities.
+  parent_scope_inheritance: Specifies the self-stigma component of self-concept as maladaptive stigma internalization that impedes recovery through shame and self-discrimination.
+  polarity_expression: Manifests as complete acceptance of stigmatizing labels with self-identification as 'addict' and belief in associated negative stereotypes versus stigma resistance with maintained dignity.
+  cross_domain_resonance: Resonates with social stigma (soc-cul-sti), toxic shame (exi-suf-sha), and identity contamination (psy-per-sel-idn).
+  academic_description: Self-stigma (Corrigan) involves stereotype awareness, agreement, and self-application. Internalized stigma predicts poor treatment engagement and outcomes. Label acceptance creates 'spoiled identity' limiting opportunities. Why try effect shows how stigma reduces self-efficacy and goal pursuit.
+  clinical_description: Presenting with deep shame, self-identification with negative stereotypes, and self-exclusion from opportunities. Avoiding treatment due to stigma. Using stigmatizing self-talk. Treatment involves challenging stereotypes, building empowerment, and developing alternative identity narratives.
+  lay_description: Taking on society's negative views about addiction as truths about yourself, feeling marked by shame, and believing the stereotypes about people with addiction apply to you personally.
+  core_components:
+  - Stereotype agreement
+  - Label acceptance
+  - Self-discrimination
+  associated_processes:
+  - Shame internalization
+  - Self-stereotyping
+  - Social withdrawal
+- id: psy-per-sel-nar-ada
+  label: Redemptive Narrative
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Growth story
+  - Recovery narrative
+  - Coherent life story
+  scope: Represents coherent life narrative that integrates addiction experience as growth opportunity, emphasizing agency, redemption sequences, and meaningful recovery story.
+  parent_scope_inheritance: Specifies the narrative identity component of self-concept as adaptive story construction that supports recovery through redemptive meaning-making and sense of agency.
+  polarity_expression: Manifests as coherent life story with redemption sequences and personal agency versus fragmented narrative with contamination sequences and victim stance.
+  cross_domain_resonance: Resonates with memory integration (phy-neu-mem), cultural narratives (soc-cul-nar), and meaning-making stories (exi-mea-sto).
+  academic_description: Narrative identity (McAdams) shows redemptive sequences predict wellbeing. Agency and communion themes indicate psychological health. Recovery narratives involve identity reconstruction from 'addict' to 'person in recovery.' Coherent narratives integrate difficult experiences into growth story.
+  clinical_description: Narrative therapy helps reconstruct life story emphasizing agency and growth. Identifying redemption sequences where suffering led to positive outcomes. Building coherent narrative that integrates past, present, and future. Writing exercises to develop recovery story. Group sharing provides narrative models.
+  lay_description: Having a life story where your struggles with addiction become part of a larger journey of growth and learning, seeing yourself as the author of your recovery rather than a victim of circumstances.
+  core_components:
+  - Narrative coherence
+  - Redemption sequences
+  - Personal agency
+  associated_processes:
+  - Meaning-making
+  - Story reconstruction
+  - Identity narration
+- id: psy-per-sel-nar-mal
+  label: Contaminated Narrative
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Victim story
+  - Fragmented narrative
+  - Chaos narrative
+  scope: Represents fragmented, incoherent life narrative dominated by contamination sequences, victim themes, and inability to integrate addiction experience meaningfully.
+  parent_scope_inheritance: Specifies the narrative identity component of self-concept as maladaptive story fragmentation that perpetuates addiction through victim identity and narrative incoherence.
+  polarity_expression: Manifests as chaotic life story with contamination sequences where good turns bad and persistent victim stance versus coherent narrative with redemptive meaning and agency.
+  cross_domain_resonance: Resonates with memory fragmentation (phy-neu-mem), cultural master narratives (soc-cul-nar), and meaninglessness (exi-mea-sto).
+  academic_description: Contamination sequences (McAdams) where positive experiences turn negative predict depression and poor outcomes. Narrative incoherence reflects inability to integrate experiences. Victim narratives reduce agency and maintain helplessness. Chaos narratives lack temporal sequencing or causal connections.
+  clinical_description: Presenting with disjointed life story, inability to find meaning in experiences, and persistent victim stance. Rumination on contamination sequences. Treatment involves narrative therapy to identify agency moments, build coherence, and develop alternative story lines. Addressing trauma fragmenting narrative.
+  lay_description: Feeling like your life story is a series of random bad events where you had no control, unable to make sense of how you got here, and seeing yourself only as a victim of circumstances.
+  core_components:
+  - Narrative fragmentation
+  - Contamination sequences
+  - Victim themes
+  associated_processes:
+  - Story dissolution
+  - Meaning breakdown
+  - Identity confusion
+- id: psy-per-sel-val-ada
+  label: Values Clarity
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Values alignment
+  - Authentic values
+  - Values congruence
+  scope: Represents clear personal values system with values-behavior alignment, authentic self-expression, and values-based decision making supporting recovery.
+  parent_scope_inheritance: Specifies the values component of self-concept as adaptive values clarity that guides recovery through authentic living and meaningful goal pursuit.
+  polarity_expression: Manifests as clear understanding of personal values with behavior aligned to deeply held beliefs versus values confusion with disconnect between stated values and actions.
+  cross_domain_resonance: Resonates with cultural values (soc-cul-val), existential values (exi-mea-val), and life purpose (exi-pur-goa).
+  academic_description: Values clarification (Rokeach) provides behavioral guidance. Self-determination theory emphasizes authentic values expression. Values-behavior discrepancy creates distress motivating change. Recovery involves realigning behavior with core values. Values affirmation buffers against threats.
+  clinical_description: Values clarification exercises identify what matters most. Exploring values-behavior gaps motivates change. ACT approaches use values as behavioral compass. Building values-based goals and committed action. Addressing barriers to values-consistent living. Group work explores shared recovery values.
+  lay_description: Knowing what truly matters to you in life and making choices that align with these deep beliefs, living authentically according to your values rather than in conflict with them.
+  core_components:
+  - Values identification
+  - Values prioritization
+  - Values expression
+  associated_processes:
+  - Values clarification
+  - Authentic living
+  - Values-based action
+- id: psy-per-sel-val-mal
+  label: Values Confusion
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Self-Concept
+  cluster_id: psy-per-sel
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Values conflict
+  - Values disconnection
+  - Inauthentic living
+  scope: Represents unclear, conflicted values system with persistent values-behavior discrepancy, inauthentic living, and lack of meaningful life direction.
+  parent_scope_inheritance: Specifies the values component of self-concept as maladaptive values confusion that perpetuates addiction through meaninglessness and inauthentic behavior patterns.
+  polarity_expression: Manifests as uncertainty about what matters with chronic conflict between values and behavior versus clear values providing authentic life direction.
+  cross_domain_resonance: Resonates with cultural anomie (soc-cul-val), existential vacuum (exi-mea-val), and purposelessness (exi-pur-goa).
+  academic_description: Values confusion creates decisional conflict and behavioral inconsistency. Values-behavior discrepancy generates cognitive dissonance often resolved through substance use. Inauthentic living predicts psychological distress. External value imposition prevents genuine commitment. Moral injury from values violations maintains addiction.
+  clinical_description: Presenting with chronic indecision, feeling lost about life direction, and persistent guilt over values violations. Living according to others' expectations rather than own values. Treatment involves values exploration, addressing values conflicts, and building authentic self-expression.
+  lay_description: Feeling confused about what really matters to you, living in ways that constantly conflict with your stated beliefs, and feeling like you're living someone else's life rather than your own.
+  core_components:
+  - Values uncertainty
+  - Values-behavior gap
+  - Inauthenticity
+  associated_processes:
+  - Values conflict
+  - Moral distress
+  - Decisional confusion

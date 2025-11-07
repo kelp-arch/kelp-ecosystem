@@ -1,0 +1,410 @@
+# Generated anchors for cluster: PSY-EMO-COR
+# Timestamp: 20251103_170324
+
+anchors:
+- id: psy-emo-cor-val-ada
+  label: Balanced Valence
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Emotional balance
+  - Hedonic flexibility
+  - Affective equilibrium
+  scope: Encompasses the capacity to experience both positive and negative emotions appropriately, with balanced hedonic tone allowing natural pleasure and appropriate negative affect signaling. Includes ability to discriminate emotional valence, experience reward from natural reinforcers, and maintain emotional coloring that matches life circumstances.
+  parent_scope_inheritance: Specifies the valence dimension of core affect, focusing on the positive-negative axis of emotional experience and the capacity for appropriate hedonic tone.
+  polarity_expression: Manifests as balanced emotional coloring with access to full range of positive and negative states, supporting both pleasure and protective negative emotions.
+  cross_domain_resonance: Resonates with phy-neu-rew-reg (regulated reward processing), soc-rel-int-coh (cohesive intimacy), and exi-mea-lif-pur (purposeful life meaning).
+  academic_description: Adaptive valence processing reflects intact mesolimbic reward circuits and balanced monoamine function. Research shows preserved nucleus accumbens response to natural rewards, appropriate amygdala activation to negative stimuli, and flexible prefrontal modulation of affective responses. Circumplex model positions this as movement along the pleasantness-unpleasantness axis based on context.
+  clinical_description: Assessment includes mood ratings, behavioral activation measures, and pleasure scale scores. Clients report ability to enjoy activities, appropriate sadness when warranted, and emotional responses matching situations. Interventions focus on behavioral activation, pleasant event scheduling, and savoring exercises to maintain hedonic balance.
+  lay_description: You can feel genuinely happy when good things happen and appropriately sad when facing loss. Natural pleasures like time with loved ones, accomplishments, or simple enjoyments still bring satisfaction. Negative emotions serve as helpful signals rather than overwhelming states.
+  core_components:
+  - Hedonic capacity
+  - Valence discrimination
+  - Emotional balance
+  associated_processes:
+  - Reward processing
+  - Affective flexibility
+  - Natural reinforcement sensitivity
+- id: psy-emo-cor-val-mal
+  label: Valence Dysregulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Anhedonia
+  - Negative bias
+  - Hedonic deficit
+  scope: Encompasses persistent negative emotional bias, inability to experience pleasure from natural rewards, and dysregulated hedonic tone. Includes anhedonia, dysphoric baseline mood, loss of positive affect, and dominance of negative emotional states regardless of circumstances.
+  parent_scope_inheritance: Specifies dysfunction in the valence dimension of core affect, where the positive-negative axis becomes stuck in negative range with loss of hedonic capacity.
+  polarity_expression: Manifests as persistent negative affect, inability to experience joy or satisfaction, and emotional responses skewed toward unpleasant regardless of context.
+  cross_domain_resonance: Resonates with phy-neu-rew-dys (dysregulated reward), soc-rel-int-fra (fragmented intimacy), and exi-mea-lif-dir (directionless life meaning).
+  academic_description: Maladaptive valence reflects hypoactive mesolimbic reward circuits and monoamine dysfunction. Studies show blunted nucleus accumbens response to natural rewards, heightened amygdala negativity bias, and inflexible prefrontal-limbic coupling. Opponent process theory explains how substance use creates allostatic shift toward negative affective baseline.
+  clinical_description: Assessment reveals low scores on pleasure scales, persistent dysphoria on mood monitoring, and lack of response to previously enjoyable activities. Clients report feeling emotionally flat, unable to feel happiness, and stuck in negative states. Interventions include antidepressant medication, behavioral activation despite lack of pleasure, and gradual reward system rehabilitation.
+  lay_description: Nothing feels good anymore - activities that once brought joy feel empty and meaningless. You might feel stuck in negativity, unable to experience happiness even when good things happen. Substances may be the only thing that temporarily lifts the emotional numbness.
+  core_components:
+  - Anhedonic state
+  - Negative affective bias
+  - Hedonic deficit
+  associated_processes:
+  - Reward hypofunction
+  - Affective flattening
+  - Motivational deficit
+- id: psy-emo-cor-aro-ada
+  label: Regulated Arousal
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Arousal flexibility
+  - Activation control
+  - Intensity modulation
+  scope: Encompasses appropriate emotional intensity and activation levels that match situational demands. Includes calm baseline with capacity to activate when needed, flexible arousal modulation, and ability to return to rest. Maintains optimal arousal for task performance and social engagement.
+  parent_scope_inheritance: Specifies the arousal dimension of core affect, focusing on the activation-deactivation axis and appropriate intensity of emotional responses.
+  polarity_expression: Manifests as flexible movement between calm and activated states, with emotional intensity proportionate to circumstances and quick return to baseline.
+  cross_domain_resonance: Resonates with phy-aut-sym-reg (regulated sympathetic arousal), soc-beh-act-coh (cohesive activation), and exi-eng-flo-pur (purposeful flow states).
+  academic_description: Adaptive arousal reflects balanced autonomic function and flexible prefrontal-limbic regulation. Research demonstrates appropriate sympathetic activation to challenges, efficient parasympathetic recovery, and maintained arousal within window of tolerance. Yerkes-Dodson curve shows optimal performance at moderate arousal levels.
+  clinical_description: Assessment includes arousal ratings, activation measures, and physiological monitoring. Clients maintain calm alertness, activate appropriately for tasks, and self-soothe effectively. Interventions include relaxation training, activation exercises, and arousal modulation skills for maintaining optimal zones.
+  lay_description: You feel appropriately energized for activities without being constantly wired or exhausted. Excitement comes when warranted, calmness when resting. Your emotional intensity matches what's happening - not too much, not too little.
+  core_components:
+  - Arousal flexibility
+  - Activation control
+  - Baseline regulation
+  associated_processes:
+  - Autonomic balance
+  - Energy modulation
+  - Vigilance regulation
+- id: psy-emo-cor-aro-mal
+  label: Arousal Dysregulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Hyperarousal
+  - Hypoarousal
+  - Activation dysfunction
+  scope: Encompasses dysregulated emotional intensity with chronic hyperarousal or hypoarousal states. Includes anxiety-driven overactivation, emotional numbing and shutdown, inability to modulate intensity, and stuck patterns of too much or too little arousal regardless of situation.
+  parent_scope_inheritance: Specifies dysfunction in the arousal dimension of core affect, where the activation-deactivation axis becomes rigid and unresponsive to context.
+  polarity_expression: Manifests as chronic hypervigilance and anxiety or persistent emotional numbing and deactivation, with inability to achieve appropriate arousal for circumstances.
+  cross_domain_resonance: Resonates with phy-aut-sym-dys (dysregulated sympathetic), soc-beh-act-fra (fragmented activation), and exi-eng-apa-dir (directionless apathy).
+  academic_description: Maladaptive arousal reflects autonomic dysregulation and impaired prefrontal modulation. Studies show chronic sympathetic dominance in hyperarousal or dorsal vagal shutdown in hypoarousal. Allostatic load from chronic stress creates inflexible arousal patterns. Sensitization and tolerance mechanisms alter arousal set points.
+  clinical_description: Assessment reveals chronic anxiety or emotional numbing on arousal scales. Clients report feeling constantly on edge or completely shut down, unable to calm down or activate appropriately. Interventions include anxiolytics for hyperarousal, activation strategies for hypoarousal, and window of tolerance work.
+  lay_description: You might feel constantly anxious and unable to relax, or completely numb and unable to get motivated. Emotional intensity is either overwhelming or absent, never quite right for the situation. Substances might be used to artificially adjust this uncomfortable arousal state.
+  core_components:
+  - Chronic hypervigilance
+  - Emotional numbing
+  - Arousal inflexibility
+  associated_processes:
+  - Autonomic dysregulation
+  - Energy depletion
+  - Activation paralysis
+- id: psy-emo-cor-fea-ada
+  label: Appropriate Fear
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Protective fear
+  - Threat detection
+  - Adaptive anxiety
+  scope: Encompasses fear responses proportionate to actual threats with appropriate activation and recovery. Includes accurate threat detection, protective fear that motivates safety behaviors, and quick return to calm when danger passes. Maintains helpful vigilance without excessive worry.
+  parent_scope_inheritance: Specifies the fear emotion within core affect, focusing on this discrete emotional response and its appropriate activation to genuine threats.
+  polarity_expression: Manifests as fear that accurately signals danger, motivates protective action, and resolves when threats pass, maintaining safety without impairment.
+  cross_domain_resonance: Resonates with phy-neu-amy-reg (regulated amygdala), soc-att-avo-coh (cohesive avoidance), and exi-sec-saf-pur (purposeful safety).
+  academic_description: Adaptive fear reflects appropriate amygdala activation to threat cues with efficient prefrontal regulation. Research shows discriminative fear conditioning, appropriate HPA axis activation, and successful fear extinction. Fear serves evolutionary protective function without generalizing inappropriately.
+  clinical_description: Assessment shows appropriate concern for real dangers without excessive worry. Clients experience fear as helpful signal, take protective action, and calm once safe. Interventions support maintaining healthy fear while addressing any emerging anxiety through psychoeducation and coping skills.
+  lay_description: You feel afraid when there's real danger, which helps keep you safe. The fear motivates protective action and goes away once you're secure. You can distinguish between real threats and false alarms.
+  core_components:
+  - Threat accuracy
+  - Protective response
+  - Fear recovery
+  associated_processes:
+  - Safety learning
+  - Risk assessment
+  - Defensive activation
+- id: psy-emo-cor-fea-mal
+  label: Fear Dysregulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Excessive anxiety
+  - Panic
+  - Phobic response
+  scope: Encompasses excessive fear and anxiety disproportionate to actual threat, or absent fear when appropriate. Includes panic attacks, generalized anxiety, specific phobias, chronic worry, and reckless fearlessness. Fear response impairs rather than protects.
+  parent_scope_inheritance: Specifies dysfunction in the fear emotion within core affect, where this discrete emotional response becomes excessive, absent, or disconnected from actual threat.
+  polarity_expression: Manifests as overwhelming anxiety and panic without real danger, or dangerous fearlessness, with fear responses that impair rather than protect.
+  cross_domain_resonance: Resonates with phy-neu-amy-dys (dysregulated amygdala), soc-att-avo-fra (fragmented avoidance), and exi-sec-thr-dir (directionless threat perception).
+  academic_description: Maladaptive fear reflects amygdala hyperactivation or hypoactivation with impaired prefrontal regulation. Studies show overgeneralized fear conditioning, dysregulated HPA axis, and impaired fear extinction. Anxiety disorders involve false alarm responses while antisocial patterns show absent appropriate fear.
+  clinical_description: Assessment reveals excessive anxiety on fear scales, panic symptoms, or dangerous risk-taking. Clients experience debilitating worry, panic attacks limiting function, or reckless behavior from absent fear. Interventions include exposure therapy, anxiolytic medication, and cognitive restructuring of threat perception.
+  lay_description: Fear might overwhelm you even when you're safe, creating constant anxiety and panic that limits your life. Or you might feel no fear when you should, leading to dangerous choices. Substances often become a way to manage overwhelming anxiety or create artificial fearlessness.
+  core_components:
+  - Threat overestimation
+  - Panic responses
+  - Fear generalization
+  associated_processes:
+  - Safety impairment
+  - Avoidance patterns
+  - Hypervigilance
+- id: psy-emo-cor-ang-ada
+  label: Regulated Anger
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Assertive anger
+  - Boundary protection
+  - Appropriate frustration
+  scope: Encompasses anger responses proportionate to violations and frustrations with constructive expression. Includes recognition of boundary violations, assertive communication of needs, and channeling anger into problem-solving. Maintains self-respect without aggression.
+  parent_scope_inheritance: Specifies the anger emotion within core affect, focusing on this discrete emotional response and its appropriate activation to injustice or violation.
+  polarity_expression: Manifests as anger that accurately signals violations, motivates assertive action, and resolves through constructive expression and problem-solving.
+  cross_domain_resonance: Resonates with phy-neu-pfc-reg (regulated prefrontal control), soc-rel-con-coh (cohesive conflict resolution), and exi-aut-age-pur (purposeful agency).
+  academic_description: Adaptive anger involves appropriate activation of anterior cingulate and ventromedial prefrontal regions with maintained executive control. Research shows anger serves social signaling function for norm violations. Constructive anger expression correlates with better outcomes than suppression or explosion.
+  clinical_description: Assessment shows appropriate anger without aggression or suppression. Clients recognize anger as valid signal, express needs assertively, and resolve conflicts constructively. Interventions support healthy anger expression through assertiveness training and communication skills.
+  lay_description: You feel appropriately angry when boundaries are crossed or you're treated unfairly. This anger motivates you to stand up for yourself assertively without attacking others. You can express frustration constructively and work toward solutions.
+  core_components:
+  - Boundary recognition
+  - Assertive expression
+  - Constructive channeling
+  associated_processes:
+  - Self-advocacy
+  - Limit setting
+  - Problem-solving activation
+- id: psy-emo-cor-ang-mal
+  label: Anger Dysregulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Rage
+  - Chronic irritability
+  - Explosive anger
+  scope: Encompasses excessive anger and rage disproportionate to triggers, or suppressed anger that builds toxically. Includes explosive outbursts, chronic irritability, passive aggression, and inability to express anger constructively. Anger damages rather than protects.
+  parent_scope_inheritance: Specifies dysfunction in the anger emotion within core affect, where this discrete emotional response becomes destructive, chronic, or dangerously suppressed.
+  polarity_expression: Manifests as explosive rage that damages relationships, chronic irritability that alienates others, or suppressed anger that turns inward destructively.
+  cross_domain_resonance: Resonates with phy-neu-pfc-dys (dysregulated prefrontal), soc-rel-con-fra (fragmented conflict), and exi-aut-pow-dir (directionless power).
+  academic_description: Maladaptive anger reflects impaired prefrontal regulation of limbic activation. Studies show reduced ventromedial prefrontal control, heightened amygdala reactivity, and serotonergic dysfunction. Intermittent explosive disorder involves failure of top-down regulation while suppressed anger correlates with depression.
+  clinical_description: Assessment reveals explosive outbursts, chronic irritability, or anger suppression on clinical scales. Clients report rage episodes damaging relationships, constant irritation, or inability to express anger. Interventions include anger management, mood stabilizers, and processing suppressed anger safely.
+  lay_description: Anger might explode out of proportion to situations, damaging relationships and creating regret. Or you might feel constantly irritated by everything. Some people can't express anger at all, letting it build up inside. Substances often become a way to manage overwhelming rage or numb chronic irritability.
+  core_components:
+  - Rage episodes
+  - Chronic irritation
+  - Anger suppression
+  associated_processes:
+  - Aggressive behavior
+  - Relationship damage
+  - Resentment accumulation
+- id: psy-emo-cor-sad-ada
+  label: Adaptive Sadness
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Healthy grief
+  - Appropriate sorrow
+  - Processing loss
+  scope: Encompasses sadness responses appropriate to loss and disappointment with natural processing and resolution. Includes ability to grieve, cry when needed, and process difficult emotions. Allows connection with others through shared vulnerability.
+  parent_scope_inheritance: Specifies the sadness emotion within core affect, focusing on this discrete emotional response and its appropriate activation to loss or disappointment.
+  polarity_expression: Manifests as sadness that acknowledges loss, facilitates emotional processing, and gradually resolves while maintaining function and connection.
+  cross_domain_resonance: Resonates with phy-neu-ser-reg (regulated serotonin), soc-sup-emo-coh (cohesive emotional support), and exi-los-gri-pur (purposeful grief).
+  academic_description: Adaptive sadness involves appropriate activation of subgenual cingulate and medial prefrontal regions facilitating emotional processing. Research shows crying releases stress hormones and endorphins. Normal grief follows predictable stages toward integration. Social sharing of sadness strengthens bonds.
+  clinical_description: Assessment shows appropriate sadness without persistent depression. Clients can cry, express sorrow, and gradually process losses while maintaining basic function. Interventions support healthy grieving through validation, emotional expression, and meaning-making.
+  lay_description: You feel sad when facing losses or disappointments, allowing yourself to cry and feel the emotion fully. This sadness helps you process difficult experiences and connect with others who understand. The feeling gradually lightens as you heal.
+  core_components:
+  - Loss acknowledgment
+  - Emotional release
+  - Grief processing
+  associated_processes:
+  - Mourning
+  - Emotional catharsis
+  - Vulnerability sharing
+- id: psy-emo-cor-sad-mal
+  label: Sadness Dysregulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Depression
+  - Complicated grief
+  - Persistent dysphoria
+  scope: Encompasses excessive, persistent sadness that impairs function, or inability to access sadness when appropriate. Includes major depression, complicated grief, chronic dysphoria, and emotional numbing to loss. Sadness becomes stuck rather than processing.
+  parent_scope_inheritance: Specifies dysfunction in the sadness emotion within core affect, where this discrete emotional response becomes persistent, absent, or overwhelming.
+  polarity_expression: Manifests as persistent depression that doesn't resolve, complicated grief that remains raw, or inability to grieve losses leading to emotional constipation.
+  cross_domain_resonance: Resonates with phy-neu-ser-dys (dysregulated serotonin), soc-sup-emo-fra (fragmented support), and exi-los-des-dir (directionless despair).
+  academic_description: Maladaptive sadness reflects dysregulated subgenual cingulate hyperactivity and altered serotonergic function. Studies show rumination networks overactivated, impaired grief processing, and learned helplessness patterns. Major depression involves persistent negative cognitive-affective loops.
+  clinical_description: Assessment reveals persistent depression, complicated grief, or absent grief response on clinical measures. Clients experience unremitting sadness, inability to process losses, or emotional numbing. Interventions include antidepressants, grief therapy, and behavioral activation despite mood.
+  lay_description: Sadness might feel like a heavy blanket you can't lift, persisting long after losses should have healed. Or you might feel nothing when you should grieve, leaving emotions stuck inside. Substances often become the only escape from persistent emotional pain or the only way to feel anything at all.
+  core_components:
+  - Persistent depression
+  - Complicated grief
+  - Blocked mourning
+  associated_processes:
+  - Rumination
+  - Hopelessness
+  - Emotional stagnation
+- id: psy-emo-cor-joy-ada
+  label: Natural Joy
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Genuine happiness
+  - Spontaneous delight
+  - Authentic pleasure
+  scope: Encompasses joy responses to positive events and achievements with genuine pleasure and satisfaction. Includes capacity for happiness, celebration, playfulness, and savoring positive experiences. Creates positive emotional memories and motivation.
+  parent_scope_inheritance: Specifies the joy emotion within core affect, focusing on this discrete emotional response and its appropriate activation to positive experiences.
+  polarity_expression: Manifests as genuine happiness in response to positive events, ability to celebrate achievements, and capacity to savor pleasurable moments.
+  cross_domain_resonance: Resonates with phy-neu-dop-reg (regulated dopamine), soc-cel-sha-coh (cohesive celebration), and exi-mea-ful-pur (purposeful fulfillment).
+  academic_description: Adaptive joy involves appropriate dopaminergic reward response and prefrontal savoring processes. Research shows joy activates left prefrontal regions and releases endorphins. Positive emotions broaden cognitive capacity and build psychological resources. Celebration rituals strengthen social bonds.
+  clinical_description: Assessment shows capacity for genuine positive affect and pleasure. Clients experience happiness at achievements, enjoy activities, and share joy with others. Interventions support joy through pleasant event scheduling, savoring exercises, and gratitude practices.
+  lay_description: You feel genuine happiness when good things happen - accomplishments bring satisfaction, time with loved ones creates warmth, and simple pleasures bring smiles. This natural joy motivates you and creates positive memories that sustain you through challenges.
+  core_components:
+  - Happiness capacity
+  - Celebration ability
+  - Pleasure savoring
+  associated_processes:
+  - Positive anticipation
+  - Gratitude
+  - Playfulness
+- id: psy-emo-cor-joy-mal
+  label: Joy Dysfunction
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Anhedonia
+  - Absent pleasure
+  - Manic euphoria
+  scope: Encompasses absent joy and inability to experience pleasure, or excessive manic euphoria. Includes anhedonia, loss of interest, inability to celebrate, and pathological euphoric states. Natural joy is either absent or artificially extreme.
+  parent_scope_inheritance: Specifies dysfunction in the joy emotion within core affect, where this discrete emotional response becomes absent or pathologically excessive.
+  polarity_expression: Manifests as complete inability to experience joy and pleasure, or manic euphoria disconnected from reality, with loss of natural happiness.
+  cross_domain_resonance: Resonates with phy-neu-dop-dys (dysregulated dopamine), soc-cel-sha-fra (fragmented celebration), and exi-mea-emp-dir (directionless emptiness).
+  academic_description: Maladaptive joy reflects hypoactive or hyperactive dopaminergic reward systems. Anhedonia involves blunted ventral striatum response to rewards and reduced left prefrontal activation. Mania shows excessive dopaminergic tone and impaired prefrontal regulation. Substance use hijacks joy circuits.
+  clinical_description: Assessment reveals absent pleasure response or manic euphoria on affect scales. Clients report inability to feel happy, loss of interest in everything, or dangerous euphoric episodes. Interventions include antidepressants for anhedonia, mood stabilizers for mania, and reward rehabilitation.
+  lay_description: Joy might be completely absent - nothing brings happiness, achievements feel empty, and life loses color. Or joy might spike into dangerous highs disconnected from reality. Substances often become the only source of any positive feeling, replacing natural happiness entirely.
+  core_components:
+  - Pleasure absence
+  - Interest loss
+  - Euphoric extremes
+  associated_processes:
+  - Motivational collapse
+  - Reward insensitivity
+  - Artificial highs
+- id: psy-emo-cor-rea-ada
+  label: Flexible Reactivity
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Emotional flexibility
+  - Responsive modulation
+  - Adaptive sensitivity
+  scope: Encompasses appropriate emotional responsiveness to internal and external stimuli with flexible modulation. Includes context-appropriate reactivity thresholds, proportionate responses, and efficient return to baseline. Maintains sensitivity without overwhelm.
+  parent_scope_inheritance: Specifies the reactivity patterns within core affect, focusing on the overall responsiveness and flexibility of emotional responses across all discrete emotions.
+  polarity_expression: Manifests as emotions that respond appropriately to triggers, adjust to context, and return to baseline efficiently, maintaining both sensitivity and stability.
+  cross_domain_resonance: Resonates with phy-str-cor-reg (regulated cortisol reactivity), soc-int-sen-coh (cohesive interpersonal sensitivity), and exi-pre-min-pur (purposeful mindful presence).
+  academic_description: Adaptive reactivity reflects efficient prefrontal-limbic coupling and flexible autonomic regulation. Research shows appropriate stimulus-response curves, context-dependent modulation, and efficient allostatic regulation. Window of tolerance remains wide with quick recovery from perturbations.
+  clinical_description: Assessment shows appropriate emotional responses without over or under-reactivity. Clients respond proportionately to events, adjust reactions to context, and recover baseline quickly. Interventions support flexibility through distress tolerance, emotion surfing, and window of tolerance work.
+  lay_description: Your emotions respond appropriately to what's happening - you feel things without being overwhelmed or numb. You can adjust your reactions based on the situation and bounce back to feeling okay relatively quickly after upsets.
+  core_components:
+  - Response flexibility
+  - Context sensitivity
+  - Recovery efficiency
+  associated_processes:
+  - Emotional resilience
+  - Adaptive sensitivity
+  - Regulatory flexibility
+- id: psy-emo-cor-rea-mal
+  label: Reactivity Dysregulation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Core Affect
+  cluster_id: psy-emo-cor
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Hyperreactivity
+  - Emotional numbing
+  - Affective instability
+  scope: Encompasses excessive emotional reactivity or profound numbing with loss of appropriate responsiveness. Includes emotional storms, hair-trigger responses, dissociative numbing, and stuck patterns. Reactivity is either overwhelming or absent.
+  parent_scope_inheritance: Specifies dysfunction in reactivity patterns within core affect, where overall emotional responsiveness becomes excessive, absent, or chaotically unstable.
+  polarity_expression: Manifests as emotional storms triggered by minor events, complete emotional numbing and disconnection, or unpredictable swings between extremes.
+  cross_domain_resonance: Resonates with phy-str-cor-dys (dysregulated cortisol), soc-int-sen-fra (fragmented sensitivity), and exi-pre-dis-dir (directionless dissociation).
+  academic_description: Maladaptive reactivity reflects impaired prefrontal-limbic coupling and dysregulated stress systems. Studies show hypersensitive amygdala responses, narrowed window of tolerance, and impaired recovery. Emotional numbing involves dorsal vagal shutdown. Borderline patterns show chaotic reactivity.
+  clinical_description: Assessment reveals emotional storms, numbing, or instability on reactivity measures. Clients experience overwhelming responses to minor triggers, complete emotional shutdown, or unpredictable swings. Interventions include DBT skills, trauma processing, and medication for severe dysregulation.
+  lay_description: Emotions might hit like tidal waves from tiny triggers, leaving you drowning in feelings you can't control. Or you might feel nothing at all, emotionally numb and disconnected from everything. Substances often become the only way to manage the chaos or feel anything through the numbness.
+  core_components:
+  - Emotional storms
+  - Affective numbing
+  - Chaotic instability
+  associated_processes:
+  - Emotional flooding
+  - Dissociative shutdown
+  - Regulatory failure

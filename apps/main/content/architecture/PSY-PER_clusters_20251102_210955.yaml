@@ -1,0 +1,125 @@
+clusters:
+  - id: psy-per-tra
+    label: Trait Dimensions
+    forest: Psychological
+    forest_id: psy
+    field: Personality
+    field_id: psy-per
+    synonyms:
+      - Five-factor traits
+      - Temperament dimensions
+      - Basic personality traits
+      - Dispositional traits
+      - Character dimensions
+    scope: Encompasses five-factor model traits (neuroticism, extraversion, openness, agreeableness, conscientiousness) and temperament dimensions (novelty-seeking, harm avoidance, reward dependence, persistence) that represent stable individual differences influencing addiction vulnerability and recovery potential. Excludes state-like variations, impulsivity as separate construct, and personality pathology.
+    parent_scope_inheritance: Specifies the personality field's trait dimensions as fundamental individual differences that create vulnerability profiles and influence treatment response through stable patterns of thinking, feeling, and behaving.
+    polarity_dimension: Adaptive trait configurations supporting resilience and recovery versus maladaptive trait extremes increasing vulnerability and maintaining addiction.
+    emergence: At cluster level, individual traits combine into personality profiles that predict specific addiction trajectories and treatment responses. Trait interactions create vulnerability signatures where combinations (high neuroticism + low conscientiousness) show multiplicative risk. Treatment matching emerges as trait profiles indicate optimal intervention approaches.
+    boundary_interfaces:
+      - Trait-impulsivity interface where trait impulsivity overlaps with impulsivity systems
+      - Trait-self-concept interface where traits shape identity formation
+      - Trait-coping interface where personality influences coping preferences
+    child_generation_role: You are a trait psychologist specializing in five-factor and temperament models in addiction. You analyze neuroticism facets (anxiety, depression, vulnerability), conscientiousness components (self-discipline, deliberation), and temperament dimensions (novelty-seeking, harm avoidance). You distinguish between adaptive trait configurations supporting recovery versus maladaptive extremes increasing vulnerability. You apply Costa & McCrae's NEO framework and Cloninger's psychobiological model to understand how traits influence addiction trajectories.
+    academic_description: Trait dimensions represent hierarchically organized personality structures predicting addiction outcomes. Five-factor research demonstrates high neuroticism (emotional instability, stress reactivity) and low conscientiousness (poor self-control, low achievement striving) as primary risk factors. Cloninger's temperament model identifies high novelty-seeking (exploratory excitability) and low harm avoidance (uninhibited approach) as vulnerability markers. Trait profiles interact with environmental factors through gene-environment correlations and person-situation transactions. Meta-analyses show trait effects remain stable across substances and cultures, suggesting fundamental vulnerability dimensions.
+    clinical_description: Comprehensive trait assessment guides personalized treatment planning. NEO-PI-R and TCI administration identifies vulnerability profiles requiring targeted interventions. High neuroticism indicates need for emotion regulation training and stress management. Low conscientiousness suggests external structure and accountability systems. High novelty-seeking benefits from varied activities preventing boredom. Treatment matching research shows improved outcomes when interventions align with trait profiles - introverts responding better to individual therapy, high openness to experiential approaches.
+    lay_description: Your basic personality traits - like how emotionally sensitive you are or how organized you tend to be - influence your addiction risk and recovery path. If you're naturally anxious or moody (high neuroticism), you might use substances to manage difficult emotions. If you struggle with self-discipline (low conscientiousness), maintaining recovery routines could be challenging. Understanding your trait profile helps explain why certain strategies work better for you than others.
+
+  - id: psy-per-imp
+    label: Impulsivity Systems
+    forest: Psychological
+    forest_id: psy
+    field: Personality
+    field_id: psy-per
+    synonyms:
+      - Impulse control
+      - Behavioral disinhibition
+      - Self-regulation capacity
+      - Impulsive personality
+      - Urgency traits
+    scope: Covers multifaceted impulsive personality including negative urgency, positive urgency, sensation-seeking, lack of premeditation, and lack of perseverance as stable individual differences affecting addiction risk and recovery challenges. Excludes state impulsivity, cognitive control processes, and impulsivity secondary to intoxication.
+    parent_scope_inheritance: Specifies the personality field's impulsivity components as trait-like tendencies toward rash action and poor self-control that create specific vulnerabilities in addiction development and recovery maintenance.
+    polarity_dimension: Adaptive impulse regulation with appropriate spontaneity and flexibility versus maladaptive impulse dyscontrol with reckless behavior and inability to inhibit urges.
+    emergence: At cluster level, impulsivity facets combine into profiles predicting specific substance preferences and use patterns. Urgency specifically predicts emotion-driven use, while sensation-seeking predicts stimulant preference. Impulsivity profiles indicate necessary treatment intensity and structure requirements.
+    boundary_interfaces:
+      - Impulsivity-trait interface where impulsivity represents specific trait domain
+      - Impulsivity-coping interface where impulsive action represents maladaptive coping
+      - Impulsivity-pathology interface where extreme impulsivity indicates personality disorder
+    child_generation_role: You are an impulsivity researcher specializing in multifaceted impulsive personality in addiction. You analyze negative urgency (rash action during distress), positive urgency (rash action during elation), sensation-seeking (excitement pursuit), lack of premeditation (acting without thinking), and lack of perseverance (difficulty maintaining focus). You distinguish between adaptive spontaneity and flexibility versus maladaptive impulse dyscontrol and recklessness. You apply the UPPS-P framework and dual-systems models to understand impulsivity's role in addiction initiation, maintenance, and relapse.
+    academic_description: Impulsivity represents multidimensional personality construct with distinct pathways to addiction. UPPS-P model identifies five facets, negative urgency (rash action during negative affect), positive urgency (rash action during positive affect), sensation-seeking (pursuit of novel/exciting experiences), lack of premeditation (acting without consideration), lack of perseverance (inability to maintain focus). Negative urgency shows strongest associations with problematic use and relapse. Dual-systems models propose imbalance between bottom-up reward drive and top-down control. Developmental trajectories show impulsivity peaks during adolescence coinciding with addiction vulnerability windows.
+    clinical_description: Multifaceted impulsivity assessment using UPPS-P identifies specific intervention targets. High negative urgency requires distress tolerance and emotion regulation skills. Positive urgency needs strategies for managing excitement without substances. Sensation-seeking benefits from alternative excitement sources and behavioral activation. Lack of premeditation requires decision-making training and consequence awareness. Environmental structuring provides external controls for high impulsivity. Contingency management leverages immediate rewards. Mindfulness-based interventions target urgency through present-moment awareness.
+    lay_description: Impulsivity isn't just one thing - it's different ways you might act without thinking. You might make rash decisions when upset (negative urgency) or when excited (positive urgency). You might constantly seek thrills and new experiences (sensation-seeking) or act without considering consequences (lack of premeditation). Understanding your specific impulsive tendencies helps identify triggers and develop personalized strategies for maintaining control in recovery.
+
+  - id: psy-per-sel
+    label: Self-Concept
+    forest: Psychological
+    forest_id: psy
+    field: Personality
+    field_id: psy-per
+    synonyms:
+      - Identity
+      - Self-identity
+      - Self-perception
+      - Self-image
+      - Personal identity
+    scope: Encompasses identity formation, self-esteem, self-efficacy, self-stigma, narrative identity, and values as stable aspects of how individuals perceive and define themselves in relation to addiction and recovery. Excludes momentary self-evaluations, state self-esteem, and situational identity shifts.
+    parent_scope_inheritance: Specifies the personality field's self-concept components as enduring self-perceptions and identity structures that influence addiction vulnerability through self-definition and recovery through identity transformation.
+    polarity_dimension: Adaptive coherent identity with positive self-regard and clear values versus maladaptive identity confusion with self-derogation and fragmented self-concept.
+    emergence: At cluster level, self-concept elements integrate into recovery identity that serves as protective factor. Identity transformation from "addict" to "person in recovery" predicts sustained change. Values clarification creates meaning framework supporting long-term recovery. Self-compassion emerges as meta-cognitive stance facilitating change.
+    boundary_interfaces:
+      - Self-trait interface where personality traits influence self-perception
+      - Self-coping interface where self-efficacy determines coping choices
+      - Self-pathology interface where identity disturbance indicates personality disorder
+    child_generation_role: You are an identity researcher specializing in self-concept and narrative identity in addiction recovery. You analyze identity confusion, self-esteem levels, self-efficacy beliefs, internalized stigma, and life story coherence. You distinguish between adaptive identity integration with clear values and recovery narrative versus maladaptive identity diffusion with self-derogation and fragmented self-concept. You apply McAdams' narrative identity framework and self-determination theory to understand how self-concept transformation supports recovery.
+    academic_description: Self-concept in addiction involves complex identity processes affecting vulnerability and recovery. Narrative identity theory (McAdams) explains how individuals construct life stories incorporating addiction experiences. Identity confusion and low self-esteem predict substance use initiation. Addiction creates "spoiled identity" (Goffman) through stigma internalization. Recovery involves identity reconstruction - developing "recovery identity" as protective factor. Self-determination theory highlights authentic self-expression and values alignment. Possible selves framework shows how future self-concepts motivate change. Identity capital model demonstrates how positive identity resources support resilience.
+    clinical_description: Identity-focused interventions facilitate self-concept transformation essential for recovery. Narrative therapy helps reconstruct life story from victim to agent. Values clarification exercises identify personally meaningful recovery goals. Self-compassion training addresses self-criticism and shame. Identity mapping explores multiple self-aspects beyond addiction. Building recovery capital includes developing positive identity resources. Addressing internalized stigma through psychoeducation and cognitive restructuring. Future self visualization motivates sustained change. Group therapy provides identity validation and alternative role models.
+    lay_description: How you see yourself profoundly affects your recovery journey. If your identity becomes wrapped up in being an "addict," it's harder to imagine change. Recovery involves discovering who you are beyond substance use - your values, strengths, and aspirations. This means challenging negative self-talk, finding self-compassion for struggles, and building a new story about your life where recovery becomes part of your identity rather than addiction defining you.
+
+  - id: psy-per-cop
+    label: Coping Styles
+    forest: Psychological
+    forest_id: psy
+    field: Personality
+    field_id: psy-per
+    synonyms:
+      - Coping strategies
+      - Coping mechanisms
+      - Stress management styles
+      - Adaptive strategies
+      - Coping patterns
+    scope: Includes characteristic patterns of managing stress and challenges including problem-focused, emotion-focused, avoidant, and meaning-focused coping as stable individual tendencies relevant to addiction and recovery. Excludes situational coping responses, learned skills not yet habitual, and acute stress reactions.
+    parent_scope_inheritance: Specifies the personality field's coping components as enduring patterns of stress response that influence substance use as maladaptive coping and recovery through adaptive coping development.
+    polarity_dimension: Adaptive flexible coping repertoire with effective stress management versus maladaptive rigid coping patterns with overreliance on avoidance or substances.
+    emergence: At cluster level, coping styles organize into profiles predicting treatment engagement and recovery trajectories. Coping flexibility emerges as higher-order capacity to match strategies to situations. Meaning-making coping transforms addiction experience into growth opportunity. Social coping mobilizes interpersonal resources for sustained recovery.
+    boundary_interfaces:
+      - Coping-trait interface where personality influences coping preferences
+      - Coping-impulsivity interface where impulsive action represents poor coping
+      - Coping-self interface where self-efficacy affects coping choices
+    child_generation_role: You are a coping researcher specializing in stress and coping processes in addiction. You analyze problem-focused strategies (active coping, planning), emotion-focused approaches (acceptance, reframing), avoidant patterns (denial, disengagement), and social coping (support-seeking). You distinguish between adaptive flexible coping promoting resilience versus maladaptive rigid patterns maintaining addiction. You apply Lazarus and Folkman's transactional model and addiction-specific coping theories to understand how coping styles influence recovery trajectories.
+    academic_description: Coping styles represent characteristic stress management patterns influencing addiction trajectories. Lazarus and Folkman's model distinguishes problem-focused (addressing stressor directly) and emotion-focused (managing emotional response) strategies. Avoidant coping (denial, disengagement) strongly predicts substance use and poor outcomes. Substance use often represents maladaptive emotion-focused coping. Approach coping and cognitive reframing predict better recovery outcomes. Coping flexibility - ability to match strategies to situations - emerges as adaptive capacity. Religious/spiritual coping provides meaning-making framework. Social coping mobilizes support networks crucial for recovery.
+    clinical_description: Coping skills assessment identifies maladaptive patterns requiring intervention. Brief COPE and Ways of Coping Questionnaire evaluate coping repertoires. Replacing substance use with adaptive coping requires systematic skills training. Cognitive-behavioral approaches teach problem-solving and cognitive restructuring. Mindfulness-based interventions develop acceptance and distress tolerance. Stress inoculation training builds coping confidence. Behavioral activation increases approach coping. Social skills training enhances support-seeking. Relapse prevention focuses on high-risk situation coping. Motivational interviewing explores coping self-efficacy.
+    lay_description: Everyone has characteristic ways of dealing with stress and problems. Some people face challenges head-on (problem-focused), others focus on managing their emotions (emotion-focused), and some try to avoid or escape (avoidant coping). In addiction, substances often become the primary coping mechanism. Recovery means developing a toolkit of healthy coping strategies - learning when to solve problems directly, when to accept what can't be changed, and when to seek support from others.
+
+  - id: psy-per-pat
+    label: Personality Pathology
+    forest: Psychological
+    forest_id: psy
+    field: Personality
+    field_id: psy-per
+    synonyms:
+      - Personality disorders
+      - Character pathology
+      - Maladaptive personality
+      - Personality dysfunction
+      - Disordered personality
+    scope: Covers personality disorder features and maladaptive personality patterns relevant to addiction including antisocial, borderline, narcissistic, and avoidant traits as enduring dysfunctional patterns. Excludes acute symptoms, state-dependent behaviors, and personality changes due to substances or medical conditions.
+    parent_scope_inheritance: Specifies the personality field's pathological variants as severe, inflexible personality patterns that complicate addiction treatment and require integrated interventions addressing both personality and substance use.
+    polarity_dimension: Adaptive personality integration with stable self and other representations versus maladaptive personality fragmentation with splitting, dysregulation, and interpersonal chaos.
+    emergence: At cluster level, personality pathology creates complex clinical presentations requiring specialized treatment. Personality severity determines treatment intensity and duration. Mentalization capacity emerges as treatment mechanism. Personality improvement predicts addiction recovery. Integrated treatment models address both conditions simultaneously.
+    boundary_interfaces:
+      - Pathology-impulsivity interface where impulsivity represents core feature
+      - Pathology-self interface where identity disturbance is central
+      - Pathology-coping interface where personality determines coping failures
+    child_generation_role: You are a personality pathology researcher specializing in personality disorders and addiction comorbidity. You analyze antisocial patterns (rule-breaking, aggression), borderline features (emotional dysregulation, identity disturbance), narcissistic traits (entitlement, exploitation), and avoidant patterns (social inhibition, inadequacy). You distinguish between adaptive personality integration with stable functioning versus maladaptive personality fragmentation with chaotic patterns. You apply dimensional models of personality pathology and understand how personality disorder features complicate addiction treatment.
+    academic_description: Personality pathology represents severe personality dysfunction highly comorbid with addiction. Antisocial personality shows externalizing spectrum with rule-breaking, aggression, and lack of remorse. Borderline personality involves emotional dysregulation, identity disturbance, and interpersonal instability. Both share impulsivity and predict poor treatment outcomes. Narcissistic features include entitlement and exploitation affecting therapeutic alliance. Avoidant personality shows social inhibition and inadequacy feelings leading to isolation. Alternative DSM-5 model emphasizes dimensional severity and trait domains. Mentalization deficits underlie much personality pathology. Integrated treatment models address personality and addiction simultaneously.
+    clinical_description: Personality pathology requires specialized assessment and treatment approaches. Structured Clinical Interview for DSM-5 Personality Disorders identifies specific patterns. Dialectical behavior therapy addresses borderline features through emotion regulation and distress tolerance. Schema therapy targets early maladaptive schemas. Mentalization-based treatment improves reflective functioning. Therapeutic community models provide corrective interpersonal experiences. Integrated dual diagnosis treatment prevents splitting between providers. Long-term therapy addresses character change. Psychopharmacology manages associated symptoms. Treatment retention strategies address high dropout rates.
+    lay_description: Some people have deeply ingrained personality patterns that make relationships difficult and emotions overwhelming. These might include intense fear of abandonment, chronic feelings of emptiness, explosive anger, or persistent rule-breaking. When combined with addiction, these patterns create complex challenges requiring specialized help. Recovery involves not just stopping substance use but also learning healthier ways of relating to yourself and others, managing intense emotions, and building stable relationships.

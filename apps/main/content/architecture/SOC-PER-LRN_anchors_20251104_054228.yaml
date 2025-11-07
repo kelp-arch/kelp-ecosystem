@@ -1,0 +1,292 @@
+# Generated anchors for cluster: SOC-PER-LRN
+# Timestamp: 20251104_054228
+
+anchors:
+- id: soc-per-lrn-mod-coh
+  label: Recovery Modeling
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Positive peer models
+  - Recovery role modeling
+  - Sober behavioral examples
+  scope: Consistent exposure to peer models demonstrating successful recovery behaviors, sober living skills, and healthy coping strategies. Involves observation of recovery-oriented behaviors, techniques for managing triggers, and alternative ways of socializing without substances.
+  parent_scope_inheritance: Specifies the social learning cluster's modeling component by focusing on observation and imitation of recovery-oriented peer behaviors rather than substance use behaviors.
+  polarity_expression: Manifests as cohesive learning through consistent recovery models providing clear behavioral templates for sober living, versus fragmented learning from contradictory substance use models.
+  cross_domain_resonance: Resonates with adaptive cognitive processing (psy-cog-prc-ada) in interpreting observed behaviors and regulated neuroplasticity (phy-neu-pla-reg) in forming new behavioral patterns.
+  academic_description: Recovery modeling leverages Bandura's observational learning principles where individuals acquire new behaviors by observing successful recovery models. Attention processes focus on recovery behaviors, retention encodes sober living strategies, reproduction involves practicing observed recovery skills, and motivation comes from witnessing positive recovery outcomes. Peer recovery coaches serve as coping models who demonstrate mastery over similar challenges. Research shows exposure to recovery models increases self-efficacy, provides behavioral scripts for high-risk situations, and normalizes recovery as achievable. The credibility of peer models who share similar backgrounds enhances learning effectiveness. Multiple models demonstrating varied recovery paths prevent over-reliance on single strategies.
+  clinical_description: Treatment systematically exposes clients to diverse recovery models through peer mentors, recovery coaches, and group members at various recovery stages. Assessment evaluates current peer models, observed recovery behaviors, and identification with recovery stories. Interventions include structured peer mentorship matching clients with appropriate models, recovery speaker meetings providing inspirational examples, and video modeling showing successful coping strategies. Group therapy offers multiple simultaneous models demonstrating different recovery approaches. Clinicians help clients identify admirable qualities in recovery models while maintaining realistic expectations. Skills training includes observational learning techniques to maximize benefit from peer examples. Recovery residences provide immersive modeling environments.
+  lay_description: You learn recovery by watching others who've successfully gotten sober. Seeing peers handle stress without substances, have fun in recovery, and rebuild their lives shows you it's possible. Recovery meetings let you observe people at different stages - some newly sober, others with years of recovery - giving you multiple examples to learn from. Peer mentors who've faced similar challenges demonstrate specific techniques for staying clean. You pick up not just what to do, but how to think and feel about recovery. The more recovery models you observe, the more tools and strategies you gather for your own journey.
+  structural_components: Peer recovery coaches, mentorship relationships, recovery meeting attendance, sober social networks, recovery residence communities
+  social_processes: Observational learning sequences, identification with models, behavioral imitation, social comparison with recovering peers
+  societal_relevance: Reduces addiction stigma through visible recovery models, creates recovery capital through peer connections, builds recovery-oriented communities
+- id: soc-per-lrn-mod-fra
+  label: Substance Use Modeling
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Drug use modeling
+  - Negative peer examples
+  - Substance behavior imitation
+  scope: Exposure to peer models demonstrating substance use behaviors, consumption techniques, and drug-related lifestyles. Involves observation of drug preparation methods, use rituals, intoxication behaviors, and strategies for obtaining and concealing substance use.
+  parent_scope_inheritance: Specifies the social learning cluster's modeling component by focusing on observation and imitation of substance use behaviors that fragment healthy behavioral development.
+  polarity_expression: Manifests as fragmented learning through contradictory models mixing substance use behaviors with attempted functionality, creating confused behavioral templates.
+  cross_domain_resonance: Resonates with maladaptive cognitive processing (psy-cog-prc-mal) in selectively attending to use behaviors and dysregulated neuroplasticity (phy-neu-pla-dys) in encoding drug-related behavioral patterns.
+  academic_description: Substance use modeling follows Bandura's four-stage process where attention focuses on peer drug use, retention encodes use techniques and contexts, reproduction involves imitating observed use behaviors, and motivation comes from perceived peer enjoyment. Adolescents are particularly susceptible as peer models gain prominence over parental influence. Modeling includes not just consumption but entire behavioral complexes - procurement strategies, preparation rituals, concealment techniques, and intoxication management. Social learning of polysubstance use occurs through observing peer experimentation. Research indicates exposure to substance-using models predicts initiation, escalation, and relapse. The social status of models and perceived similarity enhance modeling effects. Substance use modeling creates behavioral scripts activated in similar contexts.
+  clinical_description: Assessment examines exposure to substance-using peers, specific behaviors observed, and degree of behavioral imitation. Clinicians evaluate which peer models hold strongest influence and what aspects of use behavior have been adopted. Interventions focus on limiting exposure to negative models through social network changes, developing critical observation skills to recognize manipulation in modeled behaviors, and cognitive reframing of observed use as problematic rather than appealing. Treatment addresses learned behavioral sequences through extinction and replacement. Group composition considers modeling effects, separating those in early recovery from active users. Family therapy addresses modeling within household systems. Relapse prevention identifies high-risk modeling situations.
+  lay_description: You learn drug use by watching friends use - how they prepare drugs, when and where they use, how they act while high. Without realizing it, you absorb entire patterns of behavior just by being around users. You might pick up their attitudes about drugs being harmless or necessary for fun. Watching friends seem to enjoy themselves while using makes it look appealing and normal. You learn not just how to use, but how to hide it, where to get drugs, and how to manage being high in different situations. These observed behaviors become automatic patterns that are hard to break even when you want to quit.
+  structural_components: Drug-using peer groups, substance use settings, dealer networks, using partnerships, drug culture immersion
+  social_processes: Behavioral contagion, technique transmission, ritual imitation, normalization of use through observation
+  societal_relevance: Perpetuates intergenerational substance use, maintains drug subcultures, spreads emerging drug trends through networks
+- id: soc-per-lrn-vic-coh
+  label: Recovery Reinforcement Learning
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Positive vicarious learning
+  - Recovery outcome observation
+  - Constructive consequence learning
+  scope: Learning through observing positive outcomes of peer recovery and negative consequences of continued substance use. Involves witnessing peer recovery successes, relationship improvements, health gains, and contrasting these with observed negative consequences of active use.
+  parent_scope_inheritance: Specifies the social learning cluster's vicarious reinforcement component by focusing on learning from observed recovery successes and use-related failures.
+  polarity_expression: Manifests as cohesive learning through consistent observation of recovery rewards and use consequences, creating clear reinforcement patterns supporting sobriety.
+  cross_domain_resonance: Resonates with adaptive reward processing (psy-mot-rew-ada) in valuing recovery outcomes and regulated dopamine function (phy-neu-dop-reg) in reinforcement learning.
+  academic_description: Vicarious reinforcement in recovery occurs when observing peers experience positive outcomes from sobriety or negative consequences from use. This indirect learning reduces need for direct negative experiences. Observing peer recovery successes - improved relationships, career advancement, health restoration - increases recovery motivation through anticipated reinforcement. Witnessing relapse consequences provides cautionary learning. The emotional impact of observed outcomes enhances memory consolidation. Social cognitive theory emphasizes that vicarious reinforcement is most effective when observers identify with models and outcomes are salient. Recovery narratives serve as vicarious learning tools, allowing listeners to experience consequences indirectly. Group settings multiply vicarious learning opportunities as members share experiences and witness varied outcomes.
+  clinical_description: Treatment leverages vicarious reinforcement through structured sharing of recovery experiences and consequences. Group therapy provides multiple opportunities to observe peer outcomes, both positive and negative. Clinicians facilitate processing of observed consequences, helping clients connect peer experiences to personal recovery. Recovery speakers share detailed accounts of use consequences and recovery benefits. Video testimonials provide controlled vicarious learning experiences. Assessment examines what consequences clients have observed and how these observations affect motivation. Interventions include consequence mapping exercises where clients document observed peer outcomes, motivational interviewing exploring vicarious learning experiences, and guided group discussions about witnessed consequences. Clinicians help clients learn from others' relapses without experiencing them directly.
+  lay_description: You learn from watching what happens to others without going through it yourself. Seeing a friend lose their job from drug use teaches you the risks without experiencing that loss. Watching someone in recovery get their family back, land a good job, or regain their health shows you what's possible. In recovery groups, hearing others' stories lets you learn from their mistakes and successes. You see that recovery really works when you watch peers transform their lives. This saves you from having to hit rock bottom yourself - you can learn from others' experiences that drugs lead nowhere good and recovery leads to real happiness.
+  structural_components: Group therapy settings, recovery speaker meetings, peer success celebrations, consequence-sharing forums, recovery milestone recognition
+  social_processes: Outcome observation, consequence processing, success celebration, cautionary tale sharing, collective learning from relapses
+  societal_relevance: Reduces harm through preventive learning, builds recovery motivation through visible successes, creates learning communities
+- id: soc-per-lrn-vic-fra
+  label: Use Reinforcement Bias
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Selective use observation
+  - Positive use bias
+  - Consequence minimization
+  scope: Selective attention to positive peer experiences with substances while ignoring or minimizing negative consequences. Involves focusing on peer enjoyment during use, social bonding through substances, and perceived benefits while overlooking health, legal, and relationship problems.
+  parent_scope_inheritance: Specifies the social learning cluster's vicarious reinforcement component by focusing on biased observation favoring substance use through selective attention to positive outcomes.
+  polarity_expression: Manifests as fragmented learning through contradictory reinforcement signals where positive use experiences are emphasized while negative consequences are minimized or ignored.
+  cross_domain_resonance: Resonates with maladaptive reward processing (psy-mot-rew-mal) in overvaluing use rewards and dysregulated dopamine function (phy-neu-dop-dys) in reinforcement imbalance.
+  academic_description: Biased vicarious reinforcement occurs through selective attention to reinforcing aspects of peer substance use while filtering out punishing consequences. Cognitive biases including confirmation bias and optimism bias shape observation patterns. Users attend to peer euphoria, social bonding, and stress relief while minimizing observed tolerance, withdrawal, and negative consequences. This creates skewed reinforcement ratios favoring continued use. Temporal discounting makes immediate observed rewards more salient than delayed consequences. In-group bias leads to greater attention to positive experiences of similar peers while dismissing negative outcomes as affecting only 'others.' Social media amplifies this bias by curating positive use portrayals. The availability heuristic makes recent positive observations more influential than accumulated negative evidence.
+  clinical_description: Assessment identifies patterns of selective observation, examining what peer outcomes clients notice versus ignore. Clinicians evaluate cognitive biases shaping vicarious learning and degree of consequence minimization. Interventions include observation training to notice full range of peer outcomes, consequence awareness exercises documenting overlooked negative effects, and cognitive restructuring addressing selective attention patterns. Motivational interviewing explores discrepancies between observed and actual peer experiences. Group therapy provides reality testing as peers share unfiltered experiences. Video interventions show complete consequence trajectories rather than selective highlights. Clinicians help clients recognize how substance use impairs accurate observation of outcomes. Mindfulness training improves present-moment awareness of actual versus perceived peer experiences.
+  lay_description: You notice when friends have fun while using but overlook their hangovers, arrests, or relationship problems. It seems like everyone is enjoying drugs without problems because you're not paying attention to the downsides. Social media makes this worse - people post party pictures but not their morning-after regrets. You might envy friends who seem to use without consequences, not seeing their hidden struggles. This selective vision makes drugs look better than they really are. You remember the laughs and bonding but forget the fights, blackouts, and embarrassments. Breaking this pattern means honestly observing everything that happens to peers who use, not just the seemingly good parts.
+  structural_components: Selective peer groups, curated social media feeds, use-focused social settings, consequence-avoiding networks
+  social_processes: Selective attention patterns, confirmation bias in observation, minimization of negative outcomes, idealization of use experiences
+  societal_relevance: Perpetuates substance use normalization, maintains cultural myths about consequence-free use, delays help-seeking through minimization
+- id: soc-per-lrn-exp-coh
+  label: Realistic Use Expectancies
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Balanced outcome beliefs
+  - Accurate use expectations
+  - Reality-based expectancies
+  scope: Development of accurate, balanced beliefs about substance effects and consequences through comprehensive peer observation. Includes realistic assessment of short-term effects, long-term consequences, recovery challenges, and benefits of sobriety based on diverse peer experiences.
+  parent_scope_inheritance: Specifies the social learning cluster's expectancy development by focusing on formation of accurate cognitive templates about substance use outcomes through balanced peer observation.
+  polarity_expression: Manifests as cohesive expectancy formation through consistent, realistic information from peer experiences, creating accurate cognitive templates for decision-making.
+  cross_domain_resonance: Resonates with adaptive belief systems (psy-cog-bel-ada) in maintaining accurate reality testing and purposeful values (exi-mea-val-pur) in informed choice-making.
+  academic_description: Realistic expectancies develop through comprehensive observation of varied peer outcomes, creating accurate cognitive schemas about substance effects. These expectancies incorporate both positive and negative aspects, short and long-term consequences, and individual variation in responses. Social learning theory emphasizes that expectancies form through observing the full range of peer experiences rather than selective samples. Accurate expectancies include understanding tolerance development, withdrawal symptoms, recovery challenges, and realistic timelines for healing. Peer diversity exposes observers to varied reactions, preventing overgeneralization. Research shows realistic expectancies predict better treatment outcomes and reduced relapse risk. Expectancy challenge interventions leverage peer experiences to correct distorted beliefs.
+  clinical_description: Assessment evaluates current substance use expectancies, their sources, and accuracy compared to actual peer outcomes. Clinicians examine both positive and negative expectancies, temporal perspectives, and confidence levels. Interventions include expectancy challenge procedures using peer feedback to test beliefs, education about actual versus expected effects based on peer data, and group discussions exploring varied peer experiences. Cognitive restructuring addresses specific expectancy distortions. Peer panels provide direct testimony about actual versus expected outcomes. Treatment helps clients develop balanced expectancies acknowledging both risks and realistic recovery benefits. Timeline exercises map expected versus actual peer trajectories. Clinicians facilitate exposure to diverse peer experiences preventing oversimplified expectancies.
+  lay_description: You develop realistic ideas about drugs and recovery by paying attention to the full picture of what happens to peers. Instead of thinking drugs are all fun or all terrible, you see the complex reality - initial enjoyment but eventual problems, difficult but achievable recovery. You learn that different people react differently, recovery takes time, and sobriety brings gradual improvements. Realistic expectations mean understanding that quitting isn't easy but is possible, that recovery has ups and downs, and that the benefits of sobriety are real but take time to develop. This balanced view helps you make better decisions based on facts rather than fantasies.
+  structural_components: Diverse peer exposure, balanced information sources, reality-testing opportunities, varied recovery stage observations
+  social_processes: Comprehensive outcome observation, reality testing through peer feedback, expectancy sharing and comparison, myth correction through peer evidence
+  societal_relevance: Promotes informed decision-making about substance use, reduces unrealistic treatment expectations, supports evidence-based prevention
+- id: soc-per-lrn-exp-fra
+  label: Distorted Use Expectancies
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - False use beliefs
+  - Unrealistic expectations
+  - Cognitive distortions about use
+  scope: Formation of unrealistic, positively-biased beliefs about substance effects while minimizing negative consequences. Includes overestimation of benefits, underestimation of risks, and distorted beliefs about personal immunity to negative outcomes based on selective peer observation.
+  parent_scope_inheritance: Specifies the social learning cluster's expectancy development by focusing on formation of distorted cognitive templates through biased interpretation of peer experiences.
+  polarity_expression: Manifests as fragmented expectancy formation through contradictory and selective peer information, creating confused and unrealistic cognitive templates.
+  cross_domain_resonance: Resonates with maladaptive belief systems (psy-cog-bel-mal) in maintaining distorted reality testing and directionless values (exi-mea-val-dir) in impaired decision-making.
+  academic_description: Distorted expectancies develop through biased processing of peer experiences, creating inaccurate cognitive schemas favoring substance use. Positive expectancy bias involves overestimating euphoric effects, social benefits, and stress relief while underestimating tolerance, dependence, and negative consequences. These distortions arise from selective attention to positive peer experiences, discounting of negative outcomes as exceptional, and personal fable beliefs about immunity to consequences. Social influence shapes expectancies through peer exaggeration, cultural myths, and media portrayals. Confirmation bias maintains distortions by seeking confirming peer examples. Research links positive expectancy bias to initiation, escalation, and relapse. Adolescents show particular vulnerability to peer-influenced expectancy distortions.
+  clinical_description: Assessment identifies specific expectancy distortions, their peer sources, and resistance to disconfirming evidence. Clinicians evaluate positive bias strength, consequence minimization, and personal exception beliefs. Interventions include systematic expectancy challenge using peer evidence to contradict distortions, reality testing through structured peer feedback, and cognitive restructuring targeting specific false beliefs. Group therapy provides multiple perspectives challenging individual distortions. Experiential exercises demonstrate actual versus expected effects. Video interventions show peer consequences contradicting positive expectancies. Motivational interviewing explores expectancy-behavior discrepancies. Clinicians address how current use maintains expectancy distortions through state-dependent learning. Relapse prevention identifies expectancy-triggered craving patterns.
+  lay_description: You develop false ideas about drugs by only noticing the good parts of friends' experiences. You might think drugs will always be fun because you focus on friends laughing while high, ignoring their problems. You believe you're different and won't get addicted like others. These distorted expectations make drugs seem better and safer than they really are. You might expect amazing experiences based on exaggerated peer stories, or think you can control your use better than friends who got addicted. These false beliefs come from choosing to see what you want to see - the fun times but not the consequences, the highs but not the lows.
+  structural_components: Biased peer selection, echo chamber networks, myth-perpetuating groups, consequence-denying social circles
+  social_processes: Selective interpretation, positive story amplification, consequence denial, exception-making for negative outcomes
+  societal_relevance: Maintains addiction vulnerability through false beliefs, delays treatment seeking, perpetuates cultural substance use myths
+- id: soc-per-lrn-trn-coh
+  label: Recovery Culture Transmission
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Sober culture adoption
+  - Recovery tradition learning
+  - Healing ritual transmission
+  scope: Transmission of recovery-oriented cultural practices, values, rituals, and traditions through peer networks. Includes adoption of recovery language, participation in sober celebrations, engagement with recovery literature, and integration of recovery principles into daily life.
+  parent_scope_inheritance: Specifies the social learning cluster's cultural transmission component by focusing on how recovery culture, practices, and values spread through peer networks.
+  polarity_expression: Manifests as cohesive cultural learning through consistent recovery-oriented practices and values that reinforce sober identity and community belonging.
+  cross_domain_resonance: Resonates with cohesive cultural rituals (soc-cul-rit-coh) in maintaining recovery practices and purposeful identity (exi-ide-aut-pur) in recovery-based self-concept.
+  academic_description: Recovery culture transmission occurs through peer-mediated adoption of symbols, language, rituals, and values that constitute recovery communities. This includes learning recovery narratives, adopting program-specific terminology, participating in milestone celebrations, and internalizing recovery principles. Cultural transmission theory explains how recovery practices spread through social networks via observation, participation, and reinforcement. Rituals like anniversary celebrations, service work, and meeting traditions create cultural continuity. Recovery language provides cognitive frameworks for understanding addiction and healing. Peer networks transmit tacit knowledge about 'how to do recovery' beyond formal treatment. Cultural immersion in recovery communities facilitates identity transformation from 'addict' to 'person in recovery.' This transmission preserves institutional memory and recovery wisdom across generations.
+  clinical_description: Treatment facilitates immersion in recovery culture through structured exposure to recovery communities, traditions, and practices. Assessment examines current cultural identification, recovery language adoption, and ritual participation. Interventions include guided participation in recovery traditions, mentorship in cultural practices, and education about recovery heritage. Clinicians help clients navigate cultural aspects of different recovery pathways while finding personally meaningful practices. Group therapy transmits recovery culture through shared traditions and celebrations. Recovery coaching provides cultural interpretation and guidance. Treatment addresses cultural barriers to recovery engagement. Clients learn recovery storytelling traditions, service principles, and celebration rituals. Programs create micro-cultures modeling broader recovery community practices.
+  lay_description: You learn 'how to do recovery' by absorbing the culture of recovery communities - their special language, traditions, and ways of celebrating success. You pick up phrases like 'one day at a time' and learn why birthdays and anniversaries matter so much in recovery. Through peers, you discover recovery traditions like service work, sponsorship, and sharing your story. You learn new ways to have fun sober, celebrate milestones, and support others. This isn't just about not using drugs - it's about joining a culture with its own values, practices, and identity. The recovery community becomes your new cultural home, replacing the drug culture you left behind.
+  structural_components: Recovery meetings, sober celebrations, service structures, recovery literature, mentorship traditions, anniversary recognition systems
+  social_processes: Cultural modeling, tradition participation, language adoption, value internalization, ritual engagement, story transmission
+  societal_relevance: Preserves recovery wisdom across generations, creates alternative cultural spaces to drug culture, builds recovery capital
+- id: soc-per-lrn-trn-fra
+  label: Drug Culture Transmission
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Substance subculture spread
+  - Drug ritual transmission
+  - Use culture adoption
+  scope: Transmission of drug-related cultural practices, values, rituals, and traditions through peer networks. Includes adoption of drug slang, participation in use rituals, engagement with drug subcultures, and normalization of substance-centered lifestyles.
+  parent_scope_inheritance: Specifies the social learning cluster's cultural transmission component by focusing on how drug culture, practices, and values spread through peer networks.
+  polarity_expression: Manifests as fragmented cultural learning through contradictory values and practices that undermine healthy development and social integration.
+  cross_domain_resonance: Resonates with fragmented cultural rituals (soc-cul-rit-fra) in maintaining use practices and directionless identity (exi-ide-aut-dir) in drug-culture identification.
+  academic_description: Drug culture transmission involves peer-mediated spread of symbols, language, rituals, and values that constitute substance-using subcultures. This includes argot acquisition, ritual participation, and value adoption that normalize and maintain substance use. Cultural elements include consumption rituals, procurement practices, concealment strategies, and intoxication management techniques. Subcultural theory explains how drug cultures provide alternative status systems, identity resources, and social bonds. Language transmission includes slang for substances, intoxication states, and drug-related activities. Rituals around preparation, consumption, and recovery from use create cultural cohesion. Values emphasizing immediate gratification, chemical solutions, and rejection of mainstream norms spread through peer modeling. Digital platforms accelerate cultural transmission across geographic boundaries.
+  clinical_description: Assessment examines depth of drug culture immersion, including language use, ritual participation, and value adoption. Clinicians evaluate which cultural elements maintain use and resist change. Interventions focus on cultural disengagement through identity work, value clarification, and ritual replacement. Treatment addresses the loss of cultural belonging when leaving drug cultures. Group composition considers cultural influence patterns. Family therapy examines household drug culture transmission. Clinicians help clients recognize how cultural immersion maintains addiction beyond physical dependence. Alternative cultural engagement provides replacement for lost subcultural connections. Treatment challenges normalized beliefs about substance use embedded in cultural frameworks. Relapse prevention addresses cultural triggers and drug culture re-exposure risks.
+  lay_description: You absorb an entire drug culture from peers - special words for drugs and being high, rituals around using, and attitudes that make drugs seem normal or necessary. You learn the 'right' way to prepare and use drugs, where and when to use, and how to hide it from others. This culture has its own values that put getting high above other priorities. You might adopt styles of dress, music preferences, and attitudes that mark you as part of the drug scene. This cultural learning goes deeper than just using drugs - it becomes part of your identity and worldview. The drug culture provides belonging and identity that can be hard to give up even when you want to quit using.
+  structural_components: Drug-using peer groups, dealing networks, use venues, online drug communities, substance-centered social spaces
+  social_processes: Subcultural initiation, argot acquisition, ritual participation, value transmission, identity formation, norm establishment
+  societal_relevance: Perpetuates drug epidemics through cultural transmission, maintains marginalized substance-using populations, challenges mainstream cultural values
+- id: soc-per-lrn-skl-coh
+  label: Recovery Skill Development
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Coping skill acquisition
+  - Sober skill learning
+  - Recovery competence building
+  scope: Active acquisition of recovery-supporting behavioral skills through peer instruction and practice. Includes learning refusal techniques, coping strategies, emotion regulation skills, sober social skills, and relapse prevention techniques through peer demonstration and guided practice.
+  parent_scope_inheritance: Specifies the social learning cluster's skill acquisition component by focusing on learning specific behavioral competencies that support recovery through peer-mediated practice.
+  polarity_expression: Manifests as cohesive skill development through consistent practice of recovery-supporting behaviors with peer guidance and reinforcement.
+  cross_domain_resonance: Resonates with adaptive habit formation (psy-beh-hab-ada) in building healthy routines and regulated neuroplasticity (phy-neu-pla-reg) in encoding new behavioral patterns.
+  academic_description: Recovery skill acquisition involves systematic learning of behavioral competencies through peer-mediated instruction, modeling, practice, and feedback. Skills include drink/drug refusal techniques, craving management strategies, emotion regulation methods, and sober socialization abilities. Behavioral skills training follows acquisition, fluency, and generalization stages. Peers provide credible instruction based on lived experience, demonstrate techniques in realistic contexts, and offer corrective feedback during practice. Role-playing with peers allows safe rehearsal of challenging scenarios. Peer feedback shapes skill refinement through reinforcement of effective techniques. Social learning enhances motivation as learners observe peers successfully applying skills. Group settings enable multiple skill demonstrations and varied practice partners. Mastery experiences with peer support build self-efficacy for skill application.
+  clinical_description: Treatment systematically builds recovery skills through structured peer-led training programs. Assessment identifies skill deficits, learning readiness, and preferred learning modalities. Interventions include peer-led skills groups teaching specific techniques, role-playing exercises with peer feedback, and behavioral rehearsal of high-risk scenarios. Peers demonstrate skills in context, provide coaching during practice, and share personal skill application experiences. Clinicians facilitate skill generalization from practice to real-world application. Video modeling shows peers successfully using skills. Homework involves practicing skills with peer support between sessions. Treatment matches clients with peer coaches who excel in needed skill areas. Group therapy provides multiple practice opportunities with varied partners. Skills training follows evidence-based protocols while incorporating peer wisdom.
+  lay_description: You learn practical recovery skills by watching and practicing with peers who've mastered them. Friends in recovery teach you how to say no to drugs, handle cravings, manage emotions without using, and have fun sober. You practice these skills together - role-playing difficult situations, trying out new coping strategies, and learning from each other's techniques. Peers give you honest feedback about what works and what doesn't. You learn not from textbooks but from people who've actually used these skills to stay clean. Group settings let you practice with different people and see various approaches. The skills become automatic through repetition with peer support and encouragement.
+  structural_components: Skills training groups, peer coaching relationships, practice partnerships, role-play scenarios, peer feedback systems
+  social_processes: Skill demonstration, guided practice, peer feedback, behavioral rehearsal, technique sharing, mastery modeling
+  societal_relevance: Builds community recovery capacity through skill dissemination, empowers peer-led interventions, creates sustainable recovery support
+- id: soc-per-lrn-skl-fra
+  label: Drug Skill Acquisition
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Use technique learning
+  - Drug competence development
+  - Substance skill mastery
+  scope: Acquisition of drug-related behavioral skills through peer instruction and practice. Includes learning procurement methods, preparation techniques, consumption strategies, tolerance management, and concealment tactics through peer demonstration and guided practice.
+  parent_scope_inheritance: Specifies the social learning cluster's skill acquisition component by focusing on learning specific behavioral competencies related to substance use through peer-mediated practice.
+  polarity_expression: Manifests as fragmented skill development through acquisition of substance use competencies that interfere with healthy life skill development.
+  cross_domain_resonance: Resonates with maladaptive habit formation (psy-beh-hab-mal) in building destructive routines and dysregulated neuroplasticity (phy-neu-pla-dys) in encoding drug-related behavioral patterns.
+  academic_description: Drug skill acquisition involves peer-mediated learning of technical competencies for substance procurement, preparation, and consumption. Skills include identifying quality, negotiating prices, preparing doses, managing routes of administration, and timing consumption for desired effects. Peers transmit tacit knowledge about managing tolerance, avoiding overdose, and concealing use from authorities or family. Learning follows apprenticeship models where experienced users guide novices through progressively complex skills. Peer instruction includes harm reduction techniques paradoxically enabling continued use. Skills for managing withdrawal, maintaining supply, and functioning while intoxicated are transmitted through observation and practice. Social learning of polysubstance use involves complex skill sets for combining substances. Digital platforms enable skill transmission through online tutorials and peer advice forums.
+  clinical_description: Assessment examines acquired drug-related skills, their sources, and current application. Clinicians evaluate skill sophistication indicating use severity and addiction progression. Interventions focus on skill extinction through disuse, replacement with incompatible behaviors, and cognitive reframing of skill value. Treatment addresses how drug skills create identity and self-efficacy tied to use. Clinicians help clients recognize how advanced drug skills maintain addiction through increased access and reduced barriers. Harm reduction acknowledges existing skills while redirecting toward safety. Family therapy addresses skill transmission within households. Relapse prevention identifies how drug skills lower threshold for return to use. Treatment explores loss of mainstream life skills displaced by drug skill focus. Recovery involves conscious deskilling and reskilling processes.
+  lay_description: You learn the technical side of drug use from experienced users - how to find drugs, prepare them safely, use them effectively, and avoid getting caught. Friends teach you to recognize quality, avoid bad batches, manage your tolerance, and function while high. You might learn complex skills like cooking drugs, finding veins, or combining substances for specific effects. These skills make using easier and seem to reduce risks, but they actually deepen your involvement with drugs. The more skilled you become, the harder it is to imagine life without drugs because so much of your competence is tied to using. These drug skills crowd out normal life skills you need for work, relationships, and health.
+  structural_components: Experienced user mentorship, drug preparation settings, procurement networks, online drug forums, peer using partnerships
+  social_processes: Apprenticeship learning, technique demonstration, skill refinement through practice, competence validation, expertise development
+  societal_relevance: Facilitates drug epidemic spread through skill transmission, lowers barriers to use initiation, perpetuates intergenerational substance use
+- id: soc-per-lrn-eff-coh
+  label: Collective Recovery Efficacy
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Group recovery confidence
+  - Mutual recovery belief
+  - Collective sobriety efficacy
+  scope: Development of shared beliefs within peer groups about collective ability to achieve and maintain recovery. Includes group confidence in mutual support effectiveness, collective problem-solving capacity, and shared commitment to group members' recovery success.
+  parent_scope_inheritance: Specifies the social learning cluster's group efficacy component by focusing on collectively learned beliefs about the group's capacity to support recovery.
+  polarity_expression: Manifests as cohesive efficacy through consistent group beliefs in collective recovery capability, creating strong mutual support and accountability.
+  cross_domain_resonance: Resonates with cohesive group cohesion (soc-grp-coh-coh) in unified support and adaptive agency (psy-mot-age-ada) in collective empowerment.
+  academic_description: Collective recovery efficacy emerges when peer groups develop shared beliefs in their mutual capacity to achieve recovery goals. Based on Bandura's collective efficacy construct, groups with high recovery efficacy believe in their ability to mobilize resources, provide effective support, and overcome challenges together. This develops through successful group experiences managing crises, celebrating milestones, and preventing relapses. Vicarious efficacy builds as members witness peers' recovery successes attributed to group support. Verbal persuasion through encouragement and affirmation strengthens collective beliefs. Group efficacy predicts better individual outcomes through enhanced motivation, persistence, and resource utilization. Recovery mutual aid groups exemplify collective efficacy development through shared experience, strength, and hope. Higher collective efficacy enables groups to tackle more challenging recovery goals.
+  clinical_description: Treatment cultivates collective efficacy through structured group experiences building mutual support capacity. Assessment examines group confidence levels, support quality, and collective goal achievement. Interventions include team-building exercises developing group cohesion, collective problem-solving tasks building group competence, and group goal-setting fostering shared commitment. Clinicians facilitate group success experiences through achievable challenges, process collective achievements to build efficacy, and address group doubts or conflicts undermining confidence. Peer support training enhances members' ability to help others. Group composition balances members at different recovery stages for optimal efficacy development. Treatment groups celebrate collective successes and learn from group challenges. Alumni involvement demonstrates long-term collective efficacy. Programs measure and reinforce group efficacy beliefs.
+  lay_description: Your recovery group develops a shared belief that 'we can do this together.' The group knows how to support each member, solve problems collectively, and help everyone stay sober. This confidence comes from successfully helping members through crises, celebrating recovery milestones together, and seeing that group support really works. When the group believes in its power to help, everyone tries harder and doesn't give up. You trust that the group will be there when you need them, and you're committed to being there for others. This mutual confidence creates a safety net where everyone believes recovery is possible because you're doing it together.
+  structural_components: Cohesive recovery groups, mutual aid networks, team-based treatment, recovery communities, peer support teams
+  social_processes: Mutual encouragement, collective problem-solving, shared goal-setting, group achievement celebration, reciprocal support
+  societal_relevance: Strengthens recovery community infrastructure, demonstrates power of mutual aid, challenges individualistic treatment models
+- id: soc-per-lrn-eff-fra
+  label: Collective Use Normalization
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Social Learning Mechanisms
+  cluster_id: soc-per-lrn
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Group use resignation
+  - Collective helplessness
+  - Mutual enabling beliefs
+  scope: Development of shared beliefs within peer groups that normalize substance use and collective helplessness about change. Includes group fatalism about addiction, mutual enabling through shared rationalizations, and collective denial of problems or possibility for recovery.
+  parent_scope_inheritance: Specifies the social learning cluster's group efficacy component by focusing on collectively learned beliefs about inability to overcome substance use.
+  polarity_expression: Manifests as fragmented efficacy through contradictory group beliefs that simultaneously enable use while expressing desire for change.
+  cross_domain_resonance: Resonates with fragmented group cohesion (soc-grp-coh-fra) in enabling dynamics and maladaptive agency (psy-mot-age-mal) in collective powerlessness.
+  academic_description: Collective use normalization occurs when peer groups develop shared beliefs that substance use is inevitable, unchangeable, or necessary for group membership. Low collective efficacy manifests as group fatalism about addiction, shared rationalizations for continued use, and mutual reinforcement of powerlessness. Groups develop collective defense mechanisms including denial, minimization, and externalization of responsibility. Shared narratives about inability to change become self-fulfilling prophecies. Mutual enabling occurs through group norms against confronting use, sharing substances, and covering for consequences. Collective efficacy is undermined by repeated group failures, member relapses, and hopelessness contagion. Social identity theory explains how use becomes central to group identity, making change threatening to group cohesion. Digital echo chambers reinforce collective normalization.
+  clinical_description: Assessment examines group dynamics maintaining use, including enabling patterns, shared rationalizations, and collective hopelessness. Clinicians evaluate how group beliefs undermine individual change attempts. Interventions include group restructuring to reduce enabling dynamics, challenging collective rationalizations through reality testing, and building hope through exposure to recovery examples. Treatment may require separation from enabling peer groups before rebuilding healthier connections. Motivational enhancement addresses group ambivalence about change. Family therapy examines collective enabling within household systems. Clinicians help clients recognize how group normalization maintains individual use. Alternative peer groups provide contrasting collective beliefs. Treatment addresses fear of losing group belonging through change. Recovery involves shifting from enabling to accountable peer relationships.
+  lay_description: Your friend group develops shared beliefs that 'everyone uses' and 'nobody can really quit.' The group makes excuses for each other's use, covers up problems, and acts like getting high is just what you all do. When someone tries to quit, the group pulls them back in because change threatens the group's identity. Everyone enables everyone else through shared denial about how bad things really are. The group believes you're all helpless against addiction, so why try? This collective resignation keeps everyone stuck. You tell yourselves you need drugs to have fun together or deal with life. Breaking free means recognizing these group beliefs are false and finding friends who believe recovery is possible.
+  structural_components: Enabling peer networks, codependent relationships, using partnerships, fatalistic support groups, normalizing social circles
+  social_processes: Mutual enabling, collective rationalization, hopelessness contagion, group denial, shared fatalism, normalization processes
+  societal_relevance: Perpetuates addiction clusters in communities, maintains intergenerational substance use, challenges recovery-oriented interventions

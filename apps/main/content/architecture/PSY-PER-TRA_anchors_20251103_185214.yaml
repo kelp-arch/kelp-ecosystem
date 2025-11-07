@@ -1,0 +1,580 @@
+# Generated anchors for cluster: PSY-PER-TRA
+# Timestamp: 20251103_185214
+
+anchors:
+- id: psy-per-tra-neu-ada
+  label: Emotional Stability
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Low neuroticism
+  - Emotional resilience
+  - Stress tolerance
+  - Affective stability
+  scope: Represents adaptive emotional regulation characterized by resilient stress response, stable mood, and low vulnerability to negative affect. Includes effective anxiety management, realistic threat assessment, and rapid recovery from emotional perturbations supporting sustained recovery.
+  parent_scope_inheritance: Specifies the neuroticism dimension of trait configurations as emotional stability that provides resilience against stress-induced relapse and supports adaptive coping with recovery challenges.
+  polarity_expression: Manifests as emotional equilibrium with appropriate affective responses, effective stress management, and resilient recovery from setbacks without substance use urges.
+  cross_domain_resonance: Resonates with phy-str-hpa-reg (regulated stress response), soc-sup-emo-coh (emotional support utilization), and exi-mea-pur-pur (purposeful meaning-making from challenges).
+  academic_description: Low neuroticism predicts better treatment outcomes through reduced negative affectivity and stress reactivity. Meta-analyses show emotional stability correlates with longer abstinence periods and lower relapse rates. Neuroimaging reveals enhanced prefrontal regulation of amygdala reactivity in emotionally stable individuals.
+  clinical_description: NEO-PI-R neuroticism facets below 50th percentile indicate emotional stability. Clients demonstrate steady mood, appropriate concern levels, and quick recovery from stressors. Interventions focus on maintaining stability through mindfulness practices and stress inoculation. Treatment emphasizes building on existing resilience factors.
+  lay_description: You handle stress well without getting overwhelmed by worry or sadness. When challenges arise, you stay relatively calm and bounce back quickly. This emotional steadiness helps you face recovery challenges without turning to substances for relief.
+  core_components:
+  - Stable mood regulation
+  - Appropriate anxiety levels
+  - Resilient stress response
+  - Low emotional reactivity
+  associated_processes:
+  - Effective emotion regulation
+  - Realistic threat assessment
+  - Adaptive coping selection
+  - Quick emotional recovery
+- id: psy-per-tra-neu-mal
+  label: High Neuroticism
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Emotional instability
+  - Negative affectivity
+  - Stress vulnerability
+  - Affective dysregulation
+  scope: Represents maladaptive emotional dysregulation characterized by chronic anxiety, depression vulnerability, and heightened stress reactivity. Includes persistent worry, mood instability, and prolonged recovery from emotional disturbances increasing relapse risk.
+  parent_scope_inheritance: Specifies the neuroticism dimension of trait configurations as emotional instability that creates vulnerability to stress-induced craving and maintains addiction through negative reinforcement cycles.
+  polarity_expression: Manifests as emotional turbulence with excessive negative affect, poor stress tolerance, and substance use as primary emotion regulation strategy.
+  cross_domain_resonance: Resonates with phy-str-hpa-dys (dysregulated stress response), soc-sup-emo-fra (emotional support difficulties), and exi-mea-pur-dir (directionless rumination).
+  academic_description: High neuroticism represents primary personality risk factor for addiction. Research shows elevated anxiety, depression, and anger facets predict substance use initiation and relapse. Neurobiological studies reveal amygdala hyperreactivity and reduced prefrontal control. Negative reinforcement models explain self-medication patterns.
+  clinical_description: NEO-PI-R neuroticism scores above 65 indicate clinical concern. Clients present with chronic worry, mood swings, and stress-induced cravings. Treatment requires intensive emotion regulation training, CBT for anxiety/depression, and stress management. Pharmacotherapy may address underlying mood symptoms.
+  lay_description: You tend to feel anxious, sad, or irritable more intensely and frequently than others. Stress hits you hard and takes longer to recover from. These difficult emotions often trigger urges to use substances for temporary relief.
+  core_components:
+  - Chronic anxiety
+  - Depression vulnerability
+  - Emotional volatility
+  - Stress hypersensitivity
+  associated_processes:
+  - Catastrophic thinking
+  - Emotional flooding
+  - Maladaptive coping
+  - Prolonged distress
+- id: psy-per-tra-ext-ada
+  label: Balanced Extraversion
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Social engagement
+  - Positive emotionality
+  - Interpersonal comfort
+  - Balanced sociability
+  scope: Represents adaptive social engagement with appropriate stimulation-seeking and positive affect. Includes comfortable interpersonal interaction, moderate activity levels, and ability to enjoy both social and solitary activities supporting diverse recovery resources.
+  parent_scope_inheritance: Specifies the extraversion dimension of trait configurations as balanced social engagement that facilitates recovery network utilization while maintaining appropriate boundaries and self-sufficiency.
+  polarity_expression: Manifests as flexible social functioning with ability to seek support when needed and maintain independence when appropriate, supporting varied recovery pathways.
+  cross_domain_resonance: Resonates with phy-rew-soc-reg (regulated social reward), soc-net-pee-coh (peer network cohesion), and exi-con-rel-pur (purposeful relationships).
+  academic_description: Moderate extraversion levels predict optimal treatment engagement through balanced approach-avoidance tendencies. Research shows curvilinear relationship with outcomes - both extremes show increased risk. Balanced extraversion facilitates therapeutic alliance while maintaining introspective capacity.
+  clinical_description: NEO-PI-R extraversion scores between 40-60 indicate adaptive balance. Clients engage effectively in both group and individual therapy modalities. Treatment leverages social motivation while developing solitary coping skills. Recovery activities include mix of social and independent pursuits.
+  lay_description: You're comfortable in social situations but also value alone time. You can reach out for support when needed but don't depend entirely on others for motivation. This balance helps you use various recovery resources effectively.
+  core_components:
+  - Flexible sociability
+  - Moderate stimulation needs
+  - Positive affect
+  - Social competence
+  associated_processes:
+  - Appropriate help-seeking
+  - Balanced activity levels
+  - Social reward modulation
+  - Independent functioning
+- id: psy-per-tra-ext-mal
+  label: Extraversion Extremes
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Social dysfunction
+  - Stimulation dysregulation
+  - Interpersonal extremes
+  - Social-solitary imbalance
+  scope: Represents maladaptive extremes of either excessive stimulation-seeking with social dependence or severe introversion with isolation. Includes inability to regulate social needs, inappropriate stimulation levels, and inflexible social patterns limiting recovery options.
+  parent_scope_inheritance: Specifies the extraversion dimension of trait configurations as dysfunctional social patterns that either create excessive external dependence or prevent utilization of social recovery resources.
+  polarity_expression: Manifests as either compulsive social stimulation-seeking risking relapse triggers or severe withdrawal preventing support access, both maintaining addiction patterns.
+  cross_domain_resonance: Resonates with phy-rew-soc-dys (dysregulated social reward), soc-net-pee-fra (peer network fragmentation), and exi-con-rel-dir (directionless relationships).
+  academic_description: Extraversion extremes predict poor outcomes through different mechanisms. High extraversion increases exposure to substance-using peers and stimulation-seeking. Low extraversion limits social support utilization and increases isolation-related relapse. Both extremes show treatment matching effects.
+  clinical_description: NEO-PI-R extraversion scores below 35 or above 65 indicate clinical concerns. High scorers require boundaries around social triggers and stimulation management. Low scorers need graduated social exposure and connection building. Treatment must address specific extreme manifestation.
+  lay_description: You either crave constant social stimulation and excitement, making it hard to avoid party scenes, or you're so withdrawn that you can't access support when needed. Either extreme makes recovery more challenging.
+  core_components:
+  - Social extremes
+  - Stimulation dysregulation
+  - Inflexible patterns
+  - Limited adaptability
+  associated_processes:
+  - Compulsive socializing or isolation
+  - Stimulation-seeking or avoidance
+  - Social dependence or withdrawal
+  - Narrow coping repertoire
+- id: psy-per-tra-opn-ada
+  label: Adaptive Openness
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Cognitive flexibility
+  - Creative engagement
+  - Experiential receptivity
+  - Intellectual curiosity
+  scope: Represents adaptive openness to experience facilitating treatment engagement and personal growth. Includes cognitive flexibility, creative problem-solving, and willingness to explore new recovery approaches while maintaining appropriate boundaries.
+  parent_scope_inheritance: Specifies the openness dimension of trait configurations as cognitive flexibility that enhances treatment receptivity and facilitates discovery of personalized recovery strategies.
+  polarity_expression: Manifests as curious exploration of recovery options with ability to integrate diverse approaches while maintaining focus on core recovery goals.
+  cross_domain_resonance: Resonates with phy-neu-pla-reg (regulated neuroplasticity), soc-cul-val-coh (value integration), and exi-gro-tra-pur (purposeful transformation).
+  academic_description: Moderate-high openness predicts better treatment response through enhanced cognitive flexibility and willingness to engage novel interventions. Research shows openness facilitates mindfulness adoption, creative coping development, and meaning-making processes. Associated with post-traumatic growth in recovery.
+  clinical_description: NEO-PI-R openness scores between 50-70 indicate adaptive levels. Clients respond well to experiential therapies, mindfulness practices, and creative recovery activities. Treatment leverages intellectual curiosity and aesthetic appreciation. Recovery includes exploration of new interests and perspectives.
+  lay_description: You're open to trying different recovery approaches and exploring new ways of thinking about yourself and your experiences. This flexibility helps you find what works best for your unique situation and grow through the recovery process.
+  core_components:
+  - Cognitive flexibility
+  - Creative thinking
+  - Experiential openness
+  - Intellectual engagement
+  associated_processes:
+  - Perspective-taking
+  - Creative problem-solving
+  - Meaning-making
+  - Adaptive exploration
+- id: psy-per-tra-opn-mal
+  label: Openness Dysfunction
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Cognitive rigidity
+  - Excessive experimentation
+  - Inflexible thinking
+  - Boundary violations
+  scope: Represents maladaptive extremes of either rigid cognitive closure resisting change or excessive openness leading to dangerous experimentation. Includes inability to consider alternatives or excessive boundary-testing that undermines recovery stability.
+  parent_scope_inheritance: Specifies the openness dimension of trait configurations as cognitive inflexibility preventing treatment engagement or excessive experimentation increasing relapse risk.
+  polarity_expression: Manifests as either rigid resistance to recovery approaches or reckless experimentation with substances and behaviors, both maintaining addiction patterns.
+  cross_domain_resonance: Resonates with phy-neu-pla-dys (dysregulated neuroplasticity), soc-cul-val-fra (value fragmentation), and exi-gro-tra-dir (directionless wandering).
+  academic_description: Openness extremes predict differential treatment challenges. Low openness associates with treatment resistance, concrete thinking, and difficulty with abstract recovery concepts. Excessive openness correlates with polysubstance experimentation and boundary violations. Both require targeted interventions.
+  clinical_description: NEO-PI-R openness scores below 35 indicate rigidity requiring concrete, structured approaches. Scores above 75 suggest boundary issues requiring containment and focus. Treatment must address specific manifestation while building appropriate flexibility or structure.
+  lay_description: You're either so set in your ways that you can't consider new recovery approaches, or you're so open to experimentation that you can't maintain safe boundaries. Either extreme makes it hard to find and stick with effective recovery strategies.
+  core_components:
+  - Cognitive extremes
+  - Inflexible patterns
+  - Boundary dysfunction
+  - Limited adaptability
+  associated_processes:
+  - Rigid thinking or chaotic exploration
+  - Treatment resistance or instability
+  - Concrete fixation or abstract confusion
+  - Change avoidance or reckless experimentation
+- id: psy-per-tra-agr-ada
+  label: Cooperative Agreeableness
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Prosocial orientation
+  - Interpersonal trust
+  - Collaborative engagement
+  - Compassionate relating
+  scope: Represents adaptive agreeableness facilitating therapeutic alliance and recovery community integration. Includes appropriate trust, cooperation, and prosocial behavior while maintaining healthy assertiveness and boundaries.
+  parent_scope_inheritance: Specifies the agreeableness dimension of trait configurations as cooperative interpersonal functioning that supports treatment engagement and recovery network development.
+  polarity_expression: Manifests as balanced interpersonal functioning with ability to build therapeutic relationships while maintaining appropriate self-advocacy and boundaries.
+  cross_domain_resonance: Resonates with phy-oxy-bon-reg (regulated bonding), soc-sup-ins-coh (instrumental support exchange), and exi-con-com-pur (purposeful community engagement).
+  academic_description: Moderate agreeableness predicts positive treatment outcomes through enhanced therapeutic alliance and group cohesion. Research shows agreeable individuals benefit from social support while maintaining necessary assertiveness. Associated with prosocial recovery activities and service engagement.
+  clinical_description: NEO-PI-R agreeableness scores between 45-65 indicate adaptive balance. Clients form positive therapeutic relationships while maintaining appropriate boundaries. Treatment leverages cooperative tendencies while building assertiveness skills. Recovery includes service work and community engagement.
+  lay_description: You can work well with others in recovery while still standing up for your needs. You trust appropriately and contribute to group healing without losing yourself in others' expectations. This balance helps you benefit from support while maintaining independence.
+  core_components:
+  - Appropriate trust
+  - Cooperative behavior
+  - Prosocial orientation
+  - Balanced assertiveness
+  associated_processes:
+  - Alliance building
+  - Reciprocal support
+  - Conflict resolution
+  - Boundary maintenance
+- id: psy-per-tra-agr-mal
+  label: Agreeableness Dysfunction
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Interpersonal dysfunction
+  - Antagonistic behavior
+  - Excessive compliance
+  - Trust pathology
+  scope: Represents maladaptive extremes of either antagonistic opposition disrupting treatment or excessive compliance preventing self-advocacy. Includes interpersonal hostility, manipulation, or pathological accommodation undermining recovery.
+  parent_scope_inheritance: Specifies the agreeableness dimension of trait configurations as interpersonal dysfunction that disrupts treatment relationships or prevents appropriate self-protection in recovery.
+  polarity_expression: Manifests as either hostile resistance to help or excessive people-pleasing that prevents addressing personal needs, both maintaining addiction patterns.
+  cross_domain_resonance: Resonates with phy-oxy-bon-dys (dysregulated bonding), soc-sup-ins-fra (support fragmentation), and exi-con-com-dir (directionless isolation).
+  academic_description: Agreeableness extremes create distinct treatment challenges. Low agreeableness predicts therapeutic ruptures, group conflicts, and antisocial behavior. Excessive agreeableness associates with exploitation vulnerability and relapse through inability to refuse substances. Both require specialized interventions.
+  clinical_description: NEO-PI-R agreeableness scores below 35 indicate antagonism requiring anger management and trust-building. Scores above 70 suggest compliance issues requiring assertiveness training. Treatment must address specific interpersonal dysfunction pattern.
+  lay_description: You either push people away with anger and mistrust, making it hard to accept help, or you're so eager to please that you can't say no when you need to. Either pattern makes it difficult to build healthy recovery relationships.
+  core_components:
+  - Interpersonal extremes
+  - Trust dysfunction
+  - Boundary violations
+  - Relational pathology
+  associated_processes:
+  - Hostile opposition or pathological compliance
+  - Manipulation or exploitation vulnerability
+  - Conflict generation or avoidance
+  - Relationship sabotage or enmeshment
+- id: psy-per-tra-con-ada
+  label: Conscientious Self-Regulation
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Self-discipline
+  - Goal-directed behavior
+  - Organized functioning
+  - Impulse control
+  scope: Represents adaptive conscientiousness supporting recovery maintenance through self-discipline, organization, and goal persistence. Includes effective planning, impulse control, and achievement motivation facilitating long-term recovery.
+  parent_scope_inheritance: Specifies the conscientiousness dimension of trait configurations as self-regulatory capacity that enables consistent recovery behaviors and goal attainment.
+  polarity_expression: Manifests as disciplined recovery engagement with ability to maintain routines, resist impulses, and persist toward long-term goals despite challenges.
+  cross_domain_resonance: Resonates with phy-exe-inh-reg (regulated inhibition), soc-rol-occ-coh (occupational functioning), and exi-gro-goa-pur (purposeful goal pursuit).
+  academic_description: High conscientiousness strongly predicts positive recovery outcomes through enhanced self-control and goal persistence. Research shows conscientious individuals maintain treatment adherence, develop effective routines, and achieve sustained abstinence. Associated with delayed gratification and future orientation.
+  clinical_description: NEO-PI-R conscientiousness scores above 55 indicate protective self-regulation. Clients demonstrate treatment compliance, homework completion, and recovery planning. Treatment reinforces existing organizational skills while addressing any perfectionism. Recovery includes structured goal-setting and achievement.
+  lay_description: You're organized and disciplined about your recovery, keeping appointments, following through on commitments, and working steadily toward your goals. This self-control helps you resist impulses and build a stable, substance-free life.
+  core_components:
+  - Self-discipline
+  - Organization skills
+  - Goal persistence
+  - Impulse control
+  associated_processes:
+  - Planning and prioritizing
+  - Delay of gratification
+  - Routine maintenance
+  - Achievement striving
+- id: psy-per-tra-con-mal
+  label: Low Conscientiousness
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Self-regulation deficit
+  - Impulsive behavior
+  - Disorganized functioning
+  - Goal neglect
+  scope: Represents maladaptive low conscientiousness characterized by poor self-control, disorganization, and inability to pursue long-term goals. Includes impulsive decision-making, lack of planning, and difficulty maintaining recovery structures.
+  parent_scope_inheritance: Specifies the conscientiousness dimension of trait configurations as self-regulatory failure that prevents consistent recovery behaviors and increases relapse vulnerability.
+  polarity_expression: Manifests as chaotic recovery attempts with inability to maintain routines, frequent impulse-driven decisions, and abandonment of recovery goals.
+  cross_domain_resonance: Resonates with phy-exe-inh-dys (dysregulated inhibition), soc-rol-occ-fra (occupational dysfunction), and exi-gro-goa-dir (directionless drifting).
+  academic_description: Low conscientiousness represents major addiction risk factor through impaired self-control and present-focused orientation. Research shows association with treatment dropout, relapse, and polysubstance use. Neuroimaging reveals prefrontal cortex dysfunction underlying self-regulatory deficits.
+  clinical_description: NEO-PI-R conscientiousness scores below 40 indicate significant self-regulation impairment. Clients miss appointments, fail to complete assignments, and struggle with structure. Treatment requires external accountability, simplified goals, and intensive case management. Environmental structuring essential.
+  lay_description: You struggle with self-discipline and organization, finding it hard to stick to plans or resist immediate temptations. Without structure and support, you tend to drift back to old patterns even when you want to change.
+  core_components:
+  - Poor self-control
+  - Disorganization
+  - Impulsive decisions
+  - Goal abandonment
+  associated_processes:
+  - Present-focused orientation
+  - Routine disruption
+  - Immediate gratification
+  - Planning deficits
+- id: psy-per-tra-nov-ada
+  label: Balanced Novelty-Seeking
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Adaptive exploration
+  - Healthy curiosity
+  - Controlled excitement-seeking
+  - Balanced stimulation
+  scope: Represents adaptive novelty-seeking with appropriate exploratory behavior and excitement within safe boundaries. Includes healthy curiosity, varied interests, and ability to find stimulation through recovery-compatible activities.
+  parent_scope_inheritance: Specifies the novelty-seeking temperament dimension as balanced exploratory drive that maintains engagement through varied recovery activities without dangerous experimentation.
+  polarity_expression: Manifests as energetic recovery engagement with ability to find excitement in new recovery experiences while maintaining safety boundaries.
+  cross_domain_resonance: Resonates with phy-dop-inc-reg (regulated incentive motivation), soc-env-rec-coh (recreational engagement), and exi-gro-exp-pur (purposeful exploration).
+  academic_description: Moderate novelty-seeking facilitates recovery through maintained interest and engagement. Research shows balanced levels prevent boredom-induced relapse while avoiding dangerous sensation-seeking. Associated with successful substitution of substance rewards with natural reinforcers.
+  clinical_description: TCI novelty-seeking scores between 40-60 indicate adaptive exploration. Clients benefit from varied recovery activities, adventure-based therapy, and novel skill development. Treatment channels exploratory drive into safe outlets. Recovery includes discovering new interests and hobbies.
+  lay_description: You enjoy trying new things and seeking excitement, but you can channel this energy into healthy recovery activities. You find ways to keep life interesting without turning to substances, exploring new hobbies and experiences that support your growth.
+  core_components:
+  - Healthy curiosity
+  - Controlled exploration
+  - Varied interests
+  - Safe excitement
+  associated_processes:
+  - Interest maintenance
+  - Adaptive stimulation-seeking
+  - Novel skill acquisition
+  - Boundary awareness
+- id: psy-per-tra-nov-mal
+  label: Excessive Novelty-Seeking
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Sensation-seeking
+  - Impulsive exploration
+  - Risk-taking behavior
+  - Excitement addiction
+  scope: Represents maladaptive high novelty-seeking characterized by compulsive exploration, dangerous sensation-seeking, and inability to tolerate routine. Includes impulsive experimentation, boredom intolerance, and chronic excitement-craving driving substance use.
+  parent_scope_inheritance: Specifies the novelty-seeking temperament dimension as excessive exploratory drive that maintains addiction through constant stimulation-seeking and dangerous experimentation.
+  polarity_expression: Manifests as restless pursuit of intense experiences with inability to maintain stable recovery routines, leading to impulsive substance experimentation.
+  cross_domain_resonance: Resonates with phy-dop-inc-dys (dysregulated incentive motivation), soc-env-rec-fra (recreational chaos), and exi-gro-exp-dir (directionless thrill-seeking).
+  academic_description: High novelty-seeking strongly predicts addiction vulnerability through reward sensitivity and impulsive decision-making. Research shows association with earlier onset, polysubstance use, and treatment dropout. Neurobiologically linked to dopamine system hyperactivity and prefrontal hypofunction.
+  clinical_description: TCI novelty-seeking scores above 65 indicate problematic sensation-seeking. Clients present with boredom intolerance, impulsive decisions, and multiple substance experimentation. Treatment requires high stimulation through varied activities, adventure therapy, and excitement substitution. Harm reduction approaches often necessary.
+  lay_description: You constantly crave new and intense experiences, getting bored easily with routine recovery activities. This need for excitement often leads to risky choices and makes it hard to stick with the steady work of recovery.
+  core_components:
+  - Sensation-seeking
+  - Boredom intolerance
+  - Impulsive exploration
+  - Risk-taking
+  associated_processes:
+  - Excitement craving
+  - Routine avoidance
+  - Dangerous experimentation
+  - Stimulation escalation
+- id: psy-per-tra-hrm-ada
+  label: Appropriate Harm Avoidance
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Appropriate caution
+  - Balanced risk assessment
+  - Protective vigilance
+  - Adaptive inhibition
+  scope: Represents adaptive harm avoidance with appropriate caution and risk assessment supporting safe recovery. Includes realistic danger recognition, appropriate behavioral inhibition, and protective decision-making without excessive fear.
+  parent_scope_inheritance: Specifies the harm avoidance temperament dimension as appropriate caution that protects against relapse triggers while allowing necessary recovery risks.
+  polarity_expression: Manifests as prudent recovery planning with ability to recognize genuine risks while not avoiding beneficial challenges or opportunities.
+  cross_domain_resonance: Resonates with phy-str-fig-reg (regulated threat response), soc-bou-per-coh (appropriate boundaries), and exi-mea-suf-pur (purposeful self-protection).
+  academic_description: Moderate harm avoidance supports recovery through appropriate risk recognition without paralyzing anxiety. Research shows balanced levels prevent impulsive relapse while maintaining treatment engagement. Associated with successful trigger identification and avoidance strategies.
+  clinical_description: TCI harm avoidance scores between 45-60 indicate adaptive caution. Clients demonstrate appropriate concern about relapse risks while engaging treatment challenges. Interventions balance safety planning with graduated exposure. Recovery includes developing realistic risk assessment skills.
+  lay_description: You have a healthy sense of caution that helps you avoid dangerous situations without being paralyzed by fear. You can recognize real threats to your recovery while still taking appropriate risks for growth and healing.
+  core_components:
+  - Realistic caution
+  - Risk awareness
+  - Protective behavior
+  - Balanced inhibition
+  associated_processes:
+  - Threat assessment
+  - Safety planning
+  - Appropriate avoidance
+  - Calculated risk-taking
+- id: psy-per-tra-hrm-mal
+  label: Harm Avoidance Extremes
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Excessive fear or recklessness
+  - Anxiety or disinhibition
+  - Paralyzing caution or dangerous impulsivity
+  - Avoidance or approach dysfunction
+  scope: Represents maladaptive extremes of either excessive harm avoidance creating paralyzing anxiety or insufficient caution leading to dangerous exposure. Includes phobic avoidance or reckless approach behaviors undermining recovery.
+  parent_scope_inheritance: Specifies the harm avoidance temperament dimension as dysfunctional risk assessment that either prevents necessary recovery actions or fails to protect against genuine dangers.
+  polarity_expression: Manifests as either paralyzing fear preventing treatment engagement or reckless disregard for relapse risks, both maintaining addiction patterns.
+  cross_domain_resonance: Resonates with phy-str-fig-dys (dysregulated threat response), soc-bou-per-fra (boundary violations), and exi-mea-suf-dir (directionless vulnerability).
+  academic_description: Harm avoidance extremes create distinct vulnerabilities. High harm avoidance associates with anxiety-driven self-medication and treatment avoidance. Low harm avoidance predicts impulsive use and dangerous situations. Both patterns require targeted interventions addressing specific dysfunction.
+  clinical_description: TCI harm avoidance below 35 or above 70 indicates clinical concern. High scorers need anxiety reduction and graduated exposure. Low scorers require risk awareness training and protective structure. Treatment must address specific pattern while building balanced assessment.
+  lay_description: You're either so fearful that you avoid necessary recovery steps, or so unconcerned about danger that you repeatedly put yourself at risk. Either extreme makes it hard to navigate recovery safely and effectively.
+  core_components:
+  - Fear extremes
+  - Risk blindness
+  - Avoidance or recklessness
+  - Assessment dysfunction
+  associated_processes:
+  - Phobic avoidance or dangerous approach
+  - Paralysis or impulsivity
+  - Excessive worry or obliviousness
+  - Safety obsession or disregard
+- id: psy-per-tra-rwd-ada
+  label: Secure Reward Dependence
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Social reward sensitivity
+  - Attachment security
+  - Interpersonal warmth
+  - Balanced affiliation
+  scope: Represents adaptive reward dependence with secure attachment patterns and appropriate social reward sensitivity. Includes ability to form meaningful connections, seek appropriate support, and maintain independence within relationships.
+  parent_scope_inheritance: Specifies the reward dependence temperament dimension as balanced social motivation that facilitates supportive relationships while maintaining autonomy in recovery.
+  polarity_expression: Manifests as warm interpersonal engagement with ability to give and receive support while maintaining individual recovery responsibility.
+  cross_domain_resonance: Resonates with phy-oxy-att-reg (regulated attachment), soc-sup-emo-coh (emotional support utilization), and exi-con-int-pur (purposeful intimacy).
+  academic_description: Moderate reward dependence facilitates recovery through balanced social motivation and secure attachment. Research shows optimal levels support therapeutic alliance and peer support utilization while maintaining self-efficacy. Associated with successful mutual aid engagement.
+  clinical_description: TCI reward dependence scores between 45-65 indicate secure social functioning. Clients form appropriate therapeutic relationships and utilize support networks effectively. Treatment leverages social motivation while maintaining individual accountability. Recovery includes balanced relationship development.
+  lay_description: You value close relationships and appreciate support from others, but you don't lose yourself in trying to please everyone. This balance helps you build a strong recovery network while taking personal responsibility for your healing.
+  core_components:
+  - Secure attachment
+  - Social warmth
+  - Support utilization
+  - Maintained autonomy
+  associated_processes:
+  - Connection seeking
+  - Reciprocal support
+  - Emotional sharing
+  - Independent functioning
+- id: psy-per-tra-rwd-mal
+  label: Reward Dependence Dysfunction
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Attachment pathology
+  - Social reward dysfunction
+  - Excessive dependence or detachment
+  - Interpersonal extremes
+  scope: Represents maladaptive extremes of either excessive reward dependence creating unhealthy attachment or insufficient social motivation causing isolation. Includes codependency, approval-seeking, or emotional detachment undermining recovery.
+  parent_scope_inheritance: Specifies the reward dependence temperament dimension as dysfunctional social motivation that either creates excessive external dependence or prevents beneficial support utilization.
+  polarity_expression: Manifests as either desperate approval-seeking compromising recovery boundaries or cold detachment preventing support access, both maintaining addiction.
+  cross_domain_resonance: Resonates with phy-oxy-att-dys (dysregulated attachment), soc-sup-emo-fra (support fragmentation), and exi-con-int-dir (directionless relating).
+  academic_description: Reward dependence extremes predict differential recovery challenges. High reward dependence associates with codependency and relapse through social pressure. Low reward dependence limits support utilization and therapeutic engagement. Both patterns require specific interventions.
+  clinical_description: TCI reward dependence below 35 or above 70 requires clinical attention. High scorers need boundary work and independence building. Low scorers require attachment repair and connection facilitation. Treatment addresses specific dysfunction while building balance.
+  lay_description: You either desperately need others' approval, making you vulnerable to peer pressure, or you're so emotionally distant that you can't accept help when needed. Either pattern interferes with building healthy recovery relationships.
+  core_components:
+  - Attachment extremes
+  - Social dysfunction
+  - Dependence or detachment
+  - Approval pathology
+  associated_processes:
+  - Codependency or isolation
+  - Approval-seeking or rejection
+  - Enmeshment or withdrawal
+  - Social pressure vulnerability or support refusal
+- id: psy-per-tra-per-ada
+  label: Adaptive Persistence
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Perseverance
+  - Determination
+  - Goal persistence
+  - Frustration tolerance
+  scope: Represents adaptive persistence with ability to maintain effort toward recovery goals despite setbacks. Includes frustration tolerance, determination, and flexible perseverance that sustains long-term recovery efforts.
+  parent_scope_inheritance: Specifies the persistence temperament dimension as sustained effort capacity that enables continued recovery work through challenges while maintaining flexibility.
+  polarity_expression: Manifests as determined recovery engagement with ability to persist through difficulties while adapting strategies when needed.
+  cross_domain_resonance: Resonates with phy-exe-wkm-reg (sustained executive function), soc-rol-fam-coh (family role persistence), and exi-gro-res-pur (purposeful resilience).
+  academic_description: High persistence predicts successful recovery through maintained effort despite obstacles. Research shows persistent individuals demonstrate better treatment retention, homework compliance, and long-term abstinence. Associated with grit and growth mindset in recovery context.
+  clinical_description: TCI persistence scores above 50 indicate adaptive determination. Clients maintain treatment engagement through setbacks and demonstrate frustration tolerance. Interventions reinforce persistence while preventing rigid perseveration. Recovery emphasizes long-term goal pursuit.
+  lay_description: You keep working toward recovery even when it gets difficult, not giving up when you face setbacks. This determination helps you push through challenges while being flexible enough to try new approaches when needed.
+  core_components:
+  - Sustained effort
+  - Frustration tolerance
+  - Goal commitment
+  - Flexible determination
+  associated_processes:
+  - Setback recovery
+  - Effort maintenance
+  - Challenge engagement
+  - Strategic adaptation
+- id: psy-per-tra-per-mal
+  label: Persistence Dysfunction
+  forest: Psychological
+  forest_id: psy
+  field: Personality
+  field_id: psy-per
+  cluster: Trait Dimensions
+  cluster_id: psy-per-tra
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Low persistence
+  - Quick surrender
+  - Frustration intolerance
+  - Goal abandonment
+  scope: Represents maladaptive low persistence characterized by quick abandonment of recovery efforts when facing obstacles. Includes frustration intolerance, easy discouragement, and inability to sustain effort through challenges.
+  parent_scope_inheritance: Specifies the persistence temperament dimension as insufficient effort capacity that prevents sustained recovery work, leading to repeated treatment dropout and relapse.
+  polarity_expression: Manifests as quick abandonment of recovery attempts when facing difficulties, with inability to tolerate frustration or maintain long-term effort.
+  cross_domain_resonance: Resonates with phy-exe-wkm-dys (executive dysfunction), soc-rol-fam-fra (role abandonment), and exi-gro-res-dir (directionless surrender).
+  academic_description: Low persistence predicts poor recovery outcomes through premature treatment termination and goal abandonment. Research shows association with relapse following initial setbacks, treatment dropout, and failure to maintain behavior change. Linked to learned helplessness patterns.
+  clinical_description: TCI persistence scores below 40 indicate problematic frustration intolerance. Clients abandon treatment after setbacks and demonstrate learned helplessness. Treatment requires graduated success experiences, frustration tolerance training, and intensive support through challenges.
+  lay_description: You tend to give up quickly when recovery gets hard, feeling overwhelmed by setbacks that others might push through. This pattern of quitting when frustrated makes it difficult to achieve lasting change.
+  core_components:
+  - Low frustration tolerance
+  - Quick discouragement
+  - Effort abandonment
+  - Goal surrender
+  associated_processes:
+  - Premature quitting
+  - Setback catastrophizing
+  - Learned helplessness
+  - Motivation collapse

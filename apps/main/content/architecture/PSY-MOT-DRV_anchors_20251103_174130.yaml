@@ -1,0 +1,352 @@
+# Generated anchors for cluster: PSY-MOT-DRV
+# Timestamp: 20251103_174130
+
+anchors:
+- id: psy-mot-drv-inc-ada
+  label: Balanced Incentive Attribution
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Appropriate salience attribution
+  - Balanced reward valuation
+  - Flexible incentive processing
+  scope: Appropriate assignment of motivational value to stimuli, with balanced attribution to natural rewards, social connections, and meaningful activities. Maintains flexible updating of incentive values based on context and current needs.
+  parent_scope_inheritance: Specifies the drive system's incentive salience mechanism in its healthy state where motivational value is appropriately distributed across various reward categories.
+  polarity_expression: Manifests as balanced wanting that corresponds to actual reward value, with natural rewards maintaining their motivational pull alongside any substance-related incentives.
+  cross_domain_resonance: Resonates with phy-neu-dop-reg (regulated dopamine signaling), soc-env-rew-coh (cohesive reward environment), and exi-mea-val-pur (purposeful value systems).
+  academic_description: Reflects intact mesolimbic dopamine function where incentive salience attribution remains flexible and context-appropriate. Natural rewards maintain their motivational properties through preserved dopaminergic responses to non-drug stimuli.
+  clinical_description: Assessed through reward responsiveness scales and behavioral choice tasks. Interventions include mindfulness-based approaches to maintain balanced attention to various rewards and cognitive training to preserve flexible salience attribution.
+  lay_description: When your brain's motivation system works properly, assigning appropriate levels of 'wanting' to different rewards - food when hungry, social connection when lonely, rest when tired.
+  core_components:
+  - Flexible dopamine signaling
+  - Context-appropriate attribution
+  - Preserved natural reward salience
+  associated_processes:
+  - Reward learning
+  - Motivational updating
+  - Value computation
+- id: psy-mot-drv-inc-mal
+  label: Hypersensitized Incentive Attribution
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Incentive sensitization
+  - Pathological salience
+  - Aberrant attribution
+  scope: Excessive and inflexible assignment of motivational value to drug-related stimuli, with hypersensitization of the incentive system causing drug cues to trigger disproportionate wanting independent of actual reward value.
+  parent_scope_inheritance: Specifies the drive system's incentive salience mechanism in its pathological state where drug stimuli acquire excessive motivational significance at the expense of natural rewards.
+  polarity_expression: Manifests as compulsive wanting triggered by drug cues that overwhelms rational decision-making, with substance-related stimuli capturing attention and motivation automatically.
+  cross_domain_resonance: Resonates with phy-neu-dop-dys (dysregulated dopamine signaling), soc-env-rew-fra (fragmented reward environment), and exi-mea-val-dir (directionless value systems).
+  academic_description: Reflects sensitization of mesolimbic dopamine systems through repeated drug exposure, causing drug-associated stimuli to trigger excessive dopamine release and motivational arousal. This incentive sensitization persists long after drug use cessation.
+  clinical_description: Assessed through attention bias tasks and cue-reactivity measures. Interventions include cognitive bias modification, N-acetylcysteine to modulate glutamate-dopamine interactions, and mindfulness training to observe without acting on sensitized wanting.
+  lay_description: When addiction hijacks your brain's motivation system, making drugs seem incredibly important and 'wanted' even when you know they're harmful and may not even enjoy them anymore.
+  core_components:
+  - Dopamine system sensitization
+  - Rigid attribution patterns
+  - Drug cue hypersalience
+  associated_processes:
+  - Attention bias to drug cues
+  - Automatic approach tendencies
+  - Motivational narrowing
+- id: psy-mot-drv-cue-ada
+  label: Controlled Cue Responsivity
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Conscious cue processing
+  - Volitional response
+  - Cue awareness
+  scope: Conscious awareness and volitional control over motivational responses to environmental cues, with the ability to notice triggers without automatic wanting and to choose responses based on goals and values.
+  parent_scope_inheritance: Specifies the drive system's cue-triggered wanting component in its regulated state where environmental triggers are processed consciously and responses remain under voluntary control.
+  polarity_expression: Manifests as the ability to encounter drug cues or high-risk situations while maintaining conscious choice over behavioral responses, with wanting remaining proportional and controllable.
+  cross_domain_resonance: Resonates with psy-cog-exe-ada (adaptive executive control), phy-aut-sym-reg (regulated autonomic responses), and soc-env-cue-coh (cohesive cue management).
+  academic_description: Reflects intact prefrontal regulation of subcortical motivational responses, allowing conscious appraisal of cue significance and voluntary modulation of approach behaviors. Maintained through strong cortico-striatal connectivity.
+  clinical_description: Assessed through cue exposure tasks with response choice options. Interventions include cue exposure therapy with response prevention, implementation intentions training, and mindfulness-based relapse prevention.
+  lay_description: Being able to see drug-related cues or be in triggering situations while staying in control, consciously choosing how to respond rather than feeling pulled automatically.
+  core_components:
+  - Conscious cue appraisal
+  - Voluntary response selection
+  - Contextual flexibility
+  associated_processes:
+  - Top-down regulation
+  - Response inhibition
+  - Goal-directed control
+- id: psy-mot-drv-cue-mal
+  label: Automatic Cue Reactivity
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Cue-induced craving
+  - Triggered wanting
+  - Conditioned motivation
+  scope: Automatic and overwhelming motivational responses triggered by drug-associated cues, with involuntary wanting that bypasses conscious control and drives behavior toward substance seeking despite intentions.
+  parent_scope_inheritance: Specifies the drive system's cue-triggered wanting component in its dysregulated state where environmental triggers automatically activate intense motivational states outside voluntary control.
+  polarity_expression: Manifests as immediate and intense wanting upon cue exposure, with physiological arousal and attention capture that occurs before conscious awareness and overwhelms regulatory attempts.
+  cross_domain_resonance: Resonates with psy-cog-exe-mal (maladaptive executive control), phy-aut-sym-dys (dysregulated autonomic responses), and soc-env-cue-fra (fragmented cue exposure).
+  academic_description: Reflects conditioned motivational responses where drug cues activate subcortical motivational circuits faster than prefrontal control regions can regulate them. Involves learned associations between cues and drug effects through classical conditioning.
+  clinical_description: Assessed through cue-reactivity paradigms measuring subjective craving, physiological arousal, and attention bias. Interventions include systematic cue exposure, stimulus control strategies, and pharmacological agents like naltrexone.
+  lay_description: When seeing drug paraphernalia, being in certain places, or encountering specific people automatically triggers intense cravings and wanting before you can even think about it.
+  core_components:
+  - Conditioned cue responses
+  - Automatic activation
+  - Bypassed control
+  associated_processes:
+  - Classical conditioning
+  - Implicit motivation
+  - Habitual responding
+- id: psy-mot-drv-crv-ada
+  label: Manageable Urge Intensity
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Tolerable cravings
+  - Mild urges
+  - Surfable waves
+  scope: Mild to moderate urges and cravings that remain within tolerable limits, allowing for observation without action and maintaining the capacity for values-based behavioral choices despite motivational pressure.
+  parent_scope_inheritance: Specifies the drive system's craving intensity dimension in its manageable state where urges remain within a range that permits conscious regulation and choice.
+  polarity_expression: Manifests as urges that can be noticed, acknowledged, and allowed to pass without overwhelming distress or compulsive action, maintaining a workable relationship with motivational states.
+  cross_domain_resonance: Resonates with psy-emo-dis-ada (adaptive distress tolerance), phy-str-cor-reg (regulated stress response), and exi-suf-pai-pur (purposeful pain processing).
+  academic_description: Reflects moderate activation of motivational circuits that remains within the regulatory capacity of prefrontal control systems. Involves sufficient cognitive resources to implement coping strategies and maintain goal-directed behavior.
+  clinical_description: Assessed through craving intensity scales and distress ratings. Interventions include urge surfing techniques, acceptance-based strategies, and building tolerance for uncomfortable but manageable motivational states.
+  lay_description: Experiencing cravings as uncomfortable but bearable waves that come and go, like hunger pangs that you can notice and wait out rather than immediately acting on them.
+  core_components:
+  - Moderate intensity
+  - Temporal limitation
+  - Retained choice capacity
+  associated_processes:
+  - Urge surfing
+  - Acceptance
+  - Delay tolerance
+- id: psy-mot-drv-crv-mal
+  label: Overwhelming Craving Intensity
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Intense cravings
+  - Unbearable urges
+  - Compulsive wanting
+  scope: Intense, persistent, and intrusive cravings that dominate consciousness and overwhelm regulatory capacity, creating unbearable motivational pressure that drives compulsive drug-seeking despite negative consequences.
+  parent_scope_inheritance: Specifies the drive system's craving intensity dimension in its dysregulated state where urges exceed tolerance thresholds and override voluntary control.
+  polarity_expression: Manifests as all-consuming wanting that creates severe distress, captures complete attention, and feels unbearable without immediate relief through substance use.
+  cross_domain_resonance: Resonates with psy-emo-dis-mal (maladaptive distress intolerance), phy-str-cor-dys (dysregulated stress response), and exi-suf-pai-dir (directionless suffering).
+  academic_description: Reflects excessive activation of motivational circuits that overwhelms prefrontal regulatory capacity. Involves depletion of cognitive resources needed for self-control and heightened activity in brain regions associated with motivational urgency.
+  clinical_description: Assessed through peak craving ratings and functional impairment measures. Interventions include anti-craving medications like acamprosate, intensive coping skills training, and crisis management strategies.
+  lay_description: Cravings so intense they take over your entire mind and body, feeling absolutely unbearable and making it seem impossible to think about anything else or resist using.
+  core_components:
+  - Extreme intensity
+  - Persistent intrusion
+  - Regulatory overwhelm
+  associated_processes:
+  - Attention capture
+  - Distress amplification
+  - Compulsive urgency
+- id: psy-mot-drv-hie-ada
+  label: Balanced Motivational Hierarchy
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Diverse reward portfolio
+  - Flexible prioritization
+  - Multiple incentives
+  scope: Appropriate distribution of motivational priority across multiple reward categories, with flexible adjustment based on needs and context while maintaining diverse sources of reinforcement and satisfaction.
+  parent_scope_inheritance: Specifies the drive system's motivational hierarchy organization in its balanced state where various rewards compete appropriately for motivational priority.
+  polarity_expression: Manifests as motivation distributed across relationships, work, hobbies, health, and growth, with the ability to shift priorities based on current needs and long-term goals.
+  cross_domain_resonance: Resonates with exi-pur-goa-pur (purposeful goal pursuit), soc-rol-bal-coh (cohesive role balance), and psy-cog-val-ada (adaptive value assessment).
+  academic_description: Reflects preserved competition between multiple reward systems, with appropriate weighting of immediate versus delayed rewards and maintenance of diverse reinforcement sources. Involves balanced activation across reward network nodes.
+  clinical_description: Assessed through behavioral allocation measures and reward preference tasks. Interventions include contingency management, behavioral activation, and values clarification exercises to strengthen non-drug reward motivation.
+  lay_description: Having multiple things that motivate you - family, work, hobbies, health - with the ability to balance these priorities rather than having one thing dominate everything else.
+  core_components:
+  - Multiple reward sources
+  - Flexible prioritization
+  - Contextual adjustment
+  associated_processes:
+  - Value-based choice
+  - Goal competition
+  - Behavioral allocation
+- id: psy-mot-drv-hie-mal
+  label: Drug-Dominated Motivational Hierarchy
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Motivational monopoly
+  - Reward narrowing
+  - Substance prioritization
+  scope: Pathological dominance of substance-related rewards over all other motivational priorities, with drugs monopolizing motivational resources and crowding out natural rewards, relationships, and life goals.
+  parent_scope_inheritance: Specifies the drive system's motivational hierarchy organization in its imbalanced state where substance rewards overwhelmingly dominate the motivational landscape.
+  polarity_expression: Manifests as substance use becoming the primary or sole source of motivation, with progressive neglect of work, relationships, health, and previously valued activities.
+  cross_domain_resonance: Resonates with exi-pur-goa-dir (directionless goal pursuit), soc-rol-bal-fra (fragmented role performance), and psy-cog-val-mal (maladaptive value distortion).
+  academic_description: Reflects hijacking of reward systems where drug rewards outcompete all natural rewards for motivational resources. Involves downregulation of natural reward sensitivity and upregulation of drug reward valuation.
+  clinical_description: Assessed through time allocation analysis and behavioral choice tasks. Interventions include contingency management with alternative reinforcers, community reinforcement approach, and systematic reactivation of natural reward systems.
+  lay_description: When drugs become the only thing that really matters or motivates you, pushing aside everything else that used to be important like family, work, or hobbies.
+  core_components:
+  - Substance monopolization
+  - Natural reward neglect
+  - Rigid prioritization
+  associated_processes:
+  - Motivational narrowing
+  - Reward devaluation
+  - Behavioral monopoly
+- id: psy-mot-drv-wld-ada
+  label: Aligned Wanting-Liking
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Motivational coherence
+  - Hedonic correspondence
+  - Reward congruence
+  scope: Appropriate correspondence between motivational drive and hedonic pleasure, where wanting is proportional to both anticipated and experienced enjoyment, maintaining coherent reward processing.
+  parent_scope_inheritance: Specifies the drive system's wanting-liking relationship in its aligned state where motivational pursuit corresponds with actual and expected pleasure.
+  polarity_expression: Manifests as wanting things that bring genuine pleasure and satisfaction, with motivation naturally decreasing for activities that no longer provide enjoyment.
+  cross_domain_resonance: Resonates with phy-neu-hed-reg (regulated hedonic processing), psy-cog-exp-ada (adaptive expectancy matching), and exi-mea-sat-pur (purposeful satisfaction).
+  academic_description: Reflects coordinated function of dopaminergic wanting systems and opioidergic liking systems, with motivational drive calibrated to hedonic value. Maintains appropriate learning from reward prediction errors.
+  clinical_description: Assessed through separate wanting and liking ratings for various rewards. Interventions include experiential exercises comparing anticipated versus actual pleasure and motivational interviewing exploring wanting-liking relationships.
+  lay_description: When your desire for something matches how much you actually enjoy it - wanting things that truly bring pleasure and naturally losing interest in things that don't satisfy anymore.
+  core_components:
+  - Proportional wanting
+  - Hedonic calibration
+  - Motivational updating
+  associated_processes:
+  - Reward learning
+  - Pleasure anticipation
+  - Satisfaction feedback
+- id: psy-mot-drv-wld-mal
+  label: Dissociated Wanting-Liking
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Motivational-hedonic split
+  - Wanting without liking
+  - Anhedonic craving
+  scope: Pathological separation between motivational drive and hedonic pleasure, characterized by intense wanting despite diminished or absent liking, creating compulsive pursuit without satisfaction.
+  parent_scope_inheritance: Specifies the drive system's wanting-liking relationship in its dissociated state where motivational drive persists or intensifies despite loss of pleasure.
+  polarity_expression: Manifests as compulsively wanting and seeking drugs despite no longer enjoying them, with intense craving disconnected from any expectation or experience of pleasure.
+  cross_domain_resonance: Resonates with phy-neu-hed-dys (dysregulated hedonic processing), psy-cog-exp-mal (maladaptive expectancy persistence), and exi-mea-sat-dir (directionless pursuit).
+  academic_description: Reflects differential sensitization where dopaminergic wanting systems become hypersensitive while opioidergic liking systems remain unchanged or become blunted. Creates compulsive motivation without hedonic reward.
+  clinical_description: Assessed through independent wanting and liking scales showing divergence. Interventions include motivational interviewing highlighting this discrepancy and acceptance-based approaches for tolerating wanting without pursuit.
+  lay_description: Desperately wanting and craving drugs even though they don't bring pleasure anymore - like being driven to seek something that you know won't satisfy you.
+  core_components:
+  - Sensitized wanting
+  - Blunted liking
+  - Motivational persistence
+  associated_processes:
+  - Compulsive seeking
+  - Hedonic deficit
+  - Irrational pursuit
+- id: psy-mot-drv-nat-ada
+  label: Preserved Natural Reward Motivation
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Intact reward responsiveness
+  - Natural reinforcement sensitivity
+  - Non-drug motivation
+  scope: Maintained motivational responsiveness to natural rewards including food, social connection, accomplishment, and meaningful activities, with preserved capacity to derive motivation from non-drug sources.
+  parent_scope_inheritance: Specifies the drive system's natural reward component in its preserved state where non-drug rewards maintain their motivational significance.
+  polarity_expression: Manifests as continued interest and engagement in relationships, hobbies, work achievements, and daily pleasures, with these activities providing genuine motivational pull.
+  cross_domain_resonance: Resonates with soc-con-soc-coh (cohesive social motivation), exi-mea-ful-pur (purposeful fulfillment seeking), and phy-neu-end-reg (regulated endorphin response).
+  academic_description: Reflects intact sensitivity of reward systems to natural reinforcers, with preserved dopaminergic and opioidergic responses to non-drug rewards. Maintains diverse sources of reinforcement and behavioral activation.
+  clinical_description: Assessed through pleasant events schedules and behavioral activation monitoring. Interventions include systematic engagement in rewarding activities, behavioral activation therapy, and natural reward exposure exercises.
+  lay_description: Still finding motivation and interest in everyday pleasures like good food, time with friends, accomplishing goals, or enjoying hobbies - maintaining multiple sources of satisfaction beyond substances.
+  core_components:
+  - Reward diversity
+  - Natural pleasure response
+  - Behavioral engagement
+  associated_processes:
+  - Approach motivation
+  - Reward savoring
+  - Activity scheduling
+- id: psy-mot-drv-nat-mal
+  label: Natural Reward Deficiency
+  forest: Psychological
+  forest_id: psy
+  field: Motivational
+  field_id: psy-mot
+  cluster: Drive Systems
+  cluster_id: psy-mot-drv
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Anhedonic demotivation
+  - Reward insensitivity
+  - Motivational anhedonia
+  scope: Diminished or absent motivational response to natural rewards, with loss of interest in previously enjoyable activities and inability to derive motivational energy from non-drug sources.
+  parent_scope_inheritance: Specifies the drive system's natural reward component in its deficient state where non-drug rewards lose their motivational power.
+  polarity_expression: Manifests as pervasive loss of interest in relationships, activities, and achievements that once provided satisfaction, with only substance use retaining motivational significance.
+  cross_domain_resonance: Resonates with soc-con-soc-fra (fragmented social withdrawal), exi-mea-ful-dir (directionless emptiness), and phy-neu-end-dys (dysregulated endorphin deficiency).
+  academic_description: Reflects downregulation of natural reward sensitivity through allostatic adaptation to drug rewards. Involves reduced dopaminergic and opioidergic responses to natural reinforcers and decreased reward network activation.
+  clinical_description: Assessed through anhedonia scales and behavioral monitoring showing reduced engagement. Interventions include behavioral activation, exercise programs to restore endorphin function, and medications targeting anhedonia.
+  lay_description: Losing interest in everything that used to bring joy or motivation - food tastes bland, hobbies seem pointless, relationships feel empty - with only drugs providing any sense of wanting or reward.
+  core_components:
+  - Reward insensitivity
+  - Interest loss
+  - Motivational void
+  associated_processes:
+  - Behavioral withdrawal
+  - Hedonic blunting
+  - Reinforcement loss

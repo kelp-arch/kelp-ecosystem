@@ -1,0 +1,364 @@
+# Generated anchors for cluster: SOC-PER-STR
+# Timestamp: 20251104_052131
+
+anchors:
+- id: soc-per-str-den-coh
+  label: Dense Network Integration
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - High network density
+  - Tightly connected network
+  - Saturated peer connections
+  scope: High proportion of realized connections creating redundant pathways of influence and support, with most network members knowing and interacting with each other regularly.
+  parent_scope_inheritance: Specifies the network topology aspect of peer network structure by focusing on the overall connectivity density and proportion of possible ties that are actualized.
+  polarity_expression: Manifests as dense interconnection with multiple redundant pathways, creating strong collective influence and rapid information spread through the network.
+  cross_domain_resonance: Resonates with psychological attachment security (psy-att-ada) facilitating connection formation and physiological stress regulation (phy-str-reg) through social support availability.
+  academic_description: High network density, measured as the ratio of actual to possible ties, creates conditions for strong social capital and normative influence. Research shows dense networks exhibit rapid behavioral contagion, whether positive or negative, through redundant influence pathways. Coleman's closure theory demonstrates how density enables effective norm enforcement and collective action. In addiction contexts, dense using networks create echo chambers reinforcing substance use, while dense recovery networks provide comprehensive support. Mathematical models reveal density thresholds for behavioral cascade effects.
+  clinical_description: Dense peer networks require careful assessment of network composition, as high density amplifies dominant network behaviors. Clinicians map connection patterns to identify if density supports or undermines recovery. When dense networks consist primarily of substance users, interventions focus on strategic network pruning—selectively reducing ties while maintaining essential support. Conversely, building density within recovery networks strengthens mutual aid. Treatment may involve boundary management training to regulate network permeability and gradual network transformation rather than abrupt disconnection.
+  lay_description: When most of your friends know each other, you're in a dense network where everyone is connected. This creates a tight-knit group where news travels fast and everyone influences everyone else. If the group uses substances, the pressure to use is constant and comes from all directions. But if it's a recovery group, you get support from every angle. Dense networks can feel like being wrapped in a blanket—comforting if it's healthy, suffocating if it's not.
+  structural_components:
+  - High tie density ratio
+  - Multiple connection redundancy
+  - Overlapping relationship clusters
+  social_processes:
+  - Rapid information diffusion
+  - Strong normative pressure
+  - Collective behavior reinforcement
+  societal_relevance: Dense networks shape community norms and collective behaviors, influencing substance use patterns at population levels through social contagion mechanisms.
+- id: soc-per-str-den-fra
+  label: Sparse Network Fragmentation
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Low network density
+  - Disconnected network
+  - Sparse peer connections
+  scope: Low proportion of realized connections creating isolated components and limited pathways for influence or support, with many network members unknown to each other.
+  parent_scope_inheritance: Specifies the network topology aspect of peer network structure by focusing on sparse connectivity patterns and the absence of interconnections between network members.
+  polarity_expression: Manifests as disconnected or weakly connected network components with limited redundancy, creating isolation pockets and restricted information flow.
+  cross_domain_resonance: Resonates with psychological attachment insecurity (psy-att-mal) hindering connection formation and physiological stress dysregulation (phy-str-dys) through social isolation.
+  academic_description: Low network density, characterized by few actualized ties relative to possible connections, creates structural conditions for social isolation and limited social capital. Sparse networks exhibit slow or blocked information diffusion and weak normative influence. Granovetter's weak ties theory suggests sparse networks may provide diverse information but limited emotional support. In addiction contexts, sparse networks may reduce negative peer influence but also limit access to recovery resources. Network fragmentation can increase vulnerability through lack of social monitoring and support.
+  clinical_description: 'Sparse peer networks present dual clinical challenges: reduced negative influence but also limited support resources. Assessment examines both the sparsity pattern and the quality of existing ties. Interventions focus on strategic network building—creating connections that provide support without reintroducing substance use risks. Group therapy and recovery communities offer structured environments for network expansion. Clinicians help clients identify optimal density levels balancing support needs with manageable social demands. Social skills training may address barriers to connection formation.'
+  lay_description: When your friends don't know each other and you have few connections overall, you're in a sparse network. It's like having separate islands of relationships that never connect. This can mean less peer pressure to use substances, but also less support when you need it. You might feel isolated or like you're managing different parts of your life alone. Recovery often means carefully building more connections to create a supportive but not overwhelming social world.
+  structural_components:
+  - Low tie density ratio
+  - Isolated network components
+  - Minimal connection overlap
+  social_processes:
+  - Limited information flow
+  - Weak social influence
+  - Reduced collective action capacity
+  societal_relevance: Sparse networks contribute to social fragmentation and isolation, potentially increasing vulnerability to addiction while limiting both negative influences and positive support systems.
+- id: soc-per-str-tie-coh
+  label: Strong Tie Bonding
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Intense peer bonds
+  - Close-knit relationships
+  - High-strength ties
+  scope: Network characterized by emotionally intense, reciprocal relationships with frequent interaction, multiplexity, and deep mutual investment providing strong bonding social capital.
+  parent_scope_inheritance: Specifies the tie strength dimension of network structure by focusing on the intensity, reciprocity, and multiplexity of peer relationships within the network.
+  polarity_expression: Manifests as deep emotional bonds with high interaction frequency, reciprocal support exchange, and relationships spanning multiple life domains.
+  cross_domain_resonance: Resonates with psychological attachment security (psy-att-ada) enabling deep connections and existential belonging (exi-con-pur) through meaningful relationships.
+  academic_description: Strong ties, characterized by emotional intensity, intimacy, reciprocity, and time investment, provide bonding social capital essential for emotional support and resource mobilization. Granovetter's strength of weak ties paradox shows strong ties offer support but may limit access to novel information. In addiction contexts, strong ties to substance users create powerful reinforcement mechanisms, while strong ties to recovery supporters provide accountability and emotional sustenance. Network homophily often strengthens ties between similar individuals, potentially reinforcing existing behaviors.
+  clinical_description: Strong tie assessment examines relationship quality, reciprocity patterns, and behavioral influence within close relationships. When strong ties connect to substance users, interventions may involve relationship renegotiation rather than severing, preserving emotional bonds while establishing behavioral boundaries. Building strong ties within recovery communities—through sponsorship, recovery friendships, and family healing—provides essential emotional infrastructure. Clinicians help differentiate between healthy interdependence and codependence in strong tie relationships.
+  lay_description: Strong ties are your closest relationships—the people you turn to in crisis, share everything with, and see regularly. These deep bonds provide emotional support and practical help but also strongly influence your behavior. If your strong ties are with people who use substances, their influence is powerful and constant. Recovery often means building equally strong ties with people who support your sobriety, creating a new inner circle that reinforces healthy choices.
+  structural_components:
+  - High emotional intensity bonds
+  - Frequent reciprocal interaction
+  - Multiplex relationship overlap
+  social_processes:
+  - Deep emotional support exchange
+  - Strong behavioral influence
+  - Resource mobilization capacity
+  societal_relevance: Strong ties form the backbone of social support systems, shaping individual resilience and vulnerability to addiction through intense interpersonal influence mechanisms.
+- id: soc-per-str-tie-fra
+  label: Weak Tie Dispersion
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Superficial peer connections
+  - Acquaintance networks
+  - Low-strength ties
+  scope: Network dominated by emotionally distant, non-reciprocal relationships with infrequent interaction and limited multiplexity, providing primarily bridging social capital.
+  parent_scope_inheritance: Specifies the tie strength dimension of network structure by focusing on the prevalence of weak, superficial connections with limited emotional investment or reciprocity.
+  polarity_expression: Manifests as superficial connections with low interaction frequency, limited reciprocity, and relationships confined to single contexts or roles.
+  cross_domain_resonance: Resonates with psychological attachment avoidance (psy-att-mal) limiting emotional depth and existential isolation (exi-con-dir) through lack of meaningful connection.
+  academic_description: Weak ties, characterized by limited emotional investment and infrequent interaction, provide bridging social capital and access to diverse information and resources. While Granovetter demonstrated weak ties' value for opportunity access, overreliance on weak ties limits emotional support availability. In addiction contexts, weak tie networks may reduce intense peer pressure but fail to provide accountability or crisis support. The absence of strong ties can increase vulnerability through lack of social monitoring and emergency resources.
+  clinical_description: Weak tie dominance requires assessment of underlying attachment patterns and social skill deficits that may prevent deeper connection formation. Interventions focus on selectively strengthening promising weak ties into supportive relationships while maintaining beneficial bridging connections. Social skills training, trust-building exercises, and graduated emotional disclosure help clients develop capacity for stronger bonds. Group therapy provides structured environment for practicing relationship deepening while maintaining appropriate boundaries.
+  lay_description: Weak ties are your acquaintances—people you know casually but don't deeply connect with. While these relationships can provide new opportunities and information, a network of only weak ties leaves you without close support. You might know many people but feel alone when facing challenges. Recovery often requires converting some weak ties into stronger relationships, building a core support group while keeping helpful casual connections for opportunities and resources.
+  structural_components:
+  - Low emotional intensity bonds
+  - Sporadic interaction patterns
+  - Single-context relationships
+  social_processes:
+  - Information bridging
+  - Weak social influence
+  - Limited support availability
+  societal_relevance: Weak tie networks facilitate information diffusion and opportunity access across social boundaries but may contribute to social isolation and reduced community cohesion.
+- id: soc-per-str-cen-coh
+  label: Central Network Position
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Network hub position
+  - High centrality
+  - Influential network position
+  scope: Occupying structurally important positions with high degree, betweenness, or eigenvector centrality, enabling influence, resource access, and information flow control.
+  parent_scope_inheritance: Specifies the centrality dimension of network structure by focusing on individuals' structural importance and influence potential within peer networks.
+  polarity_expression: Manifests as numerous direct connections, bridging positions between groups, and connection to other influential network members.
+  cross_domain_resonance: Resonates with psychological self-efficacy (psy-age-ada) through influence capacity and existential purpose (exi-mea-pur) through social significance.
+  academic_description: Network centrality, measured through degree (direct connections), betweenness (bridging position), and eigenvector (connection to influential others) metrics, predicts influence capacity and resource access. Central positions in substance use networks increase exposure and normative pressure, while centrality in recovery networks facilitates positive influence diffusion. Borgatti's key player problem identifies how central actor removal can fragment networks. Research shows centrality correlates with both vulnerability to negative influences and capacity for positive leadership.
+  clinical_description: Centrality assessment uses network mapping to identify client's structural position and influence exposure. High centrality in substance use networks requires strategic repositioning—gradually reducing centrality through selective tie dissolution while building peripheral positions in recovery networks. Conversely, developing centrality in recovery networks through service positions, sponsorship, and peer support roles enhances recovery capital. Clinicians help clients understand how structural position shapes their influence and exposure patterns.
+  lay_description: Being central in a network means you're highly connected—many people know you, you connect different groups, or you know influential people. If you're central in a group that uses substances, you're constantly exposed to use and pressure. But being central in a recovery network means you can help others and access support easily. Sometimes recovery means becoming less central in unhealthy networks while building importance in healthy ones.
+  structural_components:
+  - Multiple direct connections
+  - Bridging position between groups
+  - Links to influential members
+  social_processes:
+  - High influence capacity
+  - Information flow control
+  - Resource access advantages
+  societal_relevance: Central network positions shape community influence patterns, determining how behaviors and norms spread through social systems and affecting collective addiction vulnerabilities.
+- id: soc-per-str-cen-fra
+  label: Peripheral Network Position
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Network margin position
+  - Low centrality
+  - Isolated network position
+  scope: Occupying structurally marginal positions with low centrality measures, limiting influence capacity, resource access, and integration within peer networks.
+  parent_scope_inheritance: Specifies the centrality dimension of network structure by focusing on peripheral positioning that limits structural importance and influence within networks.
+  polarity_expression: Manifests as few direct connections, absence of bridging positions, and disconnection from influential network members.
+  cross_domain_resonance: Resonates with psychological learned helplessness (psy-age-mal) through lack of influence and existential meaninglessness (exi-mea-dir) through social insignificance.
+  academic_description: Peripheral network positions, characterized by low centrality across metrics, limit influence capacity and resource access while potentially reducing negative exposure. Peripherality can result from social exclusion, voluntary withdrawal, or structural barriers. In addiction contexts, peripheral positions may protect from substance use contagion but also limit access to recovery resources. Research shows peripherality correlates with reduced social capital, increased vulnerability to stressors, and difficulty mobilizing support during crises.
+  clinical_description: Peripheral position assessment examines whether marginalization results from social anxiety, skill deficits, or protective withdrawal. Interventions depend on peripherality causes—social skills training for deficits, graduated exposure for anxiety, or strategic positioning for those avoiding negative influences. Building bridges from periphery to recovery network cores requires careful pacing to prevent overwhelming clients. Peer mentorship and buddy systems provide structured pathways from peripheral to more integrated positions.
+  lay_description: Being peripheral means you're on the edges of social networks—few people know you, you don't connect groups, and you're distant from influential people. This might protect you from negative peer pressure, but it also means less support and fewer opportunities. You might feel like an outsider looking in. Recovery often involves carefully moving from the margins toward the center of healthy networks, building connections gradually to avoid overwhelming yourself.
+  structural_components:
+  - Few direct connections
+  - No bridging positions
+  - Distance from influential members
+  social_processes:
+  - Limited influence capacity
+  - Restricted information access
+  - Reduced resource availability
+  societal_relevance: Peripheral network positions contribute to social marginalization and inequality, potentially increasing vulnerability to addiction through isolation while limiting access to support resources.
+- id: soc-per-str-clu-coh
+  label: Clustered Network Cohesion
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Triadic closure
+  - Network clustering
+  - Closed network triangles
+  scope: High clustering coefficient with prevalent triadic closure where friends of friends are also friends, creating cohesive local neighborhoods and reinforcing group norms.
+  parent_scope_inheritance: Specifies the clustering pattern aspect of network structure by focusing on the tendency for triangular closure and local density within peer networks.
+  polarity_expression: Manifests as closed triangles where mutual friends know each other, creating dense local clusters with strong norm enforcement.
+  cross_domain_resonance: Resonates with psychological group identity (psy-ide-ada) through collective belonging and sociological norm cohesion (soc-nor-coh) through group enforcement.
+  academic_description: High clustering coefficients indicate prevalent triadic closure, where open triangles tend to close as friends introduce friends. Coleman's closure theory demonstrates how clustering enables effective sanctioning and trust building. In addiction contexts, clustered using networks create echo chambers reinforcing substance use through redundant normative messages. Conversely, clustered recovery networks provide comprehensive mutual monitoring and support. Watts-Strogatz small-world networks show how clustering with occasional long-range ties optimizes both local support and global reach.
+  clinical_description: Clustering assessment maps triadic patterns to identify closed groups reinforcing specific behaviors. High clustering in substance use networks requires careful intervention to avoid triggering entire cluster resistance. Clinicians may work with natural clusters, introducing recovery norms through influential cluster members. Building clustering within recovery groups—facilitating friendships between group members—strengthens collective recovery identity. The goal is leveraging clustering's norm enforcement power for recovery rather than use.
+  lay_description: Network clustering means your friends know each other, forming tight triangles of relationships. When you're in a clustered network, the group develops strong shared beliefs and behaviors because everyone reinforces the same messages. If the cluster uses substances, the pressure is intense and comes from all sides. But clustered recovery groups provide powerful mutual support. Recovery might mean joining new clusters where friends support each other's sobriety.
+  structural_components:
+  - Closed relationship triangles
+  - Dense local neighborhoods
+  - Overlapping friend groups
+  social_processes:
+  - Strong norm enforcement
+  - Collective identity formation
+  - Mutual monitoring systems
+  societal_relevance: Network clustering patterns shape community cohesion and behavioral norms, creating pockets of reinforcement that can either perpetuate or prevent substance use behaviors.
+- id: soc-per-str-clu-fra
+  label: Dispersed Network Structure
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Open triads
+  - Low clustering
+  - Compartmentalized relationships
+  scope: Low clustering coefficient with minimal triadic closure where friends of friends remain unconnected, creating compartmentalized relationships and weak group cohesion.
+  parent_scope_inheritance: Specifies the clustering pattern aspect of network structure by focusing on the absence of triangular closure and compartmentalization of peer relationships.
+  polarity_expression: Manifests as open triangles where mutual friends don't know each other, creating separated relationship compartments with weak collective influence.
+  cross_domain_resonance: Resonates with psychological identity diffusion (psy-ide-mal) through fragmented social roles and sociological norm fragmentation (soc-nor-fra) through inconsistent influences.
+  academic_description: Low clustering coefficients indicate minimal triadic closure, with relationships remaining compartmentalized across different social contexts. This structure limits norm enforcement capacity and collective action potential. In addiction contexts, low clustering may reduce echo chamber effects but also limits mutual support and accountability. Burt's structural holes theory suggests low clustering provides information advantages but reduces social cohesion. Research shows low clustering correlates with role strain from managing disconnected social worlds.
+  clinical_description: Low clustering assessment identifies whether compartmentalization serves protective functions or reflects social skill deficits. Some clients benefit from maintaining separation between different life domains during early recovery. However, excessive compartmentalization prevents formation of supportive recovery communities. Interventions may involve selective introduction strategies—helping compatible friends meet to build supportive triangles. Group therapy naturally increases clustering as members form friendships outside sessions.
+  lay_description: Low clustering means your friends don't know each other—you maintain separate social circles that never overlap. This can feel like living multiple lives, switching between different groups with different expectations. While this might protect you from group pressure to use substances, it also means less coordinated support. You might feel torn between different worlds. Recovery often involves selectively connecting compatible friends to build a more unified support network.
+  structural_components:
+  - Open relationship triangles
+  - Separated social compartments
+  - Non-overlapping friend groups
+  social_processes:
+  - Weak norm enforcement
+  - Fragmented identity management
+  - Limited collective action
+  societal_relevance: Low network clustering contributes to social fragmentation and weakened community bonds, potentially reducing both negative peer influences and positive collective support for recovery.
+- id: soc-per-str-hol-coh
+  label: Strategic Network Bridging
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Bridging ties
+  - Structural hole spanning
+  - Network brokerage
+  scope: Presence of strategic bridging ties spanning structural holes between disconnected groups, enabling access to diverse resources, information, and behavioral alternatives.
+  parent_scope_inheritance: Specifies the structural holes aspect of network structure by focusing on bridging connections that span gaps between otherwise disconnected peer groups.
+  polarity_expression: Manifests as connections linking separate network clusters, providing pathways for novel information and opportunities for behavioral change.
+  cross_domain_resonance: Resonates with psychological cognitive flexibility (psy-cog-ada) enabling perspective-taking and existential growth (exi-gro-pur) through exposure to diversity.
+  academic_description: Bridging ties span structural holes—gaps between disconnected network clusters—providing access to non-redundant information and resources. Burt's structural holes theory demonstrates how bridging positions confer information and control advantages. In addiction contexts, bridges to recovery communities provide exit routes from substance use networks. Granovetter's weak ties often serve bridging functions, connecting disparate social worlds. Research shows bridging social capital correlates with successful recovery transitions through access to diverse support resources.
+  clinical_description: Bridging tie assessment identifies existing connections to recovery-supportive communities and potential bridge-building opportunities. Clinicians help clients recognize and strengthen nascent bridges—casual acquaintances in recovery, family members in sobriety, or professional helpers. Building bridges requires careful navigation of different group norms and identities. Peer recovery coaches often serve as initial bridges, connecting clients to recovery communities. The goal is developing multiple bridges to prevent overreliance on single pathways.
+  lay_description: Bridging ties connect you to different social worlds—they're the people who introduce you to new groups and opportunities. These bridges are crucial for change because they offer escape routes from negative situations and doorways to better ones. A bridge might be someone in recovery you met at work, or a family member who connects you to support groups. Building bridges means cultivating relationships that link you to healthier communities while providing alternatives to old patterns.
+  structural_components:
+  - Inter-group connections
+  - Structural hole spanning
+  - Diverse network reach
+  social_processes:
+  - Information brokerage
+  - Resource access facilitation
+  - Behavioral alternative exposure
+  societal_relevance: Network bridges facilitate social mobility and behavioral change, enabling individuals to transition between social worlds and access diverse resources for recovery.
+- id: soc-per-str-hol-fra
+  label: Network Isolation Gaps
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Unbridged structural holes
+  - Network disconnection
+  - Social isolation gaps
+  scope: Absence of bridging ties across structural holes, creating isolated network positions with limited access to diverse resources and entrapment within single groups.
+  parent_scope_inheritance: Specifies the structural holes aspect of network structure by focusing on the absence of bridging connections, leaving gaps between peer groups unbridged.
+  polarity_expression: Manifests as disconnection between network clusters with no linking pathways, creating isolation within limited social worlds.
+  cross_domain_resonance: Resonates with psychological cognitive rigidity (psy-cog-mal) limiting perspective and existential stagnation (exi-gro-dir) through lack of growth opportunities.
+  academic_description: Unbridged structural holes create network fragmentation, trapping individuals within isolated clusters without access to external resources or alternatives. The absence of bridging ties limits information diversity, reduces opportunity awareness, and constrains behavioral options. In addiction contexts, lack of bridges to recovery communities perpetuates entrapment in substance use networks. Research shows individuals without bridging ties exhibit higher relapse rates due to inability to access recovery resources or escape negative peer influences.
+  clinical_description: Assessment of unbridged holes identifies missing connections to recovery-supportive communities and barriers to bridge formation. Interventions focus on creating initial bridges through structured introductions—recovery meetings, sober activities, or volunteer opportunities. Clinicians address fears and skills deficits that prevent bridge building, such as social anxiety or cultural barriers. Recovery coaches and peer mentors serve as professional bridges until natural connections develop. The goal is establishing multiple bridges to prevent isolation.
+  lay_description: When you lack bridges between social worlds, you're trapped in your current situation with no visible exits. Without connections to different groups, you can't access new opportunities or escape negative influences. It's like being on an island with no boats to other shores. You might not even know alternatives exist because no one in your circle has different experiences. Recovery requires building bridges—finding people who can connect you to healthier communities and show you different ways of living.
+  structural_components:
+  - Disconnected network clusters
+  - Absence of bridging ties
+  - Isolated group membership
+  social_processes:
+  - Information isolation
+  - Resource access barriers
+  - Behavioral option constraints
+  societal_relevance: Unbridged structural holes perpetuate social inequality and behavioral entrapment, limiting individuals' ability to escape negative circumstances or access recovery resources.
+- id: soc-per-str-cor-coh
+  label: Organized Core-Periphery Structure
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Structured network hierarchy
+  - Clear core-periphery differentiation
+  - Organized network layers
+  scope: Well-defined core-periphery structure with clear differentiation between central core members and peripheral participants, enabling organized influence flow and graduated engagement.
+  parent_scope_inheritance: Specifies the core-periphery organization aspect of network structure by focusing on hierarchical differentiation and organized influence patterns within peer networks.
+  polarity_expression: Manifests as clear distinction between densely connected core members and loosely connected peripheral members with structured pathways between layers.
+  cross_domain_resonance: Resonates with psychological role clarity (psy-ide-ada) through defined positions and sociological institutional structure (soc-ins-coh) through organized hierarchies.
+  academic_description: Core-periphery structures exhibit clear differentiation between densely interconnected core members and sparsely connected peripheral members. Borgatti and Everett's core-periphery models demonstrate how this structure facilitates coordinated action and resource distribution. In recovery networks, core members provide leadership and model recovery behaviors while peripheral members receive support while maintaining autonomy. This structure enables graduated engagement, allowing newcomers to observe before fully committing. Research shows well-organized core-periphery structures in recovery communities correlate with better retention and outcomes.
+  clinical_description: Core-periphery assessment maps network layers and influence patterns to identify client positioning and mobility opportunities. In recovery networks, clinicians help clients navigate from periphery to core through graduated engagement—attending meetings, taking service positions, becoming sponsors. This structure provides clear progression pathways while respecting individual readiness. Conversely, helping clients move from core to periphery in using networks requires strategic repositioning without triggering abandonment fears. The goal is optimal positioning for recovery support.
+  lay_description: Networks with clear core-periphery structure have an inner circle of highly connected people and outer rings of less connected members. It's like concentric circles where influence flows from center outward. In recovery groups, core members are the regular attendees who know everyone, while newcomers start at the periphery. This structure helps because you can start at the edges, observing and learning, then gradually move toward the center as you become more committed. It provides a clear path for deepening involvement.
+  structural_components:
+  - Dense interconnected core
+  - Sparse peripheral connections
+  - Graduated layer transitions
+  social_processes:
+  - Hierarchical influence flow
+  - Graduated engagement pathways
+  - Structured resource distribution
+  societal_relevance: Core-periphery structures organize community influence and resources, shaping how recovery support systems develop and maintain effectiveness through structured engagement patterns.
+- id: soc-per-str-cor-fra
+  label: Chaotic Network Organization
+  forest: Sociological
+  forest_id: soc
+  field: Peer Networks
+  field_id: soc-per
+  cluster: Network Structure
+  cluster_id: soc-per-str
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Absent network hierarchy
+  - Undefined core-periphery
+  - Disorganized network structure
+  scope: Absence of clear core-periphery differentiation with random or chaotic connection patterns, creating unpredictable influence flows and unclear engagement pathways.
+  parent_scope_inheritance: Specifies the core-periphery organization aspect of network structure by focusing on the absence of hierarchical organization and chaotic influence patterns.
+  polarity_expression: Manifests as random connection patterns without clear core-periphery differentiation, creating unpredictable influence dynamics and unclear positioning.
+  cross_domain_resonance: Resonates with psychological role confusion (psy-ide-mal) through undefined positions and sociological institutional fragmentation (soc-ins-fra) through absent hierarchies.
+  academic_description: Networks lacking core-periphery structure exhibit random or chaotic connection patterns without clear organizational principles. This absence of structure impedes coordinated action, creates unpredictable influence flows, and complicates resource distribution. In addiction contexts, chaotic network organization correlates with unstable recovery attempts due to unclear support sources and inconsistent influences. Without structured pathways, individuals struggle to navigate network positions or identify reliable support sources. Research shows disorganized networks exhibit higher volatility in behavioral norms and reduced collective efficacy.
+  clinical_description: Chaotic network assessment reveals absence of stable support structures and unpredictable influence patterns. Clients in disorganized networks experience inconsistent messages about recovery and unclear pathways for engagement. Interventions focus on helping clients create personal structure within chaos—identifying reliable supporters, establishing routine connections, and building micro-networks of stability. Group therapy and structured recovery programs provide organizational templates. The goal is developing structured support systems within or despite broader network chaos.
+  lay_description: Networks without clear organization feel chaotic—there's no obvious center, no clear leaders, and no predictable patterns of who influences whom. It's like a social free-for-all where you never know what to expect or whom to trust. This makes recovery difficult because you can't identify stable support or clear pathways forward. You might get conflicting advice from different people with no way to evaluate who to listen to. Recovery often means creating your own structure within the chaos or finding more organized communities.
+  structural_components:
+  - Random connection patterns
+  - Absent hierarchical layers
+  - Unpredictable tie distribution
+  social_processes:
+  - Chaotic influence patterns
+  - Unclear engagement pathways
+  - Inconsistent resource access
+  societal_relevance: Chaotic network organization undermines community cohesion and collective efficacy, creating unstable social environments that complicate recovery efforts through unpredictable support and influence patterns.

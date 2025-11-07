@@ -1,0 +1,314 @@
+# Generated anchors for cluster: PSY-EMO-AWA
+# Timestamp: 20251103_171613
+
+anchors:
+- id: psy-emo-awa-int-ada
+  label: Adaptive Interoceptive Emotional Awareness
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Somatic emotional awareness
+  - Body-emotion connection
+  - Embodied emotional recognition
+  scope: Clear perception and interpretation of bodily sensations as emotional signals, including awareness of heart rate changes, muscle tension, gut feelings, and other somatic markers of emotional states.
+  parent_scope_inheritance: Specifies the interoceptive component of emotional awareness - the ability to recognize emotions through bodily sensations and somatic cues.
+  polarity_expression: Manifests as strong body-emotion integration with accurate interpretation of somatic emotional signals versus disconnection from bodily cues and missing emotional information from the body.
+  cross_domain_resonance: Resonates with phy-aut-int-reg (autonomic interoception), soc-emb-som-coh (somatic embodiment), and exi-emb-sen-pur (sensory embodiment).
+  academic_description: Interoceptive emotional awareness involves the insula, somatosensory cortices, and anterior cingulate in processing bodily signals of emotion. High interoceptive accuracy correlates with emotional granularity and better emotion regulation. Damasio's somatic marker hypothesis emphasizes body-based emotional signaling. Craig's model positions the insula as key to emotional awareness through interoception. Heart rate variability and interoceptive accuracy tasks demonstrate individual differences in body-emotion connectivity.
+  clinical_description: Assessment includes heartbeat detection tasks, body awareness questionnaires, and somatic focusing exercises. Interventions include body scan meditation, progressive muscle relaxation, biofeedback training, and somatic experiencing therapy. Clients learn to notice subtle body changes with emotions, distinguish emotional from physical sensations, and use body cues as early warning systems. Yoga and movement therapies enhance body-emotion connection.
+  lay_description: This is about feeling emotions in your body - noticing your heart race when anxious, your chest tighten when sad, or your stomach flutter when excited. People with good body awareness catch emotions early through physical sensations, while those disconnected from their bodies miss these important signals until emotions become overwhelming.
+  core_components:
+  - Insula activation and processing
+  - Vagal tone sensitivity
+  - Somatosensory integration
+  - Body-brain connectivity
+  associated_processes:
+  - Heartbeat perception
+  - Muscle tension awareness
+  - Gut feeling recognition
+  - Breathing pattern awareness
+- id: psy-emo-awa-int-mal
+  label: Maladaptive Interoceptive Emotional Blindness
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Somatic disconnection
+  - Body-emotion dissociation
+  - Interoceptive alexithymia
+  scope: Disconnection from bodily emotional cues, inability to perceive or interpret somatic markers of emotion, missing the physical sensations that signal emotional states.
+  parent_scope_inheritance: Specifies the interoceptive deficit aspect of poor emotional awareness - the inability to recognize emotions through bodily sensations.
+  polarity_expression: Manifests as body-brain disconnection with inability to detect or interpret somatic emotional signals versus clear perception of bodily emotional cues.
+  cross_domain_resonance: Resonates with phy-aut-int-dys (autonomic disconnection), soc-emb-som-fra (somatic fragmentation), and exi-emb-sen-dir (sensory disconnection).
+  academic_description: Interoceptive deficits in emotional awareness involve insula hypoactivation, reduced heartbeat evoked potentials, and poor vagal tone. Common in alexithymia, PTSD, and substance use disorders. Disconnection from bodily signals impairs emotional recognition and regulation. Numbing substances further suppress interoceptive channels. Studies show correlation between poor interoception and emotional difficulties.
+  clinical_description: Assessment reveals poor performance on heartbeat detection, inability to locate emotions in the body, and confusion between physical and emotional states. Clients report emotions 'coming from nowhere' or only recognizing extreme states. Interventions include interoceptive exposure, heart rate variability biofeedback, and graduated body awareness exercises. Building tolerance for bodily sensations is often necessary before emotional processing.
+  lay_description: This is being cut off from your body's emotional signals - not noticing your heart racing until you're in full panic, missing the tension that signals anger building, or being surprised by tears without feeling the sadness first. Your body is sending emotional messages, but you can't receive them, making emotions seem random and overwhelming.
+  core_components:
+  - Insula hypoactivation
+  - Poor vagal tone
+  - Somatosensory disconnection
+  - Body-brain dissociation
+  associated_processes:
+  - Missing heartbeat changes
+  - Numbness to muscle tension
+  - Absent gut feelings
+  - Breathing disconnection
+- id: psy-emo-awa-rec-ada
+  label: Adaptive Emotional Recognition
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Emotional detection
+  - Affect consciousness
+  - Emotional mindfulness
+  scope: Immediate recognition that an emotional state is occurring, distinguishing emotions from thoughts or physical states, maintaining awareness of emotional presence throughout daily life.
+  parent_scope_inheritance: Specifies the basic recognition component of emotional awareness - the fundamental ability to notice when emotions are present.
+  polarity_expression: Manifests as consistent detection and acknowledgment of emotional states as they arise versus emotional blindness or only recognizing extreme states.
+  cross_domain_resonance: Resonates with psy-cog-att-ada (attentional awareness), exi-awa-pre-pur (present-moment awareness), and psy-min-awa-ada (mindful awareness).
+  academic_description: Emotional recognition involves anterior cingulate cortex monitoring, prefrontal awareness networks, and sustained attention to internal states. Differs from identification or labeling - simply knowing an emotion is present. Mindfulness training enhances recognition capacity. Individual differences in emotional awareness span from complete alexithymia to continuous emotional monitoring. Recognition speed and accuracy predict regulation success.
+  clinical_description: Assessment includes emotion detection tasks, experience sampling methods, and awareness interviews. Clients practice regular emotion check-ins, mindfulness meditation, and present-moment awareness. Teaching distinction between thoughts, sensations, and emotions. Using awareness bells or apps for regular emotional monitoring. Group therapy provides feedback when emotions are visible but unrecognized by the individual.
+  lay_description: This is simply noticing 'I'm having a feeling right now' - not necessarily knowing what it is, but recognizing that an emotion is happening. Like noticing the weather changing, you become aware of emotional shifts as they occur rather than being blindsided by them or only noticing when they're extreme.
+  core_components:
+  - Anterior cingulate monitoring
+  - Prefrontal awareness networks
+  - Sustained internal attention
+  - Emotion-thought differentiation
+  associated_processes:
+  - Emotional shift detection
+  - Present-moment awareness
+  - Internal monitoring
+  - State change recognition
+- id: psy-emo-awa-rec-mal
+  label: Maladaptive Emotional Blindness
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Emotional unawareness
+  - Affect unconsciousness
+  - Emotional numbness
+  scope: Failure to recognize emotional states as they occur, only noticing extreme emotions or missing them entirely, confusion between emotions and thoughts or physical states.
+  parent_scope_inheritance: Specifies the recognition deficit in emotional awareness - the inability to notice when emotions are present.
+  polarity_expression: Manifests as absence of emotional detection, delayed recognition, or only noticing overwhelming states versus immediate awareness of emotional presence.
+  cross_domain_resonance: Resonates with psy-cog-att-mal (attentional deficits), exi-awa-pre-dir (present-moment disconnection), and psy-min-awa-mal (mindless processing).
+  academic_description: Emotional blindness involves reduced anterior cingulate activity, poor prefrontal monitoring, and limited introspective capacity. Common in severe alexithymia, dissociative disorders, and chronic substance use. Emotions remain unconscious until reaching overwhelming intensity. Delayed recognition impairs regulation opportunities. Studies show correlation with poor treatment outcomes and relapse.
+  clinical_description: Assessment reveals inability to report current emotional states, surprise at emotional expressions others observe, and confusion when asked about feelings. Clients report emotional numbness or sudden emotional storms without warning. Interventions include structured awareness training, scheduled check-ins, video review of emotional expressions, and group feedback about visible emotions. Building basic recognition before attempting regulation.
+  lay_description: This is being emotionally blind - not realizing you're angry until you're yelling, not noticing sadness until you're sobbing, or feeling completely numb until emotions explode. It's like driving without a dashboard - you don't know what's happening internally until something breaks down.
+  core_components:
+  - Anterior cingulate hypoactivity
+  - Prefrontal monitoring failure
+  - Absent internal attention
+  - Emotion-thought confusion
+  associated_processes:
+  - Missed emotional shifts
+  - Absent-minded processing
+  - External focus dominance
+  - Delayed state recognition
+- id: psy-emo-awa-lab-ada
+  label: Adaptive Emotional Labeling
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Emotional articulation
+  - Affect verbalization
+  - Emotional literacy
+  scope: Rich emotional vocabulary enabling precise naming and communication of feeling states, ability to articulate subtle and complex emotions using specific language.
+  parent_scope_inheritance: Specifies the labeling and verbal identification aspect of emotional awareness - the ability to name and articulate emotional states.
+  polarity_expression: Manifests as extensive emotional vocabulary with precise articulation versus alexithymia with inability to find words for feelings.
+  cross_domain_resonance: Resonates with soc-com-emo-coh (emotional communication), psy-cog-ver-ada (verbal processing), and psy-lan-exp-ada (expressive language).
+  academic_description: Emotional labeling involves left hemisphere language regions, particularly Broca's area, connecting with limbic structures. Affect labeling activates right ventrolateral prefrontal cortex, downregulating amygdala activity. Linguistic categorization of emotions enables cognitive regulation. Sapir-Whorf effects show language shapes emotional experience. Emotional vocabulary size predicts regulation abilities and wellbeing outcomes.
+  clinical_description: Assessment includes emotion vocabulary tests, verbal fluency for emotions, and articulation tasks. Interventions include emotion word lists, feelings wheels, expressive writing exercises, and emotion-focused therapy. Clients build vocabulary through reading, therapist modeling, and group sharing. Journaling and verbal processing in therapy develop articulation skills. Distinguishing between physical metaphors and emotional language.
+  lay_description: This is having words for your feelings - being able to say 'I'm disappointed' instead of just 'bad,' or distinguishing 'frustrated' from 'angry.' It's like having a full color palette instead of just primary colors to paint your emotional experience, allowing you to communicate clearly what you're feeling to yourself and others.
+  core_components:
+  - Language-emotion connectivity
+  - Left hemisphere processing
+  - Emotional lexicon size
+  - Verbal categorization
+  associated_processes:
+  - Emotion naming
+  - Feeling articulation
+  - Emotional communication
+  - Written expression
+- id: psy-emo-awa-lab-mal
+  label: Maladaptive Emotional Alexithymia
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Emotional muteness
+  - Affect inarticulateness
+  - Emotional illiteracy
+  scope: Severe limitation in emotional vocabulary, inability to find words for feelings, restricted to basic good/bad distinctions or physical metaphors when describing emotional states.
+  parent_scope_inheritance: Specifies the labeling deficit in emotional awareness - the inability to verbally identify and articulate emotions.
+  polarity_expression: Manifests as absent or severely restricted emotional vocabulary with inability to articulate feelings versus rich verbal expression of emotions.
+  cross_domain_resonance: Resonates with soc-com-emo-fra (emotional communication breakdown), psy-cog-ver-mal (verbal processing deficits), and psy-lan-exp-mal (expressive language impairment).
+  academic_description: Alexithymia literally means 'no words for feelings' and involves disconnection between language and emotion centers. Reduced activation in language-emotion connectivity, particularly left hemisphere regions. Limited emotional lexicon restricts cognitive processing of emotions. Common in autism spectrum, PTSD, and substance use disorders. Correlation with poor treatment engagement and outcomes.
+  clinical_description: Assessment reveals vocabulary limited to 'fine,' 'good,' 'bad,' or 'I don't know.' Clients use physical descriptions ('tight,' 'heavy') without emotional words. Frustration and shutdown when asked about feelings. Interventions include basic emotion education, visual aids like feelings wheels, therapist providing emotional words as options, and gradual vocabulary building. Group therapy offers modeling of emotional expression.
+  lay_description: This is having no words for feelings - being stuck with 'I'm fine' or 'I feel bad' when experiencing complex emotions. It's like trying to describe a symphony with only two notes, leaving you unable to explain what you're experiencing to yourself or others, creating isolation and misunderstanding.
+  core_components:
+  - Language-emotion disconnection
+  - Left hemisphere deficits
+  - Minimal emotional lexicon
+  - Absent verbal categorization
+  associated_processes:
+  - Naming inability
+  - Articulation failure
+  - Communication breakdown
+  - Expression blocking
+- id: psy-emo-awa-dif-ada
+  label: Adaptive Emotional Differentiation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Emotional granularity
+  - Affect discrimination
+  - Emotional nuance
+  scope: Fine-grained ability to distinguish between similar emotions, recognize emotional blends and subtle variations, and make precise emotional distinctions that enable targeted responses.
+  parent_scope_inheritance: Specifies the differentiation component of emotional awareness - the ability to distinguish between similar emotional states with precision.
+  polarity_expression: Manifests as high emotional granularity with nuanced distinctions versus undifferentiated affect where all emotions blur together.
+  cross_domain_resonance: Resonates with psy-cog-cat-ada (adaptive categorization), psy-per-com-ada (perceptual complexity), and psy-cog-dis-ada (cognitive discrimination).
+  academic_description: Emotional granularity involves prefrontal categorization networks creating fine-grained emotional distinctions. High granularity predicts better emotion regulation, lower alcohol use, and fewer aggressive behaviors. Barrett's constructed emotion theory emphasizes categorization precision. Neuroimaging shows distinct patterns for differentiated versus undifferentiated emotional processing. Individual differences span from global affect to highly nuanced emotional perception.
+  clinical_description: Assessment includes emotion differentiation tasks, similarity ratings, and emotion sorting exercises. High differentiators distinguish frustration from irritation from anger, recognize mixed emotions, and identify specific triggers. Interventions include comparative emotion analysis, emotion mapping exercises, and mindful observation of emotional nuances. DBT emotion regulation module teaches differentiation skills.
+  lay_description: This is emotional HD vision - seeing the difference between frustrated and angry, disappointed and sad, or nervous and excited. Like a wine connoisseur detecting subtle flavors, you can identify specific emotional flavors rather than just 'good' or 'bad,' allowing you to respond precisely to what you're actually feeling.
+  core_components:
+  - Prefrontal categorization networks
+  - High granularity processing
+  - Nuanced pattern recognition
+  - Emotional resolution capacity
+  associated_processes:
+  - Emotion discrimination
+  - Blend recognition
+  - Subtle distinction making
+  - Trigger specification
+- id: psy-emo-awa-dif-mal
+  label: Maladaptive Emotional Undifferentiation
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Low emotional granularity
+  - Affect confusion
+  - Emotional blur
+  scope: Inability to distinguish between similar emotions, experiencing all negative affect as undifferentiated distress, missing emotional nuances and responding with crude, non-specific strategies.
+  parent_scope_inheritance: Specifies the differentiation deficit in emotional awareness - the inability to make distinctions between similar emotional states.
+  polarity_expression: Manifests as low emotional granularity with global, undifferentiated affect versus precise emotional distinctions and nuanced awareness.
+  cross_domain_resonance: Resonates with psy-cog-cat-mal (categorization deficits), psy-per-com-mal (perceptual simplification), and psy-cog-dis-mal (poor discrimination).
+  academic_description: Low emotional granularity involves crude prefrontal categorization, treating diverse emotions as undifferentiated negative affect. Associated with poor emotion regulation, increased substance use, and aggressive behaviors. Brain imaging shows less differentiated neural patterns for distinct emotions. Common in depression, anxiety disorders, and alexithymia. Undifferentiated processing leads to mismatched regulation strategies.
+  clinical_description: Assessment reveals inability to distinguish anxiety from anger, sadness from frustration, or any negative emotions from each other. All distress feels the same, leading to global regulation attempts like substance use. Interventions include progressive differentiation training, emotion sorting tasks, and psychoeducation about emotion families. Building from basic pleasant/unpleasant to increasingly subtle distinctions.
+  lay_description: This is emotional colorblindness - all bad feelings feel the same, like one big dark cloud. You can't tell if you're sad, angry, scared, or disappointed - it all just feels 'bad.' This makes it impossible to respond appropriately, like using a sledgehammer for every problem because you can't tell a nail from a screw.
+  core_components:
+  - Crude categorization networks
+  - Low granularity processing
+  - Global pattern activation
+  - Poor emotional resolution
+  associated_processes:
+  - Emotion confusion
+  - Blend blindness
+  - Distinction inability
+  - Global distress states
+- id: psy-emo-awa-met-ada
+  label: Adaptive Meta-Emotional Awareness
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Emotional self-awareness
+  - Affect insight
+  - Emotional metacognition
+  scope: Awareness of one's own patterns of emotional awareness, recognition of emotional blind spots and triggers, understanding of personal emotional tendencies and development over time.
+  parent_scope_inheritance: Specifies the meta-cognitive aspect of emotional awareness - the higher-order awareness of one's own emotional awareness patterns and processes.
+  polarity_expression: Manifests as insight into emotional patterns and blind spots with capacity for strategic emotional development versus absence of pattern recognition or self-awareness.
+  cross_domain_resonance: Resonates with psy-cog-met-ada (metacognition), exi-mea-ins-pur (existential insight), and psy-sel-ref-ada (self-reflection).
+  academic_description: Meta-emotional awareness involves medial prefrontal cortex and posterior cingulate in self-referential processing. Includes awareness of emotional schemas, triggers, and patterns. Gottman's meta-emotion theory describes awareness of awareness. Higher-order consciousness of emotional processing enables strategic development. Predicts emotional intelligence and wellbeing. Develops through therapy and reflective practices.
+  clinical_description: Assessment includes meta-emotion interviews, pattern recognition tasks, and awareness of awareness measures. Clients identify their emotional patterns, recognize recurring triggers, understand their blind spots, and track awareness development. Interventions include therapy exploration, emotion pattern journaling, schema work, and mindfulness of mindfulness practices. Group therapy provides external perspective on patterns.
+  lay_description: This is knowing your own emotional patterns - recognizing you always miss anger until it explodes, that Sunday nights trigger anxiety, or that you confuse tiredness with sadness. It's like having a map of your emotional landscape, knowing where the pitfalls are and how your awareness typically works or fails.
+  core_components:
+  - Medial prefrontal processing
+  - Self-referential networks
+  - Pattern recognition systems
+  - Meta-cognitive monitoring
+  associated_processes:
+  - Pattern awareness
+  - Trigger recognition
+  - Blind spot identification
+  - Development tracking
+- id: psy-emo-awa-met-mal
+  label: Maladaptive Meta-Emotional Blindness
+  forest: Psychological
+  forest_id: psy
+  field: Emotional
+  field_id: psy-emo
+  cluster: Emotional Awareness
+  cluster_id: psy-emo-awa
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Emotional pattern blindness
+  - Affect insight deficit
+  - Meta-emotional absence
+  scope: Complete absence of awareness about one's emotional patterns, inability to recognize recurring emotional blind spots or triggers, no insight into personal emotional tendencies or development.
+  parent_scope_inheritance: Specifies the meta-cognitive deficit in emotional awareness - the absence of higher-order awareness about one's own emotional patterns.
+  polarity_expression: Manifests as blindness to emotional patterns with repetitive emotional confusion and no learning from experience versus insight and pattern recognition.
+  cross_domain_resonance: Resonates with psy-cog-met-mal (metacognitive deficits), exi-mea-ins-dir (absence of insight), and psy-sel-ref-mal (self-reflection impairment).
+  academic_description: Meta-emotional blindness involves deficits in medial prefrontal and self-referential processing networks. No awareness of emotional patterns or recurring problems. Repeats same emotional mistakes without learning. Common in personality disorders and chronic addiction. Absence of meta-cognition prevents strategic emotional development. Correlated with treatment resistance and poor outcomes.
+  clinical_description: Assessment reveals no insight into emotional patterns, surprise at same triggers repeatedly, and inability to predict emotional responses. Clients repeat identical emotional crises without recognition. Cannot identify blind spots even with feedback. Interventions include therapist pattern identification, video review, structured reflection exercises, and external feedback systems. Building basic pattern recognition before expecting self-directed change.
+  lay_description: This is being blind to your own emotional patterns - repeatedly exploding in the same situations without realizing it's a pattern, being surprised by the same triggers over and over, or never learning from emotional mistakes. It's like being stuck in an emotional Groundhog Day, repeating the same emotional confusion without any awareness that it's happening.
+  core_components:
+  - Medial prefrontal deficits
+  - Self-referential failure
+  - Pattern blindness
+  - Meta-cognitive absence
+  associated_processes:
+  - Pattern repetition
+  - Trigger blindness
+  - Blind spot persistence
+  - Development stagnation

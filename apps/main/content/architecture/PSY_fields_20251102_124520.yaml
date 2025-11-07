@@ -1,0 +1,181 @@
+# Generated fields for forest: PSY
+# Timestamp: 20251102_124520
+
+fields:
+- id: psy-cog
+  label: Cognitive
+  forest: Psychological
+  forest_id: psy
+  synonyms:
+  - Information processing
+  - Executive function
+  - Thought patterns
+  - Cognitive control
+  - Mental operations
+  scope: Encompasses information processing, executive functions, attention, memory, decision-making, cognitive biases, thought patterns, problem-solving, metacognition, and cognitive flexibility in addiction and recovery. Includes working memory, inhibitory control, cognitive distortions, attentional bias, implicit cognition, and mental schemas. Excludes emotional valence and affective processing (emotional field), observable behaviors and actions (behavioral field), motivational drives and goal states (motivational field), and stable cognitive traits (personality field).
+  parent_scope_inheritance: Specifies the psychological forest's mental processes to focus on information processing operations, executive control mechanisms, and thought-based phenomena that guide behavior and decision-making in addiction contexts.
+  emergence: At the field level, cognitive processes integrate into coherent executive control systems enabling top-down regulation of behavior, complex decision-making under uncertainty, and metacognitive awareness of one's own thinking patterns. This includes the emergence of cognitive flexibility allowing shifts between automatic and controlled processing modes.
+  boundary_interfaces:
+  - Cognitive-emotional interface where thoughts influence feelings through appraisal processes
+  - Cognitive-behavioral interface where mental planning translates to action execution
+  - Cognitive-physiological interface where executive function depends on prefrontal cortex integrity
+  theoretical_foundations:
+  - Executive dysfunction theory (Goldstein & Volkow) - impaired prefrontal control over drug-seeking
+  - Cognitive bias modification (Wiers & Gladwin) - automatic approach tendencies toward substance cues
+  - Dual-process theory (Strack & Deutsch) - imbalance between reflective and impulsive systems
+  child_generation_role: You are a cognitive neuroscientist specializing in executive function, attention, and information processing deficits in addiction. Your expertise includes working memory impairments, inhibitory control failures, attentional biases toward drug cues, decision-making deficits, and cognitive remediation approaches. You analyze specific cognitive mechanisms like response inhibition, set-shifting, and updating that underlie addiction behaviors.
+  academic_description: The cognitive field examines information processing deficits central to addiction pathology. Executive dysfunction theory (Goldstein & Volkow) identifies impaired prefrontal control manifesting as poor response inhibition, reduced cognitive flexibility, and compromised decision-making. Attentional bias research demonstrates automatic capture by substance-related cues, measured through Stroop tasks and dot-probe paradigms. Dual-process models reveal imbalanced competition between automatic approach tendencies and weakened reflective control. Working memory deficits impair ability to maintain recovery goals during high-risk situations. Cognitive distortions including permission-giving beliefs, outcome expectancies, and self-efficacy judgments maintain use patterns. Neuropsychological assessment reveals specific deficits in updating, shifting, and inhibition components of executive function that predict relapse risk.
+  clinical_description: Cognitive interventions target thinking patterns and mental control processes that maintain addiction. Cognitive restructuring helps identify and challenge automatic thoughts like "I need a drink to relax" or "One won't hurt." Cognitive bias modification training reduces automatic approach tendencies through repeated practice avoiding substance cues. Working memory training and cognitive remediation exercises strengthen executive control capacity. Mindfulness-based approaches enhance metacognitive awareness of thoughts without automatic reaction. Functional analysis examines the cognitive antecedents and consequences of use. Problem-solving therapy addresses deficits in generating and evaluating alternatives to substance use. Psychoeducation explains how addiction affects thinking and decision-making. Relapse prevention planning identifies high-risk thoughts and develops cognitive coping strategies.
+  lay_description: The cognitive aspect involves how addiction affects your thinking and mental control. Over time, your brain develops automatic thought patterns that favor using, like "I deserve a reward" or "I can't handle this without substances." Your attention gets hijacked by triggers - you might notice every liquor store you pass without trying. Decision-making becomes impaired; you know the consequences but struggle to factor them into choices. Mental flexibility decreases, making it hard to see alternatives or change course once cravings start. Recovery involves recognizing these thought traps, practicing new thinking patterns, and strengthening your mental brakes to override automatic impulses.
+  connections:
+    within_forest:
+      emotional: Cognitive appraisals shape emotional responses; rumination maintains negative affect
+      behavioral: Thoughts influence behavioral choices; cognitive control guides action selection
+      motivational: Cognitive evaluation affects motivation; outcome expectancies influence goal pursuit
+      personality: Cognitive styles reflect personality; trait mindfulness affects cognitive patterns
+    cross_forest:
+      phy-neu: Executive functions depend on prefrontal cortex; cognitive training produces neuroplastic changes
+      soc-fam: Family beliefs shape cognitive schemas; cognitive patterns affect family communication
+      exi-mea: Cognitive frameworks influence meaning-making; abstract thinking enables existential reflection
+- id: psy-emo
+  label: Emotional
+  forest: Psychological
+  forest_id: psy
+  synonyms:
+  - Affective
+  - Mood
+  - Feelings
+  - Emotional regulation
+  - Affect
+  scope: Encompasses affective experiences, emotion regulation, mood states, emotional processing, distress tolerance, and emotional awareness in addiction and recovery. Includes anxiety, depression, anger, shame, emotional dysregulation, alexithymia, anhedonia, and affective instability. Excludes cognitive appraisal processes (cognitive field), behavioral expressions of emotion (behavioral field), motivational aspects of emotion (motivational field), and trait emotionality (personality field).
+  parent_scope_inheritance: Narrows the psychological forest's emotional experiences to focus specifically on affective states, emotion regulation capacities, and the role of emotions in driving and maintaining addictive behaviors.
+  emergence: At the field level, emotions organize into complex affective patterns including mixed emotional states, emotional cascades where one emotion triggers another, and integrated mood episodes that color all experience. Emotion regulation systems emerge involving multiple strategies deployed flexibly based on context.
+  boundary_interfaces:
+  - Emotional-cognitive interface where feelings influence thinking through mood-congruent processing
+  - Emotional-behavioral interface where emotions drive action tendencies and behavioral expression
+  - Emotional-physiological interface where emotions involve autonomic and endocrine activation
+  theoretical_foundations:
+  - Negative reinforcement model (Baker et al.) - substance use to escape negative emotional states
+  - Emotional dysregulation theory (Linehan) - deficits in emotion regulation skills maintain addiction
+  - Alexithymia theory (Taylor et al.) - difficulty identifying and describing emotions increases vulnerability
+  child_generation_role: You are an affective scientist specializing in emotion regulation and mood processes in addiction. Your expertise includes emotional awareness deficits, distress intolerance, emotion regulation strategies, negative affect pathways to relapse, and the development of emotional coping skills. You analyze specific emotional vulnerabilities like anxiety sensitivity, anhedonia, and emotional reactivity.
+  academic_description: The emotional field examines affective processes central to addiction etiology and maintenance. The negative reinforcement model (Baker et al.) demonstrates how substance use provides immediate escape from aversive emotional states, strengthening use patterns through negative reinforcement. Emotional dysregulation manifests as intense emotional reactions, poor distress tolerance, and limited emotion regulation repertoires. Alexithymia research reveals deficits in emotional awareness and differentiation that lead to substance use as crude affect regulation. Stress-sensitization occurs where repeated withdrawal creates heightened emotional reactivity. Anhedonia following cessation reduces natural reward response, maintaining vulnerability. Shame and guilt complicate recovery through avoidance and self-medication cycles. Neurobiological research links emotional dysregulation to altered amygdala and anterior cingulate function.
+  clinical_description: Emotional interventions address affect regulation deficits that drive substance use. Dialectical Behavior Therapy teaches distress tolerance skills like TIPP (temperature, intense exercise, paced breathing, paired muscle relaxation) and emotion regulation through opposite action and checking the facts. Emotion-focused therapy helps identify, experience, and express emotions safely. Affect regulation training develops skills in emotional awareness, labeling, and modulation. Mindfulness-based approaches teach observing emotions without immediate reaction. Trauma-informed care addresses emotional numbing and hyperarousal. Assessment includes measures of emotional awareness, distress tolerance, and emotion regulation strategies. Psychoeducation explains the emotion-addiction connection and validates emotional experience. Building emotional vocabulary and tolerance for difficult feelings reduces need for chemical coping.
+  lay_description: The emotional aspect involves how feelings drive addiction and complicate recovery. Many people use substances to escape difficult emotions like anxiety, sadness, anger, or loneliness. Over time, this becomes your main way of dealing with feelings, so you never learn healthier coping skills. In recovery, emotions often feel overwhelming because they've been numbed for so long. You might experience mood swings, irritability, or emotional numbness. Learning to identify what you're feeling, sit with uncomfortable emotions without immediately reacting, and find healthy ways to soothe yourself becomes essential. This includes recognizing emotional triggers, practicing self-compassion, and building tolerance for the normal ups and downs of life without chemical assistance.
+  connections:
+    within_forest:
+      cognitive: Thoughts trigger emotions through appraisal; emotions bias cognitive processing
+      behavioral: Emotions drive behavioral urges; behavioral activation affects mood
+      motivational: Emotions energize goal pursuit; emotional rewards motivate behavior
+      personality: Trait emotionality influences emotional patterns; temperament affects reactivity
+    cross_forest:
+      phy-neu: Emotions involve limbic activation; emotional states affect stress hormones
+      soc-rel: Emotions arise in relationships; emotional expression affects social bonds
+      exi-spi: Emotions connect to spiritual experience; emotional healing enables transcendence
+- id: psy-beh
+  label: Behavioral
+  forest: Psychological
+  forest_id: psy
+  synonyms:
+  - Actions
+  - Habits
+  - Behavioral patterns
+  - Conditioned responses
+  - Observable behavior
+  scope: Covers observable actions, habits, conditioned responses, behavioral patterns, reinforcement learning, stimulus-response associations, and behavioral activation/inhibition in addiction. Includes drug-seeking behavior, avoidance patterns, compulsive use, behavioral chains, and activity scheduling. Excludes internal cognitions (cognitive field), subjective emotions (emotional field), motivational states (motivational field), and trait-level behavioral tendencies (personality field).
+  parent_scope_inheritance: Specifies the psychological forest's behavioral patterns to focus on learned actions, habits, and observable responses that constitute the behavioral manifestation of addiction.
+  emergence: At the field level, individual behaviors organize into complex behavioral repertoires and habit systems that operate semi-automatically. Behavioral chains emerge where one action triggers the next in predictable sequences. Competing behavioral systems (approach vs. avoidance) create behavioral conflict patterns.
+  boundary_interfaces:
+  - Behavioral-cognitive interface where thoughts guide behavior and actions influence beliefs
+  - Behavioral-emotional interface where feelings drive actions and behaviors regulate emotions
+  - Behavioral-social interface where individual behaviors occur in social contexts
+  theoretical_foundations:
+  - Behavioral economics (Bickel & Marsch) - temporal discounting and demand curves in addiction
+  - Habit learning theory (Everitt & Robbins) - transition from goal-directed to habitual drug use
+  - Operant conditioning (Skinner) - reinforcement schedules maintaining addictive behavior
+  child_generation_role: You are a behavioral analyst specializing in learning theory and behavioral patterns in addiction. Your expertise includes classical and operant conditioning, habit formation and disruption, behavioral chains, contingency management, and functional analysis of addictive behaviors. You identify specific stimulus-response patterns, reinforcement schedules, and behavioral interventions.
+  academic_description: The behavioral field examines learned actions and habits fundamental to addiction. Operant conditioning principles explain how immediate positive reinforcement (euphoria) and negative reinforcement (withdrawal relief) strengthen drug-taking behavior despite delayed negative consequences. Classical conditioning creates powerful associations between environmental cues and drug-seeking responses. Behavioral economics reveals excessive temporal discounting where immediate rewards are overvalued relative to future outcomes. Habit learning theory describes the transition from goal-directed to stimulus-driven habitual use, mediated by shift from ventral to dorsal striatal control. Behavioral tolerance develops through conditioned compensatory responses. Extinction learning is impaired, maintaining conditioned responses despite absence of reinforcement. Choice behavior follows matching law principles where response allocation matches relative reinforcement rates.
+  clinical_description: Behavioral interventions directly modify actions and habits maintaining addiction. Contingency management provides tangible reinforcers (vouchers, prizes) for verified abstinence, applying operant principles to strengthen recovery behaviors. Behavioral activation schedules pleasant and meaningful activities to compete with substance use. Stimulus control involves avoiding or modifying environmental triggers. Response prevention blocks the behavioral chain before completion. Cue exposure therapy extinguishes conditioned responses through repeated unreinforced exposure. Community reinforcement approach rearranges social contingencies to reinforce sobriety. Functional analysis identifies antecedents and consequences maintaining use. Skills training teaches specific behaviors like drink refusal and craving surfing. Activity monitoring tracks behavioral patterns to identify high-risk situations.
+  lay_description: The behavioral aspect focuses on the actions and habits that keep addiction going. Through repetition, drug use becomes an automatic response to certain triggers - you might find yourself buying alcohol without consciously deciding to. Your brain learns to associate specific places, times, or situations with using, creating powerful urges to repeat the behavior. Recovery involves breaking these automatic patterns and building new healthy habits. This might mean avoiding certain places initially, changing your daily routine, or learning specific skills like how to refuse offers or what to do instead when cravings hit. The goal is to make recovery behaviors as automatic as the addiction behaviors once were, through consistent practice and reward.
+  connections:
+    within_forest:
+      cognitive: Thoughts influence behavior; behavioral practice changes beliefs
+      emotional: Emotions drive behavior; behaviors regulate emotional states
+      motivational: Motivation energizes behavior; behavioral success increases motivation
+      personality: Personality influences behavioral style; repeated behaviors shape character
+    cross_forest:
+      phy-neu: Behaviors activate neural circuits; behavioral repetition causes neuroplasticity
+      soc-env: Environmental contingencies shape behavior; behaviors modify social environment
+      exi-val: Values guide behavioral choices; behavioral alignment expresses values
+- id: psy-mot
+  label: Motivational
+  forest: Psychological
+  forest_id: psy
+  synonyms:
+  - Drive
+  - Motivation
+  - Goal-directed
+  - Incentive
+  - Readiness
+  scope: Encompasses drive states, goal-directed behavior, ambivalence, readiness to change, approach-avoidance conflicts, intrinsic and extrinsic motivation, self-efficacy, and self-determination in recovery. Includes stages of change, motivational enhancement, incentive salience, and commitment processes. Excludes cognitive evaluation of goals (cognitive field), emotional aspects of motivation (emotional field), behavioral execution (behavioral field), and trait-level motivation (personality field).
+  parent_scope_inheritance: Narrows the psychological forest's motivational components to focus on dynamic processes that energize and direct behavior toward or away from substances and recovery.
+  emergence: At the field level, multiple motivations integrate into coherent motivational states reflecting overall readiness for change. Motivational ambivalence emerges as simultaneous desires for incompatible goals. Self-determination emerges from alignment of multiple motivational sources.
+  boundary_interfaces:
+  - Motivational-cognitive interface where thoughts about goals influence motivational strength
+  - Motivational-behavioral interface where motivation energizes and directs action
+  - Motivational-existential interface where life purpose provides ultimate motivation
+  theoretical_foundations:
+  - Self-determination theory (Deci & Ryan) - intrinsic vs. extrinsic motivation in recovery
+  - Transtheoretical model (Prochaska & DiClemente) - stages of change in addiction recovery
+  - Incentive sensitization theory (Robinson & Berridge) - wanting vs. liking dissociation
+  child_generation_role: You are a motivational psychologist specializing in drive states and goal-directed behavior in addiction. Your expertise includes stages of change assessment, ambivalence resolution, intrinsic motivation enhancement, self-efficacy building, and understanding approach-avoidance conflicts. You analyze specific motivational processes like incentive salience, goal commitment, and self-determination.
+  academic_description: The motivational field examines drive processes that energize and direct addictive behavior and recovery efforts. The transtheoretical model identifies stages from precontemplation through maintenance, each requiring different interventions. Self-determination theory distinguishes autonomous motivation (internal, value-driven) from controlled motivation (external pressure), with autonomous motivation predicting better outcomes. Incentive sensitization theory explains how drug cues acquire excessive motivational pull through dopaminergic sensitization, creating wanting without liking. Approach-avoidance conflicts arise when substances simultaneously attract (pleasure) and repel (consequences). Self-efficacy beliefs about ability to abstain powerfully influence actual behavior. Motivational interviewing research demonstrates how exploring ambivalence and enhancing intrinsic motivation facilitates change. Goal-setting theory shows specific, challenging goals improve
+    outcomes when coupled with commitment.
+  clinical_description: Motivational interventions enhance readiness and commitment to change. Motivational interviewing uses empathic exploration of ambivalence, developing discrepancy between current behavior and values, and supporting self-efficacy. Motivational enhancement therapy provides personalized feedback to increase problem recognition. Stage-matched interventions align with readiness level - consciousness-raising for precontemplation, decision-making for contemplation, commitment strategies for preparation. Self-efficacy building involves mastery experiences, vicarious learning, and verbal persuasion. Values clarification connects recovery to personally meaningful goals. Behavioral contracting formalizes commitment. Assessment includes readiness rulers, decisional balance exercises, and importance-confidence ratings. Building intrinsic motivation through autonomy, competence, and relatedness needs creates sustainable change drive.
+  lay_description: The motivational aspect involves finding and maintaining the desire to change. Most people feel torn between wanting to quit and wanting to continue using - this ambivalence is normal. Motivation isn't just willpower; it includes recognizing problems, believing change is possible, and connecting recovery to things you care about. You might cycle through different stages - not thinking about change, considering it, preparing, taking action, and maintaining changes. Each stage needs different support. Building motivation means exploring your own reasons for change rather than being told why you should change, increasing confidence in your ability to succeed, and finding internal rather than external reasons for recovery. It's about discovering what truly matters to you and using that as fuel for change.
+  connections:
+    within_forest:
+      cognitive: Outcome expectancies influence motivation; goal cognitions direct effort
+      emotional: Emotions energize motivation; motivational states generate feelings
+      behavioral: Motivation drives behavior; behavioral success strengthens motivation
+      personality: Trait motivation influences state motivation; achievement needs affect goals
+    cross_forest:
+      phy-rew: Motivation involves reward circuitry; dopamine signals incentive salience
+      soc-sup: Social support enhances motivation; group motivation influences individual
+      exi-pur: Life purpose provides ultimate motivation; values clarify priorities
+- id: psy-per
+  label: Personality
+  forest: Psychological
+  forest_id: psy
+  synonyms:
+  - Individual differences
+  - Traits
+  - Temperament
+  - Character
+  - Personality factors
+  scope: Focuses on stable individual differences, personality traits, temperament, coping styles, self-concept, identity, and characteristic adaptations relevant to addiction vulnerability and recovery. Includes five-factor traits, impulsivity, sensation-seeking, harm avoidance, and personality disorders. Excludes state-dependent cognitions (cognitive field), transient emotions (emotional field), situational behaviors (behavioral field), and temporary motivations (motivational field).
+  parent_scope_inheritance: Specifies the psychological forest's personality factors to focus on enduring individual differences that influence addiction risk, course, and recovery trajectories.
+  emergence: At the field level, individual traits organize into coherent personality profiles that predict addiction vulnerability and recovery patterns. Personality systems emerge involving characteristic ways of thinking, feeling, and behaving that remain stable across situations. Identity emerges as integrated self-concept incorporating traits, values, and life narrative.
+  boundary_interfaces:
+  - Personality-cognitive interface where traits influence characteristic thought patterns
+  - Personality-developmental interface where temperament interacts with experience
+  - Personality-genetic interface where traits reflect heritable individual differences
+  theoretical_foundations:
+  - Five-factor model (Costa & McCrae) - personality traits predicting addiction risk
+  - Temperament and character model (Cloninger) - novelty seeking and harm avoidance in addiction
+  - Personality psychopathology model (Krueger) - externalizing and internalizing spectra
+  child_generation_role: You are a personality psychologist specializing in individual differences and personality factors in addiction. Your expertise includes personality assessment, temperament-based vulnerabilities, trait-treatment matching, and understanding how stable characteristics influence addiction development and recovery success. You analyze specific traits like impulsivity, neuroticism, and conscientiousness.
+  academic_description: The personality field examines stable individual differences influencing addiction vulnerability and recovery. Five-factor research shows high neuroticism (emotional instability), low conscientiousness (poor self-control), and low agreeableness (antagonism) predict substance use disorders. Cloninger's model identifies high novelty-seeking (impulsive exploration) and low harm avoidance (risk-taking) as vulnerability factors. Impulsivity manifests as urgency (rash action during emotion), lack of premeditation, lack of perseverance, and sensation-seeking. Personality disorders, particularly antisocial and borderline, show high comorbidity through shared externalizing and emotional dysregulation factors. Self-concept disturbances include identity confusion, low self-esteem, and self-stigma. Personality influences coping styles - avoidant coping predicts poor outcomes while problem-focused coping supports recovery. Trait-treatment matching research suggests tailoring interventions
+    to personality profiles improves outcomes.
+  clinical_description: Personality assessment guides individualized treatment planning. Comprehensive evaluation includes structured interviews (SCID-5-PD), self-report measures (NEO-PI-R, TCI), and informant reports. High impulsivity indicates need for structured environments and immediate rewards. High neuroticism suggests emphasis on emotion regulation and stress management. Low conscientiousness requires external structure and accountability. Personality disorders require integrated treatment addressing both addiction and personality pathology. DBT for borderline features, schema therapy for maladaptive schemas, and mentalization-based treatment for identity disturbance. Building on personality strengths - using high openness for experiential therapies or high agreeableness for group approaches. Identity work involves exploring values, developing coherent self-narrative, and building recovery identity. Coping skills training targets characteristic maladaptive patterns.
+  lay_description: The personality aspect involves understanding how your natural temperament and character traits affect addiction and recovery. Some people are naturally more impulsive, seeking excitement and acting without thinking - this can increase addiction risk. Others are highly sensitive to stress and negative emotions, using substances to cope. Your personality doesn't determine your fate, but understanding your traits helps explain why certain situations are harder for you than others. Recovery involves working with your personality rather than against it - if you're naturally introverted, large group meetings might not suit you as well as individual therapy. Building on your strengths while developing skills to manage vulnerabilities creates a personalized recovery approach that fits who you are as a person.
+  connections:
+    within_forest:
+      cognitive: Personality influences cognitive style; traits shape characteristic thoughts
+      emotional: Temperament affects emotional reactivity; traits influence affect patterns
+      behavioral: Personality drives behavioral tendencies; traits predict action patterns
+      motivational: Personality influences motivational orientation; traits affect goal selection
+    cross_forest:
+      phy-gen: Personality traits show genetic heritability; temperament has biological basis
+      soc-cul: Culture shapes personality expression; traits influence social behavior
+      exi-ide: Personality influences identity formation; traits affect meaning-making style

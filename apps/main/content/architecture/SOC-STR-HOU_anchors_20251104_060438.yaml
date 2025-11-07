@@ -1,0 +1,382 @@
+# Generated anchors for cluster: SOC-STR-HOU
+# Timestamp: 20251104_060438
+
+anchors:
+- id: soc-str-hou-stb-coh
+  label: Housing Stability
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Residential continuity
+  - Secure tenure
+  - Housing security
+  scope: Stable, secure housing arrangements with predictable tenure, protection from displacement, and continuity of residence that enables establishment of routines, social connections, and treatment engagement.
+  parent_scope_inheritance: Specifies the housing stability dimension of spatial environment, focusing on the security and continuity of residential arrangements rather than quality or location.
+  polarity_expression: Manifests as cohesive spatial structures through secure tenure, predictable housing transitions, and protection from involuntary displacement that maintains social networks and service connections.
+  cross_domain_resonance: Resonates with psy-cog-exe (executive stability supporting housing maintenance), phy-neu-str (reduced stress from housing security), and exi-mea-sec (existential security from stable home base).
+  academic_description: Research demonstrates housing stability as foundational for recovery, with secure tenure reducing relapse risk through decreased stress, maintained social support, and treatment continuity. Studies show stable housing improves medication adherence, appointment attendance, and recovery outcomes independent of housing quality.
+  clinical_description: Assessment evaluates housing history, current tenure security, and displacement risk. Interventions include Housing First programs providing immediate permanent housing, rental assistance preventing eviction, and legal advocacy protecting tenant rights. Stable housing enables consistent treatment engagement and recovery planning.
+  lay_description: Having a stable place to call home means you can settle in, build relationships with neighbors, and focus on recovery instead of worrying about where you'll sleep next. When you know you won't be evicted, you can establish routines and keep appointments.
+  structural_components: Lease agreements, tenant protections, eviction moratoriums, housing vouchers, permanent supportive housing programs
+  social_processes: Residential continuity, community integration, social network maintenance, place attachment formation
+  societal_relevance: Housing stability reduces healthcare costs, improves employment outcomes, and decreases criminal justice involvement
+  assessment_methods: Housing history timelines, eviction risk screening, residential stability indices, homelessness assessments
+  interventions: Housing First programs, eviction prevention services, rental assistance, permanent supportive housing, rapid rehousing
+  prominent_models: Housing First model, Critical Time Intervention, Pathways to Housing approach
+- id: soc-str-hou-stb-fra
+  label: Housing Instability
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Residential precarity
+  - Housing insecurity
+  - Homelessness
+  scope: Unstable housing characterized by frequent moves, eviction risk, homelessness, and unpredictable living arrangements that disrupt treatment, fragment social support, and perpetuate substance use cycles.
+  parent_scope_inheritance: Specifies the housing instability dimension of spatial fragmentation, examining how residential precarity and displacement create barriers to recovery.
+  polarity_expression: Manifests as fragmented spatial structures through frequent involuntary moves, periods of homelessness, and chronic housing insecurity that disrupts all aspects of recovery.
+  cross_domain_resonance: Resonates with psy-cog-dys (executive dysfunction from chronic stress), phy-neu-tra (trauma from displacement), and exi-mea-des (existential despair from lacking home).
+  academic_description: Housing instability research reveals cascading effects on addiction trajectories. Eviction increases overdose risk through acute stress and network disruption. Homelessness creates survival priorities superseding treatment. Frequent moves fragment care continuity and social support essential for recovery.
+  clinical_description: Assessment screens for eviction risk, homelessness history, and current housing precarity. Interventions prioritize immediate shelter, rapid rehousing with minimal barriers, and intensive case management during housing transitions. Address trauma from displacement and survival mode functioning.
+  lay_description: When you're constantly moving, couch surfing, or living on the streets, just surviving each day takes all your energy. You lose belongings, important documents, and connections to people who could help. Recovery becomes impossible without a stable place to rest and heal.
+  structural_components: Eviction filings, shelter systems, encampment sweeps, housing discrimination, inadequate safety nets
+  social_processes: Displacement cycles, network fragmentation, social exclusion, survival prioritization
+  societal_relevance: Housing instability drives healthcare utilization, emergency service costs, and cycles of crisis intervention
+  assessment_methods: Homelessness screening tools, eviction risk assessment, housing barrier inventories, displacement history
+  interventions: Emergency shelter, transitional housing, rapid rehousing, eviction prevention, homeless outreach teams
+  prominent_models: Trauma-informed care for homelessness, Progressive engagement model, Housing readiness approaches
+- id: soc-str-hou-qlt-coh
+  label: Quality Housing Conditions
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Adequate housing
+  - Safe living conditions
+  - Habitable housing
+  scope: Safe, well-maintained housing with functioning utilities, adequate space, and absence of environmental hazards that supports physical health, psychological wellbeing, and recovery stability.
+  parent_scope_inheritance: Specifies the housing quality dimension of spatial environment, focusing on physical conditions and habitability rather than stability or location.
+  polarity_expression: Manifests as cohesive spatial structures through well-maintained properties, functioning infrastructure, and healthy living environments that support recovery.
+  cross_domain_resonance: Resonates with phy-imm-reg (reduced infection risk), psy-emo-cal (environmental calm), and exi-mea-dig (dignity from decent housing).
+  academic_description: Housing quality research links substandard conditions to substance use through multiple pathways. Poor housing increases stress, respiratory problems, and injury risk. Adequate housing provides sanctuary for recovery, reduces environmental stressors, and supports healthy routines.
+  clinical_description: Assessment evaluates housing conditions including safety hazards, overcrowding, and utility access. Interventions include housing rehabilitation referrals, code enforcement advocacy, and temporary relocation for unsafe conditions. Quality housing reduces environmental triggers and health complications.
+  lay_description: Living in a safe, clean home with working heat, water, and electricity gives you the foundation for getting better. When you're not dealing with mold, pests, or broken windows, you can focus on recovery instead of just surviving bad conditions.
+  structural_components: Building codes, housing inspections, maintenance systems, utility infrastructure, habitability standards
+  social_processes: Environmental stress reduction, health maintenance, dignity preservation, recovery environment creation
+  societal_relevance: Quality housing reduces healthcare costs, prevents disease transmission, and supports community wellbeing
+  assessment_methods: Housing quality indices, environmental health assessments, habitability inspections, crowding measures
+  interventions: Housing rehabilitation programs, emergency repairs, weatherization assistance, code enforcement, relocation assistance
+  prominent_models: Healthy homes initiatives, Environmental health frameworks, Housing quality standards
+- id: soc-str-hou-qlt-fra
+  label: Substandard Housing Conditions
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Inadequate housing
+  - Unsafe living conditions
+  - Housing disrepair
+  scope: Deteriorated, overcrowded, or hazardous housing with structural problems, pest infestations, mold, inadequate utilities, and safety hazards that compound stress, trigger substance use, and impede recovery.
+  parent_scope_inheritance: Specifies the housing quality deterioration aspect of spatial fragmentation, examining how substandard conditions create health risks and recovery barriers.
+  polarity_expression: Manifests as fragmented spatial structures through deteriorating properties, failing infrastructure, and hazardous environments that undermine recovery efforts.
+  cross_domain_resonance: Resonates with phy-imm-dys (increased infection risk), psy-emo-anx (environmental anxiety), and exi-mea-sha (shame from degraded conditions).
+  academic_description: Substandard housing research documents multiple pathways to addiction. Environmental stressors from poor conditions increase substance use for coping. Health problems from mold, lead, and pests create pain and disability. Overcrowding disrupts sleep and privacy needed for recovery.
+  clinical_description: Assessment screens for environmental hazards, overcrowding, and utility shutoffs. Interventions address immediate safety concerns, advocate for repairs, and provide temporary relocation when necessary. Poor conditions often trigger relapse and complicate medical management.
+  lay_description: Living with broken heat, mold on the walls, or rats in your home creates constant stress that makes you want to use substances just to cope. When you're sick from bad conditions or can't sleep because of noise and crowding, recovery feels impossible.
+  structural_components: Code violations, deferred maintenance, slumlord practices, utility shutoffs, overcrowding
+  social_processes: Environmental stress accumulation, health deterioration, dignity erosion, coping substance use
+  societal_relevance: Substandard housing drives disease burden, emergency department use, and intergenerational disadvantage
+  assessment_methods: Environmental hazard checklists, crowding assessments, utility access screening, health impact evaluations
+  interventions: Emergency repairs, legal advocacy, tenant organizing, relocation assistance, public health interventions
+  prominent_models: Environmental justice frameworks, Social determinants of health models, Housing-based health interventions
+- id: soc-str-hou-res-coh
+  label: Resourced Neighborhoods
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Service-rich areas
+  - Well-resourced communities
+  - Accessible neighborhoods
+  scope: Neighborhoods with accessible treatment services, healthcare facilities, recovery resources, public transportation, and community supports that facilitate engagement with care and sustained recovery.
+  parent_scope_inheritance: Specifies the neighborhood resource dimension of spatial environment, focusing on service availability and accessibility rather than housing itself.
+  polarity_expression: Manifests as cohesive spatial structures through concentrated resources, integrated services, and accessible supports that enable recovery pathways.
+  cross_domain_resonance: Resonates with psy-soc-con (social connection through services), phy-tre-acc (treatment accessibility), and exi-mea-hop (hope from available resources).
+  academic_description: Neighborhood resource research demonstrates how service geography shapes recovery outcomes. Proximity to treatment reduces barriers, increases engagement, and improves retention. Well-resourced areas provide multiple recovery supports, peer networks, and alternative activities to substance use.
+  clinical_description: Assessment maps available neighborhood resources, treatment options, and transportation access. Interventions leverage existing resources, provide navigation assistance, and address transportation barriers. Resource-rich environments support sustained recovery through multiple pathways.
+  lay_description: Living in a neighborhood with nearby clinics, support groups, and community centers makes recovery so much easier. When you can walk to appointments or take a quick bus ride, you're more likely to stick with treatment and find healthy activities.
+  structural_components: Treatment facilities, healthcare centers, community organizations, public transit, recovery resources
+  social_processes: Service utilization, resource navigation, community engagement, recovery network formation
+  societal_relevance: Resourced neighborhoods reduce treatment gaps, improve population health, and strengthen community resilience
+  assessment_methods: Resource mapping, service accessibility audits, transportation assessments, spatial analysis
+  interventions: Service coordination, resource directories, transportation vouchers, mobile services, peer navigation
+  prominent_models: Recovery-oriented systems of care, Community reinforcement approach, Ecological recovery models
+- id: soc-str-hou-res-fra
+  label: Under-Resourced Neighborhoods
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Service deserts
+  - Resource-poor areas
+  - Underserved communities
+  scope: Neighborhoods lacking treatment facilities, healthcare access, recovery resources, and transportation options, creating geographic barriers to care and limiting recovery opportunities.
+  parent_scope_inheritance: Specifies the resource scarcity dimension of spatial fragmentation, examining how service deserts and inaccessibility perpetuate addiction.
+  polarity_expression: Manifests as fragmented spatial structures through absent services, inaccessible resources, and transportation barriers that prevent recovery engagement.
+  cross_domain_resonance: Resonates with psy-soc-iso (social isolation from service gaps), phy-tre-bar (treatment barriers), and exi-mea-hop (hopelessness from absent resources).
+  academic_description: Service desert research reveals how geographic inequity perpetuates addiction. Lack of proximate treatment increases dropout, reduces medication adherence, and limits recovery support access. Transportation barriers compound disadvantage, creating effective treatment exclusion.
+  clinical_description: Assessment identifies service gaps, transportation barriers, and unmet needs. Interventions include mobile treatment units, telehealth services, and intensive case management to bridge gaps. Address frustration and hopelessness from systemic barriers.
+  lay_description: When the nearest clinic is hours away by multiple buses, or there are no support groups in your area, getting help becomes nearly impossible. You might want treatment but simply can't access it, especially without a car or money for transportation.
+  structural_components: Service gaps, clinic closures, transportation deserts, infrastructure deficits, funding disparities
+  social_processes: Service exclusion, unmet need accumulation, informal coping, treatment delay
+  societal_relevance: Under-resourced neighborhoods perpetuate health disparities, increase crisis utilization, and maintain addiction cycles
+  assessment_methods: Service gap analysis, accessibility mapping, unmet needs assessment, barrier identification
+  interventions: Mobile health units, telehealth expansion, transportation programs, service development, advocacy
+  prominent_models: Spatial mismatch theory, Healthcare desert frameworks, Geographic health disparities models
+- id: soc-str-hou-exp-coh
+  label: Protected Environmental Exposure
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Low outlet density
+  - Protective environments
+  - Healthy neighborhood design
+  scope: Neighborhoods with limited alcohol and tobacco outlets, absence of drug markets, protective zoning, and environmental designs that reduce substance exposure and support recovery-oriented lifestyles.
+  parent_scope_inheritance: Specifies the environmental exposure dimension of spatial environment, focusing on substance-related environmental factors rather than general neighborhood conditions.
+  polarity_expression: Manifests as cohesive spatial structures through protective zoning, limited outlet density, and environmental designs that reduce substance cues and triggers.
+  cross_domain_resonance: Resonates with phy-neu-cue (reduced cue exposure), psy-beh-tri (fewer behavioral triggers), and exi-val-hea (health-promoting environments).
+  academic_description: Environmental exposure research demonstrates how outlet density shapes consumption patterns. Lower outlet density reduces impulse purchases, normalizes abstinence, and decreases environmental cues. Protective zoning and environmental design create recovery-supportive contexts.
+  clinical_description: Assessment evaluates neighborhood outlet density, environmental triggers, and protective factors. Interventions include environmental modification, route planning to avoid triggers, and advocacy for outlet restrictions. Protected environments support sustained abstinence.
+  lay_description: Living in a neighborhood without liquor stores on every corner makes it easier to stay sober. When you're not constantly passing places that sell alcohol or seeing people using drugs, you're reminded less often of substance use and can focus on other things.
+  structural_components: Zoning restrictions, outlet licensing limits, environmental design, green spaces, community assets
+  social_processes: Reduced cueing, normalized abstinence, alternative activity engagement, recovery visibility
+  societal_relevance: Protected environments reduce population-level consumption, prevent initiation, and support community health
+  assessment_methods: Outlet density mapping, environmental trigger assessment, protective factor inventories, GIS analysis
+  interventions: Environmental modification, trigger management planning, advocacy for outlet restrictions, community design
+  prominent_models: Environmental prevention frameworks, Community environmental design, Outlet density interventions
+- id: soc-str-hou-exp-fra
+  label: High Environmental Exposure
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - High outlet density
+  - Toxic environments
+  - Substance-saturated neighborhoods
+  scope: Neighborhoods oversaturated with alcohol and tobacco outlets, visible drug markets, targeted marketing, and environmental cues that increase substance exposure, normalize use, and trigger relapse.
+  parent_scope_inheritance: Specifies the environmental exposure risks within spatial fragmentation, examining how substance-saturated environments perpetuate addiction.
+  polarity_expression: Manifests as fragmented spatial structures through outlet oversaturation, pervasive marketing, and omnipresent substance cues that undermine recovery attempts.
+  cross_domain_resonance: Resonates with phy-neu-sen (heightened cue sensitivity), psy-beh-imp (increased impulsive use), and exi-val-con (value conflicts in toxic environments).
+  academic_description: High exposure research reveals environmental injustice in outlet placement. Minority and low-income neighborhoods face disproportionate outlet density, aggressive marketing, and drug market concentration. Constant exposure increases use through availability, cueing, and normalization.
+  clinical_description: Assessment maps exposure intensity, trigger locations, and avoidance possibilities. Interventions include intensive trigger management, relocation when possible, and coping skills for unavoidable exposure. High exposure environments require enhanced support and relapse prevention.
+  lay_description: When there's a liquor store on every block, drug dealers on the corner, and advertisements everywhere you look, staying clean becomes a daily battle. The constant reminders and easy availability make it feel like the whole neighborhood is pushing you to use.
+  structural_components: Outlet oversaturation, weak zoning, targeted marketing, drug markets, advertisement proliferation
+  social_processes: Normalized consumption, peer substance use, dealer targeting, relapse triggering
+  societal_relevance: High exposure drives community-level addiction, perpetuates disparities, and undermines public health
+  assessment_methods: Outlet density analysis, marketing exposure assessment, drug market mapping, trigger inventories
+  interventions: Intensive trigger management, environmental avoidance strategies, advocacy for outlet reduction, harm reduction
+  prominent_models: Environmental justice frameworks, Targeted marketing models, Environmental risk theories
+- id: soc-str-hou-seg-coh
+  label: Residentially Integrated Communities
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Mixed-income neighborhoods
+  - Integrated communities
+  - Diverse neighborhoods
+  scope: Spatially integrated communities with economic and racial diversity, distributed resources, and mixed-income housing that provide diverse social networks, reduced stigma, and varied recovery pathways.
+  parent_scope_inheritance: Specifies the residential integration dimension of spatial environment, focusing on segregation patterns rather than individual housing or services.
+  polarity_expression: Manifests as cohesive spatial structures through economic and racial integration, resource distribution, and diverse social networks that support recovery.
+  cross_domain_resonance: Resonates with soc-cul-inc (cultural inclusion), psy-soc-div (diverse social networks), and exi-con-bel (belonging across differences).
+  academic_description: Integration research shows how mixed-income communities provide bridging social capital, diverse role models, and reduced stigma. Economic diversity ensures resource distribution, prevents concentration effects, and provides varied recovery examples and pathways.
+  clinical_description: Assessment evaluates neighborhood diversity, integration levels, and available social networks. Interventions leverage diverse community resources and connections. Integrated communities offer natural recovery supports and reduced addiction stigma.
+  lay_description: Living in a mixed neighborhood where people from different backgrounds and income levels interact gives you more opportunities and support. You see different paths to recovery, have access to varied resources, and face less judgment about addiction.
+  structural_components: Inclusionary zoning, fair housing policies, mixed-income development, scattered-site housing, integration programs
+  social_processes: Cross-class interaction, bridging social capital, diverse networks, reduced stigmatization
+  societal_relevance: Integrated communities reduce inequality, improve social mobility, and strengthen social cohesion
+  assessment_methods: Diversity indices, integration measures, social network analysis, resource distribution mapping
+  interventions: Mobility programs, inclusionary housing, community bridging initiatives, anti-discrimination enforcement
+  prominent_models: Social capital theory, Contact hypothesis, Mixed-income community models
+- id: soc-str-hou-seg-fra
+  label: Residentially Segregated Communities
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Concentrated poverty
+  - Hypersegregated areas
+  - Isolated communities
+  scope: Spatially segregated areas with concentrated poverty, racial isolation, and resource deprivation that limit opportunities, concentrate disadvantage, and perpetuate intergenerational addiction patterns.
+  parent_scope_inheritance: Specifies the residential segregation dimension of spatial fragmentation, examining how spatial concentration of disadvantage perpetuates addiction.
+  polarity_expression: Manifests as fragmented spatial structures through concentrated poverty, racial isolation, and cumulative disadvantage that creates addiction hot spots.
+  cross_domain_resonance: Resonates with soc-cul-mar (cultural marginalization), psy-soc-iso (social isolation), and exi-con-ali (alienation from mainstream society).
+  academic_description: Segregation research reveals how spatial concentration multiplies disadvantage. Hypersegregation concentrates poverty, unemployment, family disruption, and violence, creating ecological contexts that increase addiction risk through multiple pathways including stress, trauma, and limited opportunities.
+  clinical_description: Assessment examines segregation impacts including concentrated stressors, limited networks, and systemic barriers. Interventions must address both individual and ecological factors. Segregation creates complex trauma requiring comprehensive approaches.
+  lay_description: When everyone in your neighborhood faces the same struggles with poverty, unemployment, and limited opportunities, problems multiply. The stress of concentrated disadvantage, combined with few positive examples or resources, makes addiction more likely and recovery harder.
+  structural_components: Residential segregation, concentrated poverty, redlining legacy, exclusionary zoning, disinvestment
+  social_processes: Disadvantage concentration, social isolation, limited mobility, intergenerational transmission
+  societal_relevance: Segregation perpetuates racial and economic inequality, concentrates social problems, and undermines social cohesion
+  assessment_methods: Segregation indices, poverty concentration measures, isolation indices, disadvantage assessments
+  interventions: Mobility programs, place-based investments, desegregation initiatives, comprehensive community development
+  prominent_models: Concentrated disadvantage theory, Hypersegregation frameworks, Neighborhood effects models
+- id: soc-str-hou-aff-coh
+  label: Housing Affordability
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Affordable housing access
+  - Economic housing security
+  - Housing assistance availability
+  scope: Accessible, affordable housing options with reasonable cost burdens, available assistance programs, and inclusive policies that prevent economic stress and enable stable recovery environments.
+  parent_scope_inheritance: Specifies the affordability dimension of spatial environment, focusing on economic accessibility of housing rather than quality or stability.
+  polarity_expression: Manifests as cohesive spatial structures through affordable options, assistance programs, and inclusive policies that prevent housing-related economic stress.
+  cross_domain_resonance: Resonates with soc-eco-sec (economic security), psy-emo-rel (reduced financial anxiety), and exi-mea-sta (stability from affordability).
+  academic_description: Affordability research links housing cost burden to substance use through financial stress pathways. Affordable housing reduces economic pressure, prevents displacement, and enables resource allocation to recovery needs. Housing assistance programs improve both housing and substance use outcomes.
+  clinical_description: Assessment evaluates housing cost burden, assistance eligibility, and economic stress. Interventions include assistance applications, financial counseling, and advocacy for affordable options. Affordability reduces stress-induced substance use and enables recovery investment.
+  lay_description: When rent doesn't eat up most of your income, you have money left for food, healthcare, and recovery support. Affordable housing means less financial stress and more resources to build a stable, healthy life without turning to substances to cope.
+  structural_components: Affordable housing stock, voucher programs, rent control, inclusionary zoning, housing trust funds
+  social_processes: Economic stress reduction, resource allocation, housing stability, recovery investment
+  societal_relevance: Housing affordability prevents homelessness, reduces inequality, and supports economic stability
+  assessment_methods: Cost burden calculations, affordability indices, assistance eligibility screening, budget analysis
+  interventions: Rental assistance programs, affordable housing placement, financial literacy, subsidy applications
+  prominent_models: Housing affordability frameworks, Cost burden models, Housing assistance effectiveness research
+- id: soc-str-hou-aff-fra
+  label: Housing Unaffordability
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Housing cost burden
+  - Economic housing insecurity
+  - Exclusionary housing markets
+  scope: Unaffordable housing markets with severe cost burdens, limited assistance, and exclusionary policies that create economic stress, force impossible tradeoffs, and exclude people with addiction histories from stable housing.
+  parent_scope_inheritance: Specifies the affordability crisis dimension of spatial fragmentation, examining how housing costs create economic pressure that perpetuates addiction.
+  polarity_expression: Manifests as fragmented spatial structures through severe cost burdens, displacement pressure, and systematic exclusion that destabilizes recovery.
+  cross_domain_resonance: Resonates with soc-eco-pov (poverty stress), psy-emo-anx (financial anxiety), and exi-mea-des (despair from impossible costs).
+  academic_description: Unaffordability research reveals how severe rent burden triggers substance use through acute financial stress. When housing consumes 50%+ of income, individuals face impossible tradeoffs between housing, food, and healthcare. Exclusionary policies barring people with records perpetuate homelessness.
+  clinical_description: Assessment screens for severe cost burden, eviction risk from unaffordability, and exclusion from housing. Interventions address immediate crisis through emergency assistance while advocating for systemic change. Unaffordability creates chronic stress undermining recovery.
+  lay_description: When rent takes most or all of your income, you're constantly stressed about making ends meet. You might turn to substances to cope with the anxiety, or deal drugs to pay rent. Being excluded from housing because of past addiction makes recovery feel impossible.
+  structural_components: Rising rents, stagnant wages, insufficient assistance, exclusionary screening, discrimination
+  social_processes: Economic stress accumulation, displacement, impossible tradeoffs, survival crime, exclusion
+  societal_relevance: Housing unaffordability drives homelessness, perpetuates poverty, and undermines public health
+  assessment_methods: Severe cost burden screening, eviction risk assessment, discrimination documentation, barrier analysis
+  interventions: Emergency rental assistance, legal advocacy, policy reform, alternative housing models, crisis intervention
+  prominent_models: Severe rent burden frameworks, Housing exclusion models, Economic stress theories
+- id: soc-str-hou-soc-coh
+  label: Neighborhood Social Cohesion
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Collective efficacy
+  - Social capital
+  - Community cohesion
+  scope: Neighborhoods with strong social ties, mutual trust, shared norms against substance abuse, collective efficacy for social control, and supportive networks that provide informal recovery support and positive social pressure.
+  parent_scope_inheritance: Specifies the social cohesion dimension of spatial environment, focusing on neighborhood social dynamics rather than physical or economic characteristics.
+  polarity_expression: Manifests as cohesive spatial structures through strong social bonds, collective efficacy, and shared norms that support recovery and prevent substance use.
+  cross_domain_resonance: Resonates with psy-soc-sup (social support), soc-cul-nor (positive norms), and exi-con-bel (community belonging).
+  academic_description: Social cohesion research demonstrates how collective efficacy reduces substance use through informal social control and support. Neighborhoods with strong ties enforce norms against public use, provide natural recovery support, and offer alternatives to substance-focused socializing.
+  clinical_description: Assessment evaluates neighborhood social ties, collective efficacy, and available informal support. Interventions leverage existing social capital and build community connections. Cohesive neighborhoods provide natural recovery communities and accountability.
+  lay_description: In tight-knit neighborhoods where people look out for each other, you have built-in support for recovery. Neighbors notice if you're struggling, offer help without judgment, and create social pressure to stay healthy. You feel accountable to your community.
+  structural_components: Community organizations, block associations, neighborhood watch, social spaces, gathering places
+  social_processes: Mutual support, informal social control, norm enforcement, collective action, network formation
+  societal_relevance: Social cohesion reduces crime, improves health outcomes, and strengthens community resilience
+  assessment_methods: Collective efficacy scales, social network mapping, trust measures, participation assessments
+  interventions: Community building initiatives, neighbor support programs, block organizing, social capital development
+  prominent_models: Collective efficacy theory, Social capital frameworks, Community cohesion models
+- id: soc-str-hou-soc-fra
+  label: Neighborhood Social Fragmentation
+  forest: Sociological
+  forest_id: soc
+  field: Structural Factors
+  field_id: soc-str
+  cluster: Housing & Spatial Environment
+  cluster_id: soc-str-hou
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Social disorganization
+  - Low collective efficacy
+  - Community breakdown
+  scope: Neighborhoods with weak social ties, low trust, absent collective efficacy, and negative peer influences that lack informal support, enable substance use through indifference, and provide no community accountability for recovery.
+  parent_scope_inheritance: Specifies the social fragmentation dimension of spatial breakdown, examining how weak neighborhood social fabric enables addiction.
+  polarity_expression: Manifests as fragmented spatial structures through social isolation, distrust, and absent collective action that leaves individuals without community support.
+  cross_domain_resonance: Resonates with psy-soc-iso (social isolation), soc-cul-ano (anomie), and exi-con-ali (alienation from community).
+  academic_description: Social disorganization research reveals how neighborhood fragmentation enables addiction. Without collective efficacy, public substance use goes unchallenged. Weak ties provide no informal support or positive role models. Isolation and anonymity remove social constraints on use.
+  clinical_description: Assessment identifies social isolation, negative peer networks, and absent community support. Interventions must create alternative support systems and address social skill deficits from isolation. Fragmented neighborhoods require formal services to replace absent informal support.
+  lay_description: In neighborhoods where no one knows or trusts each other, there's no community support for recovery. People use drugs openly without anyone caring, negative influences are everywhere, and you feel alone in trying to get better without neighbors who understand or help.
+  structural_components: High turnover, absent institutions, no gathering spaces, weak organizations, social service gaps
+  social_processes: Social isolation, anonymity, norm absence, negative peer influence, bystander indifference
+  societal_relevance: Social fragmentation increases crime, reduces wellbeing, and undermines community capacity
+  assessment_methods: Social disorganization indices, isolation measures, trust surveys, network analysis
+  interventions: Community organizing, peer support groups, social skill building, formal support services, outreach
+  prominent_models: Social disorganization theory, Anomie frameworks, Social isolation models

@@ -1,0 +1,304 @@
+# Generated anchors for cluster: SOC-CUL-STI
+# Timestamp: 20251103_203342
+
+anchors:
+- id: soc-cul-sti-pub-coh
+  label: Public Acceptance
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Social acceptance
+  - Community support
+  - Collective compassion
+  scope: Represents societal attitudes of acceptance, understanding, and support toward people with addiction, characterized by accurate knowledge, person-first language, willingness for social contact, and advocacy for recovery.
+  parent_scope_inheritance: Specifies the public stigma dimension of stigma systems by focusing on collective societal attitudes and behaviors that promote inclusion rather than discrimination.
+  polarity_expression: Manifests as social acceptance through compassionate attitudes, accurate understanding of addiction as a health condition, willingness to interact socially, support for treatment access, and employment opportunities.
+  cross_domain_resonance: Resonates with psy-soc-sha-ada (healthy shame regulation), exi-mea-ide-pur (purposeful identity), and soc-ins-hea-coh (inclusive healthcare systems).
+  academic_description: Research demonstrates that public acceptance correlates with higher treatment engagement, better recovery outcomes, and reduced discrimination. Contact-based interventions showing people in recovery reduce prejudice more effectively than education alone. Studies indicate that framing addiction as a treatable medical condition increases public support while reducing blame.
+  clinical_description: Clinical practice addresses public acceptance through community education, contact-based interventions arranging interactions between people in recovery and community members, media advocacy promoting accurate portrayals, and training programs for healthcare providers, employers, and law enforcement to reduce discriminatory attitudes.
+  lay_description: When communities accept addiction as a health condition that can affect anyone, people feel supported rather than judged. This means using respectful language, offering second chances, maintaining friendships, and supporting treatment access. Acceptance helps people seek help without fear of rejection.
+  structural_components:
+  - Media representations
+  - Community attitudes
+  - Workplace cultures
+  social_processes:
+  - Social inclusion
+  - Collective support
+  - Advocacy movements
+  societal_relevance: Public acceptance enables help-seeking behavior, supports recovery engagement, reduces treatment barriers, and promotes social reintegration.
+- id: soc-cul-sti-pub-fra
+  label: Public Stigmatization
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Social rejection
+  - Collective prejudice
+  - Public discrimination
+  scope: Represents societal attitudes of prejudice, discrimination, and exclusion toward people with addiction, characterized by stereotyping, labeling, social distance preferences, and discriminatory behaviors.
+  parent_scope_inheritance: Specifies the public stigma dimension of stigma systems by focusing on collective societal attitudes and behaviors that promote discrimination and exclusion.
+  polarity_expression: Manifests as social rejection through stereotyping, dehumanizing language, social distance preferences, employment discrimination, housing restrictions, and support for punitive rather than therapeutic responses.
+  cross_domain_resonance: Resonates with psy-soc-sha-mal (pathological shame), exi-mea-ide-dir (directionless identity), and soc-ins-jus-fra (punitive justice systems).
+  academic_description: Research shows public stigma creates significant barriers to treatment access, with studies indicating that fear of discrimination prevents 40% of individuals from seeking help. Stereotypes portraying addiction as moral weakness or character flaw persist despite scientific evidence. Social distance preferences lead to employment discrimination, with employers less likely to hire individuals with addiction histories.
+  clinical_description: Clinical practice addresses public stigmatization through anti-stigma campaigns, protest against discriminatory portrayals, education about addiction neuroscience, advocacy for policy changes, and strategic disclosure planning with clients to manage stigma exposure. Clinicians help clients develop stigma resistance strategies and coping mechanisms for discrimination.
+  lay_description: When society sees addiction as a moral failing or character flaw, people face judgment, name-calling, and exclusion. This includes losing jobs, being denied housing, losing friends, and being treated as dangerous or untrustworthy. Such rejection makes people hide their struggles and avoid seeking help.
+  structural_components:
+  - Discriminatory policies
+  - Media stereotypes
+  - Social hierarchies
+  social_processes:
+  - Labeling and stereotyping
+  - Social exclusion
+  - Status degradation
+  societal_relevance: Public stigmatization perpetuates addiction cycles, prevents help-seeking, increases social isolation, and maintains systemic barriers to recovery.
+- id: soc-cul-sti-slf-coh
+  label: Self-Acceptance
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Stigma resistance
+  - Positive recovery identity
+  - Self-compassion
+  scope: Represents internalized self-acceptance and stigma resistance in individuals with addiction, characterized by maintained self-esteem, positive identity development, help-seeking behavior, and empowerment.
+  parent_scope_inheritance: Specifies the self-stigma dimension of stigma systems by focusing on how individuals resist internalizing negative stereotypes and maintain positive self-regard.
+  polarity_expression: Manifests as self-acceptance through maintained self-worth, development of recovery identity, active help-seeking, engagement in advocacy, rejection of stereotypes, and self-compassion practices.
+  cross_domain_resonance: Resonates with psy-cog-bel-ada (adaptive beliefs), psy-emo-sha-ada (healthy shame processing), and exi-mea-wor-pur (purposeful self-worth).
+  academic_description: Research identifies stigma resistance as a protective factor against internalization of negative stereotypes. Studies show that positive recovery identity development, peer support participation, and involvement in advocacy strengthen resistance to self-stigma. Narrative therapy approaches help individuals separate their identity from addiction labels.
+  clinical_description: Clinical interventions foster self-acceptance through cognitive restructuring challenging internalized stereotypes, narrative therapy separating person from problem, development of recovery identity, participation in mutual support groups, empowerment through advocacy training, and self-compassion practices. Assessment tools measure stigma resistance and identity development.
+  lay_description: Self-acceptance means not letting society's negative messages define you. People maintain their sense of worth, seek help without shame, connect with others in recovery, and may even become advocates. They understand addiction as one part of their story, not their whole identity.
+  structural_components:
+  - Identity narratives
+  - Support networks
+  - Recovery communities
+  social_processes:
+  - Identity reconstruction
+  - Peer validation
+  - Collective empowerment
+  societal_relevance: Self-acceptance enables treatment engagement, supports sustained recovery, promotes advocacy for systemic change, and models recovery possibility for others.
+- id: soc-cul-sti-slf-fra
+  label: Self-Stigmatization
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Internalized stigma
+  - Self-blame
+  - Shame internalization
+  scope: Represents internalization of negative stereotypes by individuals with addiction, characterized by shame, self-blame, diminished self-worth, treatment avoidance, and the 'why try?' effect.
+  parent_scope_inheritance: Specifies the self-stigma dimension of stigma systems by focusing on how individuals internalize and apply negative stereotypes to themselves.
+  polarity_expression: Manifests as self-stigmatization through shame, self-blame, low self-esteem, treatment avoidance, social withdrawal, self-isolation, and resignation to stereotypes.
+  cross_domain_resonance: Resonates with psy-cog-bel-mal (maladaptive beliefs), psy-emo-sha-mal (toxic shame), and exi-mea-wor-dir (directionless self-worth).
+  academic_description: Research shows self-stigma predicts treatment avoidance, with internalized shame being the strongest barrier to help-seeking. The 'why try?' effect describes how internalized stereotypes lead to behavioral confirmation through reduced self-efficacy. Studies indicate self-stigma correlates with increased depression, reduced quality of life, and poorer treatment outcomes.
+  clinical_description: Clinical interventions address self-stigmatization through specialized programs targeting internalized stigma, cognitive therapy challenging negative self-beliefs, acceptance and commitment therapy for shame, group interventions normalizing experiences, and psychoeducation about stigma processes. Clinicians assess internalized stigma levels and its impact on treatment engagement.
+  lay_description: Self-stigmatization happens when people believe society's negative messages about addiction apply to them. They feel deep shame, blame themselves, believe they're weak or worthless, and may give up trying to change. This internal judgment often feels worse than external discrimination.
+  structural_components:
+  - Internalized narratives
+  - Shame systems
+  - Identity structures
+  social_processes:
+  - Stereotype internalization
+  - Self-fulfilling prophecy
+  - Social comparison
+  societal_relevance: Self-stigmatization prevents help-seeking, maintains addiction cycles, increases mental health comorbidity, and perpetuates social exclusion through self-isolation.
+- id: soc-cul-sti-str-coh
+  label: Structural Inclusion
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Institutional equity
+  - Systemic support
+  - Policy inclusion
+  scope: Represents institutional policies and practices that ensure equitable treatment and access for people with addiction, characterized by fair healthcare coverage, non-discriminatory employment, inclusive housing, and therapeutic justice approaches.
+  parent_scope_inheritance: Specifies the structural stigma dimension of stigma systems by focusing on institutional policies and practices that promote inclusion and equitable access.
+  polarity_expression: Manifests as structural inclusion through insurance parity, fair employment practices, housing non-discrimination, treatment-oriented criminal justice, and recovery-supportive policies.
+  cross_domain_resonance: Resonates with soc-ins-hea-coh (equitable healthcare), soc-ins-emp-coh (fair employment), and soc-ins-jus-coh (therapeutic justice).
+  academic_description: Research demonstrates that structural inclusion through policy reform improves treatment access and recovery outcomes. Insurance parity laws increase treatment utilization by 40%. Employment protection policies reduce discrimination and support recovery stability. Housing-first approaches show better outcomes than contingent models.
+  clinical_description: Clinical practice engages structural inclusion through policy advocacy, institutional consultation on recovery-oriented practices, training programs for organizational change, documentation of discrimination for legal action, and collaboration with advocacy organizations. Clinicians help clients navigate systems and access protections under disability laws.
+  lay_description: Structural inclusion means institutions treat people with addiction fairly - insurance covers treatment like other health conditions, employers offer second chances, housing is available regardless of history, and the justice system emphasizes treatment over punishment.
+  structural_components:
+  - Healthcare policies
+  - Employment laws
+  - Housing regulations
+  social_processes:
+  - Policy implementation
+  - Institutional reform
+  - Systems integration
+  societal_relevance: Structural inclusion removes systemic barriers to recovery, ensures equitable access to resources, promotes social reintegration, and demonstrates societal commitment to treating addiction as a health condition.
+- id: soc-cul-sti-str-fra
+  label: Structural Discrimination
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Institutional stigma
+  - Systemic barriers
+  - Policy discrimination
+  scope: Represents institutional policies and practices that systematically disadvantage people with addiction, characterized by insurance limitations, employment discrimination, housing restrictions, and punitive criminal justice.
+  parent_scope_inheritance: Specifies the structural stigma dimension of stigma systems by focusing on institutional policies and practices that create systematic barriers and discrimination.
+  polarity_expression: Manifests as structural discrimination through insurance coverage denials, employment background checks, housing restrictions, punitive incarceration, and exclusion from social services.
+  cross_domain_resonance: Resonates with soc-ins-hea-fra (discriminatory healthcare), soc-ins-emp-fra (employment barriers), and soc-ins-jus-fra (punitive justice).
+  academic_description: Research shows structural discrimination creates profound barriers to recovery. Insurance limitations result in 60% of people needing treatment not receiving it. Criminal records create lifetime employment barriers. Housing discrimination forces people into unstable situations that trigger relapse. Punitive policies increase recidivism compared to treatment approaches.
+  clinical_description: Clinical practice addresses structural discrimination through documentation of systemic barriers, advocacy for individual clients, collaboration with legal services, education about rights and protections, and participation in policy reform efforts. Clinicians help clients develop strategies to navigate discriminatory systems while working toward systemic change.
+  lay_description: Structural discrimination means the system is stacked against people with addiction - insurance won't cover treatment adequately, criminal records block employment, landlords refuse housing, and minor offenses lead to incarceration instead of help. These barriers make recovery nearly impossible.
+  structural_components:
+  - Discriminatory policies
+  - Institutional barriers
+  - Systemic exclusion
+  social_processes:
+  - Institutional bias
+  - Policy enforcement
+  - Systematic marginalization
+  societal_relevance: Structural discrimination perpetuates addiction cycles, creates insurmountable barriers to recovery, maintains social stratification, and violates principles of healthcare equity and human rights.
+- id: soc-cul-sti-crt-coh
+  label: Family Support
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Family acceptance
+  - Courtesy support
+  - Associate inclusion
+  scope: Represents social acceptance and support for family members and associates of people with addiction, characterized by community understanding, reduced blame toward families, and inclusion in social networks.
+  parent_scope_inheritance: Specifies the courtesy stigma dimension of stigma systems by focusing on how families and associates experience acceptance and support rather than stigma by association.
+  polarity_expression: Manifests as family support through community understanding of family challenges, inclusion in social activities, workplace support for caregivers, and access to family resources.
+  cross_domain_resonance: Resonates with soc-rel-fam-coh (healthy family dynamics), psy-soc-sup-ada (adaptive social support), and soc-com-nei-coh (supportive neighborhoods).
+  academic_description: Research shows that family support and reduced courtesy stigma improve both family functioning and patient outcomes. Studies indicate that when families feel supported by their communities, they're more likely to engage in treatment and maintain involvement. Family psychoeducation reducing self-blame improves caregiver wellbeing and patient recovery rates.
+  clinical_description: Clinical interventions promote family support through community education about addiction's impact on families, family support groups reducing isolation, workplace programs supporting caregivers, and family therapy addressing courtesy stigma. Clinicians help families develop disclosure strategies and build supportive networks while maintaining boundaries.
+  lay_description: Family support means communities understand that addiction affects whole families and offer compassion rather than blame. Families can talk openly about their challenges, maintain friendships, receive workplace understanding, and access help without judgment.
+  structural_components:
+  - Family networks
+  - Community resources
+  - Support systems
+  social_processes:
+  - Collective understanding
+  - Social inclusion
+  - Community support
+  societal_relevance: Family support strengthens recovery networks, reduces caregiver burden, prevents intergenerational transmission of addiction, and maintains family stability during crisis.
+- id: soc-cul-sti-crt-fra
+  label: Family Stigmatization
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Courtesy stigma
+  - Stigma by association
+  - Family shame
+  scope: Represents stigmatization of family members and associates of people with addiction, characterized by blame, social exclusion, shame, and discrimination by association.
+  parent_scope_inheritance: Specifies the courtesy stigma dimension of stigma systems by focusing on how families and associates experience discrimination and exclusion through their connection to someone with addiction.
+  polarity_expression: Manifests as family stigmatization through blame for causing or enabling addiction, social isolation, workplace discrimination, children's exclusion from activities, and family shame.
+  cross_domain_resonance: Resonates with soc-rel-fam-fra (family dysfunction), psy-soc-iso-mal (social isolation), and soc-com-nei-fra (community exclusion).
+  academic_description: Research documents significant courtesy stigma affecting families, with studies showing 70% of family members experience blame and discrimination. Children of parents with addiction face peer rejection and exclusion. Spouses report employment discrimination and social isolation. Courtesy stigma correlates with increased family dysfunction, caregiver depression, and reduced treatment engagement.
+  clinical_description: Clinical practice addresses family stigmatization through interventions targeting family shame, support groups for isolated families, advocacy against discrimination, and psychoeducation challenging blame narratives. Clinicians help families manage disclosure, cope with discrimination, and maintain self-care while supporting their loved one.
+  lay_description: Family stigmatization means relatives face blame and rejection because of their loved one's addiction. People assume they caused it or enabled it, friendships end, children get excluded from activities, and families hide in shame and isolation.
+  structural_components:
+  - Social hierarchies
+  - Blame systems
+  - Exclusion mechanisms
+  social_processes:
+  - Guilt by association
+  - Social distancing
+  - Collective shaming
+  societal_relevance: Family stigmatization weakens support systems, increases family dysfunction, perpetuates intergenerational trauma, and reduces community cohesion.
+- id: soc-cul-sti-int-coh
+  label: Intersectional Recognition
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Cultural responsiveness
+  - Identity affirmation
+  - Inclusive support
+  scope: Represents recognition and responsive support for individuals experiencing addiction alongside other marginalized identities, characterized by culturally adapted interventions, acknowledgment of systemic oppression, and inclusive recovery spaces.
+  parent_scope_inheritance: Specifies the intersectional stigma dimension of stigma systems by focusing on how multiple identities are recognized and supported rather than compounding discrimination.
+  polarity_expression: Manifests as intersectional recognition through culturally specific programs, trauma-informed care acknowledging oppression, LGBTQ-affirming services, and advocacy addressing multiple forms of discrimination.
+  cross_domain_resonance: Resonates with soc-cul-eth-coh (cultural inclusion), soc-str-gen-coh (gender equity), and exi-mea-ide-pur (integrated identity).
+  academic_description: Research demonstrates that intersectional approaches improve outcomes for multiply marginalized individuals. Culturally adapted treatments show 40% better retention for racial minorities. LGBTQ-affirming programs reduce substance use and mental health symptoms. Trauma-informed care addressing systemic oppression improves engagement for marginalized communities.
+  clinical_description: Clinical practice implements intersectional recognition through culturally responsive assessment and treatment, acknowledgment of historical trauma and systemic oppression, creation of identity-affirming spaces, collaboration with community organizations, and advocacy addressing multiple forms of discrimination. Clinicians examine their own privileges and biases.
+  lay_description: Intersectional recognition means understanding that people face addiction alongside other challenges like racism, poverty, homophobia, or sexism. Support addresses all aspects of identity, creates welcoming spaces for everyone, and fights discrimination on multiple fronts.
+  structural_components:
+  - Inclusive policies
+  - Cultural programs
+  - Identity-affirming spaces
+  social_processes:
+  - Cultural adaptation
+  - Identity validation
+  - Collective liberation
+  societal_relevance: Intersectional recognition promotes equity in recovery access, addresses complex trauma and oppression, builds inclusive communities, and advances social justice.
+- id: soc-cul-sti-int-fra
+  label: Intersectional Discrimination
+  forest: Sociological
+  forest_id: soc
+  field: Cultural Dynamics
+  field_id: soc-cul
+  cluster: Stigma Systems
+  cluster_id: soc-cul-sti
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Compounded stigma
+  - Multiple marginalization
+  - Layered discrimination
+  scope: Represents compounded discrimination experienced by individuals with addiction who also belong to other marginalized groups, characterized by multiple stereotypes, systemic exclusion, and profound marginalization.
+  parent_scope_inheritance: Specifies the intersectional stigma dimension of stigma systems by focusing on how multiple forms of discrimination compound to create profound barriers and exclusion.
+  polarity_expression: Manifests as intersectional discrimination through racial disparities in criminal justice, class-based treatment barriers, gender-based violence, LGBTQ exclusion, and multiple systemic barriers.
+  cross_domain_resonance: Resonates with soc-cul-eth-fra (racial discrimination), soc-str-cla-fra (class oppression), and exi-mea-ide-dir (fragmented identity).
+  academic_description: Research documents severe disparities at the intersection of addiction and other marginalized identities. Black individuals face 5x higher incarceration rates for drug offenses despite similar use rates. LGBTQ individuals experience higher addiction rates due to minority stress but face discrimination in treatment. Women with addiction face unique stigma as 'failed mothers.' Poverty compounds all barriers through lack of resources.
+  clinical_description: Clinical practice addresses intersectional discrimination through acknowledgment of multiple oppressions, advocacy against compound discrimination, collaboration with social justice organizations, and development of specialized programs for multiply marginalized groups. Clinicians work to understand how different forms of oppression interact and compound in each client's experience.
+  lay_description: Intersectional discrimination means facing addiction stigma on top of racism, homophobia, sexism, or poverty. A Black person with addiction faces both racist and addiction stereotypes. An LGBTQ person might be rejected by both recovery groups and their community. These multiple rejections create nearly impossible barriers.
+  structural_components:
+  - Systemic oppression
+  - Multiple hierarchies
+  - Compound barriers
+  social_processes:
+  - Multiple stereotyping
+  - Systemic exclusion
+  - Oppression intersection
+  societal_relevance: Intersectional discrimination creates profound marginalization, perpetuates health disparities, maintains systemic inequality, and violates human rights through compound oppression.

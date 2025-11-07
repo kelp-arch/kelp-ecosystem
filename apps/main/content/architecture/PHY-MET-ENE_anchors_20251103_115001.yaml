@@ -1,0 +1,328 @@
+# Generated anchors for cluster: PHY-MET-ENE
+# Timestamp: 20251103_115001
+
+anchors:
+- id: phy-met-ene-oxp-reg
+  label: Efficient Oxidative Phosphorylation
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Optimal electron transport chain function
+  - Efficient ATP synthesis
+  - High oxidative capacity
+  scope: Efficient electron flow through all five complexes of the electron transport chain with optimal ATP production, minimal electron leakage, and controlled reactive oxygen species generation. Maintains high ATP/ADP ratios supporting cellular energy demands.
+  parent_scope_inheritance: Specifies the electron transport chain and oxidative phosphorylation component of cellular energy production, focusing on the efficiency of ATP synthesis through the mitochondrial respiratory complexes.
+  polarity_expression: Manifests as efficient coupling of electron transport to ATP synthesis with minimal ROS production, supporting sustained energy availability and cellular function.
+  cross_domain_resonance: Resonates with psy-cog-exe-ada through ATP-dependent executive function, soc-fam-fun-coh via energy for family engagement, and exi-mea-lif-pur through vitality supporting life purpose.
+  academic_description: Regulated oxidative phosphorylation involves optimal function of all electron transport chain complexes (I-IV) and ATP synthase (Complex V). Efficient electron flow from NADH and FADH2 through the complexes generates a robust proton gradient driving ATP synthesis. Supercomplex formation enhances efficiency while minimizing electron leakage and ROS production. Cardiolipin integrity maintains complex stability. Coenzyme Q10 and cytochrome c facilitate electron transfer. This state exhibits high P/O ratios, efficient oxygen consumption, and maintenance of mitochondrial membrane potential around -140mV.
+  clinical_description: Assessment includes lactate levels (normal <2 mmol/L), lactate/pyruvate ratio (<20), and specialized mitochondrial function tests. Patients show good exercise tolerance, stable energy throughout the day, and mental clarity. Support involves CoQ10 (100-300mg daily), PQQ (20mg daily), and B-complex vitamins. Regular aerobic exercise enhances oxidative capacity. Alpha-lipoic acid (600mg) provides antioxidant support. Adequate protein intake supplies amino acids for complex assembly. Recovery markers include improving VO2max and reduced post-exercise lactate accumulation.
+  lay_description: Your cells' power plants work like a well-tuned assembly line, efficiently converting oxygen and nutrients into ATP energy with minimal waste. Each step in the energy production chain works smoothly, like workers passing materials down a production line. This efficient system provides steady energy for your brain and body throughout the day. You experience good stamina, clear thinking, and quick recovery after exercise.
+  key_mediators: NADH, FADH2, Coenzyme Q10, cytochrome c, cardiolipin, ATP synthase, superoxide dismutase, oxygen
+  key_mechanisms: Electron transport through complexes I-IV, proton gradient generation, chemiosmotic coupling, ATP synthesis via F0F1-ATPase, supercomplex assembly, ROS scavenging
+  clinical_relevance: Supports recovery from addiction-related mitochondrial damage, improves chronic fatigue, enhances cognitive function, reduces oxidative stress markers
+  assessment_methods: Lactate and pyruvate levels, organic acid analysis, muscle biopsy for complex activities, exercise testing for VO2max, 31P-MRS for ATP turnover
+  interventions: CoQ10 supplementation, mitochondrial cofactor support, progressive aerobic exercise, interval training, antioxidant therapy, nutritional optimization
+  prominent_models: Mitchell's chemiosmotic theory, Wallace's mitochondrial paradigm, supercomplex assembly model, ROS signaling in mitochondrial adaptation
+- id: phy-met-ene-oxp-dys
+  label: Impaired Oxidative Phosphorylation
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Electron transport chain dysfunction
+  - Reduced ATP synthesis
+  - Mitochondrial respiratory deficiency
+  scope: Impaired electron flow through respiratory complexes with reduced ATP production, increased electron leakage, and excessive reactive oxygen species generation. Results in low ATP/ADP ratios and cellular energy crisis.
+  parent_scope_inheritance: Specifies the dysfunctional electron transport chain and impaired oxidative phosphorylation component of energy metabolism disruption, focusing on reduced ATP synthesis capacity.
+  polarity_expression: Manifests as uncoupled electron transport with poor ATP yield and excessive ROS production, leading to energy depletion and oxidative damage.
+  cross_domain_resonance: Resonates with psy-cog-exe-mal through energy-depleted executive dysfunction, soc-fam-fun-fra via fatigue limiting family participation, and exi-mea-lif-dir through vitality loss undermining purpose.
+  academic_description: Dysregulated oxidative phosphorylation involves reduced activities of complexes I and IV, common targets of substance-related damage. Alcohol metabolism generates acetaldehyde adducts damaging complex proteins. Stimulants cause calcium overload disrupting the electron transport chain. Chronic oxidative stress damages mitochondrial DNA encoding complex subunits. Cardiolipin peroxidation destabilizes supercomplexes. This manifests as decreased oxygen consumption, reduced ATP synthesis, increased ROS production, and mitochondrial membrane depolarization. The resulting bioenergetic crisis particularly affects high-energy tissues.
+  clinical_description: Assessment reveals elevated lactate (>2 mmol/L), increased lactate/pyruvate ratio (>20), and abnormal organic acids showing Krebs cycle disruption. Patients experience profound fatigue, exercise intolerance, post-exertional malaise, and cognitive fog. Initial treatment requires gentle rehabilitation to avoid overwhelming damaged systems. High-dose CoQ10 (300-600mg), L-carnitine (2-3g daily), and mitochondrial nutrients are essential. Gradual exercise progression from light walking to eventual interval training as tolerated. Recovery is slow, requiring months of consistent support.
+  lay_description: Your cellular power plants are damaged and inefficient, like a broken generator that uses lots of fuel but produces little energy and lots of harmful exhaust. The assembly line of energy production has broken links, causing backups and waste products. This leaves you feeling exhausted all the time, unable to exercise without crashing, and struggling with brain fog. Your cells literally don't have enough energy to function properly.
+  key_mediators: Reduced NADH oxidation, CoQ10 deficiency, cytochrome c release, damaged cardiolipin, excessive superoxide, peroxynitrite, depleted ATP
+  key_mechanisms: Complex I and IV inhibition, electron leakage, uncoupled respiration, ROS-induced ROS release, mitochondrial DNA damage, membrane depolarization
+  clinical_relevance: Core feature of addiction-related fatigue, contributes to organ dysfunction, impairs recovery capacity, perpetuates oxidative stress
+  assessment_methods: Elevated lactate and lactate/pyruvate ratio, abnormal organic acids, reduced complex activities on biopsy, decreased VO2max, elevated oxidative stress markers
+  interventions: High-dose mitochondrial nutrients, gentle graded exercise therapy, antioxidant support, hyperbaric oxygen therapy in severe cases, dietary ketosis for alternative fuel
+  prominent_models: Mitochondrial threshold effect, vicious cycle of ROS damage, bioenergetic crisis model, mitochondrial dysfunction in addiction
+- id: phy-met-ene-flx-reg
+  label: Metabolic Flexibility
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Efficient substrate switching
+  - Metabolic adaptability
+  - Fuel flexibility
+  scope: Ability to efficiently switch between glucose and fatty acid oxidation based on substrate availability and metabolic demands. Maintains energy homeostasis through appropriate fuel selection and utilization across fed and fasted states.
+  parent_scope_inheritance: Specifies the metabolic substrate switching component of energy metabolism, focusing on the flexibility to utilize different fuel sources efficiently.
+  polarity_expression: Manifests as smooth transitions between glycolysis and beta-oxidation, maintaining stable energy production regardless of nutritional state or substrate availability.
+  cross_domain_resonance: Resonates with psy-emo-reg-ada through metabolic support for emotional stability, soc-occ-per-coh via sustained work energy, and exi-gro-tra-pur through adaptive capacity supporting transformation.
+  academic_description: Metabolic flexibility involves coordinated regulation of glucose and fatty acid oxidation through the Randle cycle. Insulin sensitivity allows appropriate glucose uptake and oxidation in the fed state. During fasting, hormone-sensitive lipase activation and CPT1 activity enable fatty acid oxidation. PDH complex regulation via PDK/PDP controls pyruvate fate. AMPK and mTOR signaling coordinate substrate preference. PPARα activation enhances fat oxidation capacity. This flexibility maintains ATP production across varying substrate availability and prevents metabolic inflexibility associated with insulin resistance.
+  clinical_description: Assessment via respiratory quotient (RQ) showing appropriate shifts (0.7 for fat, 1.0 for glucose oxidation). Metabolic flexibility testing reveals smooth substrate transitions. Patients maintain stable energy between meals and tolerate fasting well. Support includes time-restricted eating to train metabolic switching, HIIT for mitochondrial adaptation, and L-carnitine (2g daily) for fatty acid oxidation. Balanced macronutrients prevent over-reliance on single fuel sources. Berberine or metformin may enhance flexibility. Recovery shows improved fasting tolerance and stable energy.
+  lay_description: Your metabolism can smoothly switch between burning sugar and fat for energy, like a hybrid car seamlessly switching between gas and electric power. When you eat, you efficiently burn the incoming nutrients. Between meals or during exercise, you smoothly transition to burning stored fat. This flexibility keeps your energy stable throughout the day without crashes or cravings.
+  key_mediators: Insulin, glucagon, AMPK, mTOR, PPARα, CPT1, PDH complex, acetyl-CoA, malonyl-CoA
+  key_mechanisms: Randle cycle regulation, insulin signaling, lipolysis activation, beta-oxidation, glycolysis regulation, mitochondrial substrate selection
+  clinical_relevance: Prevents metabolic syndrome development, supports weight management, maintains energy stability, enhances athletic performance
+  assessment_methods: Respiratory quotient measurement, metabolic flexibility testing, oral glucose tolerance, insulin sensitivity indices, substrate oxidation rates
+  interventions: Time-restricted eating, high-intensity interval training, L-carnitine supplementation, balanced macronutrient intake, berberine for insulin sensitivity
+  prominent_models: Randle cycle, metabolic flexibility hypothesis, insulin resistance paradigm, substrate competition model
+- id: phy-met-ene-flx-dys
+  label: Metabolic Inflexibility
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired substrate switching
+  - Metabolic rigidity
+  - Fuel inflexibility
+  scope: Inability to efficiently switch between glucose and fatty acid oxidation, with over-reliance on glucose metabolism and impaired fat oxidation. Results in energy instability and substrate accumulation.
+  parent_scope_inheritance: Specifies the dysfunctional metabolic substrate switching component of energy metabolism disruption, focusing on the inability to adapt fuel utilization.
+  polarity_expression: Manifests as stuck metabolic patterns with poor substrate transitions, leading to energy crashes, substrate accumulation, and metabolic dysfunction.
+  cross_domain_resonance: Resonates with psy-emo-reg-mal through metabolic contribution to emotional instability, soc-occ-per-fra via energy crashes affecting work, and exi-gro-tra-dir through rigidity blocking transformation.
+  academic_description: Metabolic inflexibility involves impaired substrate switching due to mitochondrial dysfunction and altered signaling. Chronic alcohol exposure impairs CPT1 reducing fatty acid oxidation. Insulin resistance from substance use prevents appropriate glucose disposal. PDH complex dysfunction limits pyruvate oxidation. Incomplete fat oxidation generates acylcarnitines. AMPK signaling is blunted. This creates dependence on glucose with poor fat oxidation, leading to lipid accumulation, energy crashes between meals, and contribution to metabolic syndrome. Recovery requires gradual metabolic retraining.
+  clinical_description: Assessment shows fixed respiratory quotient with poor substrate shifting. Patients experience energy crashes, intense carbohydrate cravings, and poor fasting tolerance. Elevated acylcarnitines indicate incomplete fat oxidation. Treatment requires gradual metabolic training starting with short fasting windows. L-carnitine (2-3g daily) supports fat oxidation. Chromium (200-400mcg) aids glucose regulation. Low-glycemic diet prevents glucose spikes. Progressive exercise builds oxidative capacity. Recovery is slow, requiring consistent metabolic challenges over months.
+  lay_description: Your metabolism is stuck in one gear, usually burning only sugar for fuel, like a hybrid car that can only run on gas. When blood sugar drops between meals, you can't efficiently switch to burning fat, causing energy crashes and intense cravings. Your body has forgotten how to use its fat stores for energy, leaving you dependent on frequent eating to maintain energy levels.
+  key_mediators: Insulin resistance, reduced CPT1, elevated malonyl-CoA, impaired AMPK, accumulated acylcarnitines, ceramides, diacylglycerols
+  key_mechanisms: Blocked beta-oxidation, impaired lipolysis, glucose dependence, incomplete fat oxidation, ectopic lipid accumulation, mitochondrial overload
+  clinical_relevance: Contributes to metabolic syndrome, promotes weight gain, causes energy instability, impairs recovery from addiction
+  assessment_methods: Fixed respiratory quotient, poor metabolic flexibility testing, elevated acylcarnitines, insulin resistance markers, substrate oxidation impairment
+  interventions: Gradual fasting window extension, progressive exercise training, L-carnitine therapy, chromium supplementation, low-glycemic diet, metabolic rehabilitation
+  prominent_models: Metabolic inflexibility theory, lipotoxicity model, mitochondrial overload hypothesis, addiction-related metabolic dysfunction
+- id: phy-met-ene-bio-reg
+  label: Active Mitochondrial Biogenesis
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Mitochondrial renewal
+  - Effective mitochondrial quality control
+  - Mitochondrial homeostasis
+  scope: Active generation of new mitochondria through PGC-1α signaling with balanced fusion-fission dynamics and effective removal of damaged mitochondria through mitophagy. Maintains a healthy mitochondrial population supporting cellular energy needs.
+  parent_scope_inheritance: Specifies the mitochondrial biogenesis and quality control component of energy metabolism, focusing on maintaining mitochondrial population health.
+  polarity_expression: Manifests as continuous renewal of the mitochondrial network with removal of damaged organelles, maintaining optimal cellular energy capacity.
+  cross_domain_resonance: Resonates with psy-cog-lea-ada through neuroplasticity requiring mitochondrial support, soc-com-eng-coh via energy for community participation, and exi-gro-tra-pur through cellular renewal enabling transformation.
+  academic_description: Regulated mitochondrial biogenesis involves PGC-1α activation through exercise, fasting, and various signaling pathways including AMPK, SIRT1, and CREB. PGC-1α coactivates NRF1 and NRF2, driving expression of nuclear-encoded mitochondrial genes. TFAM activation promotes mitochondrial DNA replication. Balanced fusion (MFN1/2, OPA1) and fission (DRP1, FIS1) maintain network dynamics. PINK1/Parkin-mediated mitophagy removes damaged mitochondria. This coordinated quality control maintains mitochondrial mass, function, and cellular energy capacity.
+  clinical_description: Assessment through mitochondrial DNA copy number, PGC-1α expression markers, and improving exercise capacity. Patients show progressive improvement in stamina and recovery. Support includes progressive exercise training (key stimulus for biogenesis), resveratrol (500mg) or NAD+ precursors for SIRT1 activation, and intermittent fasting to trigger mitophagy. Adequate protein provides building blocks. Recovery manifests as steadily improving energy and exercise tolerance over 3-6 months.
+  lay_description: Your body actively creates new, healthy power plants (mitochondria) while removing old, damaged ones, like renovating a power grid by installing new generators and decommissioning broken ones. Exercise and certain nutrients trigger this renewal process. Quality control systems identify and remove faulty mitochondria before they cause problems. This constant renewal maintains your cellular energy production capacity.
+  key_mediators: PGC-1α, NRF1, NRF2, TFAM, AMPK, SIRT1, MFN1/2, OPA1, DRP1, PINK1, Parkin
+  key_mechanisms: PGC-1α activation, mitochondrial gene transcription, mtDNA replication, fusion-fission balance, mitophagy, protein import, cristae remodeling
+  clinical_relevance: Essential for recovery from mitochondrial damage, improves exercise capacity, supports healthy aging, enhances metabolic health
+  assessment_methods: Mitochondrial DNA copy number, PGC-1α expression, mitochondrial mass markers, exercise testing, muscle biopsy for mitochondrial density
+  interventions: Progressive exercise training, intermittent fasting, resveratrol supplementation, NAD+ precursors, cold exposure, adequate protein intake
+  prominent_models: PGC-1α master regulator model, mitochondrial quality control theory, exercise-induced mitochondrial biogenesis, mitohormesis concept
+- id: phy-met-ene-bio-dys
+  label: Suppressed Mitochondrial Biogenesis
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired mitochondrial renewal
+  - Defective mitochondrial quality control
+  - Mitochondrial depletion
+  scope: Suppressed generation of new mitochondria with impaired quality control leading to accumulation of damaged mitochondria. Results in declining mitochondrial mass and function with progressive energy deficit.
+  parent_scope_inheritance: Specifies the dysfunctional mitochondrial biogenesis and quality control component of energy metabolism disruption, focusing on failure to maintain mitochondrial health.
+  polarity_expression: Manifests as failure to generate new mitochondria while damaged organelles accumulate, leading to progressive decline in cellular energy capacity.
+  cross_domain_resonance: Resonates with psy-cog-lea-mal through impaired neuroplasticity from mitochondrial deficit, soc-com-eng-fra via fatigue limiting participation, and exi-gro-tra-dir through cellular stagnation blocking transformation.
+  academic_description: Suppressed mitochondrial biogenesis results from chronic substance exposure inhibiting PGC-1α signaling. Alcohol reduces SIRT1 activity preventing PGC-1α deacetylation. Chronic inflammation suppresses AMPK activation. Oxidative stress damages existing mitochondria faster than replacement. Impaired mitophagy allows accumulation of dysfunctional mitochondria. Fusion-fission imbalance creates fragmented networks. This leads to progressive mitochondrial depletion, reduced oxidative capacity, and cellular energy crisis particularly affecting post-mitotic tissues.
+  clinical_description: 'Assessment reveals reduced mitochondrial DNA copy number, suppressed PGC-1α markers, and declining exercise capacity. Patients experience progressive fatigue, poor recovery, and accelerated aging signs. Treatment requires gentle initiation due to limited reserve. Start with light movement progressing slowly. High-dose mitochondrial support: CoQ10 (300-600mg), PQQ (20-40mg), alpha-lipoic acid (600-1200mg). NAD+ restoration through precursors or IV therapy. Recovery is prolonged, requiring 6-12 months of consistent support.'
+  lay_description: Your body has stopped making new power plants and can't remove the broken ones, like a city with an aging power grid that's not being maintained or upgraded. The few remaining functional mitochondria become overworked and fail faster. Without renewal, your cellular energy production steadily declines, leaving you increasingly exhausted and unable to recover from exertion.
+  key_mediators: Suppressed PGC-1α, reduced SIRT1, impaired AMPK, decreased NRF1/2, blocked mitophagy, accumulated damaged mitochondria
+  key_mechanisms: Blocked biogenesis signaling, impaired quality control, mitophagy failure, network fragmentation, mtDNA depletion, protein import dysfunction
+  clinical_relevance: Major factor in addiction-related fatigue, accelerates aging, impairs recovery capacity, contributes to organ dysfunction
+  assessment_methods: Reduced mtDNA copy number, suppressed PGC-1α expression, decreased mitochondrial mass, poor exercise response, muscle biopsy showing depletion
+  interventions: Gentle progressive exercise, mitochondrial nutrient support, NAD+ restoration, autophagy activation, anti-inflammatory approaches, patience with slow recovery
+  prominent_models: Mitochondrial dysfunction spiral, impaired quality control hypothesis, biogenesis failure in addiction, accelerated aging model
+- id: phy-met-ene-nad-reg
+  label: NAD+ Redox Balance
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Optimal NAD+/NADH ratio
+  - Redox homeostasis
+  - NAD+ sufficiency
+  scope: Maintained NAD+/NADH ratio supporting efficient oxidative metabolism, dehydrogenase function, and sirtuin activation. Ensures adequate NAD+ availability for energy metabolism and cellular repair processes.
+  parent_scope_inheritance: Specifies the NAD+ redox balance component of energy metabolism, focusing on this critical cofactor system particularly affected by alcohol metabolism.
+  polarity_expression: Manifests as optimal NAD+ availability supporting energy production, DNA repair, and metabolic regulation through sirtuin activation.
+  cross_domain_resonance: Resonates with psy-neu-dop-ada through NAD+-dependent neurotransmitter synthesis, soc-fam-dyn-coh via energy for family interaction, and exi-mea-pur-pur through vitality supporting purpose.
+  academic_description: NAD+ redox balance maintains the NAD+/NADH ratio critical for glycolysis, Krebs cycle, and electron transport chain function. NAD+ serves as electron acceptor for dehydrogenase reactions. The salvage pathway through NAMPT recycles nicotinamide. De novo synthesis from tryptophan provides additional NAD+. Sirtuins consume NAD+ for deacetylation reactions regulating metabolism and DNA repair. PARP activation for DNA repair can deplete NAD+. Optimal balance supports metabolic flexibility, mitochondrial function, and cellular resilience.
+  clinical_description: Assessment via lactate/pyruvate ratio (<20 indicates good NAD+ status), NAD+ metabolomics if available. Patients maintain good energy and metabolic function. Support includes niacin (500-1000mg daily), nicotinamide riboside or NMN (300-600mg), and tryptophan-rich proteins. Alcohol abstinence critical as ethanol metabolism consumes NAD+. Exercise stimulates NAD+ synthesis. Recovery shows normalized lactate/pyruvate ratios and improved energy.
+  lay_description: NAD+ is like the cellular battery that powers hundreds of reactions in your body. It helps convert food to energy and repairs DNA damage. When NAD+ levels are healthy, your metabolism runs smoothly, you have good energy, and your cells can repair themselves. Think of it as having fully charged batteries powering all your cellular machinery.
+  key_mediators: NAD+, NADH, NAMPT, sirtuins (SIRT1-7), PARP, nicotinamide, nicotinic acid, NMN, NR
+  key_mechanisms: Salvage pathway recycling, de novo synthesis, sirtuin-mediated deacetylation, PARP-mediated DNA repair, redox reactions, metabolic regulation
+  clinical_relevance: Supports energy metabolism, enhances DNA repair, activates longevity pathways, improves metabolic health
+  assessment_methods: Lactate/pyruvate ratio, NAD+ metabolomics, sirtuin activity markers, PARP activity, clinical energy assessment
+  interventions: Niacin supplementation, NAD+ precursors (NR, NMN), exercise training, alcohol abstinence, tryptophan intake, circadian rhythm support
+  prominent_models: NAD+ world hypothesis, sirtuin-NAD+ axis, redox balance theory, NAD+ depletion in aging and disease
+- id: phy-met-ene-nad-dys
+  label: NAD+ Depletion
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Disrupted NAD+/NADH ratio
+  - Redox imbalance
+  - NAD+ deficiency
+  scope: Depleted NAD+ levels with disrupted NAD+/NADH ratio impairing oxidative metabolism, dehydrogenase function, and sirtuin activity. Results in metabolic dysfunction and impaired cellular repair capacity.
+  parent_scope_inheritance: Specifies the dysfunctional NAD+ redox balance component of energy metabolism disruption, focusing on NAD+ depletion particularly severe in alcohol use disorder.
+  polarity_expression: Manifests as insufficient NAD+ availability causing energy production failure, impaired DNA repair, and loss of metabolic regulation.
+  cross_domain_resonance: Resonates with psy-neu-dop-mal through impaired neurotransmitter synthesis, soc-fam-dyn-fra via fatigue disrupting family life, and exi-mea-pur-dir through energy depletion undermining purpose.
+  academic_description: NAD+ depletion results from alcohol metabolism consuming NAD+ through alcohol and aldehyde dehydrogenases, shifting the NAD+/NADH ratio. This impairs glycolysis at the GAPDH step, disrupts the Krebs cycle, and reduces electron transport chain efficiency. PARP overactivation from DNA damage further depletes NAD+. Reduced sirtuin activity impairs metabolic regulation and mitochondrial function. The salvage pathway cannot compensate for excessive consumption. This creates a metabolic crisis with impaired ATP production, accumulated metabolites, and loss of cellular repair capacity.
+  clinical_description: 'Assessment shows elevated lactate/pyruvate ratio (>20), indicating NAD+ depletion. Patients experience severe fatigue, metabolic dysfunction, and poor recovery. Immediate NAD+ restoration crucial: high-dose niacin (1000-2000mg daily with monitoring), NAD+ IV therapy for severe cases, or NAD+ precursors (NR/NMN 600-1200mg). Alcohol cessation essential. Thiamine supplementation prevents Wernicke''s. Recovery requires weeks to months of consistent NAD+ support with gradual energy improvement.'
+  lay_description: Your cellular batteries (NAD+) are severely depleted, especially from alcohol which drains them faster than your body can recharge them. Without enough NAD+, your cells can't produce energy efficiently or repair damage. It's like trying to run all your electronics on nearly dead batteries - nothing works properly. This causes extreme fatigue and prevents your body from healing itself.
+  key_mediators: Depleted NAD+, elevated NADH, suppressed NAMPT, inactive sirtuins, overactive PARP, accumulated lactate, acetaldehyde
+  key_mechanisms: Excessive NAD+ consumption, impaired salvage pathway, blocked glycolysis, disrupted Krebs cycle, sirtuin inhibition, PARP overactivation
+  clinical_relevance: Central to alcohol-related metabolic crisis, causes severe fatigue, impairs recovery, contributes to organ damage
+  assessment_methods: Elevated lactate/pyruvate ratio, NAD+ depletion markers, metabolic acidosis risk, clinical presentation of energy crisis
+  interventions: High-dose niacin therapy, NAD+ IV infusions, NAD+ precursor loading, alcohol cessation, thiamine supplementation, metabolic support
+  prominent_models: NAD+ depletion in alcoholism, redox collapse model, metabolic crisis theory, PARP-mediated NAD+ consumption
+- id: phy-met-ene-tca-reg
+  label: Efficient Krebs Cycle
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Optimal TCA cycle function
+  - Efficient citric acid cycle
+  - Balanced intermediary metabolism
+  scope: Efficient cycling of Krebs cycle intermediates with adequate cofactor availability, generating NADH and FADH2 for oxidative phosphorylation. Maintains appropriate anaplerosis and cataplerosis balancing intermediate levels.
+  parent_scope_inheritance: Specifies the Krebs cycle component of energy metabolism, focusing on this central metabolic hub that feeds the electron transport chain.
+  polarity_expression: Manifests as smooth cycling of intermediates generating reducing equivalents for ATP production while supporting biosynthetic needs.
+  cross_domain_resonance: Resonates with psy-cog-att-ada through steady energy supply for attention, soc-occ-per-coh via sustained work energy, and exi-gro-dev-pur through metabolic support for development.
+  academic_description: The regulated Krebs cycle efficiently oxidizes acetyl-CoA through eight enzymatic steps, generating 3 NADH, 1 FADH2, and 1 GTP per cycle. Key regulatory enzymes (citrate synthase, isocitrate dehydrogenase, α-ketoglutarate dehydrogenase) respond to energy status. Adequate cofactors (B vitamins, magnesium, iron) support enzyme function. Anaplerotic reactions replenish intermediates while cataplerosis removes excess. This central hub integrates carbohydrate, fat, and amino acid metabolism, providing reducing equivalents for oxidative phosphorylation and precursors for biosynthesis.
+  clinical_description: Assessment through organic acid analysis shows balanced intermediate levels. Patients maintain steady energy and efficient nutrient utilization. Support includes B-complex vitamins (especially B1, B2, B3, B5), magnesium (400mg daily), and alpha-lipoic acid (600mg) as cofactor for dehydrogenases. Adequate protein provides amino acids for anaplerosis. Moderate exercise enhances cycle efficiency. Recovery shows normalized organic acids and improved energy production.
+  lay_description: The Krebs cycle is like a metabolic wheel in your cells that processes fuel to generate energy. Each turn of the wheel breaks down nutrients and captures their energy in a form that can make ATP. When working well, this wheel spins smoothly, providing steady energy production. All the B vitamins act like oil keeping the wheel turning efficiently.
+  key_mediators: Acetyl-CoA, citrate, isocitrate, α-ketoglutarate, succinate, fumarate, malate, oxaloacetate, NADH, FADH2, CoA, B vitamins
+  key_mechanisms: Substrate oxidation, dehydrogenase reactions, substrate-level phosphorylation, anaplerosis, cataplerosis, allosteric regulation
+  clinical_relevance: Supports steady energy production, enables efficient nutrient utilization, provides metabolic flexibility, supports biosynthesis
+  assessment_methods: Organic acid profile, Krebs cycle intermediate analysis, cofactor status, metabolic flux studies, clinical energy assessment
+  interventions: B-complex supplementation, magnesium support, alpha-lipoic acid, balanced nutrition, moderate exercise, cofactor optimization
+  prominent_models: Krebs cycle regulation, anaplerotic/cataplerotic balance, metabolic hub concept, central carbon metabolism
+- id: phy-met-ene-tca-dys
+  label: Disrupted Krebs Cycle
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - TCA cycle dysfunction
+  - Impaired citric acid cycle
+  - Krebs cycle blockade
+  scope: Disrupted cycling of Krebs cycle intermediates with accumulation or depletion of specific metabolites, cofactor deficiencies, and reduced NADH/FADH2 generation. Results in impaired energy production and metabolic dysfunction.
+  parent_scope_inheritance: Specifies the dysfunctional Krebs cycle component of energy metabolism disruption, focusing on this metabolic bottleneck in energy production.
+  polarity_expression: Manifests as blocked or inefficient cycling with intermediate accumulation, reduced energy substrate generation, and metabolic backup.
+  cross_domain_resonance: Resonates with psy-cog-att-mal through unstable energy affecting attention, soc-occ-per-fra via energy deficits impacting work, and exi-gro-dev-dir through metabolic dysfunction blocking development.
+  academic_description: Krebs cycle disruption involves enzyme inhibition, cofactor depletion, or intermediate imbalance. Alcohol metabolism depletes thiamine, inhibiting α-ketoglutarate dehydrogenase. Oxidative stress damages cycle enzymes. B vitamin deficiencies impair multiple dehydrogenases. This manifests as accumulation of specific intermediates (elevated citrate, α-ketoglutarate, or succinate), reduced NADH generation, and energy deficit. Anaplerotic/cataplerotic imbalance further disrupts the cycle. The resulting bottleneck impairs ATP production and causes metabolic acidosis risk.
+  clinical_description: 'Organic acid analysis reveals elevated or depleted cycle intermediates indicating specific blockades. Patients experience energy deficits, metabolic dysfunction, and potential acidosis. Treatment targets specific deficiencies: high-dose thiamine (100-500mg) for alcohol-related dysfunction, comprehensive B-complex support, magnesium replacement. Alpha-lipoic acid (600-1200mg) supports dehydrogenases. Biotin for carboxylase reactions. Recovery requires weeks of consistent cofactor support with gradual metabolic improvement.'
+  lay_description: Your cellular energy wheel (Krebs cycle) is jammed or broken at specific points, like a gear with missing teeth. Nutrients can't be properly processed for energy, causing backups of certain chemicals and shortages of others. This creates an energy production bottleneck, leaving your cells unable to generate enough ATP even when fuel is available.
+  key_mediators: Accumulated intermediates, depleted cofactors, reduced NADH/FADH2, thiamine deficiency, impaired dehydrogenases, oxidative damage
+  key_mechanisms: Enzyme inhibition, cofactor depletion, intermediate accumulation, blocked dehydrogenation, anaplerotic/cataplerotic imbalance, allosteric dysregulation
+  clinical_relevance: Contributes to energy crisis in addiction, risk of metabolic acidosis, impairs recovery, causes organ dysfunction
+  assessment_methods: Abnormal organic acid profile, specific intermediate elevations, cofactor deficiency markers, metabolic acidosis screening
+  interventions: Targeted cofactor replacement, high-dose B vitamins, alpha-lipoic acid, magnesium supplementation, metabolic support, dietary optimization
+  prominent_models: Krebs cycle blockade theory, cofactor deficiency model, metabolic bottleneck concept, oxidative damage to cycle enzymes
+- id: phy-met-ene-gly-reg
+  label: Balanced Glycolysis
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Appropriate glycolytic flux
+  - Efficient glucose metabolism
+  - Balanced anaerobic metabolism
+  scope: Appropriate glycolytic flux matching energy demands with efficient pyruvate processing and lactate clearance. Maintains balance between anaerobic and aerobic metabolism based on oxygen availability and energy needs.
+  parent_scope_inheritance: Specifies the glycolytic pathway component of energy metabolism, focusing on glucose breakdown and its integration with oxidative metabolism.
+  polarity_expression: Manifests as appropriate glucose utilization with efficient pyruvate processing, supporting both quick energy needs and feeding oxidative metabolism.
+  cross_domain_resonance: Resonates with psy-beh-imp-ada through glucose support for impulse control, soc-rec-act-coh via energy for activities, and exi-aut-age-pur through metabolic autonomy.
+  academic_description: Regulated glycolysis maintains appropriate glucose flux through ten enzymatic steps, generating 2 ATP and 2 pyruvate. Key regulatory enzymes (hexokinase, phosphofructokinase, pyruvate kinase) respond to energy status via allosteric regulation. The Pasteur effect appropriately suppresses glycolysis in oxygen presence. Pyruvate dehydrogenase complex efficiently converts pyruvate to acetyl-CoA for oxidative metabolism. Lactate dehydrogenase maintains NAD+ regeneration when needed. This balance provides rapid ATP for immediate needs while feeding oxidative phosphorylation.
+  clinical_description: Assessment shows normal lactate (<2 mmol/L) with appropriate clearance after exercise. Patients maintain stable blood glucose and good anaerobic capacity. Support includes thiamine (100mg daily) for pyruvate dehydrogenase, chromium (200mcg) for glucose regulation, and balanced training combining aerobic and anaerobic exercise. Adequate B vitamins support glycolytic enzymes. Recovery shows improved glucose utilization and exercise capacity.
+  lay_description: Glycolysis is your body's quick energy system, breaking down sugar for rapid ATP when needed, like a turbo boost for immediate energy demands. When balanced, it provides quick energy for intense efforts while also feeding your slower, more efficient energy systems. Your body knows when to use this quick energy and when to rely on more efficient pathways.
+  key_mediators: Glucose, G6P, F6P, F1,6BP, pyruvate, lactate, ATP, ADP, NAD+, phosphofructokinase, pyruvate kinase, insulin
+  key_mechanisms: Glucose phosphorylation, allosteric regulation, substrate-level phosphorylation, NAD+ regeneration, pyruvate fate determination, Pasteur effect
+  clinical_relevance: Supports immediate energy needs, enables anaerobic performance, maintains blood glucose stability, feeds oxidative metabolism
+  assessment_methods: Lactate levels and clearance, glucose tolerance testing, glycolytic enzyme activities, exercise lactate threshold, metabolic flexibility
+  interventions: Thiamine supplementation, chromium for glucose regulation, balanced aerobic/anaerobic training, B vitamin support, appropriate carbohydrate intake
+  prominent_models: Glycolytic regulation model, Pasteur effect, metabolic flexibility concept, aerobic-anaerobic balance
+- id: phy-met-ene-gly-dys
+  label: Dysregulated Glycolysis
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Energy Metabolism
+  cluster_id: phy-met-ene
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Excessive glycolytic flux
+  - Impaired glucose metabolism
+  - Warburg-like metabolism
+  scope: Excessive reliance on glycolysis with impaired pyruvate oxidation and lactate accumulation. Results in inefficient energy production despite high glucose consumption and metabolic acidosis risk.
+  parent_scope_inheritance: Specifies the dysfunctional glycolytic pathway component of energy metabolism disruption, focusing on over-reliance on inefficient anaerobic metabolism.
+  polarity_expression: Manifests as excessive glucose consumption with poor ATP yield, lactate accumulation, and failure to efficiently utilize oxidative pathways.
+  cross_domain_resonance: Resonates with psy-beh-imp-mal through glucose instability affecting impulse control, soc-rec-act-fra via poor energy affecting activities, and exi-aut-age-dir through metabolic dependence.
+  academic_description: Dysregulated glycolysis involves Warburg-like metabolism with excessive glucose consumption despite oxygen availability. Mitochondrial dysfunction forces reliance on glycolysis for ATP. Impaired pyruvate dehydrogenase from thiamine deficiency prevents pyruvate oxidation. This creates lactate accumulation, poor ATP yield (2 vs 36 per glucose), and metabolic inefficiency. The resulting lactate elevation causes metabolic acidosis risk. Glucose dysregulation develops with insulin resistance. This metabolic pattern resembles cancer metabolism, prioritizing rapid but inefficient ATP production.
+  clinical_description: 'Assessment reveals elevated lactate (>2 mmol/L) with poor clearance, indicating excessive glycolysis. Patients experience poor endurance, rapid fatigue with exertion, and glucose dysregulation. Treatment requires metabolic rehabilitation: high-dose thiamine (200-500mg) to restore pyruvate oxidation, progressive aerobic training to improve oxidative capacity, and controlled carbohydrate intake. Alpha-lipoic acid supports pyruvate dehydrogenase. Recovery involves gradual shift from glycolytic to oxidative metabolism over months.'
+  lay_description: Your cells are stuck using the inefficient quick-energy system (glycolysis) even when they should be using the efficient slow-burn system. It's like a car stuck in first gear, burning lots of fuel but going nowhere fast. This creates lactic acid buildup causing fatigue and soreness, while wasting glucose without producing much energy.
+  key_mediators: Elevated lactate, pyruvate accumulation, depleted thiamine, impaired PDH, insulin resistance, metabolic acidosis, glucose dysregulation
+  key_mechanisms: Excessive glycolytic flux, impaired pyruvate oxidation, lactate accumulation, mitochondrial dysfunction, Warburg effect, metabolic acidosis
+  clinical_relevance: Causes metabolic inefficiency, contributes to fatigue, risk of lactic acidosis, impairs endurance, promotes insulin resistance
+  assessment_methods: Elevated lactate and pyruvate, poor lactate clearance, lactate/pyruvate ratio, glucose dysregulation, metabolic acidosis markers
+  interventions: High-dose thiamine therapy, aerobic base building, alpha-lipoic acid, controlled carbohydrate intake, progressive metabolic training, pH monitoring
+  prominent_models: Warburg effect in non-cancer cells, metabolic inflexibility model, lactate accumulation theory, glycolytic addiction concept

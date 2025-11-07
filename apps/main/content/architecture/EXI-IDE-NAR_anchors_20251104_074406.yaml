@@ -1,0 +1,292 @@
+# Generated anchors for cluster: EXI-IDE-NAR
+# Timestamp: 20251104_074406
+
+anchors:
+- id: exi-ide-nar-coh-pur
+  label: Coherent Life Narrative
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Integrated life story
+  - Unified narrative
+  - Coherent autobiography
+  scope: Represents narratives with clear structural integrity, logical flow between life chapters, consistent themes across episodes, and integrated subplots that create a unified life story providing comprehensible meaning.
+  parent_scope_inheritance: This anchor specifies the narrative coherence dimension of narrative identity, focusing on the structural integrity and logical consistency of the life story rather than its content or emotional quality.
+  polarity_expression: Manifests as purposeful through creating unified self-understanding, clear causal connections between events, thematic consistency across chapters, and integrated meaning that provides existential clarity.
+  cross_domain_resonance: Resonates with psy-cog-int-ada (cognitive integration) in organizing mental content, soc-ide-con-coh (identity consistency) in social narrative presentation, and psy-sel-uni-ada (self-unity) in creating coherent self-experience.
+  academic_description: 'Narrative coherence represents the structural organization of autobiographical memory into meaningful sequences with causal, thematic, and temporal connections. Habermas & Bluck identify four types of coherence: temporal, biographical, causal, and thematic. Research demonstrates that narrative coherence correlates with psychological wellbeing, identity achievement, and recovery outcomes. Coherent narratives show clear beginning-middle-end structure, explicit connections between events, consistent characterization, and resolved contradictions. Studies indicate coherence develops through adolescence and can be disrupted by trauma or substance use.'
+  clinical_description: Assessment examines narrative structure through life story interviews, evaluating chapter organization, transitions, theme consistency, and integration of subplots. Clinicians identify fragmentation patterns, missing connections, contradictory accounts, and isolated episodes. Interventions include life review exercises mapping chapters chronologically, identifying recurring themes across episodes, and building bridges between disconnected events. Coherence scaffolding helps clients organize scattered memories into meaningful sequences. Treatment addresses specific coherence breaks, particularly around addiction onset, helping integrate problematic periods into overall life story.
+  lay_description: A coherent life narrative means your life story makes sense as a whole - events connect logically, themes run consistently through different periods, and everything fits together into one unified story. You can explain how you got from there to here, why things happened as they did, and how different parts of your life relate to each other. Your story has clear chapters, smooth transitions, and consistent themes that help you understand who you are.
+  foundational_themes: Unity of self across time, biographical meaning, causal understanding of life trajectory, thematic consistency in identity
+  experiential_processes: Autobiographical reasoning, meaning-making from life events, integration of disparate experiences, recognition of patterns and themes
+  personal_relevance: Provides sense of self-continuity, explains current situation through past events, creates comprehensible identity, guides future direction
+- id: exi-ide-nar-coh-dir
+  label: Fragmented Life Narrative
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Incoherent life story
+  - Disconnected narrative
+  - Fragmented autobiography
+  scope: Represents narratives lacking structural integrity, with disconnected life chapters, contradictory themes, isolated episodes, and unintegrated subplots that fail to create unified meaning or comprehensible identity.
+  parent_scope_inheritance: This anchor specifies the narrative incoherence dimension of narrative identity, focusing on the structural fragmentation and logical inconsistency that prevents formation of a meaningful life story.
+  polarity_expression: Manifests as directionless through creating identity confusion, missing causal connections, thematic contradictions, and fragmented meaning that perpetuates existential confusion and prevents self-understanding.
+  cross_domain_resonance: Resonates with psy-cog-int-mal (cognitive fragmentation) in disorganized thinking, soc-ide-con-fra (identity inconsistency) in contradictory self-presentation, and psy-sel-uni-mal (self-fragmentation) in disconnected self-experience.
+  academic_description: Narrative incoherence reflects disrupted autobiographical memory organization with missing temporal, causal, and thematic connections. Research identifies patterns including temporal disorganization, missing life periods, contradictory self-representations, and isolated traumatic memories. Addiction particularly disrupts narrative coherence through blackouts, state-dependent memory, and shame-driven suppression. Studies show incoherent narratives predict poorer treatment outcomes, increased relapse risk, and identity diffusion. Fragmentation often centers around addiction periods, creating narrative gaps and disconnected self-representations.
+  clinical_description: Assessment reveals jumbled timelines, contradictory accounts of same events, missing connections between life periods, and isolated episodes without context. Clients present scattered memories that don't form coherent whole, often with significant gaps around substance use periods. Interventions focus on timeline reconstruction, starting with basic chronology before building connections. Memory integration work helps link isolated episodes. Clinicians address specific fragmentation patterns - temporal gaps, contradictory themes, missing chapters. Treatment involves patient reconstruction, accepting incomplete memories while building available connections.
+  lay_description: A fragmented life narrative feels like your life is a jumbled collection of disconnected pieces that don't fit together. Events seem random, you can't explain how you got here, and different parts of your life feel like they happened to different people. Your story has gaps, contradictions, and isolated memories that float without connection. This leaves you feeling confused about who you are and unable to make sense of your life.
+  foundational_themes: Identity confusion, biographical meaninglessness, disconnection from life trajectory, thematic chaos
+  experiential_processes: Fragmented memory retrieval, failed meaning-making, inability to integrate experiences, pattern blindness
+  personal_relevance: Creates identity confusion, inability to learn from past, lack of self-understanding, absence of future direction
+- id: exi-ide-nar-seq-pur
+  label: Redemptive Narrative Sequences
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Growth sequences
+  - Redemptive arcs
+  - Transformative narratives
+  scope: Encompasses narrative sequences where negative events lead to positive outcomes, suffering yields growth, setbacks become learning opportunities, and challenges produce strength, creating overall redemptive life story patterns.
+  parent_scope_inheritance: This anchor specifies the redemptive sequence aspect of narrative identity, focusing on how negative experiences are transformed into positive outcomes within the life story structure.
+  polarity_expression: Manifests as purposeful through transforming suffering into meaning, converting setbacks into growth opportunities, finding benefits in adversity, and creating hope from past struggles.
+  cross_domain_resonance: Resonates with psy-cog-app-ada (positive reappraisal) in cognitive processing, exi-mea-suf-pur (meaningful suffering) in finding purpose in pain, and psy-res-ptg-ada (post-traumatic growth) in psychological development.
+  academic_description: Redemptive sequences represent narrative patterns where negative events are transformed into positive outcomes, central to generative life stories. McAdams identifies redemption as key to psychological health, with sequences showing suffering leading to insight, loss producing appreciation, or failure spurring growth. Research demonstrates redemptive narratives predict better mental health, higher wellbeing, and successful recovery. These sequences involve benefit-finding, meaning-making, and growth identification. Studies show individuals with more redemptive sequences show greater resilience, optimism, and life satisfaction.
+  clinical_description: Assessment identifies existing redemptive sequences and potential for reframing contamination sequences. Clinicians explore how past struggles led to strengths, what was learned from failures, and growth from adversity. Interventions include redemptive reframing exercises, identifying hidden benefits in negative events, and constructing growth narratives from trauma. Clients learn to recognize how addiction suffering can become recovery wisdom. Treatment develops redemptive interpretations without minimizing genuine harm, balancing acknowledgment of pain with recognition of growth.
+  lay_description: Redemptive sequences in your story are times when something bad led to something good - when suffering taught important lessons, failures led to better paths, or struggles built strength. These are the parts of your story where you can say 'that was terrible, but because of it I learned/grew/changed in positive ways.' Recovery involves finding these silver linings without pretending the clouds weren't real.
+  foundational_themes: Transformation through suffering, growth from adversity, meaning in struggle, strength through trials
+  experiential_processes: Benefit-finding, meaning-making from pain, recognizing growth, appreciating hard-won wisdom
+  personal_relevance: Transforms past pain into present strength, creates hope from history, builds resilience narrative, guides purposeful recovery
+- id: exi-ide-nar-seq-dir
+  label: Contamination Narrative Sequences
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Contamination sequences
+  - Destructive arcs
+  - Degenerative narratives
+  scope: Encompasses narrative sequences where positive events lead to negative outcomes, good things turn bad, success leads to failure, and joy is followed by loss, creating overall contamination patterns in the life story.
+  parent_scope_inheritance: This anchor specifies the contamination sequence aspect of narrative identity, focusing on how positive experiences are narratively transformed into negative outcomes, disrupting hope and meaning.
+  polarity_expression: Manifests as directionless through transforming good into bad, converting success into failure, finding harm in positive events, and creating hopelessness from any achievement.
+  cross_domain_resonance: Resonates with psy-cog-app-mal (negative appraisal) in catastrophic thinking, exi-mea-suf-dir (meaningless suffering) in purposeless pain, and psy-emo-hop-mal (hopelessness) in emotional experience.
+  academic_description: Contamination sequences represent narrative patterns where positive events lead to negative outcomes, associated with depression and poor life outcomes. McAdams identifies these as inversions of redemptive sequences, where good scenes are spoiled, achievements become losses, and happiness turns to sorrow. Research shows contamination sequences predict depression, anxiety, and substance use problems. These patterns involve negative attribution styles, catastrophic thinking, and learned helplessness. Studies demonstrate individuals with predominant contamination sequences show increased psychopathology and reduced wellbeing.
+  clinical_description: Assessment identifies contamination patterns where clients narrate how good things always go bad, success inevitably fails, or happiness can't last. Common in addiction narratives where early achievements led to substance use, relationships ended in betrayal, or joy triggered relapse. Interventions include sequence analysis to identify patterns, challenging contamination interpretations, and developing alternative endings. Treatment involves interrupting automatic contamination narratives and building capacity to sustain positive experiences without anticipating destruction.
+  lay_description: Contamination sequences are the parts of your story where good things turned bad - when success led to failure, happiness ended in disaster, or achievements became losses. It feels like nothing good can last, everything you touch turns to ruin, and any joy will be followed by pain. This pattern makes you afraid of good things and convinced that life will always disappoint you.
+  foundational_themes: Inevitable disappointment, doomed happiness, corrupted success, poisoned joy
+  experiential_processes: Catastrophic interpretation, negative forecasting, joy suppression, success sabotage
+  personal_relevance: Creates learned helplessness, prevents hope, maintains pessimism, blocks positive engagement
+- id: exi-ide-nar-tem-pur
+  label: Temporal Narrative Continuity
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Temporal coherence
+  - Life continuity
+  - Narrative threading
+  scope: Represents clear connections between past, present, and future self within the life narrative, including developmental understanding, causal links across time, and projected future chapters that extend the story forward.
+  parent_scope_inheritance: This anchor specifies the temporal continuity dimension of narrative identity, focusing on how the life story maintains coherent connections across past, present, and imagined future.
+  polarity_expression: Manifests as purposeful through maintaining identity continuity across time, understanding developmental trajectory, connecting past to present meaningfully, and projecting coherent future narrative.
+  cross_domain_resonance: Resonates with psy-sel-con-ada (self-continuity) in psychological experience, exi-tem-pre-pur (temporal presence) in time experience, and psy-dev-ide-ada (identity development) in growth processes.
+  academic_description: Temporal continuity in narrative identity involves autobiographical reasoning that links past experiences to present self and future projections. Research shows temporal coherence includes understanding how past shaped present, recognizing developmental progression, and imagining future chapters. Studies demonstrate disrupted temporal continuity in addiction through blackouts, state-dependent memory, and foreshortened future perspective. Recovery involves rebuilding temporal bridges, integrating addiction period into life trajectory, and developing future-oriented narrative. Temporal continuity predicts identity stability and recovery maintenance.
+  clinical_description: Assessment explores how clients connect past to present, whether they recognize developmental threads, and capacity to imagine future chapters. Addiction often creates temporal ruptures - past feels foreign, present disconnected, future absent. Interventions include timeline exercises mapping life trajectory, identifying developmental themes, and bridging temporal gaps. Future authoring helps clients write next chapters aligned with recovery values. Treatment addresses specific discontinuities around addiction onset and recovery transition, rebuilding sense of continuous self.
+  lay_description: Temporal continuity means your past, present, and future feel connected in one continuous story. You understand how past experiences shaped who you are now, see your life as an ongoing journey, and can imagine future chapters that make sense with your story so far. Your life feels like one connected path rather than random disconnected periods.
+  foundational_themes: Life as journey, developmental progression, continuous identity, future possibility
+  experiential_processes: Autobiographical reasoning, developmental understanding, future projection, temporal integration
+  personal_relevance: Provides stable identity, explains current self through history, guides future direction, maintains hope
+- id: exi-ide-nar-tem-dir
+  label: Temporal Narrative Fragmentation
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Temporal disconnection
+  - Life discontinuity
+  - Narrative rupture
+  scope: Represents broken connections between past, present, and future self, with lost developmental understanding, missing causal links across time, and absent or catastrophic future narrative.
+  parent_scope_inheritance: This anchor specifies the temporal fragmentation dimension of narrative identity, focusing on disrupted connections across time periods that prevent coherent life story formation.
+  polarity_expression: Manifests as directionless through lost identity continuity, disconnection from past self, present moment confusion, and inability to imagine positive future narrative.
+  cross_domain_resonance: Resonates with psy-sel-con-mal (self-discontinuity) in fragmented experience, exi-tem-pre-dir (temporal disconnection) in time confusion, and psy-dev-ide-mal (identity diffusion) in development.
+  academic_description: Temporal fragmentation in narrative identity involves disrupted connections between life periods, creating discontinuous self-experience. Research identifies patterns including dissociation from past self, present moment confusion, and absent future narrative. Addiction particularly fragments temporal continuity through blackouts, state-dependent encoding, and shame-driven suppression of memories. Studies show temporal fragmentation predicts identity diffusion, increased relapse risk, and existential anxiety. Recovery challenges involve reconnecting with pre-addiction self while integrating addiction experience.
+  clinical_description: Assessment reveals clients who feel past happened to different person, can't explain how they arrived at present, and cannot imagine future beyond immediate survival. Addiction creates temporal black holes - missing periods, disconnected memories, lost years. Interventions focus on rebuilding temporal bridges, starting with basic chronology before exploring connections. Treatment addresses specific ruptures, particularly around trauma and addiction onset. Clinicians help integrate split-off time periods while accepting some memories may remain inaccessible.
+  lay_description: Temporal fragmentation means your past, present, and future feel completely disconnected. Your past feels like it happened to someone else, you can't explain how you got here, and you can't imagine any future. Different periods of your life feel totally separate with no connecting thread. It's like your life is broken into pieces that don't connect, leaving you lost in time without direction.
+  foundational_themes: Lost journey, broken development, discontinuous identity, futurelessness
+  experiential_processes: Temporal confusion, developmental amnesia, present-moment lostness, future blindness
+  personal_relevance: Creates identity confusion, prevents learning from past, blocks future planning, maintains aimlessness
+- id: exi-ide-nar-scn-pur
+  label: Balanced Scene Construction
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Balanced memory selection
+  - Integrated scenes
+  - Complete narrative
+  scope: Encompasses balanced selection and interpretation of key life scenes including high points, low points, and turning points, with growth-oriented meaning-making and recognition of both positive and negative experiences.
+  parent_scope_inheritance: This anchor specifies the scene construction aspect of narrative identity, focusing on which life events are selected as significant and how they are interpreted within the overall story.
+  polarity_expression: Manifests as purposeful through balanced acknowledgment of highs and lows, constructive interpretation of difficulties, recognition of turning points, and integration of full life experience.
+  cross_domain_resonance: Resonates with psy-mem-aut-ada (balanced autobiographical memory) in memory function, psy-att-foc-ada (balanced attention) in what is noticed, and psy-cog-bia-ada (reduced cognitive bias) in interpretation.
+  academic_description: Key scene construction involves selection and interpretation of significant life events that define narrative identity. McAdams identifies nuclear scenes including high points, low points, turning points, earliest memories, and important childhood scenes. Research shows balanced scene selection correlates with psychological health, including ability to access both positive and negative memories appropriately. Growth-oriented interpretation of difficult scenes predicts resilience. Studies demonstrate that depression involves overrepresentation of negative scenes while mania involves exclusively positive scenes. Balanced construction includes full range of experience with constructive meaning-making.
+  clinical_description: Assessment explores which scenes clients identify as significant, examining balance between positive and negative memories, presence of turning points, and interpretive stance toward difficult events. Interventions include scene exploration exercises, identifying overlooked positive experiences, and reinterpreting negative scenes for growth themes. Clinicians help clients recognize turning points that shifted life trajectory. Treatment involves expanding scene repertoire beyond trauma or failure, discovering forgotten successes, and developing nuanced interpretation that acknowledges both difficulty and growth.
+  lay_description: Balanced scene construction means you remember and value both good and bad times in your life story. You can recall achievements and joys, acknowledge failures and pains, and recognize moments when your life changed direction. You interpret difficult times as challenges that taught you something rather than just disasters. Your story includes the full range of your experience.
+  foundational_themes: Full life acknowledgment, integrated experience, growth through challenge, recognized transformation
+  experiential_processes: Balanced memory access, constructive interpretation, turning point recognition, whole life integration
+  personal_relevance: Provides complete self-knowledge, enables learning from all experiences, recognizes growth, identifies life lessons
+- id: exi-ide-nar-scn-dir
+  label: Distorted Scene Construction
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Biased memory selection
+  - Rumination scenes
+  - Incomplete narrative
+  scope: Encompasses distorted selection of life scenes with exclusive focus on negative events, missing positive memories, rumination on failures, and inability to identify turning points or growth experiences.
+  parent_scope_inheritance: This anchor specifies the distorted scene construction aspect of narrative identity, focusing on biased selection and interpretation of life events that creates incomplete or pathological narrative.
+  polarity_expression: Manifests as directionless through exclusive negative focus, missing positive experiences, rumination on trauma, inability to see growth, and absence of recognized turning points.
+  cross_domain_resonance: Resonates with psy-mem-aut-mal (biased autobiographical memory) in memory dysfunction, psy-att-foc-mal (attentional bias) in selective focus, and psy-cog-bia-mal (cognitive distortion) in interpretation.
+  academic_description: Distorted scene construction involves biased selection and interpretation of life events, typically overrepresenting negative experiences while overlooking positive ones. Research shows depression involves overgeneral negative memories and specific negative recall with reduced access to specific positive memories. Rumination on negative scenes maintains psychopathology. Studies demonstrate addiction narratives often exclusively focus on trauma, failure, and loss while positive memories become inaccessible. Missing turning point recognition prevents awareness of change possibility.
+  clinical_description: Assessment reveals clients who only recall failures, traumas, and disappointments, unable to access positive memories even when prompted. They ruminate on same negative scenes repeatedly, stuck in trauma narratives. No turning points identified - life feels like unchanging suffering. Interventions include positive memory archaeology, searching for overlooked successes and joys. Rumination interruption techniques shift focus from repetitive negative scenes. Clinicians help identify unrecognized turning points and moments of strength. Treatment expands narrative beyond problem-saturated story.
+  lay_description: Distorted scene construction means your life story only includes the bad times - failures, traumas, and losses - while good memories seem to not exist. You replay the same painful scenes over and over, unable to remember successes or joys. You can't identify any moments when things changed or got better. Your story becomes nothing but problems and pain.
+  foundational_themes: Life as suffering, unrecognized strength, invisible joy, unchanging pain
+  experiential_processes: Selective negative recall, positive memory suppression, trauma rumination, change blindness
+  personal_relevance: Creates hopelessness, prevents recognition of resources, maintains problem focus, blocks awareness of growth
+- id: exi-ide-nar-ton-pur
+  label: Agentic Narrative Tone
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Hopeful tone
+  - Empowered narrative
+  - Optimistic outlook
+  scope: Represents overall hopeful and agentic emotional quality of the life narrative, with optimistic explanatory style, sense of personal agency, positive expectations, and empowered language throughout the story.
+  parent_scope_inheritance: This anchor specifies the emotional tone dimension of narrative identity, focusing on the overall affective quality and agency expressed throughout the life story.
+  polarity_expression: Manifests as purposeful through maintaining hope despite challenges, expressing personal agency in life events, expecting positive possibilities, and using empowered self-referential language.
+  cross_domain_resonance: Resonates with psy-emo-val-ada (positive emotional valence) in affect, exi-mea-hop-pur (existential hope) in meaning-making, and psy-mot-age-ada (personal agency) in motivation.
+  academic_description: Narrative tone reflects the overall emotional quality and agency expressed in life stories, ranging from optimistic/agentic to pessimistic/helpless. Research shows narrative tone predicts mental health outcomes independent of content. Optimistic explanatory style involves internal, stable, global attributions for positive events and external, unstable, specific attributions for negative events. Agentic tone includes self as protagonist who influences events rather than passive victim. Studies demonstrate hopeful narrative tone predicts better treatment outcomes, increased resilience, and sustained recovery.
+  clinical_description: Assessment examines overall emotional quality of narrative through language analysis, identifying predominant affects, agency expressions, and future expectations. Agentic tone uses active voice, personal responsibility, and possibility language. Interventions include tone analysis exercises, identifying and amplifying existing hopeful passages, and practicing empowered language. Clinicians help shift from victim to protagonist stance, developing narrative agency. Treatment involves recognizing choice points, acknowledging personal influence, and cultivating realistic optimism without denying difficulties.
+  lay_description: Agentic narrative tone means your life story has an overall hopeful quality where you're the main character who makes things happen rather than a victim things happen to. Even when describing difficulties, you maintain sense that things can improve, you have influence over your life, and the future holds possibility. Your story sounds empowered rather than helpless.
+  foundational_themes: Personal agency, future possibility, empowered selfhood, realistic hope
+  experiential_processes: Optimistic interpretation, agency recognition, possibility thinking, empowered expression
+  personal_relevance: Motivates action, maintains hope, supports persistence, enables change
+- id: exi-ide-nar-ton-dir
+  label: Helpless Narrative Tone
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Pessimistic tone
+  - Victim narrative
+  - Fatalistic outlook
+  scope: Represents overall pessimistic and helpless emotional quality of the life narrative, with negative explanatory style, absence of personal agency, catastrophic expectations, and disempowered language throughout.
+  parent_scope_inheritance: This anchor specifies the pessimistic tone dimension of narrative identity, focusing on the helpless affective quality and lack of agency expressed in the life story.
+  polarity_expression: Manifests as directionless through pervasive hopelessness, victim stance in all events, expectation of failure, and passive helpless language that reinforces powerlessness.
+  cross_domain_resonance: Resonates with psy-emo-val-mal (negative emotional valence) in affect, exi-mea-hop-dir (existential despair) in meaninglessness, and psy-mot-age-mal (learned helplessness) in motivation.
+  academic_description: Pessimistic narrative tone reflects overall helpless quality in life stories with negative explanatory style and absent agency. Research shows pessimistic attributional style involves external, unstable, specific attributions for positive events and internal, stable, global attributions for negative events. Helpless tone positions self as passive victim of circumstances. Studies demonstrate pessimistic tone predicts depression, poor treatment engagement, and relapse. Fatalistic narratives become self-fulfilling through reduced effort and opportunity recognition.
+  clinical_description: Assessment reveals pervasive negative emotional quality, passive voice, external attributions, and fatalistic language. Clients describe themselves as victims of circumstances, genetics, or others' actions without personal influence. Everything sounds hopeless and predetermined. Interventions include tone shifting exercises, identifying moments of agency however small, and challenging fatalistic interpretations. Treatment involves developing protagonist stance, recognizing choice points even in constraints, and building language of possibility. Clinicians address learned helplessness through graduated agency experiences.
+  lay_description: Helpless narrative tone means your life story sounds like one long tale of victimhood where bad things just happen to you and you have no power to change anything. The overall feeling is pessimistic and hopeless - you expect things to go badly and don't believe you can influence outcomes. Your story sounds defeated and powerless.
+  foundational_themes: Powerlessness, inevitable failure, victimhood, predetermined fate
+  experiential_processes: Pessimistic interpretation, agency denial, catastrophic expectation, passive expression
+  personal_relevance: Prevents action, maintains hopelessness, blocks effort, ensures stagnation
+- id: exi-ide-nar-rec-pur
+  label: Narrative Reconstruction Capacity
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: purposeful
+  polarity_suffix: pur
+  synonyms:
+  - Story flexibility
+  - Narrative revision
+  - Reauthoring ability
+  scope: Encompasses the capacity for active narrative revision, integration of new perspectives, reinterpretation of past events, and ongoing story evolution that allows growth and adaptation through life story modification.
+  parent_scope_inheritance: This anchor specifies the reconstruction capacity dimension of narrative identity, focusing on the ability to revise and update one's life story rather than remaining fixed in rigid narrative patterns.
+  polarity_expression: Manifests as purposeful through active reauthoring of problematic narratives, integrating new insights into life story, revising interpretations based on growth, and maintaining narrative flexibility.
+  cross_domain_resonance: Resonates with psy-cog-fle-ada (cognitive flexibility) in mental adaptation, exi-gro-tra-pur (transformative growth) in personal development, and psy-lea-exp-ada (experiential learning) in integration.
+  academic_description: Narrative reconstruction capacity involves the ability to revise life stories through reinterpretation, perspective-taking, and integration of new meanings. White & Epston's narrative therapy demonstrates story malleability through reauthoring conversations. Research shows narrative flexibility predicts better therapy outcomes and adaptation to life changes. Reconstruction involves identifying unique outcomes that contradict problem stories, developing preferred identity narratives, and thickening alternative stories. Studies indicate individuals with greater reconstruction capacity show improved recovery outcomes and identity development.
+  clinical_description: Assessment examines client's openness to alternative interpretations, ability to integrate new perspectives, and willingness to revise established narratives. Flexible reconstructors update stories with insights, incorporate feedback, and evolve narratives through treatment. Interventions include reauthoring exercises exploring alternative meanings, perspective-taking from others' viewpoints, and experimenting with different narrative versions. Treatment develops reconstruction skills through questioning certainty, exploring exceptions, and practicing story revision. Clinicians help loosen rigid narratives while maintaining coherent identity.
+  lay_description: Narrative reconstruction capacity means you can revise and update your life story as you grow and learn. You're not stuck telling the same old story forever - you can reinterpret past events with new understanding, see things from different angles, and evolve your story to match who you're becoming. Your narrative stays flexible and alive rather than fixed and dead.
+  foundational_themes: Story evolution, perspective integration, meaning revision, narrative growth
+  experiential_processes: Active reinterpretation, perspective-taking, meaning integration, story experimentation
+  personal_relevance: Enables growth, allows learning integration, supports identity development, facilitates change
+- id: exi-ide-nar-rec-dir
+  label: Narrative Rigidity
+  forest: Existential
+  forest_id: exi
+  field: Identity and Authenticity
+  field_id: exi-ide
+  cluster: Narrative Identity
+  cluster_id: exi-ide-nar
+  polarity: directionless
+  polarity_suffix: dir
+  synonyms:
+  - Story fixation
+  - Narrative stuckness
+  - Rigid life story
+  scope: Encompasses fixed narrative patterns, resistance to reinterpretation, inability to integrate new perspectives, and repetitive retelling of same story that prevents growth and maintains problematic patterns.
+  parent_scope_inheritance: This anchor specifies the narrative rigidity dimension of narrative identity, focusing on the inability to revise or update life stories, keeping individuals trapped in fixed narrative patterns.
+  polarity_expression: Manifests as directionless through compulsive retelling of same story, rejection of alternative perspectives, resistance to reinterpretation, and narrative stagnation that prevents development.
+  cross_domain_resonance: Resonates with psy-cog-fle-mal (cognitive rigidity) in inflexible thinking, exi-gro-tra-dir (stagnation) in blocked development, and psy-lea-exp-mal (learning resistance) in change avoidance.
+  academic_description: Narrative rigidity involves fixed story patterns resistant to revision despite new experiences or perspectives. Research identifies rumination as repetitive retelling without evolution, maintaining problem-saturated narratives. Studies show narrative rigidity correlates with treatment resistance, identity foreclosure, and maintained psychopathology. Rigid narratives become self-perpetuating through confirmation bias and selective attention. Addiction narratives often become fixed around identity as 'addict' or 'victim,' resistant to recovery narratives. Research demonstrates breaking narrative rigidity requires significant therapeutic intervention.
+  clinical_description: Assessment reveals clients who tell identical story repeatedly without variation, reject alternative interpretations, and resist considering different perspectives. They insist their version is only truth, unable to imagine story could be different. Interventions include gentle story loosening through curiosity about exceptions, exploring minor variations, and introducing small perspective shifts. Treatment addresses fear underlying rigidity - that changing story means losing identity. Clinicians work with resistance, understanding rigid narrative as protective strategy while gradually introducing flexibility.
+  lay_description: Narrative rigidity means being stuck telling the same life story over and over without any change or growth. You can't see your life any other way, reject different interpretations, and resist anyone suggesting alternative perspectives. You're trapped in one version of your story that keeps you stuck in the same patterns. It feels like your story is carved in stone rather than written in pencil.
+  foundational_themes: Fixed identity, unchangeable past, rigid interpretation, narrative prison
+  experiential_processes: Compulsive retelling, perspective rejection, interpretation fixation, story stagnation
+  personal_relevance: Prevents growth, maintains problems, blocks new learning, ensures repetition

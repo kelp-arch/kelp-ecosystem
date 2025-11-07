@@ -1,0 +1,260 @@
+# Generated anchors for cluster: PSY-BEH-CHA
+# Timestamp: 20251103_133810
+
+anchors:
+- id: psy-beh-cha-tri-ada
+  label: Adaptive Chain Triggers
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Behavioral Chains
+  cluster_id: psy-beh-cha
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Conscious trigger recognition
+  - Controlled chain initiation
+  - Trigger awareness
+  - Discriminative stimulus control
+  scope: Conscious awareness and control over behavioral chain triggers, with ability to recognize discriminative stimuli before automatic activation and choose responses deliberately.
+  parent_scope_inheritance: Specifies behavioral chains' trigger mechanisms to focus on conscious recognition and controlled initiation of sequential patterns.
+  polarity_expression: Manifests as conscious awareness of triggers enabling deliberate choice rather than automatic chain activation.
+  cross_domain_resonance: Resonates with cue reactivity (phy-neu-cue), environmental triggers (soc-env-cue), and personal autonomy (exi-mea-aut).
+  academic_description: Metacognitive awareness of discriminative stimuli prevents automatic S-R patterns. Conscious trigger recognition enables response selection rather than conditioned reactions. Trigger identification skills develop through systematic analysis and mindfulness training. Stimulus control involves environmental modification and cue exposure with response prevention.
+  clinical_description: Trigger awareness training helps identify high-risk situations before chain activation. Interventions include trigger logs, mindfulness exercises, and environmental modification. Cue exposure therapy builds tolerance without response. Relapse prevention focuses on recognizing subtle triggers and developing proactive management strategies.
+  lay_description: You recognize what situations, people, or feelings might start a chain leading to use. Instead of automatically responding, you see the trigger coming and can choose how to respond. Like noticing when you're about to walk past a liquor store and consciously deciding to take a different route.
+  core_components:
+  - Trigger recognition
+  - Conscious awareness
+  - Response choice
+  - Stimulus discrimination
+  associated_processes:
+  - Metacognitive monitoring
+  - Attentional control
+  - Decision-making
+  - Environmental scanning
+- id: psy-beh-cha-tri-mal
+  label: Maladaptive Chain Triggers
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Behavioral Chains
+  cluster_id: psy-beh-cha
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Automatic triggering
+  - Unconscious chain activation
+  - Conditioned initiation
+  - Trigger blindness
+  scope: Automatic and unconscious activation of behavioral chains by discriminative stimuli, with sequences beginning without awareness or conscious control.
+  parent_scope_inheritance: Specifies behavioral chains' trigger mechanisms to focus on automatic, unconscious initiation of sequential patterns leading to substance use.
+  polarity_expression: Manifests as unconscious automatic triggering where chains begin without awareness, inevitably progressing toward substance use.
+  cross_domain_resonance: Resonates with sensitized cue reactivity (phy-neu-cue), environmental conditioning (soc-env-cue), and loss of autonomy (exi-mea-aut).
+  academic_description: Classical conditioning creates automatic S-R connections bypassing conscious processing. Discriminative stimuli trigger chains through subcortical pathways before cortical awareness. Repeated pairings strengthen automatic associations. Trigger generalization expands the range of activating stimuli through stimulus equivalence.
+  clinical_description: Patients report finding themselves in use situations without knowing how they got there. Retrospective chain analysis reveals unrecognized triggers. Interventions focus on increasing awareness through detailed behavioral tracking and identifying hidden discriminative stimuli. Breaking automatic patterns requires intensive stimulus control procedures.
+  lay_description: Chains start without you realizing it - suddenly you're halfway to your dealer's house with no memory of deciding to go. Certain situations, emotions, or even times of day automatically trigger the sequence without your conscious awareness, like being on autopilot toward using.
+  core_components:
+  - Automatic activation
+  - Unconscious triggering
+  - Conditioned responses
+  - Awareness deficits
+  associated_processes:
+  - Classical conditioning
+  - Implicit memory activation
+  - Habitual responding
+  - Subcortical processing
+- id: psy-beh-cha-mom-ada
+  label: Adaptive Chain Momentum
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Behavioral Chains
+  cluster_id: psy-beh-cha
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Interruptible progression
+  - Controlled momentum
+  - Flexible sequences
+  - Breakable chains
+  scope: Maintained ability to interrupt or redirect behavioral chains at multiple points during progression, with preserved decision-making capacity throughout the sequence.
+  parent_scope_inheritance: Specifies behavioral chains' momentum dynamics to focus on maintaining interruption capacity and choice points throughout sequential progressions.
+  polarity_expression: Manifests as preserved ability to stop or redirect chains even after initiation, supporting recovery through maintained control.
+  cross_domain_resonance: Resonates with inhibitory control (phy-neu-inh), cognitive inhibition (psy-cog-inh), and boundary maintenance (soc-rel-bou).
+  academic_description: Response flexibility persists throughout behavioral sequences despite momentum effects. Multiple choice points remain accessible allowing chain interruption. Weak links provide natural interruption opportunities. Incompatible response insertion disrupts automatic progression. Maintained executive control overrides prepotent responses.
+  clinical_description: Patients can stop chains after initial links using techniques like urge surfing, distraction, or incompatible behaviors. Interventions identify and strengthen weak links for easier interruption. Planned pause points allow reassessment. External interruption systems provide backup when internal control wavers.
+  lay_description: Even after a chain starts, you can still stop it. You might answer that triggering phone call but then pause and choose not to make plans. Or start driving somewhere risky but turn around halfway. Each step still has an exit ramp where you can change direction.
+  core_components:
+  - Interruption capacity
+  - Choice preservation
+  - Flexibility maintenance
+  - Exit availability
+  associated_processes:
+  - Response inhibition
+  - Cognitive control
+  - Decision points
+  - Alternative activation
+- id: psy-beh-cha-mom-mal
+  label: Maladaptive Chain Momentum
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Behavioral Chains
+  cluster_id: psy-beh-cha
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Unstoppable cascade
+  - Compulsive progression
+  - Inevitable momentum
+  - Runaway chains
+  scope: Unstoppable progression through behavioral chains once initiated, with increasing momentum making interruption impossible and completion inevitable.
+  parent_scope_inheritance: Specifies behavioral chains' momentum dynamics to focus on unstoppable cascade effects in sequential progressions leading to substance use.
+  polarity_expression: Manifests as inability to stop chains once started, with momentum building inevitably toward substance use.
+  cross_domain_resonance: Resonates with disinhibition (phy-neu-inh), compulsive drive (psy-cog-com), and boundary dissolution (soc-rel-bou).
+  academic_description: Behavioral momentum increases as chains progress, creating response-produced drive states. Each completed link strengthens the drive to complete subsequent links. Interruption creates aversive tension motivating completion. Momentum effects override inhibitory control. Chains become ballistic once past critical threshold.
+  clinical_description: Patients describe a 'point of no return' where stopping becomes impossible. Momentum builds rapidly making each step more automatic than the last. Interventions must target early links before momentum becomes overwhelming. Once cascade begins, harm reduction at endpoint may be only option.
+  lay_description: Once the chain starts, it feels impossible to stop - like a snowball rolling downhill getting bigger and faster. After the first few steps, you're swept along by an overwhelming force. Even if you want to stop, the momentum carries you all the way to using.
+  core_components:
+  - Momentum buildup
+  - Cascade effects
+  - Completion compulsion
+  - Control loss
+  associated_processes:
+  - Drive escalation
+  - Automatic progression
+  - Inhibition failure
+  - Ballistic responding
+- id: psy-beh-cha-out-ada
+  label: Adaptive Chain Outcomes
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Behavioral Chains
+  cluster_id: psy-beh-cha
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Positive endpoints
+  - Recovery outcomes
+  - Healthy completions
+  - Constructive termination
+  scope: Behavioral chains that terminate in recovery-supporting activities and positive outcomes, reinforcing healthy behavioral patterns and goal achievement.
+  parent_scope_inheritance: Specifies behavioral chains' outcome patterns to focus on sequences ending in recovery activities and positive reinforcement rather than substance use.
+  polarity_expression: Manifests as chains consistently ending in recovery-supporting behaviors that reinforce positive patterns and wellbeing.
+  cross_domain_resonance: Resonates with natural rewards (phy-neu-rew), goal achievement (psy-mot-goa), and value alignment (exi-mea-val).
+  academic_description: Chains terminate in positively reinforcing outcomes supporting recovery goals. Backward chaining builds sequences from desired endpoints. Terminal behaviors provide natural reinforcement maintaining chain integrity. Positive outcome expectancies motivate chain completion. Recovery-oriented chains compete with use-focused sequences.
+  clinical_description: Interventions develop chains ending in self-care, social connection, or meaningful activities. Backward chaining starts with desired outcomes working backward to triggers. Contingency management reinforces positive endpoints. Patients practice sequences leading to recovery activities until they become automatic.
+  lay_description: Your behavioral chains lead somewhere positive - the same trigger that used to end in using now ends with calling a sponsor, going to a meeting, or engaging in a hobby. These new chains become just as automatic but lead to recovery instead of relapse.
+  core_components:
+  - Positive endpoints
+  - Recovery activities
+  - Goal achievement
+  - Natural reinforcement
+  associated_processes:
+  - Positive reinforcement
+  - Goal-directed behavior
+  - Value-based action
+  - Reward processing
+- id: psy-beh-cha-out-mal
+  label: Maladaptive Chain Outcomes
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Behavioral Chains
+  cluster_id: psy-beh-cha
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Use endpoints
+  - Substance termination
+  - Negative outcomes
+  - Destructive completion
+  scope: Behavioral chains that inevitably terminate in substance use, perpetuating addiction cycles through predictable sequences ending in drug or alcohol consumption.
+  parent_scope_inheritance: Specifies behavioral chains' outcome patterns to focus on sequences inevitably ending in substance use and negative reinforcement cycles.
+  polarity_expression: Manifests as all chains leading to substance use regardless of initial triggers, maintaining addiction through predictable use patterns.
+  cross_domain_resonance: Resonates with drug rewards (phy-neu-rew), addictive goals (psy-mot-goa), and value violation (exi-mea-val).
+  academic_description: All behavioral chains converge on substance use as terminal behavior. Negative reinforcement through escape from aversive states maintains chains. Use becomes the only available endpoint for multiple triggers. Outcome expectancies center exclusively on substance effects. Alternative endpoints remain undeveloped or abandoned.
+  clinical_description: Patients report all roads lead to using - different triggers and situations all end the same way. Chain analysis reveals convergence on substance use regardless of starting point. Interventions focus on developing alternative endpoints and blocking terminal use behaviors. Harm reduction addresses inevitable completions.
+  lay_description: No matter how the chain starts - stress, boredom, celebration - it always ends with using. Every behavioral sequence you know leads to the same destination. It feels like using is the only possible ending to any situation that arises.
+  core_components:
+  - Use endpoints
+  - Convergent outcomes
+  - Negative reinforcement
+  - Limited alternatives
+  associated_processes:
+  - Substance seeking
+  - Escape behavior
+  - Avoidance patterns
+  - Reinforcement narrowing
+- id: psy-beh-cha-flx-ada
+  label: Adaptive Chain Flexibility
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Behavioral Chains
+  cluster_id: psy-beh-cha
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Behavioral variability
+  - Sequence adaptability
+  - Chain modifiability
+  - Response flexibility
+  scope: Ability to modify, redirect, and create alternative behavioral chains, with multiple response options and contextual adaptation throughout sequences.
+  parent_scope_inheritance: Specifies behavioral chains' modification capacity to focus on flexibility in creating and adapting sequential patterns for recovery support.
+  polarity_expression: Manifests as ability to create new chains, modify existing sequences, and adapt patterns to changing contexts supporting recovery.
+  cross_domain_resonance: Resonates with neural plasticity (phy-neu-pla), cognitive flexibility (psy-cog-fle), and role adaptability (soc-rol-ada).
+  academic_description: Behavioral variability allows multiple response options at each chain link. Alternative sequences can be developed using same initial triggers. Contextual control permits adaptive modification based on environmental changes. Response generalization enables creative chain construction. Flexibility training increases behavioral repertoire.
+  clinical_description: Patients develop multiple alternative chains for high-risk situations. Interventions include behavioral flexibility training, creative problem-solving for new sequences, and practicing variations. Alternative chain development uses same triggers but builds different progressions. Flexibility prevents rigid relapse patterns.
+  lay_description: You have options - the same trigger can start different chains depending on the situation. You can modify sequences on the fly, create new patterns, and adapt your responses. Instead of one rigid path, you have a toolkit of different behavioral sequences to choose from.
+  core_components:
+  - Response options
+  - Sequence variation
+  - Adaptive modification
+  - Creative alternatives
+  associated_processes:
+  - Behavioral creativity
+  - Problem-solving
+  - Contextual adaptation
+  - Response generalization
+- id: psy-beh-cha-flx-mal
+  label: Maladaptive Chain Flexibility
+  forest: Psychological
+  forest_id: psy
+  field: Behavioral
+  field_id: psy-beh
+  cluster: Behavioral Chains
+  cluster_id: psy-beh-cha
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Behavioral rigidity
+  - Sequence inflexibility
+  - Chain fixation
+  - Response stereotypy
+  scope: Rigid, inflexible behavioral chains that cannot be modified or redirected, with stereotyped sequences and inability to develop alternatives.
+  parent_scope_inheritance: Specifies behavioral chains' modification deficits to focus on rigid, inflexible sequential patterns that maintain substance use.
+  polarity_expression: Manifests as inability to modify chains or create alternatives, with rigid patterns inevitably leading to substance use.
+  cross_domain_resonance: Resonates with neural rigidity (phy-neu-pla), cognitive inflexibility (psy-cog-fle), and role fixation (soc-rol-ada).
+  academic_description: Behavioral stereotypy limits response options to single sequences. Perseveration prevents chain modification despite negative consequences. Overlearned patterns resist change through habit strength. Cognitive inflexibility impairs alternative generation. Ritualistic qualities create distress when chains are altered.
+  clinical_description: Patients know only one sequence from trigger to use, unable to imagine alternatives. Attempts to modify chains create anxiety and confusion. Interventions require systematic flexibility training, gradual chain modification, and intensive alternative development. Rigid patterns strongly predict relapse.
+  lay_description: You're stuck in the same rigid pattern - there's only one way things can go. Any deviation from the familiar sequence feels wrong or impossible. Like a train on tracks, once started, the chain can only follow its predetermined path to using.
+  core_components:
+  - Response rigidity
+  - Sequence fixation
+  - Alternative absence
+  - Modification resistance
+  associated_processes:
+  - Perseveration
+  - Stereotyped responding
+  - Habit dominance
+  - Ritual compulsion

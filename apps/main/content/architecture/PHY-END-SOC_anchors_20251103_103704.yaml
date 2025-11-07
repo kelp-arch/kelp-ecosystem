@@ -1,0 +1,328 @@
+# Generated anchors for cluster: PHY-END-SOC
+# Timestamp: 20251103_103704
+
+anchors:
+- id: phy-end-soc-oxy-reg
+  label: Regulated Oxytocin Synthesis
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal oxytocin production
+  - Appropriate neuropeptide synthesis
+  - Healthy bonding hormone levels
+  scope: Normal oxytocin synthesis in paraventricular and supraoptic nuclei with appropriate pulsatile release patterns responsive to social cues, supporting bonding, attachment, and stress regulation.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by focusing on the regulated production and release of oxytocin from hypothalamic nuclei.
+  polarity_expression: Manifests as appropriate oxytocin synthesis and release that responds dynamically to social stimuli and maintains healthy attachment behaviors.
+  cross_domain_resonance: Resonates with psy-att-sec-ada (secure attachment), soc-rel-int-coh (intimate relationships), and exi-con-lov-pur (purposeful love connections).
+  academic_description: Regulated oxytocin synthesis involves normal magnocellular neuron function in the paraventricular and supraoptic nuclei, with appropriate gene expression, peptide processing, and vesicular storage. Release follows circadian patterns with increases during positive social interaction, physical touch, and stress. This maintains the oxytocin-dopamine interaction in nucleus accumbens that makes social contact rewarding.
+  clinical_description: Patients with regulated oxytocin synthesis seek social support when stressed, experience calming effects from companionship, and maintain stable relationships. They show normal bonding with children and partners, appropriate trust formation, and effective stress buffering through social connection. Assessment relies on behavioral observation as direct oxytocin measurement is rarely available clinically.
+  lay_description: When your oxytocin system works properly, being around people you care about feels naturally rewarding and calming. You seek out friends when stressed, enjoy hugs and physical affection, and feel emotionally connected to loved ones. Your brain produces the right amount of this 'bonding hormone' at the right times.
+  key_mediators: Oxytocin, neurophysin, oxytocin receptors, magnocellular neurons
+  key_mechanisms: Hypothalamic synthesis, axonal transport, calcium-dependent release, receptor binding
+  clinical_relevance: Healthy attachment, stress resilience, social functioning, addiction recovery
+  assessment_methods: Behavioral observation, attachment assessments, social functioning scales
+  interventions: Social interaction, physical touch, massage therapy, childbirth/breastfeeding
+  prominent_models: Insel's social attachment model, brain opioid theory of social attachment
+- id: phy-end-soc-oxy-dys
+  label: Dysregulated Oxytocin Synthesis
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Reduced oxytocin production
+  - Impaired neuropeptide synthesis
+  - Deficient bonding hormones
+  scope: Reduced oxytocin synthesis in hypothalamic nuclei with blunted release patterns unresponsive to social cues, impairing bonding, attachment, and stress regulation in addiction.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by focusing on the disrupted production and release of oxytocin characteristic of addiction states.
+  polarity_expression: Manifests as reduced oxytocin synthesis and blunted release that fails to respond to social stimuli, promoting isolation and substance dependence.
+  cross_domain_resonance: Resonates with psy-att-avo-mal (avoidant attachment), soc-rel-iso-fra (social isolation), and exi-con-ali-dir (directionless alienation).
+  academic_description: Chronic substance use impairs magnocellular neuron function, reducing oxytocin gene expression and peptide synthesis. Alcohol and opioids directly suppress hypothalamic oxytocin production while stimulants deplete synthesis through excessive release. This creates a hypooxytocinergic state with reduced social reward processing, impaired stress buffering, and weakened attachment bonds that perpetuate addiction.
+  clinical_description: Patients show social withdrawal, preference for isolation over companionship, and inability to derive comfort from social support. They report feeling emotionally numb or disconnected from loved ones. Social anhedonia predicts poor treatment outcomes and higher relapse risk. Intranasal oxytocin supplementation is being studied as adjunct treatment, though receptor sensitivity must also be addressed.
+  lay_description: When addiction disrupts your oxytocin system, being around people stops feeling rewarding or comforting. You might prefer being alone, feel emotionally disconnected from loved ones, or find that hugs and affection don't provide the warmth they used to. Your brain isn't making enough of this bonding hormone.
+  key_mediators: Reduced oxytocin, impaired neurophysin, decreased receptor expression
+  key_mechanisms: Suppressed synthesis, depleted stores, blunted release, receptor downregulation
+  clinical_relevance: Social anhedonia, isolation, poor treatment retention, relapse vulnerability
+  assessment_methods: Social anhedonia scales, relationship assessments, isolation measures
+  interventions: Intranasal oxytocin, group therapy, pet therapy, social skills training
+  prominent_models: Hypooxytocinergic model of addiction, social deficit theory
+- id: phy-end-soc-vas-reg
+  label: Regulated Vasopressin System
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal vasopressin function
+  - Appropriate ADH levels
+  - Balanced territorial hormones
+  scope: Normal vasopressin synthesis and signaling supporting stable pair bonding, appropriate territorial behavior, and social hierarchy recognition without excessive aggression.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by examining regulated vasopressin function that complements oxytocin in maintaining social bonds.
+  polarity_expression: Manifests as appropriate vasopressin levels that support pair bonding and protective behavior without promoting aggression or conflict.
+  cross_domain_resonance: Resonates with psy-emo-reg-ada (emotional regulation), soc-rel-par-coh (partnership cohesion), and exi-pur-com-pur (purposeful commitment).
+  academic_description: Vasopressin synthesized in paraventricular and supraoptic nuclei acts through V1a and V1b receptors to influence pair bonding, paternal behavior, and social recognition. In prairie voles, vasopressin receptor distribution determines monogamous versus promiscuous mating patterns. Appropriate levels support partner preference formation, mate guarding, and paternal care without excessive aggression.
+  clinical_description: Regulated vasopressin supports stable romantic partnerships, appropriate protective instincts, and healthy parent-child bonding. Patients maintain long-term relationships, show appropriate jealousy without violence, and engage in cooperative parenting. Assessment focuses on relationship stability, conflict patterns, and bonding behaviors rather than direct hormone measurement.
+  lay_description: Vasopressin helps you form strong bonds with your romantic partner and children. When working properly, it makes you want to protect and stay close to loved ones, helps you remember faces and social relationships, and supports long-term commitment without causing excessive jealousy or aggression.
+  key_mediators: Vasopressin, V1a receptors, V1b receptors, neurophysin II
+  key_mechanisms: Hypothalamic synthesis, receptor binding, social memory formation, pair bond maintenance
+  clinical_relevance: Relationship stability, parental bonding, social memory, appropriate territoriality
+  assessment_methods: Relationship assessments, bonding questionnaires, behavioral observation
+  interventions: Couples therapy, bonding exercises, stable social environment, co-parenting support
+  prominent_models: Prairie vole pair bonding model, vasopressin-social behavior framework
+- id: phy-end-soc-vas-dys
+  label: Dysregulated Vasopressin System
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Altered vasopressin function
+  - Disrupted ADH signaling
+  - Imbalanced territorial hormones
+  scope: Altered vasopressin synthesis and signaling causing unstable pair bonds, inappropriate aggression, partner conflict, and disrupted social hierarchy processing in addiction.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by examining dysregulated vasopressin function that contributes to relationship problems in addiction.
+  polarity_expression: Manifests as altered vasopressin levels that disrupt pair bonding while potentially increasing aggression and territorial conflict.
+  cross_domain_resonance: Resonates with psy-emo-dys-mal (emotional dysregulation), soc-rel-con-fra (relationship conflict), and exi-pur-apa-dir (directionless apathy).
+  academic_description: Substance use alters vasopressin synthesis and receptor expression, disrupting pair bonding mechanisms. Alcohol increases vasopressin release acutely but causes chronic suppression. Stimulants can increase aggressive territorial behavior through V1a receptor activation. This contributes to relationship instability, domestic conflict, and impaired parental bonding that characterize addiction.
+  clinical_description: Patients show relationship instability, increased partner conflict, and inappropriate aggression or jealousy. They may struggle with co-parenting, show reduced paternal/maternal bonding, or engage in territorial disputes. Some substances increase aggressive behavior while others cause social apathy. Addressing vasopressin dysfunction requires relationship-focused interventions.
+  lay_description: When addiction disrupts vasopressin, your ability to maintain stable relationships suffers. You might experience more conflict with partners, inappropriate jealousy or aggression, or difficulty bonding with children. Some people become overly territorial and aggressive, while others lose interest in protecting or connecting with loved ones.
+  key_mediators: Altered vasopressin, disrupted V1a/V1b signaling, receptor dysregulation
+  key_mechanisms: Disrupted synthesis, altered release patterns, receptor desensitization, impaired social memory
+  clinical_relevance: Relationship instability, domestic conflict, impaired parenting, social aggression
+  assessment_methods: Conflict assessments, aggression scales, relationship stability measures
+  interventions: Anger management, relationship counseling, parenting support, social skills training
+  prominent_models: Addiction-aggression model, disrupted pair bonding framework
+- id: phy-end-soc-rec-reg
+  label: Regulated Receptor Sensitivity
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal receptor function
+  - Appropriate receptor density
+  - Sensitive neuropeptide receptors
+  scope: Normal density and sensitivity of oxytocin and vasopressin receptors in limbic and reward regions, enabling appropriate responses to social hormones and maintaining social learning capacity.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by focusing on the receptor systems that transduce oxytocin and vasopressin signals into behavioral responses.
+  polarity_expression: Manifests as maintained receptor sensitivity that allows appropriate behavioral responses to endogenous oxytocin and vasopressin release.
+  cross_domain_resonance: Resonates with psy-cog-soc-ada (social cognition), soc-int-emp-coh (empathic interaction), and exi-mea-con-pur (purposeful connection).
+  academic_description: Oxytocin and vasopressin receptors in nucleus accumbens, amygdala, and prefrontal cortex maintain normal density and coupling to intracellular signaling cascades. This enables appropriate behavioral responses to neuropeptide release including social approach, trust formation, and stress reduction. Receptor sensitivity determines the magnitude of response to endogenous or exogenous oxytocin.
+  clinical_description: Patients with normal receptor sensitivity respond appropriately to social cues, show emotional contagion, and benefit from social support. They can form therapeutic alliances, learn from social feedback, and experience stress relief through companionship. Receptor function determines whether oxytocin-based interventions will be effective.
+  lay_description: Think of receptors as locks that oxytocin and vasopressin keys fit into. When these locks work properly, your brain responds appropriately to bonding hormones - you feel connected during hugs, calmed by loved ones, and can pick up on social cues. The hormones can do their job of helping you connect with others.
+  key_mediators: OXTR receptors, AVPR1a receptors, G-protein coupling, intracellular signaling
+  key_mechanisms: Receptor expression, membrane trafficking, signal transduction, gene regulation
+  clinical_relevance: Social responsiveness, therapeutic alliance, intervention effectiveness
+  assessment_methods: Social responsiveness scales, emotional contagion tests, intervention response
+  interventions: Consistent positive social experiences, mindfulness practices, receptor priming protocols
+  prominent_models: Receptor sensitivity model, social salience framework
+- id: phy-end-soc-rec-dys
+  label: Dysregulated Receptor Sensitivity
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Receptor downregulation
+  - Reduced receptor density
+  - Desensitized neuropeptide receptors
+  scope: Reduced density and sensitivity of oxytocin and vasopressin receptors in limbic and reward regions, blunting responses to social hormones and impairing social learning in addiction.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by focusing on receptor dysfunction that prevents appropriate responses to social neuropeptides in addiction.
+  polarity_expression: Manifests as receptor downregulation and desensitization that blunts behavioral responses even when oxytocin or vasopressin are present.
+  cross_domain_resonance: Resonates with psy-cog-imp-mal (impaired social cognition), soc-int-dis-fra (disconnected interaction), and exi-mea-emp-dir (directionless emptiness).
+  academic_description: Chronic substance exposure causes receptor downregulation through internalization and degradation. Repeated supraphysiological stimulation from drugs desensitizes receptors, reducing coupling efficiency. This creates resistance to endogenous oxytocin and vasopressin, explaining why social contact loses rewarding properties and why exogenous oxytocin supplementation may have limited efficacy without receptor resensitization.
+  clinical_description: Patients show blunted responses to social cues, emotional numbness, and poor response to social interventions. They may not benefit from intranasal oxytocin or social support without first addressing receptor sensitivity. Recovery requires gradual receptor resensitization through consistent positive social experiences while avoiding overwhelming stimulation that could further downregulate receptors.
+  lay_description: When addiction damages these hormone receptors, it's like the locks get jammed or removed. Even if your body makes oxytocin or you receive it as treatment, your brain can't respond properly. Social interactions feel flat or meaningless because the signals can't get through. Recovery involves slowly repairing these locks through gentle, consistent social connection.
+  key_mediators: Downregulated OXTR, reduced AVPR1a, impaired G-protein coupling
+  key_mechanisms: Receptor internalization, degradation, uncoupling, transcriptional suppression
+  clinical_relevance: Treatment resistance, social numbness, poor intervention response
+  assessment_methods: Intervention response tracking, emotional numbness scales, social responsiveness tests
+  interventions: Receptor resensitization protocols, gradual social re-exposure, pharmacological priming
+  prominent_models: Receptor desensitization model, social resistance framework
+- id: phy-end-soc-rew-reg
+  label: Regulated Social Reward Processing
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal social reward
+  - Appropriate social pleasure
+  - Healthy social motivation
+  scope: Intact oxytocin-dopamine interactions in nucleus accumbens and ventral tegmental area that make social contact rewarding, maintaining social motivation and approach behaviors.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by examining how oxytocin modulates dopamine to create social reward, a key mechanism disrupted in addiction.
+  polarity_expression: Manifests as experiencing pleasure from social interaction, seeking companionship, and prioritizing relationships alongside other rewards.
+  cross_domain_resonance: Resonates with psy-rew-soc-ada (social reward seeking), soc-act-eng-coh (social engagement), and exi-joy-con-pur (purposeful connection joy).
+  academic_description: Oxytocin release during social interaction activates dopamine neurons in VTA projecting to nucleus accumbens, creating social reward. This oxytocin-dopamine interaction makes social contact reinforcing, motivating approach behaviors and relationship maintenance. The overlap between social and drug reward circuits means these systems compete, with balanced function allowing social rewards to provide alternative reinforcement.
+  clinical_description: Patients with intact social reward processing enjoy social activities, seek companionship, and anticipate social events positively. They can use social connection as alternative reward to substances, making group therapy and social support effective interventions. Social rewards provide natural reinforcement that supports recovery.
+  lay_description: When this system works properly, spending time with friends feels genuinely enjoyable and rewarding. You look forward to social events, feel energized by good conversations, and get a natural high from connecting with others. These social rewards can compete with and replace the artificial rewards from substances.
+  key_mediators: Oxytocin, dopamine, nucleus accumbens activation, VTA neurons
+  key_mechanisms: Oxytocin-dopamine interaction, reward prediction, approach motivation, reinforcement learning
+  clinical_relevance: Social motivation, treatment engagement, natural reward substitution
+  assessment_methods: Social pleasure scales, behavioral approach tests, reward preference tasks
+  interventions: Group activities, social reinforcement therapy, community engagement, peer support
+  prominent_models: Social reward model, oxytocin-dopamine interaction framework
+- id: phy-end-soc-rew-dys
+  label: Dysregulated Social Reward Processing
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Social anhedonia
+  - Reduced social pleasure
+  - Impaired social motivation
+  scope: Disrupted oxytocin-dopamine interactions in reward circuits causing social anhedonia, where social contact loses rewarding properties and fails to motivate approach behaviors in addiction.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by examining how addiction disrupts the oxytocin-dopamine interaction that normally makes social contact rewarding.
+  polarity_expression: Manifests as inability to experience pleasure from social interaction, avoiding companionship, and prioritizing substances over relationships.
+  cross_domain_resonance: Resonates with psy-rew-anh-mal (anhedonia), soc-act-wit-fra (social withdrawal), and exi-joy-apa-dir (directionless apathy).
+  academic_description: Chronic drug use disrupts oxytocin modulation of dopamine signaling, reducing social reward salience. Drugs hijack reward circuits with supraphysiological dopamine release, making natural social rewards pale in comparison. The oxytocin-dopamine uncoupling creates social anhedonia - a specific inability to experience pleasure from social interaction that predicts poor treatment outcomes.
+  clinical_description: Patients report feeling nothing from social interaction, preferring isolation, and choosing substances over companionship. Social anhedonia is a major barrier to treatment engagement and predicts relapse. Interventions must gradually rebuild social reward sensitivity through behavioral activation while managing expectations about timeline for improvement.
+  lay_description: When addiction disrupts this system, being around people stops feeling rewarding or enjoyable. Social events feel like work, conversations feel empty, and you'd rather be alone or using substances. It's not that you dislike people - your brain just can't generate pleasure from social connection anymore. This can slowly heal with consistent social exposure.
+  key_mediators: Reduced oxytocin-dopamine coupling, blunted nucleus accumbens response
+  key_mechanisms: Uncoupled signaling, reward devaluation, approach-avoidance imbalance
+  clinical_relevance: Social anhedonia, isolation, poor treatment retention, relapse risk
+  assessment_methods: Social anhedonia scales, reward preference tasks, approach-avoidance measures
+  interventions: Behavioral activation, social reward training, motivational enhancement, gradual exposure
+  prominent_models: Social anhedonia model, reward deficit syndrome framework
+- id: phy-end-soc-buf-reg
+  label: Regulated Stress Buffering
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Effective social buffering
+  - Normal stress protection
+  - Appropriate HPA modulation
+  scope: Intact stress-buffering effects of oxytocin through HPA axis modulation, where social support effectively reduces cortisol and provides resilience against stress-induced relapse.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by focusing on how oxytocin provides stress protection through social connection, a critical protective factor in recovery.
+  polarity_expression: Manifests as reduced stress response in presence of social support, seeking others when distressed, and using relationships for emotional regulation.
+  cross_domain_resonance: Resonates with psy-str-res-ada (stress resilience), soc-sup-emo-coh (emotional support), and exi-res-con-pur (purposeful resilience).
+  academic_description: Oxytocin inhibits HPA axis activation through actions at paraventricular nucleus, reducing CRH release and subsequent cortisol production. Social support triggers oxytocin release that dampens stress responses, providing biological resilience. This social buffering effect is seen across mammals and represents a fundamental protective mechanism against stress-related pathology.
+  clinical_description: Patients with intact stress buffering show lower cortisol when supported, seek social contact during stress, and use relationships for co-regulation. They benefit from involving family in treatment, respond well to group therapy, and can use social support to manage cravings and prevent relapse. This natural stress protection reduces vulnerability to stress-induced substance use.
+  lay_description: When this system works well, being around supportive people actually calms your body's stress response. Your cortisol levels drop, your heart rate slows, and you feel physically calmer just from having someone caring nearby. This 'social buffering' is like having a natural stress shield that protects you from life's pressures.
+  key_mediators: Oxytocin, CRH suppression, cortisol reduction, parasympathetic activation
+  key_mechanisms: HPA axis inhibition, autonomic regulation, inflammatory suppression
+  clinical_relevance: Stress resilience, relapse prevention, treatment response, recovery support
+  assessment_methods: Cortisol response tests, social support assessments, stress buffering tasks
+  interventions: Social support groups, partner involvement, community connections, group therapy
+  prominent_models: Social buffering hypothesis, stress-buffering model of social support
+- id: phy-end-soc-buf-dys
+  label: Dysregulated Stress Buffering
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired social buffering
+  - Lost stress protection
+  - Failed HPA modulation
+  scope: Loss of stress-buffering effects where social support fails to reduce cortisol or provide protection, increasing vulnerability to stress-induced craving and relapse in addiction.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by examining how addiction eliminates the protective stress-buffering effects of social connection.
+  polarity_expression: Manifests as persistent stress despite social support, avoiding others when distressed, and inability to use relationships for regulation.
+  cross_domain_resonance: Resonates with psy-str-vul-mal (stress vulnerability), soc-sup-abs-fra (absent support utilization), and exi-res-fra-dir (directionless fragility).
+  academic_description: Addiction disrupts oxytocin's ability to inhibit HPA axis, eliminating social buffering effects. Even with social support present, oxytocin release fails to suppress cortisol, leaving individuals vulnerable to stress. This creates a vicious cycle where stress drives substance use, which further impairs stress buffering capacity, increasing relapse vulnerability.
+  clinical_description: Patients show no stress reduction from social support, maintaining high cortisol despite companionship. They may avoid others when stressed, finding social contact additionally stressful rather than calming. This eliminates a major protective factor, making stress management through medication or individual coping strategies necessary while social buffering capacity slowly recovers.
+  lay_description: When addiction breaks this system, being around people doesn't calm your stress anymore. You might even feel more stressed in social situations. The natural protection that relationships usually provide against life's pressures stops working, leaving you vulnerable to stress and more likely to turn to substances for relief instead of people.
+  key_mediators: Blunted oxytocin response, persistent cortisol, failed HPA suppression
+  key_mechanisms: Lost HPA inhibition, autonomic dysregulation, inflammatory persistence
+  clinical_relevance: Stress vulnerability, relapse risk, treatment resistance, isolation tendency
+  assessment_methods: Social stress tests, cortisol non-suppression, support utilization measures
+  interventions: Stress management training, HPA axis stabilization, gradual social re-integration
+  prominent_models: Failed buffering model, stress vulnerability framework
+- id: phy-end-soc-tru-reg
+  label: Regulated Trust and Empathy
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal trust formation
+  - Appropriate empathy
+  - Healthy prosocial function
+  scope: Intact oxytocin modulation of trust, empathy, and prosocial behavior through effects on amygdala, anterior cingulate, and mirror neuron systems supporting social cooperation.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by examining oxytocin's role in trust and empathy, essential for therapeutic alliance and social recovery.
+  polarity_expression: Manifests as appropriate trust formation, accurate empathy, prosocial behavior, and ability to form therapeutic relationships.
+  cross_domain_resonance: Resonates with psy-soc-emp-ada (adaptive empathy), soc-coo-tru-coh (trust-based cooperation), and exi-vir-com-pur (purposeful compassion).
+  academic_description: Oxytocin reduces amygdala activation to social threats, enabling trust formation. It enhances anterior cingulate and mirror neuron activity, improving empathy and emotion recognition. These effects support prosocial behavior, cooperation, and the formation of therapeutic alliances essential for treatment engagement and recovery.
+  clinical_description: Patients can form appropriate therapeutic alliances, accurately read emotional cues, and engage in prosocial behavior. They trust treatment providers appropriately, show empathy in group settings, and can engage in perspective-taking exercises. This enables effective therapy participation and peer support utilization.
+  lay_description: When working properly, oxytocin helps you trust others appropriately, understand how people feel, and want to help them. You can form good relationships with therapists and counselors, connect emotionally in group therapy, and rebuild trust with family members. You naturally understand social situations and respond with kindness.
+  key_mediators: Oxytocin, amygdala inhibition, mirror neuron activation, anterior cingulate
+  key_mechanisms: Threat detection modulation, emotional mirroring, perspective-taking, prosocial motivation
+  clinical_relevance: Therapeutic alliance, treatment engagement, peer support, family reconciliation
+  assessment_methods: Trust games, empathy scales, emotion recognition tasks, alliance measures
+  interventions: Trust-building exercises, empathy training, perspective-taking practice, group therapy
+  prominent_models: Trust-oxytocin model, empathy-attachment framework
+- id: phy-end-soc-tru-dys
+  label: Dysregulated Trust and Empathy
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: Social Bonding Hormones
+  cluster_id: phy-end-soc
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Impaired trust formation
+  - Reduced empathy
+  - Disrupted prosocial function
+  scope: Disrupted oxytocin modulation causing inappropriate trust, reduced empathy, and impaired prosocial behavior through altered amygdala and mirror neuron function in addiction.
+  parent_scope_inheritance: Specifies the social bonding hormone cluster by examining how addiction impairs oxytocin's effects on trust and empathy, hindering treatment engagement.
+  polarity_expression: Manifests as paranoia or inappropriate trust, reduced empathy, antisocial behavior, and inability to form therapeutic relationships.
+  cross_domain_resonance: Resonates with psy-soc-cal-mal (callousness), soc-coo-dec-fra (deceptive fragmentation), and exi-vir-cyn-dir (directionless cynicism).
+  academic_description: Addiction disrupts oxytocin modulation of amygdala, increasing threat detection and reducing trust. Mirror neuron dysfunction impairs empathy and emotion recognition. This creates a paranoid, self-focused state that impairs therapeutic alliance formation and promotes antisocial behavior that damages relationships and hinders recovery.
+  clinical_description: Patients show paranoia or suspicion of treatment providers, difficulty reading emotions, and reduced prosocial behavior. They struggle to form therapeutic alliances, may be disruptive in group settings, and show limited empathy for others' experiences. Some show inappropriate trust of dealers or criminal associates while distrusting helpers. Rebuilding trust and empathy requires consistent, predictable therapeutic relationships.
+  lay_description: When addiction disrupts trust and empathy hormones, you might become suspicious of people trying to help while trusting those who harm you. Reading others' emotions becomes difficult, and you may not feel moved by their struggles. This makes it hard to connect with counselors, participate in group therapy, or repair damaged relationships.
+  key_mediators: Reduced oxytocin signaling, amygdala hyperactivity, mirror neuron dysfunction
+  key_mechanisms: Heightened threat detection, impaired emotional mirroring, reduced perspective-taking
+  clinical_relevance: Poor therapeutic alliance, treatment dropout, antisocial behavior, relationship damage
+  assessment_methods: Paranoia scales, empathy deficits tests, alliance rupture measures
+  interventions: Graduated trust exercises, emotion recognition training, cognitive restructuring
+  prominent_models: Trust deficit model, empathy-addiction framework

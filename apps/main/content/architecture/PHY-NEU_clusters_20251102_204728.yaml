@@ -1,0 +1,120 @@
+# Generated clusters for field: PHY-NEU
+# Timestamp: 20251102_204728
+
+clusters:
+- id: phy-neu-rew
+  label: Reward Systems
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  synonyms:
+  - Mesocorticolimbic system
+  - Dopamine reward pathway
+  - Incentive salience network
+  - Hedonic circuitry
+  scope: Mesocorticolimbic dopamine pathway including ventral tegmental area, nucleus accumbens, ventral pallidum, and their cortical projections. Encompasses reward prediction, incentive salience attribution, hedonic processing, and motivational drive. Includes dopamine release patterns, D1/D2 receptor signaling, and reward learning mechanisms.
+  parent_scope_inheritance: Specifies the neurological field's focus on neural circuits by examining the primary reward pathway affected by all drugs of abuse, where dopamine signaling mediates the attribution of incentive salience to drug cues and natural rewards.
+  polarity_dimension: Reward sensitivity and motivational balance - ranging from regulated appropriate response to natural reinforcers to dysregulated incentive sensitization and anhedonia.
+  emergence: At the cluster level, dissociation between wanting and liking emerges, where incentive salience can become pathologically amplified for drug cues while hedonic response diminishes, creating compulsive pursuit without pleasure.
+  boundary_interfaces:
+  - Interfaces with executive control for value-based decision computation
+  - Connects with memory systems for reward prediction learning
+  - Modulated by stress-emotion systems through extended amygdala projections
+  child_generation_role: You are a reward system neuroscientist specializing in mesolimbic dopamine signaling and incentive salience attribution. You analyze ventral tegmental area dopamine neurons, nucleus accumbens medium spiny neurons, ventral pallidum activity, and dopamine release patterns. You distinguish between regulated states showing appropriate hedonic tone and motivation for natural rewards versus dysregulated states showing incentive sensitization to drug cues, anhedonia for natural reinforcers, and pathological wanting without liking. You ground analysis in Robinson & Berridge's incentive sensitization theory, Schultz's reward prediction error framework, and Koob's allostatic model.
+  academic_description: The reward systems cluster examines how drugs of abuse converge on the mesocorticolimbic dopamine pathway to produce reinforcement and addiction. Research demonstrates that acute drug exposure increases dopamine release in the nucleus accumbens, but chronic use leads to complex adaptations including reduced D2 receptor availability, altered dendritic morphology, and sensitized dopamine response to drug cues. The incentive sensitization theory explains how repeated drug use causes hypersensitivity of motivational systems, making drug cues trigger intense wanting independent of liking. Neuroimaging reveals blunted striatal response to natural rewards but heightened reactivity to drug cues, reflecting a hijacking of evolutionary reward mechanisms.
+  clinical_description: Understanding reward system dysfunction helps clinicians explain why patients experience intense cravings despite no longer enjoying drug effects. Treatment targets this system through contingency management, providing alternative rewards to compete with drug reinforcement. Medications like naltrexone block opioid reward, while bupropion may help restore dopamine tone. Clinicians monitor anhedonia and motivational deficits, which often persist into early recovery. Behavioral activation helps rebuild natural reward processing by scheduling pleasurable activities even when motivation is low. Recovery involves gradual restoration of the brain's ability to experience pleasure from everyday rewards like food, social connection, and accomplishment.
+  lay_description: Your brain's reward system is like a motivation GPS that guides you toward things that help you survive and thrive - food, connection, achievement. Drugs hack this system by flooding it with feel-good chemicals, essentially telling your brain that drugs are the most important thing for survival. Over time, the system adapts by turning down its sensitivity, like turning down a stereo that's too loud. This means natural rewards feel less satisfying while drug cues trigger powerful urges. It's why someone might crave drugs intensely even when they no longer enjoy using them. With recovery, this system slowly recalibrates to appreciate life's natural pleasures again.
+- id: phy-neu-exe
+  label: Executive Control
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  synonyms:
+  - Prefrontal control networks
+  - Cognitive control systems
+  - Top-down regulation
+  - Executive function circuits
+  scope: Prefrontal cortex regions including dorsolateral, ventromedial, and orbitofrontal areas, plus anterior cingulate cortex. Encompasses working memory, response inhibition, cognitive flexibility, decision-making, and self-monitoring. Includes prefrontal-striatal loops and cortical thickness measures.
+  parent_scope_inheritance: Specifies the neurological field's brain region focus by examining prefrontal networks that normally regulate behavior and become compromised in addiction, leading to impaired judgment and loss of control.
+  polarity_dimension: Cognitive control integrity - ranging from regulated intact inhibitory control and flexible decision-making to dysregulated impulsivity and executive dysfunction.
+  emergence: At the cluster level, a dysexecutive syndrome emerges characterized by now-bias in decision-making, where immediate rewards override long-term consequences despite conscious awareness of harm.
+  boundary_interfaces:
+  - Provides top-down regulation of reward system activity
+  - Integrates memory system information for planning
+  - Regulates stress-emotion responses through inhibitory projections
+  child_generation_role: You are a cognitive neuroscientist specializing in prefrontal executive networks and inhibitory control mechanisms. You analyze dorsolateral prefrontal cortex working memory circuits, orbitofrontal value encoding, anterior cingulate conflict monitoring, and ventromedial prefrontal self-referential processing. You distinguish between regulated states showing intact cognitive control, flexible decision-making, and appropriate response inhibition versus dysregulated states showing impulsivity, perseveration, poor judgment, and inability to suppress drug-seeking. You ground analysis in Bechara's somatic marker hypothesis, Miller & Cohen's cognitive control theory, and Goldstein & Volkow's iRISA model.
+  academic_description: The executive control cluster examines prefrontal cortex dysfunction as a core feature of addiction pathophysiology. Structural imaging reveals reduced gray matter volume in dorsolateral and orbitofrontal regions, while functional studies show hypoactivation during cognitive control tasks. The dual-process model posits an imbalance between automatic impulses and reflective control, with weakened prefrontal regulation unable to override subcortical drives. Specific deficits include impaired response inhibition on stop-signal tasks, disadvantageous decision-making on gambling tasks, and reduced cognitive flexibility. These changes correlate with real-world consequences like treatment dropout and relapse risk.
+  clinical_description: Executive dysfunction manifests clinically as poor judgment, impulsivity, and difficulty following through with recovery plans. Assessment includes cognitive testing to identify specific deficits in attention, working memory, and inhibitory control. Cognitive remediation therapy uses computerized exercises to strengthen these functions, similar to physical therapy for the brain. Mindfulness training enhances present-moment awareness and response inhibition. Transcranial magnetic stimulation to dorsolateral prefrontal cortex shows promise for enhancing cognitive control. Clinicians help patients develop external structure and cues to compensate for internal control deficits, using strategies like implementation intentions and environmental modification.
+  lay_description: The executive control system is like your brain's CEO, sitting in the frontal lobe and making decisions, planning ahead, and putting the brakes on impulses. In addiction, this CEO becomes weakened - imagine trying to run a company when the boss is exhausted and overwhelmed. You might know that using drugs is harmful, but the part of your brain that would normally stop you isn't strong enough to override the urge. It's like having a broken brake pedal when approaching a red light. Recovery involves strengthening these mental brakes through practice, like building muscle at the gym. Brain training exercises, mindfulness, and creating external reminders can help while your brain's CEO regains strength.
+- id: phy-neu-mem
+  label: Memory-Learning
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  synonyms:
+  - Hippocampal-striatal systems
+  - Learning and habit circuits
+  - Memory consolidation networks
+  - Associative learning pathways
+  scope: Hippocampus, dorsal striatum, and associated circuits mediating declarative memory, procedural learning, and drug-context associations. Encompasses synaptic plasticity, long-term potentiation, habit formation, and memory reconsolidation processes.
+  parent_scope_inheritance: Specifies the neurological field's focus on neural circuits by examining how drugs alter fundamental learning mechanisms, creating powerful associations and automatic behaviors that persist despite negative consequences.
+  polarity_dimension: Learning flexibility - ranging from regulated goal-directed behavior with appropriate forgetting to dysregulated compulsive habits and intrusive drug memories.
+  emergence: At the cluster level, addiction emerges as a pathological form of learning where drug-related memories become overconsolidated and resistant to extinction, creating persistent vulnerability to relapse.
+  boundary_interfaces:
+  - Receives reinforcement signals from reward systems for learning
+  - Interacts with executive control for goal-directed versus habitual behavior
+  - Enhanced by stress-emotion systems during emotional memory formation
+  child_generation_role: You are a learning and memory neuroscientist specializing in hippocampal-striatal circuits and synaptic plasticity in addiction. You analyze hippocampal place cells and context encoding, dorsal striatum habit circuits, synaptic potentiation and depression, and memory consolidation processes. You distinguish between regulated states showing flexible goal-directed behavior and appropriate forgetting versus dysregulated states showing compulsive habits, intrusive drug memories, and impaired extinction. You ground analysis in Everitt & Robbins' habit theory, Hyman's pathological learning hypothesis, and memory reconsolidation frameworks.
+  academic_description: The memory-learning cluster examines how addiction involves fundamental alterations in learning and memory systems. Drugs induce abnormally strong synaptic plasticity, creating overlearned associations between environmental cues and drug effects. The transition from ventral to dorsal striatum reflects a shift from goal-directed to habitual drug-seeking, mediated by cortico-striatal loops. Hippocampal involvement creates powerful contextual memories that trigger craving in drug-associated environments. Impaired extinction learning maintains these associations despite repeated unreinforced exposure. Memory reconsolidation offers a window for disrupting drug memories when they become labile during retrieval.
+  clinical_description: Memory and learning dysfunction appears as powerful drug-related associations and automatic behaviors. Patients report that specific places, people, or emotions trigger intense cravings through learned connections. Cue exposure therapy aims to weaken these associations through extinction learning, though relapse often occurs due to renewal, reinstatement, or spontaneous recovery of drug memories. Cognitive bias modification trains attention away from drug cues. Understanding habit formation helps explain why early recovery requires conscious effort to override automatic behaviors. Clinicians may use memory reconsolidation principles, having patients recall drug memories while in a therapeutic context to potentially update them with new information.
+  lay_description: Your brain is constantly learning and forming memories, and drugs hijack this natural process. Think of how hearing a certain song can instantly transport you back to a specific moment - drug use creates incredibly strong connections between the drug and everything around it (people, places, feelings). These associations become like deeply worn paths in your brain that your thoughts automatically follow. What starts as a conscious choice becomes an automatic habit, like driving home without thinking about the route. Even after stopping use, these mental pathways remain, which is why certain triggers can cause sudden cravings. Recovery involves creating new pathways and gradually weakening the old ones, though they may never completely disappear.
+- id: phy-neu-str
+  label: Stress-Emotion
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  synonyms:
+  - Amygdala circuits
+  - Emotional regulation networks
+  - Stress response systems
+  - Extended amygdala
+  scope: Amygdala nuclei, bed nucleus of stria terminalis, and hypothalamic stress circuits. Encompasses fear conditioning, emotional memory, stress hormone regulation, and negative affective states. Includes noradrenergic and CRF signaling pathways.
+  parent_scope_inheritance: Specifies the neurological field's brain region focus by examining limbic structures that mediate emotional dysregulation and stress sensitivity, driving negative reinforcement mechanisms in addiction.
+  polarity_dimension: Emotional regulation capacity - ranging from regulated appropriate stress response and emotional resilience to dysregulated hyperactive stress systems and affective instability.
+  emergence: At the cluster level, an allostatic state emerges where the emotional baseline shifts toward negative affect, creating a new equilibrium that requires drug use to achieve normalcy rather than euphoria.
+  boundary_interfaces:
+  - Modulates reward system through extended amygdala connections
+  - Regulated by executive control through top-down inhibition
+  - Enhances memory formation during emotional states
+  child_generation_role: You are an affective neuroscientist specializing in amygdala circuits and stress neurobiology in addiction. You analyze basolateral and central amygdala nuclei, bed nucleus of stria terminalis, hypothalamic-pituitary axis activation, and noradrenergic stress signaling. You distinguish between regulated states showing appropriate fear learning and stress recovery versus dysregulated states showing anxiety, hypervigilance, emotional dysregulation, and stress-induced craving. You ground analysis in Koob's allostatic model, LeDoux's fear conditioning framework, and stress-induced reinstatement models.
+  academic_description: The stress-emotion cluster examines how chronic drug use dysregulates emotional and stress systems, creating negative affective states that drive compulsive use. The amygdala becomes hyperactive, showing increased activation to negative stimuli and drug cues. Extended amygdala circuits involving the bed nucleus of stria terminalis mediate anxiety-like states during withdrawal. Stress hormones like cortisol and norepinephrine become dysregulated, with blunted acute response but elevated baseline levels. This creates an allostatic load where individuals use drugs not for pleasure but to escape dysphoria. Stress becomes a major relapse trigger through reinstatement of drug-seeking behavior.
+  clinical_description: Emotional dysregulation and stress sensitivity are core clinical features requiring targeted intervention. Patients experience anxiety, irritability, and mood swings, particularly during early abstinence. Stress becomes a primary relapse trigger, with minor stressors precipitating overwhelming urges to use. Treatment includes stress reduction techniques like deep breathing, progressive muscle relaxation, and mindfulness-based stress reduction. Alpha-2 agonists like clonidine reduce noradrenergic hyperactivity. Trauma-informed care addresses underlying emotional wounds. Clinicians help patients identify emotional triggers and develop healthy coping strategies, recognizing that emotional healing often lags behind physical recovery.
+  lay_description: The stress and emotion system acts like your brain's alarm system, alerting you to threats and managing feelings. In addiction, this alarm gets stuck in the 'on' position, making you feel constantly on edge, anxious, or emotionally raw. It's like living with a smoke detector that goes off when you make toast - your brain overreacts to normal stressors. Drugs temporarily silence this alarm, but when they wear off, it rings even louder. This is why people often use substances to cope with difficult emotions or stress. Recovery involves gradually resetting this alarm system through stress management techniques, therapy, and sometimes medications, teaching your brain that it's safe to calm down.
+- id: phy-neu-ntb
+  label: Neurotransmitter Balance
+  forest: Physiological
+  forest_id: phy
+  field: Neurological
+  field_id: phy-neu
+  synonyms:
+  - Neurochemical systems
+  - Transmitter homeostasis
+  - Synaptic signaling networks
+  - Receptor adaptation systems
+  scope: Integration of major neurotransmitter systems including GABA/glutamate balance, serotonergic modulation, endogenous opioids, and acetylcholine. Encompasses receptor regulation, neurotransmitter synthesis and release, and synaptic homeostasis mechanisms.
+  parent_scope_inheritance: Specifies the neurological field's neurotransmitter focus by examining how multiple chemical signaling systems adapt to chronic drug exposure, creating widespread neurochemical imbalances affecting all brain functions.
+  polarity_dimension: Neurochemical homeostasis - ranging from regulated balanced neurotransmission with normal receptor sensitivity to dysregulated transmitter depletion and receptor adaptations.
+  emergence: At the cluster level, complex patterns of cross-adaptation emerge where changes in one neurotransmitter system cascade through others, creating unique neurochemical signatures for different substances and recovery stages.
+  boundary_interfaces:
+  - Modulates all other neural systems through widespread projections
+  - Determines sensitivity of reward system receptors
+  - Influences executive control through cortical neurotransmission
+  - Affects emotional tone through limbic neurotransmitter balance
+  child_generation_role: You are a neurochemist specializing in neurotransmitter systems and receptor adaptations in addiction. You analyze GABA-A and GABA-B receptor function, NMDA and AMPA glutamate receptors, serotonin receptor subtypes, and endogenous opioid peptides. You distinguish between regulated states showing balanced excitation/inhibition and normal receptor sensitivity versus dysregulated states showing tolerance, receptor downregulation, rebound hyperexcitability, and neurotransmitter depletion. You ground analysis in neuroadaptation theory, Nestler's molecular mechanisms of addiction, and allostatic load models.
+  academic_description: The neurotransmitter balance cluster examines widespread neurochemical adaptations underlying tolerance, withdrawal, and protracted abstinence. Chronic drug exposure triggers compensatory changes including receptor desensitization, altered gene expression, and modified neurotransmitter synthesis. GABA/glutamate balance shifts toward hyperexcitability, contributing to anxiety and seizure risk. Serotonin depletion underlies mood symptoms, while endogenous opioid dysfunction affects pain and pleasure. These adaptations occur on different timescales - acute tolerance within hours, receptor changes over days, and gene expression changes over weeks. Recovery involves gradual renormalization, though some changes may persist indefinitely.
+  clinical_description: Neurotransmitter imbalances manifest as tolerance, withdrawal syndromes, and protracted symptoms lasting months into recovery. Patients experience physical symptoms (tremors, sweating), psychological symptoms (anxiety, depression), and cognitive symptoms (confusion, memory problems) reflecting multi-system disruption. Medication-assisted treatment targets specific neurotransmitter systems - benzodiazepines enhance GABA during alcohol withdrawal, methadone replaces opioid signaling, antidepressants restore serotonin balance. Nutritional support provides precursors for neurotransmitter synthesis. Clinicians monitor symptom patterns to identify which systems need support, adjusting interventions as the brain gradually rebalances.
+  lay_description: Your brain uses chemical messengers called neurotransmitters to communicate between cells, like a complex postal system delivering different types of messages. Drugs disrupt this system by flooding it with artificial signals or blocking natural ones. To protect itself, your brain adjusts by reducing its own chemical production or changing how sensitive it is to these messages. It's like your brain turning down its hearing when the music is too loud. When you stop using drugs, your brain is left with this turned-down system, causing withdrawal symptoms as it struggles to function without the artificial boost. Recovery means gradually turning these systems back up to normal levels, which takes time and sometimes requires medications to support the process.

@@ -1,0 +1,292 @@
+# Generated anchors for cluster: SOC-COM-RSO
+# Timestamp: 20251103_194328
+
+anchors:
+- id: soc-com-rso-mag-coh
+  label: Cohesive Mutual Aid Groups
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Strong meeting infrastructure
+  - Abundant peer meetings
+  - Welcoming recovery groups
+  scope: Represents communities with abundant, diverse, and welcoming mutual aid meetings providing consistent peer support through various formats and approaches.
+  parent_scope_inheritance: Specifies the mutual aid meeting component of recovery support organizations, focusing on group availability, diversity, and welcoming culture.
+  polarity_expression: Manifests as frequent meetings with multiple formats, active sponsorship networks, welcoming atmospheres for newcomers, and strong group cohesion.
+  cross_domain_resonance: Resonates with social network integration (psy-soc-sni), therapeutic alliance (psy-int-twa), and connection experiences (exi-mea-con).
+  academic_description: Research demonstrates that communities with high meeting density and diversity show improved recovery outcomes. Studies indicate that meeting frequency correlates with sustained abstinence, while format diversity increases engagement across different personality types and recovery stages. The helper therapy principle explains how active participation in welcoming groups enhances both individual and collective recovery. Social learning theory shows how diverse meeting formats provide multiple pathways for behavior change modeling.
+  clinical_description: Assessment evaluates meeting availability, format diversity, and group dynamics in the client's community. Interventions include twelve-step facilitation, meeting schedule provision, and newcomer orientation programs. Clinicians help clients identify welcoming groups, navigate different meeting types, and develop meeting attendance routines. Strong mutual aid infrastructure allows for varied referral options matching client preferences, schedules, and recovery philosophy.
+  lay_description: Communities with strong mutual aid have many different recovery meetings happening throughout the week. People can find morning meetings, evening meetings, discussion groups, speaker meetings, and step studies. Groups welcome newcomers warmly, experienced members offer to sponsor others, and there's a feeling that everyone belongs. Different approaches like AA, NA, and SMART Recovery all have active presence.
+  structural_components: Meeting frequency and distribution, format variety, sponsorship networks, group size and stability, newcomer integration processes, and meeting accessibility.
+  social_processes: Peer sharing and support, sponsor-sponsee relationships, group conscience decisions, service participation, fellowship building, and recovery storytelling.
+  societal_relevance: Strong mutual aid groups reduce healthcare utilization, decrease criminal justice involvement, strengthen community social capital, and provide cost-effective recovery support infrastructure.
+- id: soc-com-rso-mag-fra
+  label: Fragmented Mutual Aid Groups
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Weak meeting infrastructure
+  - Limited peer meetings
+  - Exclusionary recovery groups
+  scope: Represents communities with scarce, rigid, or unwelcoming mutual aid meetings that fail to provide consistent peer support or inclusive recovery environments.
+  parent_scope_inheritance: Specifies the mutual aid meeting component of recovery support organizations when groups are limited, rigid, or exclusionary.
+  polarity_expression: Manifests as infrequent meetings with rigid formats, limited sponsorship availability, cliquish or unwelcoming atmospheres, and group fragmentation.
+  cross_domain_resonance: Resonates with social isolation (psy-soc-iso), therapeutic rupture (psy-int-rup), and disconnection experiences (exi-mea-dis).
+  academic_description: Research shows that communities with limited meeting infrastructure experience higher relapse rates and recovery dropout. Studies demonstrate that meeting scarcity creates access barriers, while rigid formats exclude individuals whose needs don't match the dominant approach. Group dynamics research reveals how cliquish behaviors and unwelcoming atmospheres prevent newcomer integration. Social capital theory explains how fragmented groups fail to generate collective recovery resources.
+  clinical_description: Assessment identifies meeting gaps, format limitations, and group dynamics problems in the client's community. Interventions include virtual meeting connections, alternative program development, and group dynamics consultation. Clinicians address meeting barriers, help clients navigate unwelcoming groups, and may need to rely more heavily on professional services when peer support is limited. Fragmented infrastructure requires creative solutions like online meetings or travel to neighboring communities.
+  lay_description: Communities with fragmented mutual aid have very few recovery meetings, maybe just one or two per week. The meetings that exist might feel cliquish or unwelcoming to newcomers. There might be only one type of program available that doesn't work for everyone. People struggle to find sponsors, feel judged for their recovery approach, or can't find meetings that fit their schedule or location.
+  structural_components: Meeting scarcity, format rigidity, sponsorship gaps, group instability, newcomer rejection, and meeting inaccessibility.
+  social_processes: Peer judgment and exclusion, sponsor unavailability, group conflicts, service gaps, fellowship fragmentation, and recovery silencing.
+  societal_relevance: Fragmented mutual aid groups increase healthcare costs through higher relapse rates, perpetuate recovery disparities, weaken community resilience, and fail to provide adequate support infrastructure.
+- id: soc-com-rso-rcc-coh
+  label: Cohesive Recovery Community Centers
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Active recovery centers
+  - Vibrant recovery spaces
+  - Accessible community hubs
+  scope: Represents communities with active, accessible recovery centers providing diverse programming, resources, and gathering spaces that strengthen recovery community infrastructure.
+  parent_scope_inheritance: Specifies the physical infrastructure and community center component of recovery support organizations when spaces are active and accessible.
+  polarity_expression: Manifests as daily operating hours, diverse activity programming, central accessible locations, welcoming environments, and strong community ownership.
+  cross_domain_resonance: Resonates with environmental resources (psy-env-res), community spaces (soc-com-spa), and belonging experiences (exi-mea-bel).
+  academic_description: Research demonstrates that recovery community centers serve as vital recovery capital infrastructure. Studies show that active centers increase recovery engagement, provide alternative reinforcement to substance use, and create visible recovery presence. Place attachment theory explains how dedicated recovery spaces foster community identity. Social ecological models reveal how accessible centers serve as recovery hubs connecting multiple support services.
+  clinical_description: Assessment evaluates local recovery center availability, programming, and accessibility. Interventions include center referrals, activity engagement, and volunteer opportunities. Clinicians connect clients to center resources, encourage participation in center activities, and utilize centers for sober social skill development. Active centers provide crucial infrastructure for transitioning from treatment to community-based recovery.
+  lay_description: Communities with strong recovery centers have welcoming spaces where people in recovery can gather daily. These centers offer computer access, recovery meetings, social activities, volunteer opportunities, and connections to resources. They're located where people can easily get to them and feel like a second home for many in recovery. The centers host recovery celebrations, provide peer support, and show the community that recovery is possible.
+  structural_components: Physical space quality, operating hours, location accessibility, resource availability, program diversity, and funding stability.
+  social_processes: Community gathering, peer connection, volunteer engagement, recovery celebration, resource sharing, and collective identity building.
+  societal_relevance: Active recovery centers reduce emergency service utilization, provide employment pathways, strengthen neighborhood stability, demonstrate recovery possibility, and offer cost-effective community-based support.
+- id: soc-com-rso-rcc-fra
+  label: Fragmented Recovery Community Centers
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Absent recovery centers
+  - Underutilized recovery spaces
+  - Inaccessible community hubs
+  scope: Represents communities lacking dedicated recovery spaces or having underutilized, inaccessible centers that fail to provide gathering places and resources.
+  parent_scope_inheritance: Specifies the physical infrastructure and community center component of recovery support organizations when spaces are absent or ineffective.
+  polarity_expression: Manifests as no dedicated recovery spaces, irregular hours, remote locations, unwelcoming environments, and lack of community ownership.
+  cross_domain_resonance: Resonates with environmental deprivation (psy-env-dep), community fragmentation (soc-com-fra), and alienation experiences (exi-mea-ali).
+  academic_description: Research shows that absence of recovery community centers limits recovery capital development. Studies demonstrate that lack of dedicated spaces reduces recovery visibility, limits sober social opportunities, and fragments recovery communities. Environmental psychology reveals how absence of recovery-specific spaces reinforces stigma and isolation. Social infrastructure theory explains how missing centers weaken community recovery capacity.
+  clinical_description: Assessment identifies gaps in recovery center infrastructure and accessibility barriers. Interventions include virtual space development, mobile recovery services, and advocacy for center establishment. Clinicians must compensate for missing infrastructure through alternative resources, online communities, and creative use of other community spaces. Lack of centers increases reliance on clinical services and reduces community-based support options.
+  lay_description: Communities with fragmented recovery centers either have no dedicated recovery space at all, or have centers that are hard to access, rarely open, or unwelcoming. People in recovery have nowhere to gather outside of meetings, no central place to find resources, and no visible presence in the community. Without these spaces, people feel isolated and struggle to build sober social networks.
+  structural_components: Space absence or inadequacy, limited hours, location barriers, resource scarcity, program gaps, and funding instability.
+  social_processes: Community disconnection, peer isolation, volunteer disengagement, recovery hiding, resource hoarding, and identity fragmentation.
+  societal_relevance: Absent recovery centers increase service system costs, perpetuate recovery invisibility, weaken community cohesion, reinforce stigma, and fail to provide needed infrastructure.
+- id: soc-com-rso-pss-coh
+  label: Cohesive Peer Support Services
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Integrated peer services
+  - Professional recovery coaching
+  - Accessible peer support
+  scope: Represents communities with well-developed peer support services including trained recovery coaches, integrated referral systems, and accessible peer-delivered interventions.
+  parent_scope_inheritance: Specifies the formal peer support service component of recovery support organizations when services are professional and integrated.
+  polarity_expression: Manifests as certified recovery coaches, structured training programs, clear referral pathways, regular supervision, and service integration with treatment systems.
+  cross_domain_resonance: Resonates with therapeutic alliance (psy-int-twa), care coordination (soc-hea-cco), and guidance experiences (exi-mea-gui).
+  academic_description: Research demonstrates that professional peer support services improve recovery outcomes through lived experience expertise. Studies show that trained recovery coaches increase treatment engagement, reduce relapse rates, and facilitate recovery capital development. Implementation science reveals how integrated peer services bridge clinical and community support. Recovery coaching models show effectiveness in emergency departments, courts, and treatment settings.
+  clinical_description: Assessment evaluates availability of trained peer support and recovery coaching services. Interventions include peer support referrals, coach matching, and collaborative care planning. Clinicians integrate peer services with clinical treatment, utilize coaches for engagement and retention, and recognize peers as essential team members. Professional peer services provide crucial navigation support and lived experience perspective.
+  lay_description: Communities with strong peer support services have trained recovery coaches who've been through addiction themselves and now help others. These coaches know how to navigate treatment systems, find resources, and provide understanding that only comes from lived experience. They work alongside counselors and doctors, meet people in hospitals or courts, and help bridge the gap between professional treatment and community recovery.
+  structural_components: Coach training infrastructure, certification systems, referral networks, supervision structures, funding mechanisms, and service integration protocols.
+  social_processes: Peer mentoring, recovery navigation, lived experience sharing, advocacy support, hope transmission, and recovery role modeling.
+  societal_relevance: Professional peer services reduce healthcare costs, improve treatment outcomes, decrease criminal justice recidivism, expand workforce development, and demonstrate recovery possibility.
+- id: soc-com-rso-pss-fra
+  label: Fragmented Peer Support Services
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Disconnected peer services
+  - Untrained recovery support
+  - Inaccessible peer support
+  scope: Represents communities lacking formal peer support services, relying on untrained volunteers, with disconnected or inaccessible peer-delivered interventions.
+  parent_scope_inheritance: Specifies the formal peer support service component of recovery support organizations when services are unprofessional or absent.
+  polarity_expression: Manifests as absence of trained coaches, lack of training infrastructure, unclear referral processes, no supervision, and service disconnection from treatment.
+  cross_domain_resonance: Resonates with therapeutic gaps (psy-int-gap), care fragmentation (soc-hea-fra), and abandonment experiences (exi-mea-aba).
+  academic_description: Research shows that absence of professional peer services creates critical support gaps. Studies demonstrate that untrained peer support can cause harm through boundary violations and misinformation. Service fragmentation research reveals how disconnected peer efforts fail to bridge treatment and recovery. Implementation barriers include funding limitations, role confusion, and system resistance to peer integration.
+  clinical_description: Assessment identifies gaps in peer support infrastructure and training. Interventions include advocating for peer service development, connecting to virtual peer support, and training informal supporters. Clinicians must fill peer support gaps themselves or rely on untrained volunteers, increasing burden and reducing effectiveness. Absence of professional peer services limits recovery navigation and lived experience perspective.
+  lay_description: Communities with fragmented peer support have no trained recovery coaches or rely on untrained volunteers who mean well but lack skills. People trying to navigate recovery don't have experienced guides who've been through it themselves. There's no clear way to connect with peer support, no quality control, and peers aren't recognized as valuable parts of the recovery team.
+  structural_components: Training gaps, certification absence, referral confusion, supervision lack, funding scarcity, and service isolation.
+  social_processes: Peer confusion, recovery misdirection, boundary violations, hope deflation, and role modeling absence.
+  societal_relevance: Fragmented peer services increase system inefficiencies, perpetuate treatment gaps, maintain professional-community divides, limit workforce development, and fail to utilize lived experience expertise.
+- id: soc-com-rso-rpd-coh
+  label: Cohesive Recovery Pathway Diversity
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Multiple recovery pathways
+  - Inclusive recovery approaches
+  - Pathway plurality
+  scope: Represents communities honoring multiple recovery pathways with diverse program options including spiritual, secular, cultural, and alternative approaches.
+  parent_scope_inheritance: Specifies the pathway diversity component of recovery support organizations when multiple approaches are available and respected.
+  polarity_expression: Manifests as availability of different program types, secular and spiritual options, culturally specific approaches, pathway choice respect, and inter-pathway collaboration.
+  cross_domain_resonance: Resonates with cognitive flexibility (psy-cog-fle), cultural competence (soc-cul-com), and autonomy experiences (exi-mea-aut).
+  academic_description: Research demonstrates that recovery pathway diversity improves community recovery rates through person-program matching. Studies show that communities with multiple pathways engage more diverse populations and reduce dropout. Choice theory explains how pathway options enhance motivation and ownership. Cultural adaptation research reveals how culturally specific programs improve outcomes for marginalized communities.
+  clinical_description: Assessment evaluates available recovery pathways and client pathway preferences. Interventions include pathway education, program matching, and choice facilitation. Clinicians help clients explore different approaches, respect pathway preferences, and navigate between programs. Diverse pathways allow individualized recovery planning and reduce one-size-fits-all limitations.
+  lay_description: Communities with pathway diversity offer many different ways to recover. Beyond traditional twelve-step programs, people can find SMART Recovery, Refuge Recovery, celebrate Recovery, or culturally specific programs. Everyone's path is respected, whether they choose spiritual or secular approaches. Programs collaborate rather than compete, recognizing that different things work for different people.
+  structural_components: Program variety, meeting availability across pathways, secular and spiritual options, cultural programs, pathway education resources, and inter-program cooperation.
+  social_processes: Pathway exploration, choice validation, cross-pathway respect, cultural honoring, approach flexibility, and recovery individualization.
+  societal_relevance: Pathway diversity increases recovery engagement across populations, reduces cultural barriers, respects religious freedom, promotes recovery innovation, and demonstrates recovery plurality.
+- id: soc-com-rso-rpd-fra
+  label: Fragmented Recovery Pathway Diversity
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Single recovery pathway
+  - Pathway fundamentalism
+  - Pathway rigidity
+  scope: Represents communities dominated by single recovery pathways with limited options, pathway conflicts, and exclusion of alternative approaches.
+  parent_scope_inheritance: Specifies the pathway diversity component of recovery support organizations when approaches are limited and rigid.
+  polarity_expression: Manifests as single program dominance, pathway fundamentalism, cultural insensitivity, pathway shaming, and inter-pathway conflict.
+  cross_domain_resonance: Resonates with cognitive rigidity (psy-cog-rig), cultural incompetence (soc-cul-inc), and coercion experiences (exi-mea-coe).
+  academic_description: Research shows that pathway rigidity reduces recovery engagement and increases dropout. Studies demonstrate that single-pathway dominance excludes individuals whose beliefs or needs don't align with the dominant approach. Fundamentalism research reveals how pathway absolutism creates shame and conflict. Cultural mismatch theory explains how pathway monoculture perpetuates recovery disparities.
+  clinical_description: Assessment identifies pathway limitations and client-pathway mismatches. Interventions include alternative program development, virtual pathway access, and pathway conflict mediation. Clinicians must navigate pathway fundamentalism, protect clients from pathway shaming, and potentially rely on professional services when community pathways don't fit. Limited pathways restrict treatment options and may require geographic solutions.
+  lay_description: Communities with fragmented pathways typically have only one type of recovery program, usually twelve-step, with no alternatives. People who don't connect with that approach have nowhere else to turn. There might be judgment or shaming of different recovery methods, with claims that only one way really works. People whose cultural or spiritual beliefs don't match the dominant program feel excluded.
+  structural_components: Program monopoly, alternative absence, secular gaps, cultural voids, pathway policing, and inter-program hostility.
+  social_processes: Pathway coercion, choice invalidation, approach shaming, cultural dismissal, rigidity enforcement, and recovery standardization.
+  societal_relevance: Pathway rigidity perpetuates recovery disparities, violates religious freedom, excludes diverse populations, limits recovery innovation, and maintains recovery monoculture.
+- id: soc-com-rso-rva-coh
+  label: Cohesive Recovery Visibility and Advocacy
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Visible recovery presence
+  - Active recovery advocacy
+  - Public recovery leadership
+  scope: Represents communities with visible recovery advocates, public recovery celebrations, media engagement, and active efforts to reduce stigma and influence policy.
+  parent_scope_inheritance: Specifies the visibility and advocacy component of recovery support organizations when recovery has strong public presence.
+  polarity_expression: Manifests as regular recovery events, visible recovery leaders, positive media coverage, policy advocacy, and pride in recovery identity.
+  cross_domain_resonance: Resonates with identity integration (psy-ide-int), social activism (soc-pol-act), and pride experiences (exi-mea-pri).
+  academic_description: Research demonstrates that recovery visibility reduces community stigma and increases help-seeking. Studies show that recovery advocacy improves policy support and funding for recovery services. Social movement theory explains how visible recovery creates cultural change. Contact hypothesis research reveals how knowing people in recovery reduces discrimination.
+  clinical_description: Assessment evaluates local recovery visibility and advocacy infrastructure. Interventions include connecting clients to advocacy opportunities, supporting recovery disclosure decisions, and facilitating participation in recovery events. Clinicians help clients navigate visibility choices, develop recovery pride, and engage in advocacy when ready. Visible recovery provides hope and role models for those seeking recovery.
+  lay_description: Communities with strong recovery visibility have people openly celebrating their recovery through public events like recovery walks and rallies. Recovery advocates speak at schools, work with media to share positive stories, and influence local policies. People in recovery feel proud rather than ashamed, and the broader community sees recovery as possible and valuable. There are visible role models showing that long-term recovery is achievable.
+  structural_components: Advocacy organizations, event infrastructure, media relationships, policy connections, leadership development, and funding support.
+  social_processes: Recovery celebration, story sharing, stigma challenging, policy influence, community education, and pride building.
+  societal_relevance: Recovery visibility reduces discrimination, influences policy and funding, changes cultural narratives, inspires help-seeking, and demonstrates recovery as community asset.
+- id: soc-com-rso-rva-fra
+  label: Fragmented Recovery Visibility and Advocacy
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Hidden recovery presence
+  - Absent recovery advocacy
+  - Anonymous recovery culture
+  scope: Represents communities where recovery remains hidden, lacking public advocates, recovery celebrations, or efforts to reduce stigma and influence policy.
+  parent_scope_inheritance: Specifies the visibility and advocacy component of recovery support organizations when recovery lacks public presence.
+  polarity_expression: Manifests as no public recovery events, anonymous-only recovery, negative media coverage, policy neglect, and shame about recovery identity.
+  cross_domain_resonance: Resonates with identity concealment (psy-ide-con), social invisibility (soc-pol-inv), and shame experiences (exi-mea-sha).
+  academic_description: Research shows that recovery invisibility perpetuates stigma and reduces help-seeking. Studies demonstrate that lack of advocacy results in inadequate policy support and funding. Concealment research reveals how hiding recovery increases shame and stress. Stigma theory explains how invisibility maintains discrimination and stereotypes about addiction.
+  clinical_description: Assessment identifies recovery visibility barriers and advocacy gaps. Interventions include anonymous support options, gradual disclosure support, and virtual advocacy participation. Clinicians must work within anonymity constraints, address internalized stigma, and provide hope without visible role models. Hidden recovery limits community support and perpetuates shame cycles.
+  lay_description: Communities with fragmented visibility keep recovery hidden and anonymous. There are no public recovery celebrations, no one speaks openly about being in recovery, and media coverage focuses only on addiction problems, not recovery solutions. People in recovery feel they must hide their status, perpetuating shame and isolation. Without visible advocates, policies and funding ignore recovery needs.
+  structural_components: Advocacy absence, event voids, media stigma, policy neglect, leadership hiding, and funding gaps.
+  social_processes: Recovery hiding, story silencing, stigma acceptance, policy exclusion, community miseducation, and shame reinforcement.
+  societal_relevance: Recovery invisibility maintains discrimination, limits policy support, perpetuates negative narratives, discourages help-seeking, and wastes recovery community assets.
+- id: soc-com-rso-sra-coh
+  label: Cohesive Social Recovery Activities
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: cohesive
+  polarity_suffix: coh
+  synonyms:
+  - Active sober social scene
+  - Rich recovery fellowship
+  - Vibrant sober activities
+  scope: Represents communities with regular sober social events, diverse recreational activities, and strong fellowship networks supporting fun and connection in recovery.
+  parent_scope_inheritance: Specifies the social activity component of recovery support organizations when sober social opportunities are abundant.
+  polarity_expression: Manifests as weekly social events, activity variety, inclusive fellowship, sober fun normalization, and strong social recovery networks.
+  cross_domain_resonance: Resonates with behavioral activation (psy-beh-act), social engagement (soc-soc-eng), and joy experiences (exi-mea-joy).
+  academic_description: Research demonstrates that sober social activities provide alternative reinforcement critical for sustained recovery. Studies show that recovery fellowship reduces relapse through social support and belonging. Behavioral economics reveals how sober activities compete with substance-related reinforcement. Social network theory explains how recovery activities rebuild social capital and create recovery-supportive networks.
+  clinical_description: Assessment evaluates available sober social activities and client engagement barriers. Interventions include activity calendars, social skills training, and fellowship facilitation. Clinicians help clients overcome social anxiety, find enjoyable sober activities, and build recovery friendships. Rich social programming provides crucial alternatives to substance-centered socializing.
+  lay_description: Communities with strong social recovery have fun things to do in sobriety - game nights, sports leagues, concerts, camping trips, and holiday celebrations. People in recovery hang out together outside of meetings, forming genuine friendships and chosen families. There's a sense that recovery includes joy and fun, not just avoiding substances. Social events welcome everyone and help people learn to have fun without drugs or alcohol.
+  structural_components: Event frequency, activity variety, venue availability, organization capacity, funding resources, and promotion systems.
+  social_processes: Fellowship building, fun cultivation, friendship development, social learning, celebration rituals, and community bonding.
+  societal_relevance: Social recovery activities reduce isolation-related relapse, demonstrate sober fun possibility, strengthen community bonds, provide positive youth alternatives, and normalize recovery lifestyle.
+- id: soc-com-rso-sra-fra
+  label: Fragmented Social Recovery Activities
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  cluster: Recovery Support Organizations
+  cluster_id: soc-com-rso
+  polarity: fragmented
+  polarity_suffix: fra
+  synonyms:
+  - Absent sober social scene
+  - Isolated recovery experience
+  - Limited sober activities
+  scope: Represents communities lacking sober social events, with limited recreational options and weak fellowship networks, leaving people isolated in recovery.
+  parent_scope_inheritance: Specifies the social activity component of recovery support organizations when sober social opportunities are scarce.
+  polarity_expression: Manifests as no organized social events, meeting-only interaction, social isolation, boredom in recovery, and weak social networks.
+  cross_domain_resonance: Resonates with behavioral deactivation (psy-beh-dea), social withdrawal (soc-soc-wit), and anhedonia experiences (exi-mea-anh).
+  academic_description: Research shows that lack of sober social activities increases relapse risk through boredom and isolation. Studies demonstrate that limited fellowship opportunities prevent social network recovery. Behavioral economics reveals how absence of alternative reinforcement maintains substance use patterns. Social isolation research explains how lack of sober activities perpetuates loneliness and depression in recovery.
+  clinical_description: Assessment identifies gaps in sober social programming and engagement barriers. Interventions include virtual social connections, activity development, and social skills building. Clinicians must address the fun gap in recovery, help clients create their own activities, and manage isolation risks. Limited social programming increases vulnerability to relapse through boredom and loneliness.
+  lay_description: Communities with fragmented social recovery offer little beyond meetings for sober activities. People don't know how to have fun without substances and spend weekends isolated and bored. There are no organized social events, no sober friend groups, and no sense of joy in recovery. Recovery feels like deprivation rather than liberation, with nothing to replace the social aspects of substance use.
+  structural_components: Event absence, activity scarcity, venue limitations, organization gaps, funding lack, and promotion failures.
+  social_processes: Fellowship absence, fun deprivation, friendship barriers, social stagnation, celebration voids, and community disconnection.
+  societal_relevance: Absent social activities increase relapse costs, perpetuate recovery stereotypes, weaken community bonds, limit youth engagement, and present recovery as joyless existence.

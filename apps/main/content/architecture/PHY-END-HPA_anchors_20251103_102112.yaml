@@ -1,0 +1,328 @@
+# Generated anchors for cluster: PHY-END-HPA
+# Timestamp: 20251103_102112
+
+anchors:
+- id: phy-end-hpa-crh-reg
+  label: CRH Regulation
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Appropriate CRH release
+  - Controlled stress initiation
+  - Balanced CRF signaling
+  scope: Appropriate corticotropin-releasing hormone release from paraventricular nucleus in response to genuine stressors with rapid return to baseline. CRH neurons maintain sensitivity to environmental cues and show proportional activation matching threat level.
+  parent_scope_inheritance: Specifies the hypothalamic component of HPA axis regulation focusing on the initial stress signal generation and its appropriate calibration to environmental demands.
+  polarity_expression: Regulated CRH signaling with appropriate magnitude and duration of release followed by effective termination once stressor resolves.
+  cross_domain_resonance: Resonates with psy-anx-wor-ada (adaptive worry), soc-fam-att-coh (secure attachment buffering), and exi-mea-pur-pur (purposeful stress response).
+  academic_description: CRH neurons in the paraventricular nucleus show appropriate activation thresholds and rapid deactivation kinetics. CRH release remains proportional to stressor intensity with preserved negative feedback sensitivity. Extended amygdala CRH systems maintain normal baseline activity without chronic upregulation.
+  clinical_description: Patients show appropriate stress reactivity without excessive anxiety or hypervigilance. CRH antagonist response testing reveals normal receptor sensitivity. Stress challenges produce proportional responses with good recovery. No evidence of chronic CRH-driven anxiety states.
+  lay_description: Your brain's stress alarm system turns on when you face real challenges and turns off when the danger passes. You feel appropriately concerned about actual problems without constant background anxiety.
+  key_mediators: CRH, CRF1 and CRF2 receptors, urocortins, GABA inhibitory inputs
+  key_mechanisms: Balanced excitatory/inhibitory inputs to PVN, appropriate CRH gene expression, functional CRH receptor signaling, intact prefrontal inhibition
+  clinical_relevance: Appropriate stress response, resilience to trauma, low anxiety baseline, good stress recovery
+  assessment_methods: CRH stimulation tests, CSF CRH levels, stress reactivity protocols, anxiety questionnaires
+  interventions: Stress management training, mindfulness practices, cognitive restructuring, social support enhancement
+  prominent_models: Chrousos stress response model, Vale CRH system framework, Herman neural control model
+- id: phy-end-hpa-crh-dys
+  label: CRH Dysregulation
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - CRH hyperactivation
+  - Chronic CRF elevation
+  - Stress initiation dysfunction
+  scope: Chronic elevation of corticotropin-releasing hormone particularly in extended amygdala driving persistent anxiety and dysphoric states. CRH neurons show heightened baseline activity and exaggerated responses to minor stressors with impaired deactivation.
+  parent_scope_inheritance: Specifies the hypothalamic dysregulation within HPA axis dysfunction, focusing on pathological CRH hypersecretion as a driver of chronic stress states in addiction.
+  polarity_expression: Dysregulated CRH signaling with chronic elevation, exaggerated responses to minor stressors, and failure to return to baseline between challenges.
+  cross_domain_resonance: Resonates with psy-anx-wor-mal (chronic worry), soc-fam-att-fra (attachment trauma), and exi-mea-pur-dir (meaningless suffering).
+  academic_description: Persistent CRH upregulation in paraventricular nucleus and extended amygdala maintains anxiety-like states. CRH gene expression remains elevated with epigenetic modifications. Loss of inhibitory control from prefrontal and hippocampal regions. CRH drives feed-forward HPA activation despite elevated cortisol indicating resistance to negative feedback.
+  clinical_description: Patients exhibit chronic anxiety, hypervigilance, and exaggerated startle responses. CRH antagonists show therapeutic potential in research settings. Persistent CRH elevation drives withdrawal-related dysphoria and stress-induced relapse. Recovery requires months to years for CRH normalization.
+  lay_description: Your brain's stress alarm is stuck in the 'on' position, constantly signaling danger even when you're safe. This creates a background of anxiety and tension that makes you feel on edge all the time.
+  key_mediators: Elevated CRH, CRF1 receptor upregulation, reduced GABA tone, inflammatory cytokines
+  key_mechanisms: Loss of prefrontal inhibition, extended amygdala CRH upregulation, epigenetic CRH gene modifications, neuroinflammatory activation
+  clinical_relevance: Chronic anxiety disorders, withdrawal dysphoria, stress-induced relapse, panic vulnerability
+  assessment_methods: CSF CRH measurement, dexamethasone-CRH test, anxiety severity scales, stress reactivity assessment
+  interventions: CRH antagonists (research), deep brain stimulation, intensive psychotherapy, ketamine therapy, vagal nerve stimulation
+  prominent_models: Koob's allostasis model, Heilig's CRH-anxiety framework, Binder's FKBP5 hypothesis
+- id: phy-end-hpa-act-reg
+  label: ACTH Regulation
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Appropriate ACTH response
+  - Pituitary stress response
+  - Corticotroph regulation
+  scope: Proportional ACTH secretion from anterior pituitary corticotrophs in response to CRH stimulation. ACTH release matches stressor intensity with preserved pituitary reserve and appropriate proopiomelanocortin processing.
+  parent_scope_inheritance: Specifies the pituitary component of HPA axis regulation, focusing on the intermediate signaling between hypothalamic CRH and adrenal cortisol production.
+  polarity_expression: Regulated ACTH secretion with responses proportional to CRH stimulation and appropriate magnitude for stressor intensity.
+  cross_domain_resonance: Resonates with phy-neu-dop-reg (reward-stress balance), psy-emo-reg-ada (emotional regulation), and soc-rel-tru-coh (trust in relationships).
+  academic_description: Anterior pituitary corticotrophs maintain appropriate sensitivity to CRH with proportional ACTH release. Proopiomelanocortin processing yields balanced ACTH and beta-endorphin. Preserved pituitary reserve enables sustained responses when needed. Negative feedback from cortisol appropriately suppresses ACTH.
+  clinical_description: Normal ACTH responses to CRH stimulation tests and insulin tolerance tests. Preserved ACTH reserve during prolonged stress. No evidence of pituitary exhaustion or hypersensitivity. ACTH levels show appropriate diurnal variation paralleling cortisol rhythm.
+  lay_description: The middle manager of your stress system works properly, receiving signals from the brain and sending appropriate messages to your adrenal glands to produce the right amount of stress hormones.
+  key_mediators: ACTH, proopiomelanocortin, beta-endorphin, CRH receptors, vasopressin
+  key_mechanisms: CRH receptor signaling in corticotrophs, POMC processing, ACTH secretion, negative feedback sensitivity
+  clinical_relevance: Appropriate stress adaptation, maintained energy during challenges, balanced pain modulation
+  assessment_methods: CRH stimulation test, insulin tolerance test, ACTH levels, dexamethasone suppression
+  interventions: Stress reduction, adequate sleep, nutritional support, exercise training
+  prominent_models: Aguilera's pituitary adaptation model, Lightman's pulsatile secretion theory
+- id: phy-end-hpa-act-dys
+  label: ACTH Dysregulation
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - ACTH dysfunction
+  - Pituitary exhaustion
+  - Corticotroph dysregulation
+  scope: Blunted or exaggerated ACTH responses indicating pituitary dysfunction. Corticotrophs show either exhaustion from chronic overstimulation or hypersensitivity with exaggerated responses to minor CRH elevations.
+  parent_scope_inheritance: Specifies pituitary-level dysfunction within HPA axis dysregulation, representing the breakdown of intermediate stress signaling in addiction.
+  polarity_expression: Dysregulated ACTH secretion with either blunted responses indicating exhaustion or exaggerated responses indicating hypersensitivity.
+  cross_domain_resonance: Resonates with phy-neu-dop-dys (anhedonia), psy-emo-reg-mal (emotional dysregulation), and exi-hop-opt-dir (hopelessness).
+  academic_description: Chronic CRH hyperstimulation leads to corticotroph exhaustion with reduced ACTH response capacity. Alternatively, sensitization produces exaggerated ACTH release to minor stimuli. Altered POMC processing affects ACTH/beta-endorphin balance. Loss of appropriate negative feedback control from cortisol.
+  clinical_description: Blunted ACTH response to CRH stimulation indicates pituitary exhaustion common in chronic stress and addiction. Some patients show paradoxical hypersensitivity with excessive ACTH release. Contributes to energy depletion, mood instability, and altered pain perception. Recovery of pituitary function occurs slowly over months.
+  lay_description: The middle manager of your stress system is either burned out from overwork or has become hypersensitive, either ignoring important stress signals or overreacting to minor ones.
+  key_mediators: Altered ACTH, disrupted POMC processing, receptor desensitization, inflammatory factors
+  key_mechanisms: Corticotroph exhaustion, receptor downregulation, altered gene expression, impaired negative feedback
+  clinical_relevance: Adrenal insufficiency risk, energy depletion, mood disorders, altered pain sensitivity
+  assessment_methods: Blunted CRH test, abnormal ITT response, ACTH/cortisol dissociation, pituitary imaging
+  interventions: Hormone replacement therapy, pituitary support, stress reduction, anti-inflammatory treatments
+  prominent_models: Tsigos's pituitary exhaustion model, Raison's inflammation hypothesis
+- id: phy-end-hpa-cor-reg
+  label: Cortisol Regulation
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Healthy cortisol rhythm
+  - Appropriate adrenal function
+  - Normal glucocorticoid production
+  scope: Robust cortisol awakening response with clear diurnal rhythm showing morning peak and evening nadir. Adrenal cortex maintains appropriate cortisol synthesis capacity with responses proportional to ACTH stimulation.
+  parent_scope_inheritance: Specifies the adrenal component of HPA axis regulation, focusing on the final effector hormone production and its circadian patterning.
+  polarity_expression: Regulated cortisol production with strong awakening response, clear diurnal variation, and appropriate stress-induced increases.
+  cross_domain_resonance: Resonates with phy-imm-inf-reg (immune balance), psy-cog-exe-ada (executive function), and soc-wor-per-coh (work performance).
+  academic_description: Adrenal zona fasciculata maintains steroidogenic capacity with appropriate cortisol synthesis. Clear cortisol awakening response of 50-75% increase within 30 minutes of waking. Pronounced diurnal rhythm with 70% decline from morning peak to evening nadir. Appropriate cortisol pulses in response to stressors.
+  clinical_description: Normal cortisol awakening response and diurnal salivary cortisol rhythm. Appropriate response to ACTH stimulation. No signs of adrenal insufficiency or excess. Cortisol supports energy, immune function, and stress adaptation without causing metabolic dysfunction.
+  lay_description: Your body's main stress hormone follows a healthy daily pattern - high in the morning to help you wake up and face the day, then dropping in the evening to let you relax and sleep.
+  key_mediators: Cortisol, DHEA, aldosterone, StAR protein, steroidogenic enzymes
+  key_mechanisms: ACTH-stimulated steroidogenesis, cholesterol transport, enzymatic conversion, circadian regulation
+  clinical_relevance: Stress resilience, metabolic health, immune competence, cognitive performance
+  assessment_methods: Salivary cortisol rhythm, cortisol awakening response, ACTH stimulation test, 24-hour urine cortisol
+  interventions: Sleep hygiene, circadian rhythm support, stress management, exercise at appropriate times
+  prominent_models: Clow's CAR model, Pruessner's rhythm assessment, Miller's cortisol dynamics
+- id: phy-end-hpa-cor-dys
+  label: Cortisol Dysregulation
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Flattened cortisol rhythm
+  - Adrenal dysfunction
+  - Hypercortisolemia
+  scope: Flattened cortisol rhythm with blunted awakening response and loss of diurnal variation. Chronic elevation or depletion of cortisol indicating adrenal dysfunction from sustained HPA activation or exhaustion.
+  parent_scope_inheritance: Specifies adrenal-level dysfunction within HPA axis dysregulation, representing the final common pathway of stress system breakdown in addiction.
+  polarity_expression: Dysregulated cortisol production with flattened rhythms, absent awakening response, and either chronic elevation or depletion.
+  cross_domain_resonance: Resonates with phy-imm-inf-dys (inflammation), psy-cog-exe-mal (executive dysfunction), and soc-wor-per-fra (work impairment).
+  academic_description: Loss of cortisol circadian rhythm with flattening of diurnal variation. Blunted or absent cortisol awakening response. Either hypercortisolemia from chronic HPA drive or hypocortisolemia from adrenal exhaustion. Disrupted pulsatile secretion patterns. Associated with hippocampal atrophy and metabolic dysfunction.
+  clinical_description: Flattened salivary cortisol rhythm common in chronic addiction. Absent cortisol awakening response predicts relapse risk. Chronic elevation causes metabolic syndrome, immune suppression, and cognitive impairment. Some show adrenal exhaustion requiring hormone support. Recovery of rhythm takes months of abstinence.
+  lay_description: Your stress hormone has lost its natural daily rhythm - instead of being high in the morning and low at night, it stays at unhealthy levels all day, leaving you tired but wired, unable to properly wake up or wind down.
+  key_mediators: Dysregulated cortisol, altered DHEA ratio, inflammatory cytokines, oxidative stress markers
+  key_mechanisms: Adrenal hypertrophy or atrophy, enzyme dysfunction, mitochondrial damage, circadian disruption
+  clinical_relevance: Metabolic syndrome, depression, cognitive decline, immune dysfunction, bone loss
+  assessment_methods: Flattened cortisol rhythm, absent CAR, abnormal dexamethasone suppression, hair cortisol
+  interventions: Circadian rhythm restoration, melatonin, adaptogenic herbs, cortisol replacement if needed, chronotherapy
+  prominent_models: McEwen's allostatic load, Sephton's flattened rhythm model, Kudielka's CAR dysfunction
+- id: phy-end-hpa-gcr-reg
+  label: Glucocorticoid Receptor Sensitivity
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - GR sensitivity
+  - Appropriate feedback
+  - Receptor responsiveness
+  scope: Appropriate glucocorticoid receptor sensitivity throughout brain and body enabling effective negative feedback. Hippocampal and prefrontal receptors maintain density and function to terminate stress responses appropriately.
+  parent_scope_inheritance: Specifies the receptor-mediated feedback component of HPA axis regulation, focusing on the system's ability to self-regulate through cortisol sensing.
+  polarity_expression: Regulated receptor function with maintained sensitivity enabling rapid negative feedback and appropriate termination of stress responses.
+  cross_domain_resonance: Resonates with psy-mem-con-ada (memory consolidation), phy-neu-hip-reg (hippocampal function), and psy-cog-fle-ada (cognitive flexibility).
+  academic_description: Maintained glucocorticoid receptor density and sensitivity in hippocampus, prefrontal cortex, and pituitary. Appropriate receptor translocation and gene transcription upon cortisol binding. Functional FKBP5 regulation of receptor sensitivity. Effective negative feedback at all levels of HPA axis.
+  clinical_description: Normal dexamethasone suppression test indicating preserved receptor function. Appropriate cortisol negative feedback terminates stress responses. No signs of glucocorticoid resistance. Receptors support memory consolidation and executive function without impairment.
+  lay_description: Your body's stress hormone receptors work like sensitive thermostats, detecting when stress hormone levels are high enough and signaling the system to turn off, preventing your stress response from running out of control.
+  key_mediators: Glucocorticoid receptors, mineralocorticoid receptors, FKBP5, HSP90, importins
+  key_mechanisms: Receptor translocation, DNA binding, gene transcription, negative feedback signaling, receptor recycling
+  clinical_relevance: Effective stress termination, memory function, emotional regulation, metabolic health
+  assessment_methods: Dexamethasone suppression test, GR sensitivity assays, FKBP5 genotyping, receptor binding studies
+  interventions: Exercise to enhance sensitivity, omega-3 fatty acids, mindfulness meditation, adequate sleep
+  prominent_models: De Kloet's MR/GR balance, Holsboer's receptor hypothesis, Binder's FKBP5 model
+- id: phy-end-hpa-gcr-dys
+  label: Glucocorticoid Resistance
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - GR resistance
+  - Impaired feedback
+  - Receptor insensitivity
+  scope: Glucocorticoid receptor resistance with impaired negative feedback despite elevated cortisol levels. Reduced receptor density or sensitivity in hippocampus and prefrontal cortex prevents appropriate stress response termination.
+  parent_scope_inheritance: Specifies the feedback dysfunction within HPA axis dysregulation, representing the loss of self-regulatory capacity that perpetuates chronic stress states.
+  polarity_expression: Dysregulated receptor function with reduced sensitivity causing impaired negative feedback and inability to terminate stress responses.
+  cross_domain_resonance: Resonates with psy-mem-con-mal (memory impairment), phy-neu-hip-dys (hippocampal atrophy), and psy-cog-fle-mal (cognitive rigidity).
+  academic_description: Reduced glucocorticoid receptor expression or impaired translocation in key brain regions. FKBP5 upregulation decreases receptor sensitivity. Loss of negative feedback allows persistent HPA activation despite hypercortisolemia. Associated with hippocampal volume loss and prefrontal dysfunction. Inflammatory cytokines further impair receptor function.
+  clinical_description: Failed dexamethasone suppression indicates glucocorticoid resistance. Patients show persistent HPA activation despite high cortisol. Contributes to treatment-resistant depression and anxiety. Associated with cognitive deficits and hippocampal atrophy. Improving receptor sensitivity is a key therapeutic target.
+  lay_description: Your stress hormone receptors have become deaf to the signals that should turn off your stress response. It's like a broken thermostat that can't detect the room is already too hot, so the heating keeps running.
+  key_mediators: Downregulated GR, elevated FKBP5, inflammatory cytokines, oxidative stress
+  key_mechanisms: Receptor downregulation, impaired translocation, FKBP5 interference, inflammatory inhibition, epigenetic silencing
+  clinical_relevance: Treatment-resistant depression, chronic anxiety, cognitive decline, metabolic dysfunction
+  assessment_methods: Failed dexamethasone suppression, GR resistance index, FKBP5 levels, receptor expression studies
+  interventions: GR modulators, FKBP5 antagonists, anti-inflammatory treatments, exercise, omega-3 supplementation
+  prominent_models: Pace's inflammatory resistance model, Zannas's FKBP5 hypothesis, Anacker's neurogenesis model
+- id: phy-end-hpa-cir-reg
+  label: Circadian Cortisol Rhythm
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Cortisol rhythm
+  - Diurnal pattern
+  - Circadian synchrony
+  scope: Clear cortisol circadian rhythm synchronized with sleep-wake cycles showing 50-75% decline from morning peak to evening nadir. Rhythm entrainment supports energy mobilization during day and restoration during sleep.
+  parent_scope_inheritance: Specifies the temporal patterning component of HPA axis regulation, focusing on circadian organization of stress hormone release.
+  polarity_expression: Regulated circadian pattern with pronounced morning peak, gradual daytime decline, and evening nadir supporting natural energy and sleep cycles.
+  cross_domain_resonance: Resonates with phy-neu-sle-reg (sleep regulation), psy-moo-reg-ada (mood stability), and soc-fam-rou-coh (family routines).
+  academic_description: Suprachiasmatic nucleus drives circadian cortisol rhythm through autonomic and hormonal pathways. Clear amplitude with 50-75% decrease from acrophase to nadir. Phase-locked to light-dark cycle and sleep-wake rhythm. Supports temporal organization of metabolism, immunity, and cognition.
+  clinical_description: Normal cortisol rhythm with morning peak between 6-8 AM and evening nadir around midnight. Rhythm supports daytime alertness and nighttime sleep. Disruption associated with mood disorders, metabolic dysfunction, and relapse risk. Rhythm restoration improves multiple health outcomes.
+  lay_description: Your cortisol follows a daily rhythm like an internal clock - high in the morning to energize you for the day, then dropping at night to let your body rest and repair during sleep.
+  key_mediators: Cortisol, melatonin, clock genes, autonomic signals, SCN output
+  key_mechanisms: SCN pacemaker function, clock gene expression, autonomic splanchnic innervation, light entrainment
+  clinical_relevance: Sleep quality, energy patterns, mood stability, metabolic health
+  assessment_methods: Salivary cortisol rhythm, dim light melatonin onset, actigraphy, sleep diaries
+  interventions: Light therapy, melatonin, sleep hygiene, regular meal timing, exercise timing
+  prominent_models: Czeisler's circadian model, Leproult's rhythm assessment, Clow's cortisol rhythm patterns
+- id: phy-end-hpa-cir-dys
+  label: Circadian Rhythm Disruption
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Flattened rhythm
+  - Circadian disruption
+  - Inverted cortisol pattern
+  scope: Flattened or inverted cortisol rhythm with loss of circadian variation. Desynchronization from sleep-wake cycles disrupts energy mobilization and restoration, contributing to fatigue and insomnia.
+  parent_scope_inheritance: Specifies the temporal dysregulation within HPA axis dysfunction, representing the loss of circadian organization in chronic stress and addiction.
+  polarity_expression: Dysregulated circadian pattern with flattened amplitude, phase shifts, or complete rhythm loss disrupting natural energy and sleep cycles.
+  cross_domain_resonance: Resonates with phy-neu-sle-dys (insomnia), psy-moo-reg-mal (mood instability), and soc-fam-rou-fra (chaotic schedules).
+  academic_description: Loss of suprachiasmatic nucleus control over HPA axis. Flattened amplitude with less than 30% variation across day. Phase delays or advances disrupt synchrony with environment. Associated with clock gene polymorphisms and epigenetic changes. Perpetuates metabolic and mood dysfunction.
+  clinical_description: Flattened cortisol rhythm common in addiction and mood disorders. Loss of morning peak causes difficulty waking; elevated evening levels cause insomnia. Predicts poor treatment response and relapse. Rhythm restoration through chronotherapy improves outcomes. Recovery requires weeks to months of regular schedules.
+  lay_description: Your internal cortisol clock is broken - instead of being high in the morning and low at night, it stays relatively flat all day, leaving you exhausted in the morning but wired at bedtime.
+  key_mediators: Disrupted cortisol, altered melatonin, clock gene dysfunction, inflammatory markers
+  key_mechanisms: SCN dysfunction, clock gene mutations, light exposure disruption, social jet lag, inflammation
+  clinical_relevance: Insomnia, daytime fatigue, mood disorders, metabolic syndrome, cancer risk
+  assessment_methods: Flattened cortisol rhythm, abnormal DLMO, disrupted actigraphy, clock gene analysis
+  interventions: Bright light therapy, melatonin, social rhythm therapy, chronotherapy, regular schedules
+  prominent_models: Wirz-Justice chronotherapy, Sack's phase shift model, Foster's circadian disruption
+- id: phy-end-hpa-alo-reg
+  label: Allostatic Balance
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Stress resilience
+  - Allostatic maintenance
+  - Recovery capacity
+  scope: Maintained allostatic balance with full recovery between stress exposures and preserved adaptive capacity. HPA axis retains flexibility to mount appropriate responses while returning to healthy baseline between challenges.
+  parent_scope_inheritance: Specifies the cumulative burden aspect of HPA axis regulation, focusing on the system's ability to maintain resilience despite repeated stress exposures.
+  polarity_expression: Regulated allostatic state with complete inter-stress recovery, maintained reserve capacity, and minimal biological wear from stress exposures.
+  cross_domain_resonance: Resonates with exi-mea-pur-pur (meaningful challenges), soc-com-sup-coh (community support), and psy-res-cop-ada (adaptive coping).
+  academic_description: Effective allostasis with appropriate stress responses followed by complete recovery. Minimal allostatic load accumulation. Preserved HPA axis flexibility and reserve capacity. Protective factors buffer against biological wear. Maintained stress resilience over time.
+  clinical_description: Patients show good stress recovery with return to baseline between challenges. No signs of cumulative biological wear. Preserved energy, mood stability, and cognitive function despite life stressors. Strong protective factors including social support and healthy coping. Low inflammatory markers and oxidative stress.
+  lay_description: Your stress system maintains good balance - it responds when needed but fully recovers between challenges. Like a spring that bounces back to its original shape, your body returns to a healthy baseline after stress passes.
+  key_mediators: Balanced cortisol, DHEA, BDNF, anti-inflammatory cytokines, antioxidants
+  key_mechanisms: Effective recovery processes, cellular repair, neuroplasticity, anti-inflammatory responses, mitochondrial health
+  clinical_relevance: Stress resilience, healthy aging, disease prevention, sustained performance
+  assessment_methods: Allostatic load index, stress recovery tests, inflammatory markers, telomere length
+  interventions: Stress management, social support, exercise, nutrition, mindfulness, adequate recovery time
+  prominent_models: McEwen's allostasis model, Sterling's stability through change, Juster's resilience factors
+- id: phy-end-hpa-alo-dys
+  label: Allostatic Overload
+  forest: Physiological
+  forest_id: phy
+  field: Endocrine
+  field_id: phy-end
+  cluster: HPA Axis
+  cluster_id: phy-end-hpa
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Allostatic load
+  - Cumulative stress burden
+  - Biological wear
+  scope: Progressive allostatic overload from incomplete recovery between stressors creating cumulative biological wear. Depleted reserve capacity with establishment of new pathological set-point maintaining dysregulation.
+  parent_scope_inheritance: Specifies the cumulative burden dysfunction within HPA axis dysregulation, representing the progressive biological cost of chronic stress in addiction.
+  polarity_expression: Dysregulated allostatic state with incomplete recovery, depleted reserves, and accumulating biological damage from chronic stress exposure.
+  cross_domain_resonance: Resonates with exi-mea-pur-dir (meaningless suffering), soc-com-sup-fra (social isolation), and psy-res-cop-mal (maladaptive coping).
+  academic_description: Type 2 allostatic overload with chronic elevation of stress mediators causing biological wear. Incomplete recovery between stressors leads to progressive accumulation of damage. Depleted reserve capacity prevents adequate responses to new challenges. New pathological set-point maintains dysregulation. Associated with accelerated aging and disease.
+  clinical_description: High allostatic load index with multiple dysregulated biomarkers. Patients show exhaustion, frequent illness, cognitive decline, and mood instability. Poor stress recovery with incomplete return to baseline. Multiple system involvement including metabolic, cardiovascular, and immune dysfunction. Requires comprehensive intervention addressing multiple systems.
+  lay_description: Your stress system is like an overworked engine that never gets proper maintenance - the constant wear and tear accumulates until multiple parts start breaking down. Your body can no longer bounce back from stress like it used to.
+  key_mediators: Chronic cortisol elevation, depleted DHEA, inflammatory cytokines, oxidative stress, cellular damage
+  key_mechanisms: Incomplete recovery, mitochondrial dysfunction, telomere shortening, epigenetic changes, cellular senescence
+  clinical_relevance: Accelerated aging, chronic disease, cognitive decline, treatment resistance, poor prognosis
+  assessment_methods: High allostatic load index, multiple biomarker dysregulation, organ dysfunction markers, epigenetic aging
+  interventions: Comprehensive stress reduction, anti-inflammatory treatments, mitochondrial support, social support enhancement, pacing strategies
+  prominent_models: McEwen's allostatic overload types, Koob's addiction allostasis, Danese's biological embedding

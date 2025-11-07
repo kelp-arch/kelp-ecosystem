@@ -1,0 +1,120 @@
+# Generated clusters for field: SOC-COM
+# Timestamp: 20251103_065837
+
+clusters:
+- id: soc-com-trt
+  label: Treatment Services
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  synonyms:
+  - Clinical services
+  - Treatment facilities
+  - Formal treatment
+  - Treatment programs
+  scope: Encompasses formal clinical treatment facilities and programs providing medical and therapeutic interventions for substance use disorders. Includes detoxification services, residential treatment, intensive outpatient programs, standard outpatient treatment, medication-assisted treatment programs, and dual diagnosis treatment. Focuses on service delivery systems, accessibility, capacity, and continuity of care.
+  parent_scope_inheritance: Specifies the community resources field's focus on formal treatment infrastructure, examining how clinical services are organized, accessed, and integrated within community systems of care.
+  polarity_dimension: Service integration and accessibility - ranging from cohesive systems with integrated levels of care and minimal barriers to fragmented systems with service silos and access obstacles.
+  emergence: At the cluster level, treatment services exhibit emergent properties of service ecology, system-wide treatment capacity, population-level retention rates, and collective treatment effectiveness that transcends individual programs.
+  boundary_interfaces:
+  - Treatment-recovery support interface for continuing care and step-down services
+  - Treatment-basic needs interface for wraparound supportive services
+  - Treatment-coordination interface for referral pathways and care transitions
+  child_generation_role: You are a treatment systems analyst specializing in service delivery and accessibility. You examine treatment capacity, waitlist dynamics, admission criteria, service integration, evidence-based practice implementation, and continuity of care. You analyze specific configurations including detoxification services, residential programs, intensive outpatient, standard outpatient, and medication-assisted treatment. You distinguish cohesive systems with integrated levels of care, warm handoffs, and minimal barriers versus fragmented systems with service silos, lengthy waitlists, and restrictive admission criteria. You apply continuum of care frameworks and recovery-oriented systems of care principles.
+  academic_description: Treatment services research examines how formal clinical infrastructure affects community-level recovery outcomes. The continuum of care model emphasizes seamless transitions between service levels based on clinical need. Recovery-oriented systems of care prioritize person-centered, strength-based approaches over acute care models. Service integration research demonstrates improved outcomes when medical, psychiatric, and substance use services are coordinated. Accessibility studies reveal how geographic distribution, insurance requirements, waitlist lengths, and admission criteria create differential access. Implementation science examines how evidence-based practices are adopted and sustained in community settings. System capacity research shows how treatment availability relative to need affects population health outcomes.
+  clinical_description: Clinical practice within treatment services involves navigating complex service arrays to match clients with appropriate care levels. Assessment determines medical necessity and level of care placement using ASAM criteria. Interventions include facilitating admissions, advocating for services, coordinating between providers, and ensuring continuity during transitions. Clinicians address barriers like insurance authorization, transportation, childcare, and waitlists. Warm handoffs between levels of care improve retention. Care coordination ensures medical, psychiatric, and substance use needs are addressed concurrently. Recovery planning begins during treatment to connect clients with continuing care and community supports.
+  lay_description: Treatment services are the formal programs that provide professional help for addiction. This includes detox centers for safe withdrawal, residential programs for intensive treatment, outpatient counseling for ongoing support, and medication programs for cravings and withdrawal. Some communities have many treatment options with short waitlists and smooth transitions between programs. Others have limited services with long waits and gaps between different types of care. Getting into treatment can involve navigating insurance, meeting admission requirements, and finding available spots. Good treatment systems make it easy to get help when needed and provide continuous support as needs change.
+- id: soc-com-rso
+  label: Recovery Support Organizations
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  synonyms:
+  - Peer support systems
+  - Mutual aid groups
+  - Recovery communities
+  - Self-help organizations
+  scope: Encompasses peer-led and recovery-focused organizations providing mutual support and community for people in recovery. Includes twelve-step groups, alternative mutual aid programs, recovery community organizations, recovery community centers, peer support services, and recovery coaching programs. Focuses on recovery community strength, pathway diversity, and peer support infrastructure.
+  parent_scope_inheritance: Narrows the community resources field to peer-driven support systems, examining how recovery communities organize, provide mutual aid, and create recovery-supportive environments.
+  polarity_dimension: Community recovery capital and peer network strength - ranging from cohesive communities with robust recovery networks and multiple pathways to fragmented communities with limited peer support and pathway rigidity.
+  emergence: Recovery support organizations generate emergent properties of collective recovery identity, community recovery capital, recovery visibility, and mutual aid effectiveness that transcends individual group dynamics.
+  boundary_interfaces:
+  - Recovery support-treatment interface for peer bridging and treatment engagement
+  - Recovery support-basic needs interface for recovery housing and sober activities
+  - Recovery support-coordination interface for community organizing and advocacy
+  child_generation_role: You are a recovery community specialist focusing on peer support systems and mutual aid effectiveness. You analyze mutual aid group availability, meeting frequency and diversity, recovery community organization capacity, peer support service integration, and recovery coaching programs. You examine specific configurations including twelve-step groups, secular alternatives, culturally specific recovery groups, recovery community centers, and peer-delivered services. You distinguish cohesive communities with multiple recovery pathways, active peer networks, and strong recovery visibility versus fragmented communities with limited group options, pathway rigidity, and isolated recovery attempts. You apply recovery capital theory and mutual aid research frameworks.
+  academic_description: Recovery support organization research examines how peer-led systems facilitate long-term recovery. Recovery capital theory identifies how community resources, social networks, and collective efficacy support sustained recovery. The helper therapy principle explains how providing support enhances one's own recovery. Social learning theory demonstrates how recovery role models shape behavior change. Research on mutual aid effectiveness shows comparable outcomes across different programs, with engagement quality mattering more than specific approach. Recovery community organizations provide infrastructure for peer support, advocacy, and community education. Studies demonstrate that communities with diverse recovery pathways and strong peer networks show better aggregate recovery outcomes.
+  clinical_description: Clinical engagement with recovery support organizations involves facilitating connections to appropriate peer support systems. Assessment evaluates readiness for mutual aid, pathway preferences, and cultural considerations. Twelve-step facilitation helps clients engage with AA/NA through meeting attendance, sponsor acquisition, and step work. Alternatives like SMART Recovery or Refuge Recovery are matched to client preferences. Recovery coaching provides individualized peer support for navigating early recovery. Recovery community centers offer sober social activities, volunteer opportunities, and peer connections. Clinicians address mutual aid resistance, help find welcoming groups, and integrate peer support with professional treatment.
+  lay_description: Recovery support organizations are groups run by and for people in recovery. AA and NA are the most well-known, offering meetings where people share experiences and support each other through the twelve steps. Alternatives like SMART Recovery use different approaches. Recovery community centers provide sober activities, volunteer work, and places to connect with others in recovery. Recovery coaches are peers who've been through addiction and help others navigate early recovery. Strong recovery communities have many different groups meeting frequently, visible recovery role models, and welcoming spaces for all paths to recovery. Weak communities might have few meetings, only one type of program, or make people feel isolated in their recovery.
+- id: soc-com-bns
+  label: Basic Needs Services
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  synonyms:
+  - Wraparound services
+  - Support services
+  - Recovery infrastructure
+  - Essential services
+  scope: Encompasses services addressing fundamental life stability needs that support recovery. Includes recovery housing, sober living environments, transitional housing, employment programs, vocational rehabilitation, benefits assistance, transportation services, and other essential supports. Focuses on resource availability, service quality, and stability infrastructure.
+  parent_scope_inheritance: Specifies the community resources field's focus on concrete supports for life stability, examining how communities provide housing, employment, and essential services that enable sustained recovery.
+  polarity_dimension: Resource availability and stability support - ranging from cohesive systems with comprehensive wraparound services and stable supports to fragmented systems with resource scarcity and unstable infrastructure.
+  emergence: Basic needs services create emergent properties of community stability infrastructure, collective housing security, employment recovery rates, and population-level resource sufficiency that transcends individual service provision.
+  boundary_interfaces:
+  - Basic needs-treatment interface for wraparound care during treatment episodes
+  - Basic needs-recovery support interface for sober living and recovery activities
+  - Basic needs-coordination interface for resource navigation and benefits coordination
+  child_generation_role: You are a recovery resources specialist examining basic needs infrastructure and stability supports. You analyze recovery housing availability and quality, sober living environments, transitional housing programs, employment training opportunities, supported employment services, and benefits navigation. You examine specific configurations including Oxford Houses, halfway houses, three-quarter houses, vocational rehabilitation programs, and transitional employment. You distinguish cohesive systems with adequate recovery housing stock, diverse employment pathways, and comprehensive benefits support versus fragmented systems with housing scarcity, limited job opportunities, and complex benefits barriers. You apply Housing First principles and supported employment research.
+  academic_description: Basic needs services research demonstrates how material resources and life stability affect recovery outcomes. Housing First models show that stable housing improves treatment engagement and recovery outcomes regardless of sobriety status. Recovery residence research reveals how sober living environments provide structure, peer support, and accountability during early recovery. Supported employment studies demonstrate that rapid job placement with ongoing support produces better vocational outcomes than traditional train-then-place models. Social determinants of health frameworks explain how housing, employment, and income directly impact substance use patterns and recovery sustainability. Research shows communities with robust basic needs infrastructure have lower rates of relapse and higher recovery stability.
+  clinical_description: Clinical work with basic needs services involves comprehensive assessment of housing, employment, benefits, and resource needs. Case management connects clients to appropriate services and helps navigate complex systems. Recovery housing placement matches clients with appropriate levels of structure and support. Vocational assessment identifies skills, interests, and barriers to employment. Benefits counseling helps access entitlements, healthcare, and financial assistance. Transportation planning addresses practical barriers to service engagement. Clinicians advocate for clients with landlords, employers, and benefits systems. Wraparound approaches coordinate multiple services to address interconnected needs.
+  lay_description: Basic needs services help people in recovery rebuild stable lives. Recovery housing provides safe, sober places to live - from highly structured halfway houses to independent sober living homes. Job training programs help develop skills and find employment that supports recovery. Benefits assistance helps navigate systems for healthcare, food assistance, and disability support. Transportation services ensure people can get to treatment, meetings, and work. Communities with good basic needs services have enough affordable recovery housing, diverse job opportunities, and help accessing benefits. Communities with poor services leave people struggling with homelessness, unemployment, and unmet basic needs that threaten recovery.
+- id: soc-com-phr
+  label: Prevention and Harm Reduction
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  synonyms:
+  - Risk reduction services
+  - Prevention programs
+  - Harm reduction programs
+  - Community prevention
+  scope: Encompasses community programs focused on preventing substance use disorders and reducing harm for active users. Includes prevention coalitions, school-based programs, community education, syringe service programs, overdose prevention sites, naloxone distribution, and drug checking services. Focuses on community readiness, prevention infrastructure, and harm reduction acceptance.
+  parent_scope_inheritance: Narrows the community resources field to prevention and risk reduction services, examining how communities organize to prevent addiction and minimize harm from substance use.
+  polarity_dimension: Community readiness and harm reduction acceptance - ranging from cohesive systems with comprehensive prevention and embraced harm reduction to fragmented systems with limited prevention and harm reduction resistance.
+  emergence: Prevention and harm reduction services generate emergent properties of community prevention capacity, collective risk awareness, population-level harm reduction coverage, and community readiness for change that transcends individual program impacts.
+  boundary_interfaces:
+  - Prevention-treatment interface for early intervention and low-threshold entry
+  - Prevention-recovery support interface for relapse prevention and recovery education
+  - Prevention-coordination interface for community mobilization and coalition building
+  child_generation_role: You are a prevention and harm reduction specialist analyzing community risk reduction infrastructure. You examine prevention coalition effectiveness, school and community-based prevention programs, syringe service programs, overdose prevention sites, naloxone distribution networks, and drug checking services. You analyze specific configurations including community coalitions, evidence-based prevention curricula, mobile harm reduction units, and peer overdose response teams. You distinguish cohesive systems with comprehensive prevention strategies, widespread harm reduction acceptance, and robust overdose response versus fragmented systems with limited prevention, harm reduction stigma, and inadequate overdose preparedness. You apply community readiness theory and harm reduction research frameworks.
+  academic_description: Prevention and harm reduction research examines community-level strategies for reducing substance use disorders and associated harms. Prevention science identifies risk and protective factors across developmental stages, with evidence-based programs targeting these factors. Community coalition research demonstrates how collective action can reduce youth substance use through environmental strategies. Harm reduction studies show that syringe service programs reduce HIV/HCV transmission without increasing drug use, while supervised consumption sites prevent overdose deaths and connect users to treatment. Naloxone distribution research reveals community saturation effects on overdose mortality. Community readiness models explain how communities progress through stages of problem recognition, preparation, and action.
+  clinical_description: Clinical engagement with prevention and harm reduction involves both individual and community-level interventions. Screening and brief intervention identify at-risk individuals for early intervention. Prevention programs in schools and communities build protective factors and reduce risk behaviors. Harm reduction services meet people where they are, providing sterile supplies, overdose prevention education, and naloxone training. Clinicians help clients access syringe services, teach safer use practices, and provide non-judgmental support regardless of readiness to stop using. Community practice involves coalition participation, prevention planning, and advocating for evidence-based harm reduction policies.
+  lay_description: Prevention and harm reduction services work to stop addiction before it starts and keep people safe if they're using drugs. Prevention programs in schools and communities teach kids about risks and build skills to avoid drugs. Community coalitions bring together parents, schools, and organizations to create drug-free environments. Harm reduction recognizes that some people will use drugs and focuses on keeping them alive and healthy. Needle exchanges provide clean supplies to prevent disease spread. Overdose prevention sites offer safe spaces with medical supervision. Naloxone programs distribute overdose reversal medication widely. Communities embracing these approaches have fewer overdoses and better connections to treatment, while resistant communities see more deaths and disease.
+- id: soc-com-scs
+  label: Service Coordination Systems
+  forest: Sociological
+  forest_id: soc
+  field: Community Resources
+  field_id: soc-com
+  synonyms:
+  - Care coordination
+  - Service integration
+  - Referral networks
+  - System coordination
+  scope: Encompasses inter-organizational systems that coordinate and integrate community services. Includes community coalitions, referral networks, care coordination mechanisms, recovery-oriented systems of care, centralized intake systems, and data sharing platforms. Focuses on system integration, referral effectiveness, and collaborative capacity.
+  parent_scope_inheritance: Specifies the community resources field's focus on connective infrastructure between services, examining how organizations collaborate, share information, and coordinate care across the service system.
+  polarity_dimension: System integration and coordination effectiveness - ranging from cohesive systems with strong collaboration and seamless coordination to fragmented systems with organizational silos and coordination failures.
+  emergence: Service coordination systems create emergent properties of network connectivity, system-wide care continuity, collective impact capacity, and integrated service delivery that transcends individual organizational functioning.
+  boundary_interfaces:
+  - Coordination-treatment interface for referral pathways and care transitions
+  - Coordination-recovery support interface for community organizing and collective advocacy
+  - Coordination-basic needs interface for comprehensive resource navigation
+  - Coordination-prevention interface for coalition building and community mobilization
+  child_generation_role: You are a service systems coordinator specializing in inter-organizational collaboration and care integration. You analyze coalition functioning, referral network effectiveness, care coordination mechanisms, data sharing systems, and collective impact initiatives. You examine specific configurations including centralized intake systems, coordinated entry, warm handoff protocols, shared assessment tools, and integrated data platforms. You distinguish cohesive systems with strong inter-agency collaboration, efficient referral completion, and coordinated care planning versus fragmented systems with organizational silos, referral failures, and duplicated assessments. You apply systems of care frameworks and network analysis methods.
+  academic_description: Service coordination research examines how inter-organizational collaboration affects system-level outcomes. Network theory reveals how service system connectivity influences access and continuity of care. Systems of care models demonstrate improved outcomes through coordinated, family-driven, culturally competent services. Collective impact frameworks show how shared measurement, continuous communication, and backbone organizations enable community-level change. Research on warm handoffs and facilitated referrals shows dramatic improvements in service engagement compared to passive referral. Studies of integrated data systems reveal how information sharing reduces service duplication and improves care coordination. Communities with strong service coordination show better system-wide outcomes including reduced emergency utilization and improved treatment retention.
+  clinical_description: Clinical practice within service coordination systems involves facilitating connections across organizations and ensuring continuity of care. Care coordinators conduct comprehensive assessments, develop integrated service plans, and monitor progress across providers. Warm handoff protocols involve direct communication between referring and receiving providers, often with client present. Centralized intake systems provide single entry points for multiple services. Case conferencing brings together providers to coordinate complex cases. Data sharing agreements enable real-time information exchange about service utilization and outcomes. Clinicians navigate privacy regulations, organizational boundaries, and competing priorities to ensure coordinated care.
+  lay_description: Service coordination systems are the behind-the-scenes connections that help different organizations work together. When working well, a person can move smoothly from detox to treatment to recovery housing with each program knowing what the others are doing. Referrals actually result in appointments, not just phone numbers on a piece of paper. Different agencies share information so people don't have to tell their story repeatedly. Coalitions bring organizations together to solve community problems collectively. When coordination fails, people fall through cracks between services, wait weeks for referrals, and face the same assessments at every agency. Good coordination makes the whole system work better than its individual parts.

@@ -1,0 +1,236 @@
+# Generated anchors for cluster: PSY-COG-ATT
+# Timestamp: 20251103_163551
+
+anchors:
+- id: psy-cog-att-sel-ada
+  label: Balanced Selective Attention
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Attentional Systems
+  cluster_id: psy-cog-att
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Unbiased attention
+  - Balanced filtering
+  - Neutral selection
+  scope: Balanced selective attention with equal processing of drug-related and neutral stimuli, appropriate stimulus filtering based on current goals rather than automatic salience, and broad attentional focus that encompasses diverse environmental information.
+  parent_scope_inheritance: Specifies the selective attention component of attentional systems, focusing on the adaptive state where stimulus selection remains balanced and unbiased by drug-related salience.
+  polarity_expression: Manifests as balanced attention allocation with reduced automatic capture by drug cues, equal reaction times across stimulus types, and maintained ability to select information based on current goals rather than conditioned salience.
+  cross_domain_resonance: Resonates with phy-neu-dop-reg (regulated dopamine salience signaling), soc-env-cue-coh (cohesive environmental cue processing), and psy-cog-exe-ada (adaptive executive control).
+  academic_description: Research using modified Stroop tasks shows equal color-naming speeds for drug and neutral words, while dot-probe paradigms reveal no preferential detection of targets replacing drug versus neutral cues. Field & Cox's model suggests this state reflects weak reciprocal relationships between attention and craving. Neuroimaging shows normalized activation in visual and parietal regions without hyperresponsivity to drug cues. Attention bias modification training aims to establish this balanced state through repeated practice directing attention away from drug stimuli.
+  clinical_description: Balanced selective attention means drug-related triggers don't automatically grab your focus more than other things in your environment. Assessment uses computer tasks measuring how quickly you respond to drug versus neutral words or images. Treatment includes attention bias modification - repeatedly practicing tasks that train your attention away from drug cues toward neutral stimuli. Mindfulness meditation strengthens overall awareness of where attention goes without being pulled by specific content. Success means walking past triggers without them dominating your attention.
+  lay_description: Your attention works like a balanced spotlight, giving equal weight to different things around you rather than being pulled toward drug-related triggers. You notice liquor stores the same as other shops, see people drinking without fixating, and can focus on what matters for your current goals. This balanced attention helps you navigate environments with triggers present without them hijacking your focus or dominating your thoughts.
+  core_components:
+  - Bottom-up salience processing
+  - Stimulus filtering mechanisms
+  - Attentional orienting networks
+  associated_processes:
+  - Visual processing without bias
+  - Equal stimulus competition
+  - Goal-directed selection
+- id: psy-cog-att-sel-mal
+  label: Biased Selective Attention
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Attentional Systems
+  cluster_id: psy-cog-att
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Attentional bias
+  - Cue salience
+  - Selective capture
+  scope: Biased selective attention with preferential processing of drug-related stimuli, automatic attentional capture by substance cues regardless of current goals, and narrowed attentional focus that prioritizes drug-related information over other environmental stimuli.
+  parent_scope_inheritance: Specifies the selective attention component of attentional systems, focusing on the maladaptive state where drug-related stimuli receive preferential processing and automatic attentional capture.
+  polarity_expression: Manifests as automatic orientation toward drug cues with slower disengagement, longer processing times for drug-related stimuli in Stroop tasks, faster detection in dot-probe paradigms, and narrowed attentional focus that filters out non-drug information.
+  cross_domain_resonance: Resonates with phy-neu-dop-dys (dysregulated dopamine salience signaling), soc-env-cue-fra (fragmented environmental cue processing), and psy-cog-exe-mal (maladaptive executive control).
+  academic_description: Modified Stroop tasks reveal significantly slower color-naming for drug versus neutral words, indicating interference from automatic drug word processing. Dot-probe paradigms show faster detection of targets replacing drug cues, with effect sizes correlating with craving intensity and predicting relapse. Eye-tracking studies demonstrate initial orienting bias and maintained gaze on drug stimuli. Neuroimaging reveals hyperactivation in visual cortex, posterior parietal cortex, and anterior cingulate to drug versus neutral cues. Field & Cox's model proposes reciprocal causation between attentional bias and subjective craving.
+  clinical_description: Biased attention means drug-related triggers automatically grab and hold your focus, making them seem to jump out from the environment. Assessment uses reaction time tasks showing slower responses when drug words or images interfere with other tasks. This bias predicts relapse risk and maintains craving cycles. Treatment focuses on attention bias modification - hundreds of training trials directing attention away from drug cues. Combined approaches include cue exposure to reduce cue salience and environmental modification to minimize attentional load. Progress means drug cues becoming less attention-grabbing over time.
+  lay_description: Drug-related things seem to have a magnetic pull on your attention - you notice every bar, every person drinking, every advertisement, even when you're trying not to look. It's like these triggers are highlighted in bright yellow while everything else fades to gray. Your mental spotlight gets stuck on them, making it hard to focus on anything else. This automatic pull maintains cravings and makes environments with triggers feel overwhelming and dangerous.
+  core_components:
+  - Hyperactive salience attribution
+  - Biased competition for attention
+  - Preferential sensory processing
+  associated_processes:
+  - Automatic capture by drug cues
+  - Prolonged processing of drug stimuli
+  - Narrowed attentional focus
+- id: psy-cog-att-sus-ada
+  label: Stable Sustained Attention
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Attentional Systems
+  cluster_id: psy-cog-att
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Consistent vigilance
+  - Stable alertness
+  - Maintained focus
+  scope: Stable sustained attention with consistent performance over time, appropriate vigilance levels without hyperscanning for drug cues, and maintained alertness that supports long-term goal pursuit rather than moment-to-moment threat detection.
+  parent_scope_inheritance: Specifies the sustained attention and vigilance component of attentional systems, focusing on the adaptive state of consistent attention maintenance without hypervigilance for drug-related stimuli.
+  polarity_expression: Manifests as steady performance on continuous tasks without fluctuation, consistent reaction times across extended periods, appropriate alertness without exhausting hypervigilance, and sustained focus on recovery-relevant activities.
+  cross_domain_resonance: Resonates with phy-neu-nor-reg (regulated norepinephrine alerting), psy-emo-anx-ada (adaptive anxiety levels), and exi-mea-pre-pur (purposeful present-moment awareness).
+  academic_description: Continuous performance tasks show stable hit rates and consistent reaction times across 20-30 minute testing periods without vigilance decrement. The alerting network of Posner's attention system functions normally, maintaining appropriate tonic and phasic alertness. Sustained attention training improves performance through practice with gradually increasing duration demands. Neuroimaging reveals efficient activation in right frontal and parietal vigilance networks without the metabolically costly hyperactivation seen in hypervigilance states.
+  clinical_description: Stable sustained attention means maintaining consistent focus over time without exhausting yourself scanning for threats or triggers. Assessment uses continuous performance tasks measuring attention consistency across 20-30 minutes. Healthy sustained attention supports long-term recovery activities like work, education, or therapy sessions. Treatment includes graduated attention training exercises, regular sleep to support alertness, and mindfulness practices that build sustained awareness. Success means engaging in extended activities without attention wandering to drug-related thoughts.
+  lay_description: You can maintain steady focus throughout the day without constantly scanning for triggers or threats. Your attention stays consistent during work, conversations, or activities rather than fluctuating based on drug-related worries. This stable attention feels sustainable rather than exhausting, allowing you to engage fully in recovery activities and daily life without mental fatigue from hypervigilance.
+  core_components:
+  - Tonic alertness regulation
+  - Vigilance network efficiency
+  - Sustained processing capacity
+  associated_processes:
+  - Consistent performance over time
+  - Appropriate alertness levels
+  - Efficient resource allocation
+- id: psy-cog-att-sus-mal
+  label: Hypervigilant Sustained Attention
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Attentional Systems
+  cluster_id: psy-cog-att
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Hypervigilance
+  - Threat scanning
+  - Vigilance fatigue
+  scope: Hypervigilant sustained attention with excessive scanning for drug-related cues, fluctuating performance due to distraction by potential triggers, and exhausting vigilance that depletes cognitive resources needed for recovery activities.
+  parent_scope_inheritance: Specifies the sustained attention and vigilance component of attentional systems, focusing on the maladaptive state of hypervigilance for drug cues that disrupts consistent attention maintenance.
+  polarity_expression: Manifests as constant environmental scanning for drug-related threats or opportunities, variable performance on sustained tasks due to trigger distraction, attention fatigue from maintaining hypervigilance, and difficulty sustaining focus on non-drug activities.
+  cross_domain_resonance: Resonates with phy-neu-nor-dys (dysregulated norepinephrine alerting), psy-emo-anx-mal (maladaptive anxiety and hypervigilance), and exi-mea-pre-dir (directionless present-moment experience).
+  academic_description: Continuous performance tasks reveal variable hit rates and inconsistent reaction times, with performance deteriorating when drug-related distractors appear. Hypervigilance manifests as excessive monitoring for drug cues in the environment, creating an exhausting state of chronic alertness. Eye-tracking shows rapid scanning patterns and frequent saccades toward peripheral drug-related stimuli. This hypervigilant state depletes cognitive resources, leading to vigilance decrement and increased vulnerability to lapses. Neuroimaging shows metabolically costly overactivation in vigilance networks.
+  clinical_description: Hypervigilant attention means constantly scanning for triggers, creating an exhausting state of chronic alertness that interferes with daily activities. You might find yourself unable to concentrate because you're always monitoring for drug-related threats or opportunities. This scanning becomes automatic and exhausting, depleting mental energy needed for recovery. Treatment includes anxiety management to reduce threat perception, scheduled attention breaks to prevent fatigue, and relaxation training to lower overall arousal. Learning to feel safe without constant vigilance is key to recovery.
+  lay_description: Your mind constantly scans the environment like a security camera looking for triggers - checking every person, every corner, every situation for drug-related content. This endless vigilance is exhausting, making it hard to focus on work, relationships, or recovery activities. You feel mentally drained from always being on high alert, yet unable to stop the automatic scanning. It's like being a soldier always watching for danger, never able to truly relax or engage with normal life.
+  core_components:
+  - Overactive alerting system
+  - Chronic threat monitoring
+  - Depleted attention resources
+  associated_processes:
+  - Excessive environmental scanning
+  - Fluctuating performance
+  - Cognitive resource depletion
+- id: psy-cog-att-con-ada
+  label: Effective Attentional Control
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Attentional Systems
+  cluster_id: psy-cog-att
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Executive attention
+  - Top-down control
+  - Voluntary attention
+  scope: Effective attentional control with strong top-down regulation of attention allocation, ability to override automatic attentional capture, and flexible voluntary direction of attention according to current goals and values.
+  parent_scope_inheritance: Specifies the attentional control networks component of attentional systems, focusing on the adaptive state of effective voluntary control over attention allocation and resistance to automatic capture.
+  polarity_expression: Manifests as successful conflict resolution between competing stimuli, ability to maintain focus despite distractors, voluntary shifting of attention according to goals, and effective override of automatic attentional biases.
+  cross_domain_resonance: Resonates with psy-cog-exe-ada (adaptive executive function), phy-neu-pfc-reg (regulated prefrontal control), and exi-age-aut-pur (purposeful autonomy and self-direction).
+  academic_description: The attention network test reveals efficient conflict resolution in the executive attention network, with minimal interference effects and quick recovery from distraction. Strong attentional control correlates with prefrontal cortex activation, particularly anterior cingulate and dorsolateral regions. This enables top-down biasing of attention toward goal-relevant stimuli and away from prepotent but goal-irrelevant drug cues. Training through mindfulness meditation and cognitive training strengthens these control networks, improving ability to override automatic biases.
+  clinical_description: Effective attentional control means you can consciously direct your attention where you want it to go, even when automatic pulls try to capture it. Assessment measures how well you resolve conflicts between competing stimuli and maintain focus despite distractions. Strong control lets you notice a trigger but choose to focus elsewhere, overriding the automatic pull. Treatment includes mindfulness meditation to strengthen meta-awareness, cognitive training exercises for executive attention, and practice with increasingly challenging distraction resistance tasks. Success means having conscious choice over your attention rather than being at the mercy of automatic captures.
+  lay_description: You have the steering wheel of your attention - you can choose where to focus even when something tries to grab it automatically. When a trigger appears, you notice it but can decide to keep your attention on what matters to you right now. It's like having a mental muscle that lets you resist the pull of distractions and maintain focus on your chosen direction. This control gives you freedom from being yanked around by every drug-related cue in your environment.
+  core_components:
+  - Executive attention network
+  - Conflict monitoring system
+  - Top-down biasing signals
+  associated_processes:
+  - Conflict resolution
+  - Distraction resistance
+  - Goal-directed focusing
+- id: psy-cog-att-con-mal
+  label: Impaired Attentional Control
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Attentional Systems
+  cluster_id: psy-cog-att
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Weak executive attention
+  - Poor top-down control
+  - Involuntary attention
+  scope: Impaired attentional control with weak top-down regulation, inability to override automatic attentional capture by drug cues, and inflexible attention patterns dominated by conditioned responses rather than current goals.
+  parent_scope_inheritance: Specifies the attentional control networks component of attentional systems, focusing on the maladaptive state of impaired voluntary control that leaves attention vulnerable to automatic capture.
+  polarity_expression: Manifests as poor conflict resolution with high interference from drug cues, inability to maintain focus when triggers present, involuntary attention shifts to drug stimuli, and failure to override automatic biases despite conscious intention.
+  cross_domain_resonance: Resonates with psy-cog-exe-mal (maladaptive executive function), phy-neu-pfc-dys (dysregulated prefrontal control), and exi-age-aut-dir (directionless autonomy with loss of self-direction).
+  academic_description: Attention network test shows impaired executive attention with high conflict scores and slow error recovery. Weak attentional control correlates with hypoactivation in prefrontal control regions, particularly anterior cingulate and dorsolateral prefrontal cortex. This impairment prevents top-down override of bottom-up salience signals from drug cues. The executive attention deficit leaves individuals vulnerable to automatic attentional capture, unable to implement goal-directed attention strategies even with conscious intention to avoid drug-related stimuli.
+  clinical_description: Impaired attentional control means your attention gets pulled automatically to triggers despite trying to focus elsewhere. You know you should look away but can't override the automatic pull. Assessment reveals high interference from drug-related distractors and inability to maintain focus on neutral tasks when triggers are present. This loss of voluntary control makes every environment with cues challenging. Treatment requires intensive cognitive training, starting with simple attention tasks and gradually building complexity. Medication may help strengthen prefrontal control. Recovery means slowly rebuilding the ability to steer your own attention.
+  lay_description: Your attention feels hijacked - triggers pull your focus automatically and you can't redirect it even when you try. It's like being a passenger in your own mind, watching your attention get dragged to drug-related things against your will. You might tell yourself to focus on work or family, but your attention keeps sliding back to triggers. This loss of control makes you feel powerless against cues in your environment, unable to choose where your mental spotlight shines.
+  core_components:
+  - Weakened executive network
+  - Poor conflict monitoring
+  - Insufficient top-down signals
+  associated_processes:
+  - High interference susceptibility
+  - Involuntary attention shifts
+  - Goal-neglect under distraction
+- id: psy-cog-att-dis-ada
+  label: Flexible Attentional Disengagement
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Attentional Systems
+  cluster_id: psy-cog-att
+  polarity: adaptive
+  polarity_suffix: ada
+  synonyms:
+  - Attention shifting
+  - Cognitive flexibility
+  - Disengagement ability
+  scope: Flexible attentional disengagement with efficient shifting away from drug-related stimuli, smooth reorientation to new focus targets, and prevention of attentional perseveration on triggers through effective release mechanisms.
+  parent_scope_inheritance: Specifies the disengagement processes component of attentional systems, focusing on the adaptive ability to efficiently shift attention away from captured focus, particularly from drug-related stimuli.
+  polarity_expression: Manifests as quick disengagement from drug cues once noticed, smooth transitions between attention targets, minimal dwell time on triggers, and ability to release attention from compelling stimuli to redirect toward goals.
+  cross_domain_resonance: Resonates with psy-cog-cfl-ada (adaptive cognitive flexibility), psy-cog-rum-ada (adaptive rumination with ability to disengage), and exi-tem-mom-pur (purposeful momentary experience with flow between moments).
+  academic_description: Disengagement tasks reveal efficient attention shifting with short dwell times on drug stimuli and quick reorientation to new targets. The orienting network functions normally, enabling smooth disengagement-move-engagement cycles. Eye-tracking shows brief fixations on drug cues followed by successful redirection. This flexibility prevents the attentional perseveration that maintains craving. Training through attention shifting exercises and cognitive flexibility tasks strengthens disengagement abilities, reducing the 'stickiness' of drug-related attention capture.
+  clinical_description: Flexible disengagement means you can shift your attention away from triggers once you notice them, not getting stuck or dwelling. Assessment measures how quickly you can redirect attention from drug cues to other stimuli. This ability prevents triggers from capturing and holding your focus, allowing you to notice but not fixate. Treatment includes attention shifting exercises, practicing smooth transitions between focus points, and acceptance-based approaches that reduce the need to struggle with stuck attention. Success means triggers become brief notices rather than attention traps.
+  lay_description: When you notice a trigger, you can smoothly shift your attention elsewhere - like changing channels rather than getting stuck on one show. Triggers might catch your eye, but they don't hold you captive. You have the mental flexibility to notice, acknowledge, and move on without getting trapped in extended processing. It's like having a non-stick coating on your attention - things might touch it but don't get stuck there.
+  core_components:
+  - Orienting network efficiency
+  - Disengagement mechanisms
+  - Reorientation processes
+  associated_processes:
+  - Quick attention release
+  - Smooth focus transitions
+  - Minimal perseveration
+- id: psy-cog-att-dis-mal
+  label: Impaired Attentional Disengagement
+  forest: Psychological
+  forest_id: psy
+  field: Cognitive
+  field_id: psy-cog
+  cluster: Attentional Systems
+  cluster_id: psy-cog-att
+  polarity: maladaptive
+  polarity_suffix: mal
+  synonyms:
+  - Sticky attention
+  - Disengagement difficulty
+  - Attentional perseveration
+  scope: Impaired attentional disengagement with difficulty shifting away from drug-related stimuli once captured, prolonged dwell time on triggers, and attentional perseveration that maintains extended processing of drug cues.
+  parent_scope_inheritance: Specifies the disengagement processes component of attentional systems, focusing on the maladaptive state where attention becomes stuck on drug-related stimuli with impaired ability to shift away.
+  polarity_expression: Manifests as prolonged fixation on drug cues once noticed, difficulty breaking attentional lock even with effort, extended dwell times that maintain craving, and failed attempts to redirect focus leading to frustration.
+  cross_domain_resonance: Resonates with psy-cog-cfl-mal (maladaptive cognitive inflexibility), psy-cog-rum-mal (maladaptive rumination with stuck processing), and exi-tem-mom-dir (directionless momentary experience with temporal stuckness).
+  academic_description: Disengagement tasks reveal prolonged dwell times on drug stimuli with delayed or failed reorientation to new targets. Eye-tracking demonstrates extended fixations on drug cues with multiple failed attempts to look away. The orienting network shows dysfunction, particularly in disengagement operations mediated by posterior parietal cortex. This 'sticky' attention maintains craving through extended processing of drug-related information. The inability to disengage creates a positive feedback loop where prolonged processing increases salience, further strengthening attentional capture.
+  clinical_description: Impaired disengagement means your attention gets stuck on triggers, unable to shift away even when you try. Once you notice a drug cue, your mind keeps processing it, maintaining and amplifying cravings. Assessment shows prolonged reaction times when required to shift attention from drug stimuli. This stickiness turns brief encounters with triggers into extended craving episodes. Treatment focuses on disengagement-specific training, using tasks that require rapid shifting from drug to neutral stimuli. Behavioral strategies include planned distraction and immediate engagement in competing activities. Progress means reducing how long triggers hold your attention captive.
+  lay_description: Once a trigger catches your attention, it's like mental velcro - you can't pull away. You might notice a beer advertisement and find yourself still thinking about it minutes later, unable to shift your focus despite trying. Your attention gets locked onto drug-related things, processing them over and over. It's like a mental broken record that keeps playing the same trigger, maintaining cravings and making brief encounters feel overwhelming and dangerous.
+  core_components:
+  - Orienting network dysfunction
+  - Impaired release mechanisms
+  - Perseverative processing
+  associated_processes:
+  - Prolonged dwell times
+  - Failed reorientation attempts
+  - Attentional perseveration

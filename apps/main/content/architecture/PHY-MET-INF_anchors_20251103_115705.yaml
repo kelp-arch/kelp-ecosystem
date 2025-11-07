@@ -1,0 +1,328 @@
+# Generated anchors for cluster: PHY-MET-INF
+# Timestamp: 20251103_115705
+
+anchors:
+- id: phy-met-inf-cyt-reg
+  label: Regulated Cytokine Signaling
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Balanced inflammatory signaling
+  - Controlled NF-κB activation
+  - Cytokine homeostasis
+  scope: Balanced production and signaling of pro-inflammatory (TNF-α, IL-6, IL-1β) and anti-inflammatory (IL-10, TGF-β) cytokines with appropriate, transient NF-κB activation that resolves after immune challenges.
+  parent_scope_inheritance: Specifies the cytokine signaling component of inflammatory response, focusing on the balanced production and regulation of inflammatory mediators through controlled transcriptional activation.
+  polarity_expression: Manifests as appropriate inflammatory responses to challenges with rapid resolution, balanced cytokine profiles, and transient NF-κB activation that returns to baseline.
+  cross_domain_resonance: Resonates with psy-cog-att-foc-ada (focused attention), soc-fam-com-emo-coh (emotional communication), and exi-mea-pur-goa-pur (goal-directed purpose) through inflammatory effects on cognition and mood.
+  academic_description: Regulated cytokine signaling involves balanced activation of pattern recognition receptors leading to controlled NF-κB nuclear translocation. IκB proteins appropriately sequester NF-κB in cytoplasm until needed. Upon stimulation, transient IKK activation phosphorylates IκB, allowing brief NF-κB activation and measured cytokine gene transcription. Negative feedback through IκB resynthesis and A20 ubiquitin editing ensures timely resolution. Anti-inflammatory cytokines like IL-10 activate STAT3 to suppress excessive inflammation. This maintains immunological tolerance while preserving defensive capacity.
+  clinical_description: Patients with regulated cytokine signaling show normal inflammatory markers (TNF-α <8.1 pg/mL, IL-6 <7 pg/mL, IL-10 detectable). They recover quickly from infections without prolonged fatigue or malaise. Supporting interventions include omega-3 fatty acids (2-3g daily) which promote anti-inflammatory signaling, regular moderate exercise that enhances IL-10 production, and Mediterranean diet patterns rich in polyphenols. Stress reduction through mindfulness decreases sympathetic-driven NF-κB activation. Recovery from addiction shows progressive normalization of cytokine profiles over 3-6 months.
+  lay_description: Think of cytokines as your body's emergency alert system - they should sound the alarm when there's danger but then quickly return to quiet monitoring. In this healthy state, your inflammatory signals work like a well-trained fire department that responds appropriately to fires but doesn't spray water everywhere constantly. Your body produces just enough inflammatory signals to fight threats, balanced by anti-inflammatory signals that prevent overreaction. This keeps you protected without the exhaustion and damage of constant inflammation.
+  key_mediators: TNF-α, IL-6, IL-1β, IL-10, TGF-β, NF-κB, IκB, IKK complex, A20 deubiquitinase, STAT3
+  key_mechanisms: Transient NF-κB activation, negative feedback loops, STAT3-mediated anti-inflammatory signaling, balanced Th1/Th2/Th17/Treg responses
+  clinical_relevance: Maintains metabolic health, cognitive function, mood stability, and appropriate immune responses without chronic inflammatory damage
+  assessment_methods: Cytokine panels, TNF-α/IL-10 ratio, NF-κB activation assays, gene expression profiling of inflammatory mediators
+  interventions: Omega-3 supplementation, exercise training, Mediterranean diet, stress reduction, adequate sleep, selective cytokine modulation if needed
+  prominent_models: Baltimore's NF-κB model, Medzhitov's inflammation-metabolism framework, Nathan's inflammation resolution paradigm
+- id: phy-met-inf-cyt-dys
+  label: Dysregulated Cytokine Signaling
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Cytokine storm
+  - Chronic NF-κB activation
+  - Inflammatory cytokine excess
+  scope: Chronic elevation of pro-inflammatory cytokines (TNF-α, IL-6, IL-1β) with suppressed anti-inflammatory signals (IL-10, TGF-β) and persistent NF-κB activation driving continuous inflammatory gene transcription.
+  parent_scope_inheritance: Specifies the cytokine signaling component of inflammatory response in its dysregulated state, showing chronic pro-inflammatory dominance and failed negative feedback.
+  polarity_expression: Manifests as persistently elevated inflammatory cytokines, chronic NF-κB nuclear localization, suppressed anti-inflammatory signaling, and systemic inflammatory symptoms.
+  cross_domain_resonance: Resonates with psy-cog-att-dis-mal (distractible attention), soc-fam-com-avo-fra (avoidant communication), and exi-mea-pur-apa-dir (apathetic purposelessness) through inflammatory impacts on brain function.
+  academic_description: Dysregulated cytokine signaling features constitutive NF-κB activation from failed negative feedback. Chronic alcohol and drug exposure leads to persistent IKK activation, continuous IκB degradation, and sustained NF-κB nuclear residence. Loss of A20 and other negative regulators perpetuates signaling. Epigenetic changes lock inflammatory genes in active chromatin states. Suppressed IL-10 and STAT3 signaling removes anti-inflammatory brakes. This creates feed-forward amplification where TNF-α and IL-1β drive their own production. Cellular senescence contributes SASP factors. The result is sterile inflammation without resolution.
+  clinical_description: Patients show elevated inflammatory markers (TNF-α >15 pg/mL, IL-6 >10 pg/mL, IL-10 low or undetectable, TNF-α/IL-10 ratio >2). They experience chronic fatigue, joint pain, cognitive fog, and mood disturbances. Metabolic complications include insulin resistance and dyslipidemia. Treatment requires aggressive anti-inflammatory approaches - high-dose omega-3s (4-6g daily), curcumin with piperine (1-2g daily), and potentially biological anti-cytokine therapies in severe cases. N-acetylcysteine (1200-1800mg) helps restore redox balance. Recovery is slow, requiring 6-12 months of sustained intervention.
+  lay_description: Imagine your body's alarm system is broken and constantly screaming 'FIRE!' even when there's no danger. Your inflammatory signals are stuck in the 'on' position, like a smoke detector that won't stop beeping. This creates constant inflammation throughout your body - you feel tired, achy, foggy-headed, and generally unwell. Your body is essentially fighting an enemy that isn't there, exhausting itself and causing collateral damage to healthy tissues. It's like having a mild flu that never goes away.
+  key_mediators: Elevated TNF-α, IL-6, IL-1β, IL-8; Suppressed IL-10, TGF-β; Constitutive NF-κB, degraded IκB, hyperactive IKK
+  key_mechanisms: Failed negative feedback, epigenetic inflammatory memory, SASP secretion, suppressed STAT3 signaling, M1 macrophage polarization
+  clinical_relevance: Drives insulin resistance, cardiovascular disease, neuroinflammation, depression, accelerated aging, and poor treatment outcomes
+  assessment_methods: Comprehensive cytokine panels, TNF-α/IL-10 ratio, hs-CRP, NF-κB DNA binding assays, inflammatory gene expression arrays
+  interventions: High-dose omega-3s, curcumin, resveratrol, NAC, anti-TNF biologics in severe cases, ketogenic diet, intensive exercise programs
+  prominent_models: Hotamisligil's metaflammation, Franceschi's inflammaging, Grivennikov's inflammation-cancer axis
+- id: phy-met-inf-inf-reg
+  label: Regulated Inflammasome Activity
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Controlled NLRP3 activation
+  - Appropriate inflammasome assembly
+  - Regulated pyroptosis
+  scope: Controlled assembly and activation of inflammasome complexes, particularly NLRP3, occurring only in response to genuine danger signals with rapid disassembly after threat resolution.
+  parent_scope_inheritance: Specifies the inflammasome component of inflammatory response, focusing on the regulated assembly of these multiprotein complexes that control IL-1β and IL-18 release.
+  polarity_expression: Manifests as appropriate inflammasome activation during infections or tissue damage with prompt resolution, normal IL-1β and IL-18 levels, and controlled pyroptotic cell death.
+  cross_domain_resonance: Resonates with psy-emo-reg-bal-ada (balanced regulation), soc-com-tru-tra-coh (transparent trust), and exi-spi-con-pre-pur (present connection) through inflammasome effects on mood and cognition.
+  academic_description: Regulated inflammasome activity involves two-signal control - priming through NF-κB and activation through DAMPs/PAMPs. NLRP3 oligomerization recruits ASC and pro-caspase-1 only when both signals align. Mitochondrial homeostasis prevents spurious activation from mtDNA/cardiolipin. Autophagy clears damaged mitochondria and inflammasome components. Post-translational modifications including ubiquitination and phosphorylation provide checkpoints. Caspase-1 activation remains proportional to threat level. Resolution involves inflammasome disassembly and component degradation.
+  clinical_description: Patients maintain normal IL-1β (<5 pg/mL) and IL-18 (<300 pg/mL) levels. They show appropriate fever responses to infection without excessive inflammation. Supporting interventions include ketogenic diet or intermittent fasting which reduces inflammasome priming, sulforaphane (broccoli sprouts) which activates Nrf2 to suppress NLRP3, and polyphenols from green tea and berries. Beta-hydroxybutyrate from ketosis directly inhibits NLRP3. Exercise-induced autophagy helps clear inflammasome components. Recovery involves gradual normalization of inflammasome sensitivity.
+  lay_description: Inflammasomes are like your body's fire alarm system that triggers sprinklers (releasing inflammatory molecules) when it detects smoke. In this healthy state, the alarm only goes off when there's real danger - infection or injury - and the sprinklers turn off once the fire is out. Your body carefully checks twice before activating this system, preventing false alarms. This keeps inflammation under control while still protecting you from real threats.
+  key_mediators: NLRP3, ASC, pro-caspase-1, IL-1β, IL-18, gasdermin D, β-hydroxybutyrate, type I interferons
+  key_mechanisms: Two-signal activation, mitochondrial quality control, autophagy-mediated clearance, post-translational regulation, controlled pyroptosis
+  clinical_relevance: Prevents sterile inflammation, maintains metabolic health, protects against inflammatory diseases while preserving immune defense
+  assessment_methods: IL-1β and IL-18 levels, caspase-1 activity assays, ASC speck formation, pyroptosis markers (LDH release)
+  interventions: Ketogenic diet, intermittent fasting, sulforaphane, EGCG, quercetin, exercise-induced autophagy, stress reduction
+  prominent_models: Schroder-Tschopp two-signal model, Latz's metabolic inflammasome activation, Hornung's mitochondrial dysfunction model
+- id: phy-met-inf-inf-dys
+  label: Dysregulated Inflammasome Activity
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Chronic NLRP3 activation
+  - Inflammasome hyperactivity
+  - Excessive pyroptosis
+  scope: Chronic activation of inflammasome complexes, particularly NLRP3, with excessive IL-1β and IL-18 release, widespread pyroptotic cell death, and amplification of inflammatory cascades.
+  parent_scope_inheritance: Specifies the inflammasome component of inflammatory response in its dysregulated state, showing chronic assembly and activation driving persistent IL-1β/IL-18 release.
+  polarity_expression: Manifests as chronic inflammasome activation, elevated IL-1β and IL-18, excessive pyroptotic cell death, and contribution to tissue damage and metabolic dysfunction.
+  cross_domain_resonance: Resonates with psy-emo-reg-ove-mal (overwhelmed regulation), soc-com-tru-bet-fra (betrayed trust), and exi-spi-con-dis-dir (disconnected spirituality) through inflammasome-driven neuroinflammation.
+  academic_description: Dysregulated inflammasome activity results from chronic alcohol/drug-induced mitochondrial damage releasing mtDNA and cardiolipin. Impaired mitophagy fails to clear damaged organelles. Metabolic stress from fatty acids, ceramides, and uric acid provides constant activation signals. Loss of negative regulators like A20 and impaired autophagy perpetuates assembly. Priming through chronic NF-κB activation lowers activation threshold. Gasdermin D pores cause excessive pyroptosis, releasing more DAMPs. This creates self-amplifying inflammation through IL-1β autocrine signaling.
+  clinical_description: Patients show elevated IL-1β (>10 pg/mL) and IL-18 (>500 pg/mL), with evidence of ongoing cell death (elevated LDH, HMGB1). They experience recurrent fevers, fatigue, and metabolic dysfunction. Treatment targets inflammasome inhibition - MCC950 or specific NLRP3 inhibitors when available, high-dose sulforaphane, ketogenic diet to produce BHB, and mitochondrial support with CoQ10 and PQQ. Anakinra (IL-1 receptor antagonist) may be used in severe cases. Recovery requires months of sustained mitochondrial rehabilitation.
+  lay_description: Your body's fire alarm is malfunctioning - it's constantly triggering the sprinkler system even when there's no fire. This releases inflammatory molecules (IL-1β and IL-18) that cause cells to burst open in a process called pyroptosis, like water damage from sprinklers that won't turn off. The cellular debris triggers more alarms, creating a vicious cycle. You feel constantly inflamed, tired, and unwell as your body damages itself with this overactive emergency response.
+  key_mediators: Hyperactive NLRP3, excessive IL-1β/IL-18, gasdermin D pores, mtDNA, cardiolipin, uric acid, ceramides
+  key_mechanisms: Mitochondrial dysfunction, impaired mitophagy, failed negative regulation, autocrine IL-1β amplification, excessive pyroptosis
+  clinical_relevance: Drives metabolic syndrome, NASH, atherosclerosis, neurodegeneration, depression, and accelerated aging
+  assessment_methods: IL-1β/IL-18 panels, LDH release, HMGB1 levels, ASC oligomerization assays, mitochondrial damage markers
+  interventions: NLRP3 inhibitors, IL-1 antagonists, ketogenic diet, sulforaphane, mitochondrial support, autophagy enhancers
+  prominent_models: Masters' sterile inflammation, Duewell's metabolic danger signals, Heneka's inflammasome-neurodegeneration axis
+- id: phy-met-inf-oxi-reg
+  label: Regulated Oxidative Balance
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Antioxidant sufficiency
+  - Redox homeostasis
+  - Oxidative equilibrium
+  scope: Balanced production of reactive oxygen species for signaling purposes with robust antioxidant defenses maintaining redox homeostasis and preventing oxidative damage to cellular components.
+  parent_scope_inheritance: Specifies the oxidative stress component of inflammatory response, focusing on the balance between ROS production and antioxidant defenses that prevents oxidative damage.
+  polarity_expression: Manifests as controlled ROS for cellular signaling, high antioxidant enzyme activity, adequate glutathione levels, and minimal oxidative damage markers.
+  cross_domain_resonance: Resonates with psy-cog-exe-pla-ada (planned execution), soc-occ-car-adv-coh (advancing career), and exi-gro-wis-int-pur (integrated wisdom) through oxidative effects on cellular aging and function.
+  academic_description: Regulated oxidative balance maintains physiological ROS for signaling while preventing damage. Mitochondrial complexes I/III produce controlled superoxide converted by SOD2 to H2O2 for signaling. Catalase and glutathione peroxidase eliminate excess H2O2. Nrf2 transcription factor responds to mild oxidative stress by upregulating antioxidant genes including glutathione synthesis enzymes, peroxiredoxins, and thioredoxins. NADPH maintains reduced glutathione pools. Mitochondrial quality control removes damaged organelles. Metal ions remain sequestered preventing Fenton reactions.
+  clinical_description: Patients show normal oxidative markers (malondialdehyde <2.5 μmol/L, 8-OHdG <10 ng/mL) with robust antioxidant capacity (total antioxidant status >1.5 mmol/L). Glutathione levels remain adequate (>800 μmol/L). Supporting interventions include colorful vegetables and fruits providing polyphenols, moderate exercise inducing hormetic stress response, and targeted antioxidants like NAC (600-1200mg), alpha-lipoic acid (300-600mg), and vitamin E (400 IU) with vitamin C (500-1000mg). Nrf2 activators like sulforaphane enhance endogenous defenses.
+  lay_description: Think of oxidative stress like rust forming in your body. In this healthy state, your body produces just enough 'rust-causing' molecules (free radicals) to serve as signals, while maintaining strong 'rust prevention' (antioxidants) to protect your cells. It's like having both controlled fire for warmth and plenty of fire extinguishers ready. Your cells stay young and healthy because they're protected from oxidative damage while still using oxygen effectively.
+  key_mediators: Superoxide dismutase (SOD), catalase, glutathione peroxidase, glutathione, Nrf2, thioredoxin, peroxiredoxins, vitamin E, vitamin C
+  key_mechanisms: Nrf2-ARE signaling, glutathione recycling, mitochondrial quality control, metal sequestration, enzymatic ROS scavenging
+  clinical_relevance: Prevents oxidative damage to DNA, proteins, and lipids; maintains cellular function, slows aging, supports metabolism
+  assessment_methods: Malondialdehyde, 8-OHdG, F2-isoprostanes, total antioxidant capacity, glutathione levels, SOD/catalase activity
+  interventions: Polyphenol-rich diet, NAC supplementation, alpha-lipoic acid, vitamins E/C, moderate exercise, Nrf2 activators
+  prominent_models: Sies' oxidative stress concept, Finkel's ROS signaling, Jones' redox systems biology
+- id: phy-met-inf-oxi-dys
+  label: Dysregulated Oxidative Balance
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Oxidative stress
+  - Antioxidant depletion
+  - Redox dysfunction
+  scope: Excessive production of reactive oxygen species overwhelming depleted antioxidant defenses, causing oxidative damage to DNA, proteins, and lipids with accumulation of advanced glycation end products.
+  parent_scope_inheritance: Specifies the oxidative stress component of inflammatory response in its dysregulated state, showing excessive ROS production with failed antioxidant defenses.
+  polarity_expression: Manifests as elevated oxidative damage markers, depleted antioxidants, mitochondrial dysfunction, AGE accumulation, and RAGE receptor activation driving further inflammation.
+  cross_domain_resonance: Resonates with psy-cog-exe-dis-mal (disorganized execution), soc-occ-car-sta-fra (stagnant career), and exi-gro-wis-rig-dir (rigid wisdom) through oxidative damage effects on cellular and cognitive function.
+  academic_description: Dysregulated oxidative balance results from alcohol/drug-induced CYP2E1 activation generating excessive ROS. NADPH oxidase hyperactivation and damaged mitochondria leak superoxide. Depleted glutathione from conjugation reactions and poor nutrition cannot neutralize ROS. Suppressed Nrf2 signaling fails to upregulate antioxidant genes. Iron release from damaged proteins catalyzes hydroxyl radical formation via Fenton reaction. Lipid peroxidation generates reactive aldehydes like 4-HNE and MDA. DNA oxidation produces 8-OHdG. AGEs accumulate, activating RAGE receptors that trigger more ROS via NADPH oxidase.
+  clinical_description: Patients show elevated oxidative markers (malondialdehyde >4 μmol/L, 8-OHdG >20 ng/mL, F2-isoprostanes >100 pg/mL) with depleted antioxidants (glutathione <600 μmol/L, low SOD/catalase activity). They experience accelerated aging, fatigue, and organ dysfunction. Treatment requires aggressive antioxidant support - NAC (1800-2400mg), alpha-lipoic acid (600-1200mg), CoQ10 (200-400mg), and vitamin E (800 IU) with vitamin C (2000mg). Intravenous glutathione or NAC may be needed initially. Recovery takes months with sustained supplementation.
+  lay_description: Your body is rusting from the inside out. Alcohol and drugs cause your cells to produce far more 'rust-causing' free radicals than normal, while depleting your natural 'rust prevention' antioxidants. It's like leaving metal in acid rain - everything starts breaking down. Your DNA gets damaged, proteins stop working properly, and cell membranes fall apart. You age faster, feel exhausted, and your organs struggle. This cellular rust also creates sticky sugar-protein combinations (AGEs) that gum up your system.
+  key_mediators: Excessive superoxide, hydroxyl radicals, peroxynitrite, 4-HNE, malondialdehyde, 8-OHdG, AGEs, activated RAGE, depleted glutathione
+  key_mechanisms: CYP2E1 activation, mitochondrial damage, Fenton reactions, lipid peroxidation, DNA oxidation, AGE-RAGE signaling, suppressed Nrf2
+  clinical_relevance: Accelerates aging, drives organ damage, promotes cancer, worsens inflammation, impairs healing and recovery
+  assessment_methods: Comprehensive oxidative stress panels, AGE fluorescence, RAGE expression, mitochondrial function tests, DNA damage assays
+  interventions: High-dose antioxidants, NAC, lipoic acid, mitochondrial support, AGE breakers, RAGE antagonists, hyperbaric oxygen
+  prominent_models: Halliwell's free radical theory, Brownlee's unifying hypothesis, Yan's AGE-RAGE axis
+- id: phy-met-inf-aph-reg
+  label: Regulated Acute Phase Response
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Appropriate systemic response
+  - Controlled acute phase proteins
+  - Normal inflammatory markers
+  scope: Appropriate production of acute phase proteins in response to infection or injury with timely resolution, maintaining normal baseline levels of CRP, fibrinogen, and other systemic inflammatory markers.
+  parent_scope_inheritance: Specifies the acute phase response component of inflammatory response, focusing on the systemic production of inflammatory proteins by the liver.
+  polarity_expression: Manifests as normal baseline CRP and ESR, appropriate acute phase protein elevation during illness with prompt return to baseline, and maintained albumin production.
+  cross_domain_resonance: Resonates with psy-tra-rec-res-ada (resilient recovery), soc-sup-pee-rec-coh (reciprocal peer support), and exi-dea-mor-acc-pur (accepting mortality) through systemic effects on wellbeing.
+  academic_description: Regulated acute phase response involves IL-6-mediated STAT3 activation in hepatocytes inducing controlled production of positive acute phase proteins (CRP, SAA, fibrinogen, haptoglobin) while maintaining albumin and transferrin. Response magnitude matches threat level through JAK-STAT regulation. SOCS proteins provide negative feedback. Resolution occurs through IL-6 receptor shedding and STAT3 dephosphorylation. Anti-inflammatory cytokines like IL-10 terminate response. Cortisol provides additional control. Nutritional status supports appropriate protein synthesis.
+  clinical_description: Patients maintain normal inflammatory markers at baseline (hs-CRP <1 mg/L optimal, <3 mg/L normal; ESR <20 mm/hr; fibrinogen 200-400 mg/dL). During infection, appropriate elevation occurs with resolution within 1-2 weeks. Supporting interventions include regular moderate exercise reducing baseline CRP by 20-30%, weight optimization as adipose tissue produces IL-6, and anti-inflammatory nutrition. Omega-3s, fiber, and polyphenols help maintain low baseline inflammation. Stress management prevents cortisol-driven acute phase activation.
+  lay_description: Your liver acts like a factory that produces inflammation proteins when you're sick or injured - think of it as your body's emergency supply system. In this healthy state, the factory runs at low production normally but can ramp up quickly when needed, then returns to baseline once the crisis passes. Your CRP (C-reactive protein) stays low unless you're fighting something, then rises and falls appropriately. It's like having a well-managed emergency response team that doesn't overreact.
+  key_mediators: IL-6, STAT3, CRP, serum amyloid A, fibrinogen, haptoglobin, albumin, transferrin, SOCS proteins, cortisol
+  key_mechanisms: IL-6/STAT3 signaling, SOCS-mediated feedback, hepatocyte acute phase gene transcription, resolution through receptor shedding
+  clinical_relevance: Maintains appropriate inflammatory responses, supports healing, prevents chronic inflammation and cardiovascular risk
+  assessment_methods: hs-CRP, ESR, fibrinogen, albumin, complete acute phase protein panel, IL-6 levels
+  interventions: Regular exercise, weight management, anti-inflammatory diet, omega-3 supplementation, stress reduction, adequate sleep
+  prominent_models: Gabay's acute phase response, Heinrich's IL-6 signaling, Kushner's CRP regulation
+- id: phy-met-inf-aph-dys
+  label: Dysregulated Acute Phase Response
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Chronic acute phase activation
+  - Persistent inflammatory markers
+  - Systemic inflammatory state
+  scope: Chronic elevation of acute phase proteins including CRP, fibrinogen, and serum amyloid A with suppressed albumin production, indicating persistent systemic inflammation without resolution.
+  parent_scope_inheritance: Specifies the acute phase response component of inflammatory response in its dysregulated state, showing chronic hepatic production of inflammatory proteins.
+  polarity_expression: Manifests as persistently elevated CRP and ESR, high fibrinogen increasing thrombotic risk, low albumin, and systemic inflammatory symptoms.
+  cross_domain_resonance: Resonates with psy-tra-rec-stu-mal (stuck recovery), soc-sup-pee-iso-fra (isolated from peers), and exi-dea-mor-den-dir (denying mortality) through chronic inflammation effects.
+  academic_description: Dysregulated acute phase response results from chronic IL-6 elevation from adipose tissue, damaged liver, and gut-derived endotoxin. Persistent STAT3 activation overwhelms SOCS feedback. Alcohol-induced liver dysfunction skews protein production toward inflammatory proteins while suppressing albumin. Adipokine dysregulation contributes chronic stimulation. Failed resolution mechanisms cannot terminate response. Fibrinogen elevation increases blood viscosity and thrombotic risk. CRP itself becomes pathogenic, activating complement and promoting endothelial dysfunction. SAA deposits cause amyloidosis.
+  clinical_description: Patients show chronically elevated markers (hs-CRP >3 mg/L often >10; ESR >40 mm/hr; fibrinogen >450 mg/dL) with low albumin (<3.5 g/dL). This indicates high cardiovascular risk and poor prognosis. Treatment requires addressing underlying drivers - weight loss reduces adipose IL-6, treating gut permeability decreases endotoxin, supporting liver function improves protein balance. Statins reduce CRP independent of cholesterol. Aspirin provides anti-inflammatory effects. Intensive lifestyle modification with very low-calorie diet can normalize CRP. Recovery is slow, taking 6-12 months.
+  lay_description: Your liver's inflammation factory is stuck in overdrive, constantly producing inflammatory proteins like it's always fighting a major infection. Your CRP stays high all the time, not just when you're sick. It's like having a smoke alarm that never stops ringing - exhausting and damaging. This makes your blood thicker and stickier (from high fibrinogen), increasing heart attack and stroke risk. Meanwhile, your liver can't make enough good proteins like albumin, leaving you weak and swollen.
+  key_mediators: Chronic IL-6, constitutive STAT3, elevated CRP/SAA/fibrinogen, suppressed albumin, failed SOCS feedback, adipokines
+  key_mechanisms: Persistent hepatic STAT3 activation, adipose IL-6 secretion, endotoxin-driven stimulation, failed resolution, CRP-mediated pathology
+  clinical_relevance: Major cardiovascular risk factor, promotes thrombosis, indicates poor prognosis, drives metabolic dysfunction
+  assessment_methods: Serial hs-CRP monitoring, comprehensive acute phase panels, fibrinogen levels, albumin/prealbumin, IL-6 assays
+  interventions: Weight loss programs, gut healing protocols, statins, aspirin, intensive lifestyle modification, anti-IL-6 therapies in severe cases
+  prominent_models: Ridker's CRP-cardiovascular risk, Pepys' acute phase biology, Libby's inflammation-atherosclerosis hypothesis
+- id: phy-met-inf-res-reg
+  label: Regulated Resolution Pathways
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Active resolution
+  - SPM production
+  - Inflammation resolution
+  scope: Active production of specialized pro-resolving mediators (resolvins, protectins, maresins) that terminate inflammation, clear debris, promote tissue repair, and restore homeostasis.
+  parent_scope_inheritance: Specifies the resolution pathway component of inflammatory response, focusing on the active biochemical processes that terminate inflammation and promote healing.
+  polarity_expression: Manifests as efficient inflammation resolution, adequate omega-3 derived SPM production, timely clearance of inflammatory cells, and restoration of tissue homeostasis.
+  cross_domain_resonance: Resonates with psy-gri-los-acc-ada (accepting loss), soc-fam-par-nur-coh (nurturing parenting), and exi-tra-cri-res-pur (resolved crisis) through resolution of inflammatory and psychological challenges.
+  academic_description: Regulated resolution involves enzymatic conversion of omega-3 fatty acids EPA and DHA into specialized pro-resolving mediators. 5-lipoxygenase and 15-lipoxygenase generate E-series and D-series resolvins respectively. Protectins and maresins provide additional resolution signals. These SPMs stop neutrophil infiltration, promote neutrophil apoptosis, enhance macrophage efferocytosis, and switch macrophages to M2 phenotype. They reduce inflammatory cytokines while increasing IL-10 and TGF-β. SPMs also promote tissue regeneration and pain resolution. Annexin A1 and other resolution mediators complement SPM actions.
+  clinical_description: Patients with intact resolution show rapid recovery from inflammatory insults, normal omega-3 index (>8%), and detectable SPM levels. Wounds heal normally, infections clear efficiently, and inflammatory conditions resolve. Supporting interventions include high-dose omega-3s (EPA/DHA 3-4g daily) providing SPM precursors, with higher doses during active inflammation. Aspirin at low doses triggers SPM production through acetylation of COX-2. Exercise enhances SPM production. Avoiding omega-6 excess prevents competition for enzymes. Resolution can be monitored through inflammatory marker kinetics.
+  lay_description: Your body has specialized molecules called resolvins and protectins that act like a cleanup crew after inflammation - they're made from omega-3 fats from fish oil. Think of inflammation like a fire, and these molecules as the team that not only puts out the fire but also cleans up the damage and rebuilds. In this healthy state, your body efficiently makes these resolution molecules, so inflammation ends properly instead of smoldering. Wounds heal well, infections clear completely, and you bounce back quickly from illness.
+  key_mediators: EPA, DHA, resolvin E1/E2, resolvin D1-D6, protectin D1, maresin 1/2, lipoxin A4, annexin A1, IL-10, TGF-β
+  key_mechanisms: Lipoxygenase-mediated SPM synthesis, neutrophil apoptosis, enhanced efferocytosis, macrophage reprogramming, tissue regeneration signals
+  clinical_relevance: Ensures complete inflammation resolution, prevents chronic inflammation, supports healing and recovery, reduces disease risk
+  assessment_methods: Omega-3 index, SPM levels by LC-MS/MS, resolution interval measurement, wound healing assessment, cytokine resolution kinetics
+  interventions: Omega-3 supplementation, SPM supplementation, low-dose aspirin, exercise, adequate protein for tissue repair
+  prominent_models: Serhan's resolution physiology, Levy's SPM biology, Tabas' failed resolution hypothesis
+- id: phy-met-inf-res-dys
+  label: Dysregulated Resolution Pathways
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Failed resolution
+  - SPM deficiency
+  - Non-resolving inflammation
+  scope: Impaired production of specialized pro-resolving mediators with failed inflammation termination, persistent inflammatory cell infiltration, and inability to restore tissue homeostasis.
+  parent_scope_inheritance: Specifies the resolution pathway component of inflammatory response in its dysregulated state, showing failed active resolution leading to chronic inflammation.
+  polarity_expression: Manifests as non-resolving inflammation, deficient SPM production, persistent neutrophil infiltration, failed tissue repair, and chronic inflammatory disease.
+  cross_domain_resonance: Resonates with psy-gri-los-den-mal (denying loss), soc-fam-par-neg-fra (neglectful parenting), and exi-tra-cri-avo-dir (avoiding crisis) through failed resolution processes.
+  academic_description: Dysregulated resolution results from omega-3 deficiency and enzyme dysfunction preventing SPM synthesis. Alcohol impairs lipoxygenase enzymes. High omega-6 intake competitively inhibits omega-3 conversion. Oxidative stress damages resolution enzymes. Failed SPM production means neutrophils persist, undergoing necrosis instead of apoptosis, releasing more inflammatory mediators. Macrophages remain M1 polarized. Efferocytosis fails, leaving cellular debris. Tissue repair signals are absent. This creates non-resolving inflammation characteristic of chronic disease. Resolution checkpoint failure perpetuates inflammation indefinitely.
+  clinical_description: Patients show low omega-3 index (<4%), undetectable or very low SPM levels, and chronic non-healing inflammation. Wounds heal poorly, infections linger, and inflammatory conditions become chronic. Treatment requires high-dose omega-3s (6-10g daily) to overcome enzyme competition, potentially with direct SPM supplementation. Specialized pro-resolving mediator therapy is emerging. Removing resolution inhibitors (high omega-6, alcohol, oxidative stress) is crucial. Recovery requires months of sustained omega-3 supplementation to rebuild membrane composition and enzyme function.
+  lay_description: Your body has lost the ability to properly end inflammation - it's like having firefighters who can spray water but don't know how to turn it off or clean up afterwards. Without enough omega-3 fats and with damaged resolution systems, your body can't make the special molecules (resolvins) that stop inflammation and start healing. Inflammation becomes chronic, like a fire that never quite goes out but keeps smoldering and causing damage. Wounds don't heal properly, you stay sick longer, and everything becomes a chronic problem.
+  key_mediators: Deficient EPA/DHA, absent resolvins/protectins/maresins, persistent inflammatory cytokines, failed IL-10/TGF-β induction
+  key_mechanisms: Failed SPM synthesis, persistent neutrophil survival, sustained M1 macrophages, impaired efferocytosis, absent regeneration signals
+  clinical_relevance: Drives chronic inflammatory diseases, impairs wound healing, prolongs infections, accelerates tissue damage and fibrosis
+  assessment_methods: Omega-3 index testing, SPM deficiency panels, non-healing wound assessment, chronic inflammatory markers
+  interventions: High-dose omega-3s, direct SPM supplementation, remove omega-6 excess, antioxidant support for enzymes, resolution-targeted therapies
+  prominent_models: Serhan's failed resolution, Nathan's non-resolving inflammation, Spite's resolution pharmacology
+- id: phy-met-inf-gut-reg
+  label: Regulated Gut-Immune Axis
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Intact intestinal barrier
+  - Controlled endotoxin exposure
+  - Gut-immune homeostasis
+  scope: Maintained intestinal barrier integrity with controlled exposure to gut-derived endotoxins, appropriate immune tolerance to commensal bacteria, and balanced gut-immune communication.
+  parent_scope_inheritance: Specifies the gut-immune component of inflammatory response, focusing on intestinal barrier function and its role in preventing endotoxin-driven systemic inflammation.
+  polarity_expression: Manifests as intact tight junctions, low intestinal permeability, minimal LPS translocation, appropriate mucosal immunity, and absence of endotoxemia.
+  cross_domain_resonance: Resonates with psy-anx-wor-cal-ada (calm worry), soc-com-bou-cle-coh (clear boundaries), and exi-aut-age-sel-pur (self-directed agency) through gut-brain axis effects.
+  academic_description: Regulated gut-immune axis maintains intestinal barrier through tight junction proteins (occludin, claudins, ZO-1) preventing paracellular permeability. Mucus layer and antimicrobial peptides provide additional defense. Secretory IgA maintains immune tolerance to commensals while defending against pathogens. Intestinal alkaline phosphatase detoxifies LPS. Regulatory T cells and IL-10 prevent excessive responses to normal flora. Short-chain fatty acids from beneficial bacteria strengthen barrier and reduce inflammation. Vagal tone supports barrier integrity and anti-inflammatory signaling.
+  clinical_description: Patients maintain normal intestinal permeability (lactulose/mannitol ratio <0.03), undetectable or very low serum LPS, and absence of antibodies to LPS or flagellin. They have healthy, diverse gut microbiota without dysbiosis. Supporting interventions include probiotics (multi-strain, 10-50 billion CFU), prebiotics (fiber, resistant starch), L-glutamine (5-10g daily) for enterocyte fuel, and zinc carnosine for barrier support. Bone broth provides glycine and proline for tissue repair. Stress reduction and adequate sleep support barrier function.
+  lay_description: Your gut lining acts like a smart security fence, letting nutrients through while keeping harmful bacteria and their toxins out of your bloodstream. In this healthy state, the fence is intact with tight connections between cells, a protective mucus layer, and friendly bacteria that help guard the border. This prevents 'leaky gut' where bacterial toxins escape into your body causing inflammation. Your immune system peacefully coexists with your gut bacteria instead of constantly fighting them.
+  key_mediators: Occludin, claudins, ZO-1, mucin-2, secretory IgA, intestinal alkaline phosphatase, IL-10, butyrate, Akkermansia muciniphila
+  key_mechanisms: Tight junction assembly, mucus production, IgA secretion, LPS detoxification, regulatory T cell function, SCFA production
+  clinical_relevance: Prevents endotoxemia, reduces systemic inflammation, maintains metabolic health, supports mental health through gut-brain axis
+  assessment_methods: Intestinal permeability tests, serum LPS/LBP, anti-LPS antibodies, zonulin levels, microbiome analysis, calprotectin
+  interventions: Probiotics, prebiotics, L-glutamine, zinc carnosine, bone broth, stress management, adequate sleep, avoiding gut irritants
+  prominent_models: Fasano's intestinal permeability, Round's microbiota-immune crosstalk, Cani's metabolic endotoxemia
+- id: phy-met-inf-gut-dys
+  label: Dysregulated Gut-Immune Axis
+  forest: Physiological
+  forest_id: phy
+  field: Metabolic
+  field_id: phy-met
+  cluster: Inflammatory Response
+  cluster_id: phy-met-inf
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - Leaky gut
+  - Metabolic endotoxemia
+  - Gut-immune dysfunction
+  scope: Compromised intestinal barrier with increased permeability, chronic translocation of bacterial endotoxins into circulation, loss of immune tolerance, and gut-driven systemic inflammation.
+  parent_scope_inheritance: Specifies the gut-immune component of inflammatory response in its dysregulated state, showing failed barrier function driving endotoxin-mediated inflammation.
+  polarity_expression: Manifests as disrupted tight junctions, increased intestinal permeability, elevated circulating LPS, TLR4 activation, and chronic low-grade endotoxemia.
+  cross_domain_resonance: Resonates with psy-anx-wor-rum-mal (ruminative worry), soc-com-bou-vio-fra (violated boundaries), and exi-aut-age-con-dir (controlled agency) through gut-brain inflammation.
+  academic_description: Dysregulated gut-immune axis features alcohol and drug-induced tight junction disruption. Acetaldehyde and other metabolites damage occludin and ZO-1. Dysbiosis with pathobiont overgrowth increases LPS load. Reduced Akkermansia and butyrate producers weakens barrier. Alcohol depletes intestinal alkaline phosphatase, failing to detoxify LPS. Translocated LPS binds TLR4 on immune cells and adipocytes, triggering NF-κB activation. LPS-binding protein and CD14 amplify responses. This metabolic endotoxemia drives systemic inflammation, insulin resistance, and liver damage. Loss of regulatory T cells and IL-10 perpetuates inflammation.
+  clinical_description: Patients show increased intestinal permeability (lactulose/mannitol >0.07), elevated serum LPS (>100 pg/mL), high LPS-binding protein, and positive anti-LPS antibodies. Zonulin is elevated (>30 ng/mL). They experience bloating, irregular bowel habits, food sensitivities, and systemic inflammation. Treatment requires comprehensive gut restoration - removing alcohol/irritants, 4R protocol (remove, replace, reinoculate, repair), high-dose probiotics including Akkermansia, prebiotics, L-glutamine (15-30g daily), and mucosal healing nutrients. May require months of sustained intervention.
+  lay_description: Your gut lining has become like a broken fence with gaps that let harmful bacteria and their toxins leak into your bloodstream - this is called 'leaky gut.' Alcohol and drugs damage the connections between gut cells, while killing beneficial bacteria that normally protect the barrier. Bacterial toxins (endotoxin/LPS) constantly seep into your blood, making your immune system react like you have a chronic infection. This drives inflammation throughout your body, affecting everything from your liver to your brain, making you feel sick, tired, and mentally foggy.
+  key_mediators: Disrupted occludin/claudins, elevated zonulin, circulating LPS, LPS-binding protein, activated TLR4, reduced butyrate, dysbiotic microbiota
+  key_mechanisms: Tight junction disruption, dysbiosis, failed LPS detoxification, TLR4-NF-κB activation, loss of regulatory immunity, reduced SCFA production
+  clinical_relevance: Drives systemic inflammation, metabolic syndrome, NAFLD progression, depression, autoimmune activation, poor treatment outcomes
+  assessment_methods: Comprehensive intestinal permeability testing, serum endotoxin markers, microbiome sequencing, inflammatory markers, food sensitivity panels
+  interventions: 4R gut restoration protocol, targeted probiotics, mucosal healing nutrients, remove alcohol/NSAIDs, treat dysbiosis, support liver detoxification
+  prominent_models: Schnabl's gut-liver axis, Tilg's leaky gut hypothesis, de Vos' Akkermansia protection

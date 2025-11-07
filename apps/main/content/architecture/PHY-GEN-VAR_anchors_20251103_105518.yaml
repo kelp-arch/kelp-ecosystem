@@ -1,0 +1,274 @@
+# Generated anchors for cluster: PHY-GEN-VAR
+# Timestamp: 20251103_105518
+
+anchors:
+- id: phy-gen-var-drd-reg
+  label: DRD2 Normal Density
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - D2 receptor sufficiency
+  - Normal receptor expression
+  - Taq1A A2/A2 genotype
+  scope: Normal dopamine D2 receptor density in striatum and reward circuits enabling balanced reward sensitivity and appropriate satiation after natural and drug rewards.
+  parent_scope_inheritance: Specifies the functional state of DRD2 genetic variants where protective alleles maintain normal receptor density and dopaminergic signaling.
+  polarity_expression: Regulated state manifests as sufficient D2 receptor availability supporting normal motivation, reward learning, and behavioral inhibition without requiring excessive stimulation.
+  cross_domain_resonance: Resonates with psy-rew-nat-ada (natural reward processing), psy-exe-inh-ada (inhibitory control), and soc-fam-res-coh (genetic resilience factors).
+  academic_description: Wild-type DRD2 alleles maintain normal D2 receptor density of approximately 15-20 Bmax/mg protein in striatum. A2/A2 genotype associated with higher receptor availability, better impulse control, and lower addiction risk across substances. Normal density supports both D2 autoreceptor function regulating dopamine release and postsynaptic signaling mediating reward and motivation.
+  clinical_description: Individuals with normal D2 receptor density typically show balanced reward processing and lower addiction vulnerability. They respond appropriately to behavioral interventions and natural reinforcers. Standard prevention approaches work well. If substance use develops, conventional treatments including behavioral therapy and standard medication dosing are usually effective. Important to avoid assuming immunity as environmental factors still play major role.
+  lay_description: Having the common version of the DRD2 gene means your brain has a normal number of dopamine receptors - like having the right number of parking spots for dopamine molecules. This helps you feel satisfied with everyday pleasures and makes you less likely to seek extreme thrills or substances to feel good.
+  key_mediators: D2 dopamine receptors, dopamine, cyclic AMP, DARPP-32, adenylyl cyclase
+  key_mechanisms: Normal receptor trafficking and membrane insertion, balanced G-protein coupling, appropriate receptor desensitization and resensitization, maintained autoreceptor feedback
+  clinical_relevance: Lower risk for substance use disorders, gambling disorder, and other addictive behaviors. Better treatment response to standard interventions.
+  assessment_methods: Genetic testing for Taq1A polymorphism, PET imaging with raclopride or fallypride, family history assessment
+  interventions: Standard prevention programs, cognitive behavioral therapy, contingency management, mindfulness-based interventions, natural reward enhancement
+  prominent_models: Reward deficiency syndrome model (inverse), dopamine receptor density hypothesis, balanced dopamine hypothesis
+- id: phy-gen-var-drd-dys
+  label: DRD2 Reduced Density
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - D2 receptor deficiency
+  - Reward deficiency syndrome
+  - Taq1A A1 carrier
+  scope: Genetically determined 30-40% reduction in dopamine D2 receptor density leading to heightened reward-seeking behavior and increased vulnerability to addictive substances and behaviors.
+  parent_scope_inheritance: Specifies the dysfunctional state of DRD2 genetic variants where risk alleles cause receptor deficiency and impaired dopaminergic signaling.
+  polarity_expression: Dysregulated state manifests as insufficient D2 receptor availability requiring excessive stimulation to achieve normal reward satisfaction and compromised inhibitory control.
+  cross_domain_resonance: Resonates with psy-rew-inc-mal (pathological incentive salience), psy-exe-inh-mal (disinhibition), and soc-fam-tra-fra (transmitted genetic vulnerability).
+  academic_description: 'DRD2 Taq1A A1 allele carriers show 30-40% reduction in D2 receptor density, with A1/A1 homozygotes most severely affected. Associated with reduced glucose metabolism in dopaminergic regions, increased substance use initiation, faster progression to dependence, and poorer treatment outcomes. A1 allele frequency varies by population: 40-50% in some Native American groups, 20-30% in Europeans, 40% in African Americans.'
+  clinical_description: Patients with A1 allele show heightened reward-seeking requiring enhanced behavioral interventions. May need higher intensity contingency management, more frequent sessions, and augmented pharmacotherapy. Consider dopamine-enhancing medications carefully as receptor deficiency may alter response. Family counseling important given 50% transmission risk. Emphasize that genetic risk doesn't guarantee addiction but indicates need for enhanced prevention and early intervention.
+  lay_description: Having the A1 variant means your brain has fewer dopamine receptors - like having too few parking spots for dopamine molecules. This can make everyday pleasures feel less satisfying, leading you to seek out stronger experiences or substances to feel the same reward that others get from normal activities.
+  key_mediators: Reduced D2 receptors, compensatory dopamine release, altered cyclic AMP signaling, modified DARPP-32 phosphorylation
+  key_mechanisms: Decreased receptor synthesis or increased degradation, compromised autoreceptor feedback leading to dopamine dysregulation, enhanced incentive sensitization, impaired inhibitory control circuits
+  clinical_relevance: 2-4 fold increased risk for alcohol, cocaine, opioid, and nicotine dependence. Associated with earlier onset, more severe addiction, and poorer treatment response.
+  assessment_methods: Taq1A genotyping, PET imaging showing reduced binding potential, family pedigree analysis, behavioral phenotyping for reward sensitivity
+  interventions: Intensive behavioral interventions, higher magnitude contingency management, dopamine partial agonists, bupropion augmentation, environmental enrichment strategies
+  prominent_models: Reward deficiency syndrome, hypodopaminergic hypothesis, allostatic model of addiction
+- id: phy-gen-var-com-reg
+  label: COMT Balanced Activity
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Optimal dopamine catabolism
+  - COMT Val/Met heterozygote
+  - Balanced enzyme function
+  scope: Intermediate COMT enzyme activity maintaining optimal dopamine levels in prefrontal cortex, supporting both cognitive flexibility and emotional stability across varying stress conditions.
+  parent_scope_inheritance: Specifies the functional state of COMT genetic variants where balanced enzyme activity enables efficient dopamine metabolism without extremes of accumulation or depletion.
+  polarity_expression: Regulated state manifests as appropriate dopamine clearance maintaining cognitive performance under both low and high stress conditions without vulnerability to either rigid perseveration or distractibility.
+  cross_domain_resonance: Resonates with psy-exe-cfl-ada (cognitive flexibility), psy-emo-str-ada (stress resilience), and phy-neu-dop-reg (dopamine balance).
+  academic_description: 'COMT Val/Met heterozygotes show intermediate enzyme activity between Val/Val (high activity) and Met/Met (low activity) homozygotes. This ''heterozygote advantage'' provides optimal prefrontal dopamine tone: sufficient clearance to prevent accumulation during stress but adequate availability for cognitive tasks. Associated with balanced performance on working memory tasks and moderate stress reactivity.'
+  clinical_description: Individuals with balanced COMT activity typically show good stress resilience and cognitive flexibility. They respond well to standard cognitive behavioral interventions and stress management techniques. Neither particularly vulnerable nor resistant to stress-induced relapse. Treatment planning can follow standard protocols without special considerations for dopamine metabolism extremes.
+  lay_description: Having a balanced version of the COMT gene means your brain clears dopamine at just the right speed - not too fast, not too slow. This helps you stay focused when calm and adapt when stressed, like having a thermostat that keeps your mental temperature just right.
+  key_mediators: COMT enzyme, dopamine, norepinephrine, 3-methoxytyramine, homovanillic acid
+  key_mechanisms: Intermediate enzyme thermostability, balanced catecholamine degradation, maintained prefrontal cortex dopamine tone, appropriate stress response modulation
+  clinical_relevance: Moderate addiction risk with good treatment response. Balanced vulnerability to both stress-induced and reward-driven relapse patterns.
+  assessment_methods: Val158Met genotyping, enzyme activity assays, cognitive testing under stress, cortisol response measurement
+  interventions: Standard cognitive behavioral therapy, stress management training, mindfulness practices, regular exercise, balanced lifestyle interventions
+  prominent_models: Inverted-U dopamine function model, warrior/worrier hypothesis, tonic-phasic dopamine model
+- id: phy-gen-var-com-dys
+  label: COMT Extreme Activity
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - COMT Met/Met or Val/Val
+  - Dopamine metabolism extremes
+  - Enzyme activity imbalance
+  scope: Extreme COMT enzyme activity causing either excessive dopamine accumulation (Met/Met) leading to stress sensitivity and cognitive rigidity, or rapid clearance (Val/Val) causing cognitive instability and reward-seeking.
+  parent_scope_inheritance: Specifies the dysfunctional state of COMT genetic variants where extreme enzyme activity disrupts optimal dopamine metabolism and stress response.
+  polarity_expression: Dysregulated state manifests as either 3-4 fold reduced enzyme activity causing dopamine excess and stress vulnerability, or high activity causing dopamine depletion and cognitive instability.
+  cross_domain_resonance: Resonates with psy-exe-wkm-mal (working memory deficits), psy-emo-anx-mal (anxiety vulnerability), and phy-str-cor-dys (stress axis dysfunction).
+  academic_description: COMT Met/Met genotype shows 3-4 fold lower enzyme activity at 37°C due to thermolability, causing prefrontal dopamine accumulation. Associated with superior cognitive performance at baseline but catastrophic decline under stress. Val/Val genotype rapidly clears dopamine, showing stress resilience but higher sensation-seeking and substance use. Met/Met linked to anxiety and pain sensitivity; Val/Val to schizophrenia and addiction risk.
+  clinical_description: Met/Met carriers require intensive stress inoculation and relapse prevention focused on emotional triggers. Vulnerable to stress-induced relapse despite good baseline function. Val/Val carriers need enhanced cognitive training and may benefit from dopamine-enhancing medications. Consider COMT inhibitors for Val/Val or cognitive enhancers for Met/Met. Personalize treatment intensity based on specific vulnerability pattern.
+  lay_description: Having extreme versions of the COMT gene means your brain either holds onto dopamine too long (making you anxious and rigid when stressed) or clears it too quickly (making you restless and reward-seeking). It's like having a drain that's either clogged or too open.
+  key_mediators: Altered COMT enzyme levels, dopamine accumulation or depletion, norepinephrine imbalance, disrupted catechol estrogens
+  key_mechanisms: Thermolabile enzyme (Met) or hyperactive degradation (Val), prefrontal cortex dopamine dysregulation, altered stress-induced dopamine release, compromised cognitive control
+  clinical_relevance: 'Met/Met: high anxiety, pain sensitivity, stress-induced relapse. Val/Val: cognitive instability, sensation-seeking, substance initiation risk.'
+  assessment_methods: Val158Met genotyping, enzyme thermostability testing, stress response protocols, pain threshold assessment, cognitive battery under stress
+  interventions: 'Met/Met: stress inoculation, anxiety management, environmental modification. Val/Val: cognitive training, dopamine augmentation, structured environments'
+  prominent_models: Warrior (Val/Val) vs Worrier (Met/Met) model, stress-diathesis model, gene-environment interaction framework
+- id: phy-gen-var-opr-reg
+  label: OPRM1 Normal Function
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - Normal opioid binding
+  - A118 wild-type
+  - Intact receptor glycosylation
+  scope: Normal mu-opioid receptor structure and function with appropriate glycosylation enabling optimal endorphin binding and balanced response to both endogenous opioids and exogenous opioid medications.
+  parent_scope_inheritance: Specifies the functional state of OPRM1 genetic variants where normal receptor structure maintains appropriate opioid system function and pain modulation.
+  polarity_expression: Regulated state manifests as normal receptor glycosylation and membrane expression supporting appropriate pain relief, stress buffering, and reward processing through endogenous opioid systems.
+  cross_domain_resonance: Resonates with psy-sen-pai-ada (adaptive pain processing), phy-neu-opi-reg (opioid system balance), and psy-emo-ple-ada (hedonic regulation).
+  academic_description: OPRM1 A118 wild-type maintains normal N-glycosylation at asparagine 40, ensuring proper receptor folding, trafficking, and membrane stability. Normal beta-endorphin binding affinity supports endogenous analgesia and stress regulation. Standard mu-opioid receptor density and G-protein coupling efficiency. Associated with typical opioid analgesic requirements and lower addiction risk.
+  clinical_description: Patients with normal OPRM1 function show predictable responses to opioid medications and standard analgesic requirements. Endogenous opioid system provides appropriate stress buffering and pain modulation. Standard opioid prescribing guidelines apply. Normal risk for opioid use disorder with appropriate monitoring. Respond well to non-opioid pain management strategies.
+  lay_description: Having the common version of the OPRM1 gene means your body's natural painkiller system works normally. Your brain responds appropriately to its own endorphins and to pain medications, providing relief without requiring excessive amounts.
+  key_mediators: Mu-opioid receptors, beta-endorphin, enkephalins, dynorphins, G-protein signaling molecules
+  key_mechanisms: Normal receptor glycosylation and trafficking, appropriate G-protein coupling, balanced receptor desensitization, maintained endorphin binding affinity
+  clinical_relevance: Standard opioid dosing requirements, normal addiction risk, appropriate endogenous pain control, typical stress response buffering
+  assessment_methods: A118G genotyping, opioid binding assays, pain threshold testing, naloxone challenge response, endorphin level measurement
+  interventions: Standard pain management protocols, multimodal analgesia, cognitive behavioral therapy for pain, exercise-induced endorphin release, stress reduction techniques
+  prominent_models: Endogenous opioid system model, gate control theory of pain, opponent process theory
+- id: phy-gen-var-opr-dys
+  label: OPRM1 Altered Binding
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - G118 variant
+  - Altered opioid response
+  - Receptor glycosylation defect
+  scope: OPRM1 A118G variant causing loss of N-glycosylation site, altering receptor structure and reducing beta-endorphin binding affinity, leading to modified pain perception and increased opioid requirements.
+  parent_scope_inheritance: Specifies the dysfunctional state of OPRM1 genetic variants where altered receptor structure disrupts normal opioid system function and increases addiction vulnerability.
+  polarity_expression: Dysregulated state manifests as reduced receptor glycosylation compromising endorphin binding and requiring higher exogenous opioid doses for equivalent effect.
+  cross_domain_resonance: Resonates with psy-sen-pai-mal (pain catastrophizing), phy-neu-opi-dys (opioid system dysfunction), and psy-cra-opi-mal (opioid craving).
+  academic_description: 'OPRM1 118G allele eliminates N-glycosylation site through Asn40Asp substitution, reducing beta-endorphin binding 3-fold and decreasing receptor expression by 50%. Associated with reduced opioid-induced pupil constriction, higher post-operative opioid requirements, and enhanced alcohol-induced dopamine release. G-allele frequency: 40% in Asians, 15% in Europeans, 5% in African Americans.'
+  clinical_description: G-allele carriers often require 2-3 times higher opioid doses for adequate analgesia, increasing exposure and addiction risk. Show reduced endogenous pain control and stress buffering. May experience enhanced euphoria from alcohol. Consider non-opioid alternatives when possible. If opioids necessary, expect higher dosing needs but maintain careful monitoring. Increased risk for both opioid and alcohol use disorders.
+  lay_description: Having the G variant of the OPRM1 gene changes how opioid receptors in your brain are built, making them less sensitive to your body's natural painkillers. This means you might need stronger doses of pain medication and could be more vulnerable to developing dependence.
+  key_mediators: Altered mu-opioid receptors, reduced beta-endorphin binding, modified G-protein signaling, altered dopamine release
+  key_mechanisms: Loss of glycosylation affecting receptor stability, reduced membrane expression, decreased endorphin binding affinity, enhanced alcohol-induced reward
+  clinical_relevance: Higher opioid dose requirements, increased addiction risk, reduced placebo analgesia, enhanced alcohol reward, poor response to naltrexone
+  assessment_methods: A118G genotyping, opioid dose-response curves, pupillometry testing, alcohol-induced dopamine imaging, pain sensitivity assessment
+  interventions: Multimodal analgesia emphasis, higher opioid dosing with careful monitoring, non-opioid alternatives, enhanced addiction screening, personalized naltrexone dosing
+  prominent_models: Pharmacogenetic model of opioid response, altered endogenous opioid tone hypothesis, precision medicine framework
+- id: phy-gen-var-adh-reg
+  label: ADH1B Fast Metabolism
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - ADH1B*2 variant
+  - Protective alcohol metabolism
+  - Rapid ethanol oxidation
+  scope: ADH1B*2 variant causing 40-fold increased alcohol dehydrogenase activity, rapidly converting ethanol to acetaldehyde and creating aversive physiological responses that protect against alcohol use disorder.
+  parent_scope_inheritance: Specifies the protective state of ADH1B genetic variants where enhanced enzyme activity creates natural deterrence to excessive alcohol consumption.
+  polarity_expression: Regulated state manifests as hyperefficient ethanol metabolism producing rapid acetaldehyde accumulation with associated flushing, nausea, and tachycardia that discourage drinking.
+  cross_domain_resonance: Resonates with phy-met-det-reg (efficient detoxification), soc-cul-dri-coh (cultural drinking moderation), and psy-lea-ave-ada (aversion learning).
+  academic_description: ADH1B*2 (His48 variant) shows 40-fold higher Vmax than ADH1B*1, rapidly generating acetaldehyde. Protective effect strongest in East Asians (40-70% frequency) where it reduces alcoholism risk 5-10 fold. Creates blood acetaldehyde levels 5-10 times higher than wild-type. Protection maintained even in heterozygotes. Evolutionary selection in rice-cultivating populations exposed to fermented beverages.
+  clinical_description: Carriers experience immediate adverse reactions to alcohol including facial flushing, nausea, headache, and tachycardia. Strong protective factor but requires education that protection isn't absolute. Some individuals drink despite discomfort, risking acetaldehyde toxicity and increased cancer risk. Counsel on complete abstinence or strict moderation. Family members have 50% chance of inheriting protection.
+  lay_description: Having the fast ADH1B variant means your body converts alcohol to a toxic substance (acetaldehyde) extremely quickly, causing an immediate 'Asian flush' reaction with redness, nausea, and rapid heartbeat. This natural alarm system protects most carriers from developing alcoholism.
+  key_mediators: ADH1B enzyme, ethanol, acetaldehyde, NAD+/NADH ratio, histamine release
+  key_mechanisms: Hyperactive alcohol dehydrogenase, rapid acetaldehyde accumulation, histamine-mediated vasodilation, autonomic activation, conditioned aversion development
+  clinical_relevance: 5-10 fold reduced alcoholism risk, increased esophageal cancer risk if drinking continues, natural antabuse-like effect, strong prevention factor
+  assessment_methods: ADH1B genotyping, alcohol challenge test, acetaldehyde levels, flushing response assessment, family history of flushing
+  interventions: Abstinence education, harm reduction for social drinking, cancer risk counseling, alternative coping strategies, cultural sensitivity in treatment
+  prominent_models: Acetaldehyde accumulation model, evolutionary selection hypothesis, gene-culture coevolution theory
+- id: phy-gen-var-adh-dys
+  label: ADH1B Slow Metabolism
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - ADH1B*1 variant
+  - Risk alcohol metabolism
+  - Slow ethanol oxidation
+  scope: ADH1B*1 wild-type variant with normal alcohol dehydrogenase activity allowing comfortable alcohol consumption without immediate adverse effects, increasing risk for heavy drinking and alcohol use disorder.
+  parent_scope_inheritance: Specifies the risk state of ADH1B genetic variants where standard enzyme activity fails to create natural deterrence to alcohol consumption.
+  polarity_expression: Dysregulated state manifests as slower ethanol metabolism preventing acetaldehyde accumulation, enabling sustained drinking without immediate punishment.
+  cross_domain_resonance: Resonates with phy-met-det-dys (inefficient detoxification), soc-cul-dri-fra (problematic drinking patterns), and psy-rew-dru-mal (alcohol reward enhancement).
+  academic_description: ADH1B*1 (Arg48 variant) shows standard enzyme kinetics, metabolizing ethanol at 0.015-0.020 g/dL/hour. Without rapid acetaldehyde accumulation, individuals can consume large amounts without immediate adverse effects. Associated with 2-3 fold increased alcoholism risk in populations. Predominant variant in Europeans (90-95%) and Africans (85-90%), contributing to population differences in alcohol use disorders.
+  clinical_description: Individuals metabolize alcohol at standard rates without protective flushing response. Can develop high tolerance and consume dangerous amounts. Require proactive screening and prevention efforts. Standard alcoholism risk applies. May benefit from pharmacological deterrents like disulfiram to artificially create acetaldehyde accumulation. Family history becomes more important predictor of risk.
+  lay_description: Having the common ADH1B variant means your body processes alcohol at a normal speed without creating the immediate sick feeling that protects some people. This allows comfortable drinking but removes a natural brake that prevents alcoholism in others.
+  key_mediators: Standard ADH1B enzyme activity, gradual ethanol clearance, minimal acetaldehyde spike, maintained NAD+/NADH balance
+  key_mechanisms: Normal-rate alcohol dehydrogenase, gradual acetaldehyde production matched by clearance, absence of aversive conditioning, tolerance development enabled
+  clinical_relevance: Standard to elevated alcoholism risk, tolerance and dependence development possible, no natural deterrent, requires environmental and behavioral interventions
+  assessment_methods: ADH1B genotyping, alcohol elimination rate testing, tolerance assessment, AUDIT screening, family history evaluation
+  interventions: Early screening programs, brief interventions, motivational interviewing, consideration of disulfiram, naltrexone or acamprosate, psychosocial treatments
+  prominent_models: Standard alcohol metabolism model, tolerance development framework, biopsychosocial model of alcoholism
+- id: phy-gen-var-ald-reg
+  label: ALDH2 Deficient Protection
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: regulated
+  polarity_suffix: reg
+  synonyms:
+  - ALDH2*2 variant
+  - Acetaldehyde accumulation
+  - Flushing gene protection
+  scope: ALDH2*2 variant causing near-complete loss of aldehyde dehydrogenase activity, preventing acetaldehyde clearance and creating severe adverse reactions that strongly protect against alcoholism.
+  parent_scope_inheritance: Specifies the protective state of ALDH2 genetic variants where enzyme deficiency creates powerful natural deterrence through acetaldehyde toxicity.
+  polarity_expression: Regulated state manifests as deficient enzyme preventing acetaldehyde metabolism, causing severe flushing, nausea, and cardiovascular symptoms that make drinking highly aversive.
+  cross_domain_resonance: Resonates with phy-met-det-reg (protective metabolic variation), soc-cul-abs-coh (abstinence norms), and psy-lea-ave-ada (strong aversion learning).
+  academic_description: 'ALDH2*2 (Glu504Lys) causes 95% loss of enzyme activity in homozygotes, 60% reduction in heterozygotes. Acetaldehyde levels reach 20-30 times normal, causing severe flushing, tachycardia, hypotension, and nausea. Frequency: 30-40% in East Asians, rare elsewhere. Homozygotes have near-zero alcoholism rates; heterozygotes show 5-10 fold reduction. Strongest single-gene protection against alcoholism known.'
+  clinical_description: 'ALDH2*2 carriers experience severe reactions even to small alcohol amounts: intense facial flushing, nausea, headache, tachycardia, and hypotension. Homozygotes often completely abstain; heterozygotes may drink small amounts. Despite protection, some override symptoms, increasing cancer risk 10-fold. Educate about hidden alcohol in foods and medications. Consider genetic testing for family members.'
+  lay_description: Having the ALDH2*2 variant means your body can't break down a toxic substance (acetaldehyde) that forms when you drink alcohol. Even one drink causes intense flushing, nausea, and heart racing - your body's way of saying 'poison!' This protects most carriers from ever becoming alcoholic.
+  key_mediators: Deficient ALDH2 enzyme, massive acetaldehyde accumulation, histamine, prostaglandins, catecholamines
+  key_mechanisms: Near-absent aldehyde dehydrogenase activity, 20-30 fold acetaldehyde accumulation, histamine-mediated flushing, autonomic dysfunction, immediate punishment learning
+  clinical_relevance: Near-complete alcoholism protection in homozygotes, 5-10 fold reduction in heterozygotes, increased cancer risk if drinking continues, medication interactions
+  assessment_methods: ALDH2 genotyping, ethanol patch test, acetaldehyde breath test, flushing questionnaire, alcohol challenge (if ethical)
+  interventions: Abstinence counseling, hidden alcohol awareness, cancer prevention education, alternative social strategies, genetic counseling for families
+  prominent_models: Acetaldehyde toxicity model, disulfiram mechanism parallel, evolutionary protection hypothesis
+- id: phy-gen-var-ald-dys
+  label: ALDH2 Efficient Clearance
+  forest: Physiological
+  forest_id: phy
+  field: Genetic
+  field_id: phy-gen
+  cluster: Variant Function
+  cluster_id: phy-gen-var
+  polarity: dysregulated
+  polarity_suffix: dys
+  synonyms:
+  - ALDH2*1 variant
+  - Normal acetaldehyde metabolism
+  - Absence of flushing protection
+  scope: ALDH2*1 wild-type variant with fully functional aldehyde dehydrogenase efficiently clearing acetaldehyde, removing the natural protection against excessive alcohol consumption.
+  parent_scope_inheritance: Specifies the risk state of ALDH2 genetic variants where efficient enzyme activity eliminates the acetaldehyde barrier to heavy drinking.
+  polarity_expression: Dysregulated state manifests as rapid acetaldehyde clearance preventing accumulation and associated adverse effects, enabling sustained alcohol consumption.
+  cross_domain_resonance: Resonates with phy-met-det-dys (loss of protective barrier), soc-cul-dri-fra (heavy drinking enabled), and psy-tol-alc-mal (tolerance development).
+  academic_description: ALDH2*1 encodes fully functional mitochondrial aldehyde dehydrogenase with high catalytic efficiency (Km ~0.2 μM for acetaldehyde). Rapidly converts acetaldehyde to acetate, preventing accumulation and associated symptoms. Universal variant in Europeans and Africans, 60-70% in East Asians. Removes the strongest single-gene protection against alcoholism, requiring reliance on other genetic and environmental factors for risk assessment.
+  clinical_description: Individuals efficiently metabolize acetaldehyde without flushing or immediate adverse effects. Can consume large amounts of alcohol limited only by ethanol's direct effects. Standard population risk for alcohol use disorder applies. May benefit from disulfiram to artificially block ALDH2 and create deterrent. Screen using standard tools and consider family history, other genetic factors, and environmental risks.
+  lay_description: Having the common ALDH2 variant means your body efficiently clears the toxic acetaldehyde that forms from alcohol, so you don't get the immediate flushing and sickness that protects some people. While you can drink comfortably, you lack this natural safety mechanism against alcoholism.
+  key_mediators: Functional ALDH2 enzyme, rapid acetaldehyde clearance, acetate production, maintained mitochondrial function
+  key_mechanisms: Efficient mitochondrial aldehyde dehydrogenase, rapid acetaldehyde to acetate conversion, absence of toxic accumulation, normal NAD+ regeneration
+  clinical_relevance: Population-level alcoholism risk, no metabolic protection, tolerance development possible, standard intervention approaches needed
+  assessment_methods: ALDH2 genotyping, absence of flushing response, normal alcohol elimination, standard risk assessment tools
+  interventions: Universal prevention programs, screening and brief intervention, motivational enhancement therapy, pharmacotherapy options including disulfiram, comprehensive treatment programs
+  prominent_models: Standard alcohol metabolism pathway, absence of protection model, multifactorial risk assessment framework

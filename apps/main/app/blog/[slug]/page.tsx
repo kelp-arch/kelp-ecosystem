@@ -6,6 +6,7 @@ import { getAllPosts, getPostBySlug } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { MDXRemote } from 'next-mdx-remote/rsc'
+import { Suspense } from 'react'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -66,9 +67,11 @@ export default async function BlogPostPage(props: Props) {
               </div>
             </header>
 
-            <div className="prose prose-lg prose-gray mt-12 max-w-3xl">
-              <MDXRemote source={post.content} />
-            </div>
+            <Suspense fallback={<div>Loading...</div>}>
+              <div className="prose prose-lg prose-gray mt-12 max-w-3xl">
+                <MDXRemote source={post.content} />
+              </div>
+            </Suspense>
           </article>
         </Container>
         <Footer />

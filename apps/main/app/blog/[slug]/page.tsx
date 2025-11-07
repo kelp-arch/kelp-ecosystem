@@ -69,7 +69,8 @@ export default async function BlogPostPage(props: Props) {
 
             <Suspense fallback={<div>Loading...</div>}>
               <div className="prose prose-lg prose-gray mt-12 max-w-3xl">
-                <MDXRemote source={post.content} />
+                {/* <MDXRemote source={post.content} /> */}
+                <p>Test content - MDXRemote temporarily disabled</p>
               </div>
             </Suspense>
           </article>
